@@ -1,0 +1,2733 @@
+tconst,primaryTitle
+tt0061592,Doomsday Machine
+tt0062960,Fear Chamber
+tt0063132,Alien Terror
+tt0064177,Colossus: The Forbin Project
+tt0064465,Ice
+tt0064687,Assignment Terror
+tt0064711,Männer sind zum Lieben da
+tt0065235,"I Killed Einstein, Gentlemen"
+tt0065331,"You Are a Widow, Sir!"
+tt0065462,Beneath the Planet of the Apes
+tt0065470,Bigfoot
+tt0065591,Crimes of the Future
+tt0065691,Juan y Junior... en un mundo diferente
+tt0065760,Gas! -or- It Became Necessary to Destroy the World in Order to Save It.
+tt0065776,Space Amoeba
+tt0065801,The Big Mess
+tt0065851,The Horror of Frankenstein
+tt0065852,Horror of the Blood Monsters
+tt0066080,The Mind of Mr. Soames
+tt0066121,On the Comet
+tt0066154,No Blade of Grass
+tt0066268,When Women Had Tails
+tt0066276,La ragazza di latta
+tt0066379,Signale - Ein Weltraumabenteuer
+tt0066434,THX 1138
+tt0066442,Tayna zheleznoy dveri
+tt0066469,Toomorrow
+tt0066484,Transplant of a Brain
+tt0066492,Trog
+tt0066728,The Million Dollar Duck
+tt0066769,The Andromeda Strain
+tt0066908,Three Supermen in the Jungle
+tt0066921,A Clockwork Orange
+tt0066955,Creatures the World Forgot
+tt0067017,Dracula vs. Frankenstein
+tt0067065,Escape from the Planet of the Apes
+tt0067141,Glen and Randa
+tt0067163,A Big Grey-Blue Bird
+tt0067175,The Hand of Pleasure
+tt0067245,The Incredible 2-Headed Transplant
+tt0067400,Le martien de Noël
+tt0067470,N.P.
+tt0067515,Octaman
+tt0067525,The Omega Man
+tt0067575,Pierscien ksieznej Anny
+tt0067639,When Women Lost Their Tails
+tt0067669,The Resurrection of Zachary Wheeler
+tt0067716,Schlock
+tt0067756,Silent Running
+tt0067871,The Toy Box
+tt0068172,The Adult Version of Jekyll & Hide
+tt0068271,Beware! The Blob
+tt0068313,Brain of Blood
+tt0068317,Brother John
+tt0068408,Conquest of the Planet of the Apes
+tt0068424,The Creeping Flesh
+tt0068425,The Cremators
+tt0068498,Doomwatch
+tt0068502,Dr Jekyll & Sister Hyde
+tt0068542,Eolomea
+tt0068559,La maldición de Frankenstein
+tt0068595,Flesh Gordon
+tt0068615,Frogs
+tt0068621,Garden of the Dead
+tt0068677,The Mind Snatchers
+tt0068713,Horror Express
+tt0068748,The Mysterious Island
+tt0068849,Shirts Up Knickers Down
+tt0068911,The Man with Two Heads
+tt0069005,Night of the Lepus
+tt0069031,"Now You See Him, Now You Don't"
+tt0069147,Quem é Beta?
+tt0069262,Shirley Thompson Versus the Aliens
+tt0069280,Slaughterhouse-Five
+tt0069293,Solaris
+tt0069331,Superbeast
+tt0069372,The Thing with Two Heads
+tt0069426,The Twilight People
+tt0069530,Z.P.G.
+tt0069665,2069: A Sex Odyssey
+tt0069738,The Asphyx
+tt0069768,Battle for the Planet of the Apes
+tt0069795,Blackenstein
+tt0069811,The Body Shop
+tt0069895,The Crazies
+tt0069945,Dark Star
+tt0069946,The Day of the Dolphin
+tt0069957,Deep Throat Part II
+tt0069986,The Doll Squad
+tt0070126,Murder in a Blue World
+tt0070190,Horror Hospital
+tt0070222,Invasion of the Bee Girls
+tt0070233,Ivan Vasilyevich Changes His Profession
+tt0070289,The Final Programme
+tt0070398,El misterio del castillo rojo
+tt0070402,Dr. Iven's Silence
+tt0070423,The Freakmaker
+tt0070447,Submersion of Japan
+tt0070467,I Hate My Body
+tt0070508,The Swamp of the Ravens
+tt0070531,Phase IV
+tt0070544,Fantastic Planet
+tt0070622,Sssssss
+tt0070631,Santo vs. Doctor Death
+tt0070707,Sleeper
+tt0070723,Soylent Green
+tt0070754,Superman
+tt0070831,Three Supermen of the West
+tt0070909,Westworld
+tt0070926,Wonder Women
+tt0070948,Zardoz
+tt0071282,The Cars That Ate Paris
+tt0071285,La casa
+tt0071336,The Clones
+tt0071508,Flesh for Frankenstein
+tt0071519,Frankenstein and the Monster from Hell
+tt0071547,Vortex
+tt0071647,Idaho Transfer
+tt0071666,Invasion from Inner Earth
+tt0071667,Morel's Invention
+tt0071675,It's Alive
+tt0071684,Los jaguares contra el invasor misterioso
+tt0071756,Lifespan
+tt0071829,Memoria
+tt0071855,Moonchild
+tt0071923,Prophecies of Nostradamus
+tt0072071,Creation of the Damned
+tt0072195,Space Is the Place
+tt0072267,The Terminal Man
+tt0072377,Viu-hah hah-taja
+tt0072405,Who?
+tt0072463,Abenteuer mit Blasius
+tt0072591,Le futur aux trousses
+tt0072666,Zaat
+tt0072690,Begstvo mistera Mak-Kinli
+tt0072716,Flowers for the Man in the Moon
+tt0072724,The Liberation of Cherry Janowski
+tt0072730,A Boy and His Dog
+tt0072750,Bug
+tt0072819,The Sex Machine
+tt0072856,Death Race 2000
+tt0072927,Elixirul tineretii
+tt0072946,The Erotic Adventures of Robinson Crusoe
+tt0072970,Comedie fantastica
+tt0073043,The Giant Spider Invasion
+tt0073137,Hyperion
+tt0073168,Infra-Man
+tt0073266,Largo retorno
+tt0073393,The Milpitas Monster
+tt0073401,Monismanien 1995
+tt0073550,The People Who Own the Dark
+tt0073554,The Police Are Blundering in the Dark
+tt0073604,Rana: The Legend of Shadow Lake
+tt0073631,Rollerball
+tt0073688,The Girl from Starship Venus
+tt0073705,Shivers
+tt0073747,The Stepford Wives
+tt0073760,The Strongest Man in the World
+tt0073835,The Ultimate Warrior
+tt0074157,At the Earth's Core
+tt0074354,How About a Plate of Spinach?
+tt0074380,Deadly Harvest
+tt0074430,Dr. Black and Mr. Hyde
+tt0074475,Embryo
+tt0074540,The Food of the Gods
+tt0074559,Futureworld
+tt0074637,The Man of Ganimedes
+tt0074671,Im Staub der Sterne
+tt0074701,The Rat Savior
+tt0074812,Logan's Run
+tt0074851,The Man Who Fell to Earth
+tt0075035,Panic
+tt0075251,Spermula
+tt0075282,Summer of Secrets
+tt0075343,Track of the Moon Beast
+tt0075389,Where Time Began
+tt0075620,The Bees
+tt0075656,The Alien Factor
+tt0075657,Aliens from Spaceship Earth
+tt0075662,The Alpha Incident
+tt0075781,The Brain Machine
+tt0075792,Buck Rogers
+tt0075850,Cinderella 2000
+tt0075860,Close Encounters of the Third Kind
+tt0075881,Battle of the Stars
+tt0075909,Damnation Alley
+tt0075913,Day of the Animals
+tt0075931,Demon Seed
+tt0075945,A Distant Thunder
+tt0075989,Empire of the Ants
+tt0075990,End of the World
+tt0076002,Spectrum (Beyond the World's End)
+tt0076191,The Incredible Melting Man
+tt0076271,Kingdom of the Spiders
+tt0076294,The Last Dinosaur
+tt0076426,Music of the Spheres
+tt0076535,The People That Time Forgot
+tt0076590,Rabid
+tt0076704,Shock Waves
+tt0076760,Starship Invasions
+tt0076881,Terror of Frankenstein
+tt0076902,The War in Space
+tt0076909,Welcome to Blood City
+tt0077195,The Year of the Plague
+tt0077215,Battlestar Galactica
+tt0077224,The Bermuda Triangle
+tt0077269,The Boys from Brazil
+tt0077278,Buck Rogers in the 25th Century
+tt0077281,Blue Christmas
+tt0077305,The Cat from Outer Space
+tt0077408,Death Dimension
+tt0077414,Deathsport
+tt0077479,Dynamite Johnson
+tt0077514,Az eröd
+tt0077588,The Fury
+tt0077640,The War of the Robots
+tt0077745,Invasion of the Body Snatchers
+tt0077756,It Lives Again
+tt0077800,Killer Fish
+tt0077834,Laserblast
+tt0077877,The Lucifer Complex
+tt0077904,The Manitou
+tt0077921,The Medusa Touch
+tt0077937,Mission Galactica: The Cylon Attack
+tt0078062,The Clonus Horror
+tt0078067,Patrick
+tt0078087,Piranha
+tt0078088,Plague
+tt0078089,Planet of Dinosaurs
+tt0078200,Sammy's Super T-Shirt
+tt0078277,Spawn of the Slithis
+tt0078317,Star Odyssey
+tt0078346,Superman
+tt0078357,The Secret of Steel City
+tt0078370,TeenAlien
+tt0078417,The Bermuda Triangle
+tt0078435,Message from Space
+tt0078460,Very Close Encounters of the Fourth Kind
+tt0078474,Warlords of the Deep
+tt0078487,Where's Willie?
+tt0078530,Zoo zéro
+tt0078549,See Here My Love
+tt0078748,Alien
+tt0078749,Alien 2: On Earth
+tt0078869,The Black Hole
+tt0078908,The Brood
+tt0078924,C.H.O.M.P.S.
+tt0078948,Dark Sun
+tt0079027,The Dark
+tt0079030,The Day It Came to Earth
+tt0079200,Le gendarme et les extra-terrestres
+tt0079225,Goldengirl
+tt0079264,Die Hamburger Krankheit
+tt0079285,Saturn 3
+tt0079501,Mad Max
+tt0079549,Metal Messiah
+tt0079550,Meteor
+tt0079573,Monstroid
+tt0079574,Moonraker
+tt0079714,Phantasm
+tt0079715,The Phoenix
+tt0079758,Prophecy
+tt0079770,Quintet
+tt0079777,Ravagers
+tt0079894,The Shape of Things to Come
+tt0079937,Spaced Out
+tt0079944,Stalker
+tt0079945,Star Trek: The Motion Picture
+tt0079946,Starcrash
+tt0080010,Pilot Pirx's Inquest
+tt0080025,Time After Time
+tt0080058,The Humanoid
+tt0080095,I viaggiatori della sera
+tt0080100,The Visitor
+tt0080121,Warum die UFOs unseren Salat klauen
+tt0080346,The Alien Dead
+tt0080354,Alligator
+tt0080360,Altered States
+tt0080380,The Apple
+tt0080421,Battle Beyond the Stars
+tt0080513,The Chain Reaction
+tt0080520,Cheech and Chong's Next Movie
+tt0080527,The Children
+tt0080596,The Day Time Ended
+tt0080715,The Falls
+tt0080736,The Final Countdown
+tt0080745,Flash Gordon
+tt0080771,Galaxina
+tt0080806,Golem
+tt0080836,Hangar 18
+tt0080904,Humanoids from the Deep
+tt0080915,Image of the Beast
+tt0080931,Nightmare City
+tt0080933,Island Claws
+tt0080962,Deathquake
+tt0081019,Crazy Thunder Road
+tt0081182,Death Watch
+tt0081203,Murder by Phone
+tt0081220,Neco je ve vzduchu
+tt0081314,Patrick Still Lives
+tt0081421,The Return
+tt0081455,Scanners
+tt0081457,Scared to Death
+tt0081518,Simon
+tt0081572,The Six Thousand Dollar Nigger
+tt0081573,Superman II
+tt0081674,UFOria
+tt0081675,"Gamera, Super Monster"
+tt0081764,Without Warning
+tt0081806,Zhong shen da shi
+tt0081989,The Agency
+tt0082000,Contamination
+tt0082083,Blood Beach
+tt0082094,The Boogens
+tt0082223,Sensitive Spots
+tt0082243,Strange Behavior
+tt0082272,The Strange Case of Dr. Jekyll and Miss Osbourne
+tt0082308,Earthbound
+tt0082340,Escape from New York
+tt0082381,Firebird 2015 AD
+tt0082410,Frankenstein Island
+tt0082466,Visitors from the Arkana Galaxy
+tt0082507,Heartbeeps
+tt0082558,The Incredible Shrinking Woman
+tt0082559,Hell of the Living Dead
+tt0082567,Io e Caterina
+tt0082642,The Last Chase
+tt0082668,Lo que vendrá
+tt0082677,Looker
+tt0082694,The Road Warrior
+tt0082701,Malevil
+tt0082733,Memoirs of a Survivor
+tt0082763,Modern Problems
+tt0082788,México 2000
+tt0082815,Night of the Zombies
+tt0082869,Outland
+tt0082910,Piranha II: The Spawning
+tt0083050,I Want To
+tt0083109,The Cabbage Soup
+tt0083197,Threshold
+tt0083335,The War of the Worlds: Next Century
+tt0083526,The Aftermath
+tt0083530,Airplane II: The Sequel
+tt0083557,Android
+tt0083565,2020 Texas Gladiators
+tt0083609,Burst City
+tt0083658,Blade Runner
+tt0083690,BrainWaves
+tt0083694,Britannia Hospital
+tt0083801,Deadly Eyes
+tt0083866,E.T. the Extra-Terrestrial
+tt0083959,Forbidden World
+tt0084056,Health Warning
+tt0084090,Horrorplanet
+tt0084099,Human Highway
+tt0084171,Jekyll and Hyde... Together Again
+tt0084191,Kamikaze 89
+tt0084315,The Masters of Time
+tt0084316,Megaforce
+tt0084424,Warriors of the Wasteland
+tt0084468,Paradis pour tous
+tt0084472,Parasite
+tt0084540,The Prize of Peril
+tt0084658,The Sender
+tt0084679,Si las mujeres mandaran (o mandasen)
+tt0084721,Srdecný pozdrav ze zemekoule
+tt0084726,Star Trek II: The Wrath of Khan
+tt0084745,Swamp Thing
+tt0084787,The Thing
+tt0084796,Time Walker
+tt0084827,TRON
+tt0084876,Voyager from the Unknown
+tt0084887,Battletruck
+tt0084945,Zapped!
+tt0085124,1990: The Bronx Warriors
+tt0085125,2019: After the Fall of New York
+tt0085167,Angel of H.E.A.T.
+tt0085224,The Being
+tt0085267,Born in Flames
+tt0085271,Brainstorm
+tt0085392,"It's All Right, My Friend"
+tt0085407,The Dead Zone
+tt0085426,The Last Battle
+tt0085453,Tomorrow We Dance
+tt0085468,El E.T.E. y el Oto
+tt0085472,Echtzeit
+tt0085504,The Erotic and Wacky Tunnel of Time
+tt0085514,The Exterminators of the Year 3000
+tt0085540,The Final Executioner
+tt0085627,I guerrieri dell'anno 2072
+tt0085636,Halloween III: Season of the Witch
+tt0085830,Legend of Dinosaurs and Monster Birds
+tt0085852,Liquid Sky
+tt0085894,The Man with Two Brains
+tt0086013,Nightbeast
+tt0086014,Nightmares
+tt0086077,Pankow '95
+tt0086135,Atlantis Interceptors
+tt0086145,The Prodigal Planet
+tt0086176,Rats: Night of Terror
+tt0086222,Rush
+tt0086247,Bye Bye Jupiter
+tt0086345,Space Raiders
+tt0086346,Spacehunter: Adventures in the Forbidden Zone
+tt0086349,Spasms
+tt0086373,Strange Brew
+tt0086374,Strange Invaders
+tt0086381,Stryker
+tt0086409,Taking Tiger Mountain
+tt0086429,Testament
+tt0086443,Timerider: The Adventure of Lyle Swann
+tt0086456,The Little Girl Who Conquered Time
+tt0086491,Twilight Zone: The Movie
+tt0086516,Unikum
+tt0086541,Videodrome
+tt0086567,WarGames
+tt0086571,Wavelength
+tt0086609,Twinkle Twinkle Little Star
+tt0086610,Xtro
+tt0086837,2010: The Year We Make Contact
+tt0086856,The Adventures of Buckaroo Banzai Across the 8th Dimension
+tt0086872,Prey
+tt0086911,The Noah's Ark Principle
+tt0086967,Biohazard
+tt0086978,Blind Date
+tt0086980,Blood Suckers from Outer Space
+tt0087004,The Brother from Another Planet
+tt0087015,C.H.U.D.
+tt0087043,The Invisible Man
+tt0087129,Decoder
+tt0087130,DEFCON-4
+tt0087182,Dune
+tt0087240,Las fantasías de Cuny
+tt0087262,Firestarter
+tt0087290,Frankenstein's Great Aunt Tillie
+tt0087303,A Man Called Rage
+tt0087308,Future Schlock
+tt0087344,Godzilla 1985
+tt0087452,Iceman
+tt0087464,Impulse
+tt0087476,Interface
+tt0087479,The Astral Factor
+tt0087544,Nausicaä of the Valley of the Wind
+tt0087552,The Killing Edge
+tt0087597,The Last Starfighter
+tt0087622,The Lift
+tt0087628,Listen to the City
+tt0087788,The Next One
+tt0087796,Mutant
+tt0087799,Night of the Comet
+tt0087803,1984
+tt0087945,Star Slammer
+tt0087998,The Deadly Spawn
+tt0088024,Runaway
+tt0088028,Lensman
+tt0088083,Sexmission
+tt0088134,Slapstick of Another Kind
+tt0088170,Star Trek III: The Search for Spock
+tt0088172,Starman
+tt0088187,Strangers in Paradise
+tt0088214,Synteza
+tt0088247,The Terminator
+tt0088269,I Love Maria
+tt0088380,Warrior of the Lost World
+tt0088393,Wheels of Fire
+tt0088447,Zaveshchaniye professora Douelya
+tt0088695,Alien Warrior
+tt0088751,The Naked Monster
+tt0088760,Baby: Secret of the Lost Legend
+tt0088763,Back to the Future
+tt0088824,Blood Circus
+tt0088846,Brazil
+tt0088870,Star Knight
+tt0088925,City Limits
+tt0088933,Cocoon
+tt0088940,Light Blast
+tt0088942,The Comic
+tt0088955,The Cosmic Eye
+tt0088960,Creator
+tt0088961,Creature
+tt0088979,D.A.R.Y.L.
+tt0089002,Death Warmed Up
+tt0089024,Diesel
+tt0089060,The Dungeonmaster
+tt0089091,Endgame - Bronx lotta finale
+tt0089104,Escape from the Bronx
+tt0089109,Evils of the Night
+tt0089280,Hobgoblins
+tt0089493,Pretty Women Walking Through the City
+tt0089530,Mad Max Beyond Thunderdome
+tt0089618,Lunnaya raduga
+tt0089622,Morons from Outer Space
+tt0089714,"O-Bi, O-Ba: The End of Civilization"
+tt0089745,Osa
+tt0089869,The Quiet Earth
+tt0089885,Re-Animator
+tt0089886,Real Genius
+tt0089907,The Return of the Living Dead
+tt0089912,The Revenge of the Teenage Vixens from Outer Space
+tt0089930,Roller Blade
+tt0090003,Shadey
+tt0090054,Space Rage
+tt0090068,Lorca and the Outlaws
+tt0090086,The Strange Case of Dr. Jekyll and Mr. Hyde
+tt0090094,The Stuff
+tt0090149,Terror in the Swamp
+tt0090169,Thunder Run
+tt0090192,Trancers
+tt0090193,Slices of Life
+tt0090201,Süpermenler
+tt0090233,Underworld
+tt0090266,A Virus Knows No Morals
+tt0090293,Warning Sign
+tt0090296,Warriors of the Apocalypse
+tt0090302,The Legend of Wisely
+tt0090305,Weird Science
+tt0090605,Aliens
+tt0090630,America 3000
+tt0090675,The Aurora Encounter
+tt0090714,Besuch bei Van Gogh
+tt0090729,Biggles: Adventures in Time
+tt0090771,Breeders
+tt0090836,Choke Canyon
+tt0090837,Chopping Mall
+tt0090847,City of Shadows
+tt0090849,Class of Nuke 'Em High
+tt0090887,Critters
+tt0090917,Deadly Friend
+tt0090968,Dr. Otto and the Riddle of the Gloom Beam
+tt0091012,Equalizer 2000
+tt0091064,The Fly
+tt0091083,From Beyond
+tt0091096,Ga-ga: Glory to the Heroes
+tt0091110,Ghost Warrior
+tt0091154,Gröna gubbar från Y.R.
+tt0091166,Hands of Steel
+tt0091214,Man Facing Southeast
+tt0091238,Hyper Sapien: People from Another Star
+tt0091276,Invaders from Mars
+tt0091322,Kamikaze
+tt0091341,Kin-dza-dza!
+tt0091343,The Kindred
+tt0091405,Liang gong po ba tiao xin
+tt0091464,Malcolm
+tt0091472,The Manhattan Project
+tt0091544,Monster in the Closet
+tt0091630,Night of the Creeps
+tt0091631,Nightmare Weekend
+tt0091687,Operation Dead End
+tt0091759,Dead Man's Letters
+tt0091853,The American Way
+tt0091949,Short Circuit
+tt0091964,Sky Pirates
+tt0091993,SpaceCamp
+tt0092006,Star Crystal
+tt0092030,The Supernaturals
+tt0092070,Terminus
+tt0092074,TerrorVision
+tt0092138,L'unique
+tt0092155,The Great Movie Robbery
+tt0092172,The Vindicator
+tt0092178,El vivo retrato
+tt0092224,Wired to Kill
+tt0092246,Xaver
+tt0092248,Siu sang mung ging wan
+tt0092298,Zone Troopers
+tt0092530,Alien Predator
+tt0092531,Alien Private Eye
+tt0092532,Alien from L.A.
+tt0092546,Amazon Women on the Moon
+tt0092610,Bad Taste
+tt0092648,Beyond the Rising Moon
+tt0092676,Bloody New Year
+tt0092795,Creepozoids
+tt0092809,The Curse
+tt0092812,Cyclone
+tt0092841,Dead Man Walking
+tt0092863,Deep Space
+tt0092961,The Emissaries of Khalom
+tt0092992,Evil Spawn
+tt0093050,Friendship's Death
+tt0093171,Hell Comes to Frogtown
+tt0093185,The Hidden
+tt0093207,Wings of Honneamise
+tt0093268,Interzone
+tt0093272,Invasion Earth: The Aliens Are Here
+tt0093286,It's Alive III: Island of the Alive
+tt0093349,King Lear
+tt0093405,Leonard Part 6
+tt0093446,Distant Lights
+tt0093477,Making Mr. Right
+tt0093533,Miami Golem
+tt0093617,Nice Girls Don't Explode
+tt0093626,Nightflyers
+tt0093663,The Occultist
+tt0093731,Phoenix the Warrior
+tt0093741,The Pink Chiquitas
+tt0093790,Programmed to Kill
+tt0093791,Morning Patrol
+tt0093793,Project X
+tt0093828,Real Men
+tt0093843,Remote Control
+tt0093847,Never Travel on a One Way Ticket
+tt0093870,RoboCop
+tt0093872,Robot Holocaust
+tt0093894,The Running Man
+tt0093937,The Secret of the Incas' Empire
+tt0094012,Spaceballs
+tt0094033,Steel Dawn
+tt0094050,Stranded
+tt0094074,Superman IV: The Quest for Peace
+tt0094080,The Survivalist
+tt0094152,The Time Guardian
+tt0094160,Shuto shôshitsu
+tt0094187,The Trouble with Dick
+tt0094223,Der Unsichtbare
+tt0094274,The Visitants
+tt0094371,Mirror for a Hero
+tt0094373,Zhao hua xi shi
+tt0094388,The Final Test
+tt0094607,Accidents
+tt0094631,Alien Nation
+tt0094632,Transformations
+tt0094655,Andy Colby's Incredible Adventure
+tt0094680,As Time Goes by
+tt0094684,The Spirit
+tt0094761,The Blob
+tt0094764,The Blood of Heroes
+tt0094794,The Brain
+tt0094919,Critters 2: The Main Course
+tt0094931,Cy Warrior
+tt0094998,Demonwarp
+tt0095002,Desert Warrior
+tt0095040,Days of Eclipse
+tt0095043,Doctor Hackenstein
+tt0095047,Doin' Time on Planet Earth
+tt0095060,Dr. Alien
+tt0095098,Incident at Raven's Gate
+tt0095173,Frankenstein General Hospital
+tt0095194,Galactic Gigolo
+tt0095381,The Invisible Kid
+tt0095444,Killer Klowns from Outer Space
+tt0095456,Curse of Snakes Valley
+tt0095503,The Lawless Land
+tt0095608,Meet the Hollowheads
+tt0095630,Midnight Movie Massacre
+tt0095643,Cyber Ninja
+tt0095652,Monkey Shines
+tt0095687,My Stepmother Is an Alien
+tt0095719,The Nest
+tt0095734,Night Wars
+tt0095738,Nightfall
+tt0095752,Norman's Awesome Experience
+tt0095756,Not of This Earth
+tt0095834,Obsession: A Taste for Fear
+tt0095924,Pulse
+tt0095930,Purple People Eater
+tt0095971,The Rejuvenator
+tt0095989,Return of the Killer Tomatoes!
+tt0095990,Return of the Living Dead II
+tt0096114,The Sisterhood
+tt0096202,Sweetwater
+tt0096246,The Terror Within
+tt0096251,Tetsuo: The Iron Man
+tt0096256,They Live
+tt0096287,Top Line
+tt0096308,Trinadtsatyy apostol
+tt0096353,Urusei Yatsura 5: The Final Chapter
+tt0096402,Voyage of the Rock Aliens
+tt0096419,Warlords
+tt0096425,Watchers
+tt0096465,World Gone Wild
+tt0096511,Zombie 3
+tt0096514,Lovable Zanies II
+tt0096784,Alien Seed
+tt0096785,Alien from the Deep
+tt0096786,Alienator
+tt0096863,My Twentieth Century
+tt0096874,Back to the Future Part II
+tt0096921,Beyond the Stars
+tt0096962,The Wiz Kid
+tt0096994,Bunker palace hôtel
+tt0097001,C.H.U.D. II: Bud the Chud
+tt0097007,The Caller
+tt0097138,Cyborg
+tt0097153,Dans le ventre du dragon
+tt0097168,Deadly Reactor
+tt0097171,Deadly Weapon
+tt0097176,Deceit
+tt0097179,DeepStar Six
+tt0097228,Dr. Caligari
+tt0097292,Hard to Be a God
+tt0097293,Escape from Safehaven
+tt0097365,Flesh Gordon Meets the Cosmic Cheerleaders
+tt0097368,The Fly II
+tt0097371,Food of the Gods II
+tt0097404,Future Hunters
+tt0097410,Gunhed
+tt0097444,Godzilla vs. Biollante
+tt0097630,Journey to the Center of the Earth
+tt0097726,Legion of Iron
+tt0097768,Lobster Man from Mars
+tt0097781,Lords of the Deep
+tt0097846,Masseba
+tt0097874,Metamorphosis
+tt0097875,Meteo
+tt0097883,Millennium
+tt0097905,Monster High
+tt0097910,Moon 44
+tt0097911,Moontrap
+tt0097934,Mutant on the Bounty
+tt0097982,Nightwish
+tt0097986,Moon Child
+tt0098048,Gor II
+tt0098077,Peraustrínia 2004
+tt0098104,Pokhishcheniye charodeya
+tt0098107,Portion d'éternité
+tt0098127,Princess Warrior
+tt0098156,R.O.T.O.R.
+tt0098211,Cyber-C.H.I.C.
+tt0098216,Roller Blade Warriors: Taken by Force
+tt0098276,Second Sight
+tt0098350,Slipstream
+tt0098362,Sons of Steel
+tt0098373,"Spirits of the Air, Gremlins of the Clouds"
+tt0098374,Split
+tt0098375,Spontaneous Combustion
+tt0098480,Time Trackers
+tt0098488,Tom et Lola
+tt0098531,Treasure of the Bitch Islands
+tt0098546,UHF
+tt0098981,Der achte Tag
+tt0098996,Aftershock
+tt0098998,The Age of Insects
+tt0099059,The Arrival
+tt0099088,Back to the Future Part III
+tt0099173,Brain Dead
+tt0099180,Bride of Re-Animator
+tt0099239,The Carpathian Mushroom
+tt0099271,Circuitry Man
+tt0099277,Class of 1999
+tt0099365,Darkman
+tt0099461,Dragonfight
+tt0099463,Dream Trap
+tt0099474,Dune Warriors
+tt0099554,Fatal Sky
+tt0099577,Firehead
+tt0099582,Flatliners
+tt0099611,Frankenhooker
+tt0099612,Frankenstein Unbound
+tt0099621,Flight from Paradise
+tt0099624,Future Force
+tt0099731,The Handmaid's Tale
+tt0099740,Hardware
+tt0099856,The Invisible Maniac
+tt0099860,Iskushenie B.
+tt0099912,Mr. Sunshine
+tt0100106,The Man Who Wanted to Be Guilty
+tt0100116,Martians Go Home
+tt0100130,Megaville
+tt0100152,Mindwarp
+tt0100261,Nightmare at Noon
+tt0100291,Omega Cop
+tt0100343,Peacemaker
+tt0100403,Predator 2
+tt0100464,Rising Storm
+tt0100466,Red Blooded American Girl
+tt0100502,RoboCop 2
+tt0100586,Shadowzone
+tt0100589,Shakma
+tt0100649,Solar Crisis
+tt0100666,Spaced Invaders
+tt0100670,The Spirit of '76
+tt0100688,Steel and Lace
+tt0100705,Street Asylum
+tt0100728,Syngenor
+tt0100763,Terminal City Ricochet
+tt0100765,The Terror Within II
+tt0100788,Time Barbarians
+tt0100802,Total Recall
+tt0100904,Watchers II
+tt0100978,Possessed II
+tt0101263,"Abdulladzhan, ili posvyashchaetsya Stivenu Spilbergu"
+tt0101264,"Abraxas, Guardian of the Universe"
+tt0101296,Alien Space Avenger
+tt0101309,Alligator II: The Mutation
+tt0101366,Arena
+tt0101368,Severed Ties
+tt0101458,Until the End of the World
+tt0101489,Blue Tornado
+tt0101492,Body Parts
+tt0101502,The Borrower
+tt0101591,Class of Nuke 'Em High Part II: Subhumanoid Meltdown
+tt0101627,Critters 3
+tt0101628,Critters 4
+tt0101675,Dead Space
+tt0101791,Daedalus
+tt0101828,Eternal Fist
+tt0101831,Eve of Destruction
+tt0101876,The Final Sanction
+tt0101931,Future Kick
+tt0102181,Kafka
+tt0102187,Karate Cop
+tt0102272,The Last Island
+tt0102279,Late for Dinner
+tt0102420,Maxim Xul
+tt0102489,Mutator
+tt0102542,No raifu kingu
+tt0102569,A Nymphoid Barbarian in Dinosaur Hell
+tt0102576,Ocharovatelnye prisheltsy
+tt0102688,Poltergeyst-90
+tt0102709,Primal Rage
+tt0102800,Robot Jox
+tt0102804,The Roller Blade Seven
+tt0102848,Scanners II: The New Order
+tt0102975,Star Trek VI: The Undiscovered Country
+tt0103003,Suburban Commando
+tt0103064,Terminator 2: Judgment Day
+tt0103116,Trancers II
+tt0103120,The Third Planet
+tt0103157,The Unborn
+tt0103178,Urusei Yatsura 6: Always My Darling
+tt0103192,Vegas in Space
+tt0103336,Zombie '90: Extreme Pestilence
+tt0103644,Alien³
+tt0103923,Captain America
+tt0104055,Dark Vengeance
+tt0104092,Detonator
+tt0104106,What's Up?
+tt0104186,Enak
+tt0104291,Forever Young
+tt0104299,Freejack
+tt0104362,Grand Tour: Disaster in Time
+tt0104516,Interceptor
+tt0104525,Invader
+tt0104540,Cyber Eden
+tt0104692,The Lawnmower Man
+tt0104735,Liquid Dreams
+tt0104759,The Lost World
+tt0104850,Memoirs of an Invisible Man
+tt0104981,Neon City
+tt0104989,New! Improved! Real-life American Fairy Tale
+tt0105163,Predchuvstviye
+tt0105183,Prototype
+tt0105213,Raiders of the Sun
+tt0105215,Rain Without Thunder
+tt0105249,Return to the Lost World
+tt0105322,Scanners III: The Takeover
+tt0105347,Seedpeople
+tt0105497,Supernova
+tt0105569,Tetsuo II: Body Hammer
+tt0105597,Timebomb
+tt0105680,Ultra Warrior
+tt0105698,Universal Soldier
+tt0105791,"Wax, or the Discovery of Television Among the Bees"
+tt0105796,The Cat
+tt0106215,Mutant Action
+tt0106366,Beach Babes from Beyond
+tt0106440,Blue Flame
+tt0106450,Body Melt
+tt0106452,Body Snatchers
+tt0106478,Breakfast of Aliens
+tt0106521,Carnosaur
+tt0106545,Future Cops
+tt0106563,Chronos 5.0
+tt0106598,Coneheads
+tt0106620,The Crawlers
+tt0106697,Demolition Man
+tt0106768,Dragon Fire
+tt0106915,Firepower
+tt0106950,Fortress
+tt0106970,Frogtown II
+tt0106983,Future Shock
+tt0106998,The Genius
+tt0107009,Ghost in the Machine
+tt0107070,Halbe Welt
+tt0107290,Jurassic Park
+tt0107333,Knights
+tt0107504,Man's Best Friend
+tt0107505,Mandroid
+tt0107561,Metamorphosis: The Alien Factor
+tt0107587,Mod Fuck Explosion
+tt0107597,Monolith
+tt0107644,Möbius
+tt0107660,Navigators of the Space
+tt0107668,Nemesis
+tt0107715,Nukie
+tt0107819,Philadelphia Experiment II
+tt0107954,Return of the Roller Blade Seven
+tt0107978,RoboCop 3
+tt0107979,Robot Wars
+tt0107995,Frozen Heart
+tt0108069,The Secret Adventures of Tom Thumb
+tt0108091,Sex and the Single Alien
+tt0108154,Skeeter
+tt0108228,Strange Horizons
+tt0108236,Strelyayushchiye angely
+tt0108277,TC 2000
+tt0108339,Ticks
+tt0108342,Time Runner
+tt0108606,Heroic Trio 2: Executioners
+tt0109057,Ai City
+tt0109098,American Cyborg: Steel Warrior
+tt0109114,Anchor Zone
+tt0109144,A.P.E.X.
+tt0109178,Automatic
+tt0109327,Brainscan
+tt0109442,Class of 1999 II: The Substitute
+tt0109515,Cyber Tracker
+tt0109516,Cyberteens in Love
+tt0109517,Cyborg Cop
+tt0109518,Cyborg Cop II
+tt0109545,Dark Future
+tt0109551,The Dark
+tt0109575,Death Machine
+tt0109838,Freaked
+tt0109843,Fresh Kill
+tt0109916,Godzilla vs. SpaceGodzilla
+tt0109965,Guyver: Dark Hero
+tt0110022,The Hidden II
+tt0110024,The High Crusade
+tt0110153,Invisible: The Chronicles of Benjamin Knight
+tt0110215,Jungleground
+tt0110216,Junior
+tt0110247,Kawao tee Bangpleng
+tt0110425,La machine
+tt0110651,New Crime City
+tt0110678,No Escape
+tt0110818,Pet Shop
+tt0110843,Plan 10 from Outer Space
+tt0110851,Plughead Rewired: Circuitry Man II
+tt0110901,Project Shadowchaser II
+tt0110960,Regenerated Man
+tt0110972,Replikator
+tt0111003,The Puppet Masters
+tt0111282,Stargate
+tt0111345,T-Force
+tt0111361,Tammy and the T-Rex
+tt0111438,Timecop
+tt0111534,U.F.O.
+tt0111547,The Unborn II
+tt0111672,Watchers III
+tt0111681,Welcome II the Terrordome
+tt0111822,Zeiram 2
+tt0112318,Alien Escape
+tt0112320,Alien Terminator
+tt0112407,Atolladero
+tt0112466,Beach Babes 2: Cave Girl Island
+tt0112500,Big Sister 2000
+tt0112519,Black Scorpion
+tt0112596,Buljong
+tt0112613,Caged Heat 3000
+tt0112634,Carnosaur 2
+tt0112682,The City of Lost Children
+tt0112711,Concert for a Rat
+tt0112761,Cyber Bandits
+tt0112763,Cyberjack
+tt0112764,Cyber Vengeance
+tt0112766,Cyborg Cop III
+tt0112843,The Demolitionist
+tt0112867,Digital Man
+tt0112895,Dr. Jekyll and Ms. Hyde
+tt0112905,The Drivetime
+tt0112906,Droid Gunner
+tt0112942,Electra
+tt0112974,Alien Visitor
+tt0112993,Evolver
+tt0112998,Expect No Mercy
+tt0113030,Body Switch
+tt0113065,Final Equinox
+tt0113067,Firestorm
+tt0113074,Fist of the North Star
+tt0113140,Galaxis
+tt0113187,Godzilla vs. Destoroyah
+tt0113278,Heatseeker
+tt0113481,Johnny Mnemonic
+tt0113492,Judge Dredd
+tt0113632,Legion of the Night
+tt0113662,Lipton Cockton in the Shadows of Sodoma
+tt0113719,Lunarcop
+tt0113799,Memories
+tt0113834,August in the Water
+tt0113858,Mosquito
+tt0113881,Mutant Species
+tt0113926,Naked Souls
+tt0113980,Night Head
+tt0113982,Night of the Scarecrow
+tt0114003,Not Like Us
+tt0114004,Not of This Earth
+tt0114070,Mind Ripper
+tt0114125,Phoenix
+tt0114193,Project: Metalbeast
+tt0114196,Proteus
+tt0114279,Richard III
+tt0114339,Savage
+tt0114367,Screamers
+tt0114508,Species
+tt0114533,Terminal Voyage
+tt0114558,Strange Days
+tt0114572,Die Sturzflieger
+tt0114614,Tank Girl
+tt0114648,Terminal Justice
+tt0114676,Timemaster
+tt0114746,12 Monkeys
+tt0114749,Twilight of the Dogs
+tt0114824,Vampire Vixens from Venus
+tt0114852,Village of the Damned
+tt0114857,Virtuosity
+tt0114898,Waterworld
+tt0115006,Xtro 3: Watch the Skies
+tt0115446,A spasso nel tempo
+tt0115471,Adrenalin: Fear the Rush
+tt0115500,Alien Abduction: Intimate Secrets
+tt0115506,Alien Species
+tt0115507,Alien Vows
+tt0115571,The Arrival
+tt0115624,Barb Wire
+tt0115650,The Green Planet
+tt0115727,Bombshell
+tt0115775,Bugged
+tt0115834,Carnosaur 3: Primal Species
+tt0115857,Chain Reaction
+tt0115919,The Cockroach That Ate Cincinnati
+tt0115985,Crossworlds
+tt0116026,Dark Breed
+tt0116030,Dark Planet
+tt0116032,Darkdrive
+tt0116142,Dream Master: The Erotic Invader
+tt0116225,Escape from L.A.
+tt0116294,Femalien
+tt0116390,Gamera 2: Attack of the Legion
+tt0116486,Harald
+tt0116514,Hellraiser: Bloodline
+tt0116584,Hungry for You
+tt0116590,Hysteria
+tt0116629,Independence Day
+tt0116646,Lifeform
+tt0116654,The Island of Dr. Moreau
+tt0116770,Killer Tongue
+tt0116839,Lawnmower Man 2: Beyond Cyberspace
+tt0116943,Lurid Tales: The Castle Queen
+tt0116996,Mars Attacks!
+tt0117021,Menno's Mind
+tt0117069,Moebius
+tt0117108,Multiplicity
+tt0117124,My Uncle the Alien
+tt0117218,The Nutty Professor
+tt0117223,Oblivion 2: Backlash
+tt0117238,Omega Doom
+tt0117308,Past Perfect
+tt0117330,Petticoat Planet
+tt0117373,Precious Find
+tt0117396,Orion's Key
+tt0117497,Robo Warriors
+tt0117508,Rokovye yaytsa
+tt0117537,Safety Zone
+tt0117612,Shadow Warriors
+tt0117651,The Silencers
+tt0117688,Solo
+tt0117706,Space Marines
+tt0117710,Specimen
+tt0117734,Starlight
+tt0117912,Time Under Fire
+tt0117915,Timelock
+tt0117930,Toad Warrior
+tt0118003,Tykho Moon
+tt0118040,Unforgettable
+tt0118075,Vice Academy 5
+tt0118085,Viper
+tt0118088,Virtual Encounters
+tt0118214,Zarkorr! the Invader
+tt0118536,20th Century Nostalgia
+tt0118537,2103: The Deadly Wake
+tt0118569,Airboss II: Preemptive Strike
+tt0118583,Alien: Resurrection
+tt0118631,The Apocalypse
+tt0118661,The Avengers
+tt0118688,Batman & Robin
+tt0118724,Bimbo Movie Bash
+tt0118858,City of Dark
+tt0118882,Conceiving Ada
+tt0118884,Contact
+tt0118886,Convict 762
+tt0118929,Dark City
+tt0118995,Do nebicka
+tt0119013,Double Team
+tt0119081,Event Horizon
+tt0119094,Face/Off
+tt0119116,The Fifth Element
+tt0119137,Flubber
+tt0119171,Future Fear
+tt0119177,Gattaca
+tt0119243,Habitat
+tt0119276,Hell's Belles
+tt0119380,The Invader
+tt0119423,The Journey: Absolution
+tt0119499,Last Lives
+tt0119538,Lift
+tt0119567,The Lost World: Jurassic Park
+tt0119637,The Maze
+tt0119674,Les mille merveilles de l'univers
+tt0119675,Mimic
+tt0119685,Mobius
+tt0119700,Moonbase
+tt0119705,Morella
+tt0119744,Mystery Monsters
+tt0119794,Nirvana
+tt0119809,Nowhere
+tt0119891,Phantoms
+tt0119970,My Apocalypse
+tt0119984,Ravager
+tt0120004,The Relic
+tt0120029,RocketMan
+tt0120080,Scorpio One
+tt0120145,Sleeping Dogs
+tt0120157,Soldier
+tt0120167,The Sore Losers
+tt0120174,Spacejacked
+tt0120184,Sphere
+tt0120187,Spoiler
+tt0120199,Space Truckers
+tt0120201,Starship Troopers
+tt0120356,Total Reality
+tt0120435,Velocity Trap
+tt0120458,Virus
+tt0120461,Volcano
+tt0120478,Star Kid
+tt0120554,Zone 39
+tt0120591,Armageddon
+tt0120611,Blade
+tt0120647,Deep Impact
+tt0120673,Foiled
+tt0120685,Godzilla
+tt0120764,My Favorite Martian
+tt0120804,Resident Evil
+tt0120841,Species II
+tt0120844,Star Trek: Insurrection
+tt0120891,Wild Wild West
+tt0120902,The X Files
+tt0120903,X-Men
+tt0120907,eXistenZ
+tt0121659,Professor Ki Padosan
+tt0121694,Robo Vampire
+tt0122050,Dragon Ball: The Magic Begins
+tt0122064,Fire Fight
+tt0122116,Abar
+tt0122145,Empire of Ash III
+tt0122961,Arrival II
+tt0123237,Redboy 13
+tt0123371,Aberration
+tt0123373,Evening Land
+tt0123648,Centrespread
+tt0123770,The Curious Female
+tt0123825,Escape from DS-3
+tt0124349,Redline
+tt0125147,The Visitor in the Eye
+tt0125366,Lifepod
+tt0125434,School in the Crosshairs
+tt0125659,Open Your Eyes
+tt0126034,Et skud fra hjertet
+tt0126237,To the Stars by Hard Ways
+tt0126850,Cyberstalker
+tt0127045,Neon Maniacs
+tt0127136,Polymorph
+tt0127276,The Shadow Men
+tt0127302,The Sticky Fingers of Time
+tt0127503,Death House
+tt0127640,Laserhawk
+tt0128059,Aurora
+tt0128077,Bio-Tech Warrior
+tt0128121,Ciao marziano
+tt0128273,Invaders from the Deep
+tt0128289,"Katuwira, donde nacen y mueren los sueños"
+tt0128651,"SuperAndy, il fratello brutto di Superman"
+tt0128755,Time Tracers
+tt0128880,Inoplanetyanka
+tt0129082,Falling Fire
+tt0129568,Watchers 4
+tt0130035,Iron Thunder
+tt0130089,Lolita 2000
+tt0130172,P.U.N.K.S.
+tt0130177,The Parasite
+tt0130245,Secretul armei secrete
+tt0130503,Beyond the Universe
+tt0130652,Empire of Ash
+tt0130897,Nerawareta gakuen
+tt0131405,Galax Man-Doll
+tt0131531,La pelle sotto gli artigli
+tt0131545,Povestea dragostei
+tt0131597,Split
+tt0131624,UFO: Target Earth
+tt0131646,Wing Commander
+tt0132662,Stargames
+tt0132888,Blood Freak
+tt0133093,The Matrix
+tt0133104,Rebirth of Mothra II
+tt0133122,New Rose Hotel
+tt0133145,Peking Man
+tt0133152,Planet of the Apes
+tt0133228,Temmink: The Ultimate Fight
+tt0133235,The Little Girl Who Conquered Time
+tt0133246,Twister's Revenge!
+tt0133751,The Faculty
+tt0134619,Disturbing Behavior
+tt0134645,Existo
+tt0134847,Pitch Black
+tt0134983,Supernova
+tt0135165,Bug Buster
+tt0135991,Dominator
+tt0136535,Webmaster
+tt0137094,Mars
+tt0137452,Cybernator
+tt0138089,The Sender
+tt0138126,The Time to Die
+tt0138297,Urban Animals
+tt0138304,The Astronaut's Wife
+tt0138508,I Was a Zombie for the F.B.I.
+tt0138529,Jack Brown Genius
+tt0138550,Kam doskáce ranní ptáce
+tt0138581,The Lost World
+tt0138703,Phantasm IV: Oblivion
+tt0139000,L'affaire des divisions Morituri
+tt0139371,Hu-Man
+tt0139404,King Monster
+tt0139809,The Thirteenth Floor
+tt0140305,No Sympathy for the Devil
+tt0140471,Prison Planet
+tt0140492,Quello strano desiderio
+tt0140614,They Bite
+tt0140703,Be Forever Yamato
+tt0140826,Aurinkotuuli
+tt0140968,Dr. Bong
+tt0141270,Hyperspace
+tt0141843,Sorcerers
+tt0141900,Treta sled slantzeto
+tt0142163,Sexy Timetrip Ninjas
+tt0142256,Earth Minus Zero
+tt0142916,Time Escapade: 5 Seconds Til Climax
+tt0143338,Killer Crocodile
+tt0143917,Takilleitor
+tt0144018,Woundings
+tt0144315,Mom's Outta Sight
+tt0144528,Nutty Professor II: The Klumps
+tt0144596,The Secret Kingdom
+tt0144636,Tokyo: The Last War
+tt0144814,The Rage: Carrie 2
+tt0145480,Sleepwalker
+tt0145487,Spider-Man
+tt0145529,Time Chasers
+tt0145534,Total Force
+tt0146233,Repligator
+tt0148392,Lancelot: Guardian of Time
+tt0149261,Deep Blue Sea
+tt0149428,Captive
+tt0149538,Urutora Q za mûbi: Hoshi no densetsu
+tt0149677,War of the Planets
+tt0150500,Fallout
+tt0150858,Havet stiger
+tt0151318,The Leafblower
+tt0152098,PSI Factor
+tt0152185,Rewind
+tt0152394,A Message from the Future
+tt0155463,A spasso nel tempo - L'avventura continua
+tt0155593,Centurion Force
+tt0155632,La città dell'ultima paura
+tt0155636,Colony Mutation
+tt0155815,Kraa! The Sea Monster
+tt0156005,The Random Factor
+tt0156562,Gemini Encounters
+tt0157079,The Survivor
+tt0157262,2001: A Space Travesty
+tt0158568,Crusher Joe: The Movie
+tt0158628,Gall Force: Eternal Story
+tt0158785,Mindkiller
+tt0159469,He Comes from Planet K
+tt0159508,Mobile Suit Gundam 0083: The Afterglow of Zeon
+tt0159752,Shepherd
+tt0159797,Top of the Food Chain
+tt0160386,Human Error
+tt0160399,Impostor
+tt0160436,Kometa
+tt0160558,Nadia: The Secret of Blue Water - The Motion Picture
+tt0160847,The Sexterminators
+tt0160986,Time at the Top
+tt0161644,Roboman Hakaider
+tt0161837,Mutilations
+tt0161988,Stardust
+tt0162030,Unseen Evil
+tt0162211,Deadly Instincts
+tt0162315,The Exotic Time Machine
+tt0162327,The Flying Windmill
+tt0162876,Barn of the Blood Llama
+tt0162879,Prin to telos tou kosmou
+tt0163025,Jurassic Park III
+tt0163129,Oss
+tt0163375,Vicious Lips
+tt0163388,Soriton no akuma
+tt0163563,Bullet Ballet
+tt0164052,Hollow Man
+tt0164143,The Psychotronic Man
+tt0164192,Boltneck
+tt0165251,Dragon Fury
+tt0165400,Nautilus
+tt0165433,Primal Scream
+tt0165874,The Mating Habits of the Earthbound Human
+tt0166560,Dandy Dust
+tt0166996,Anti-Clock
+tt0167075,Chetvyortaya planeta
+tt0167215,Interceptor Force
+tt0167350,Progeny
+tt0168708,Dr. Benderfax
+tt0168922,The Killings at Outpost Zeta
+tt0169346,Under the Rainbow
+tt0169886,Facelift
+tt0171091,The Barrier
+tt0171245,Driving Force
+tt0171272,Equinozio
+tt0171319,Femalien 2
+tt0171809,Talíre nad Velkým Malíkovem
+tt0172669,Komodo
+tt0173024,Visitor of a Museum
+tt0174441,'Babicky dobíjejte presne!'
+tt0174744,"Darling, Are We a Good Match...?"
+tt0175016,The Apostate
+tt0176086,Raki II: Raki vs. Nemesis
+tt0176269,Universal Soldier: The Return
+tt0176700,Escape Velocity
+tt0177159,Ratrace
+tt0177213,The Strange Case of Señor Computer
+tt0177244,Spaceman
+tt0177789,Galaxy Quest
+tt0177886,The Killer Eye
+tt0178229,Amazon Warrior
+tt0178655,Exit
+tt0179183,Fortress 2: Re-Entry
+tt0179236,L'inceneritore
+tt0180052,The Adventures of Pluto Nash
+tt0180897,Paradise Lost
+tt0181151,What Planet Are You From?
+tt0181549,Furia
+tt0181852,Terminator 3: Rise of the Machines
+tt0181947,Three Giant Men
+tt0182060,The Man Who Saved the World
+tt0182503,Turist Ömer Uzay Yolu'nda
+tt0182668,8 Man
+tt0182686,Operation Bororo
+tt0182789,Bicentennial Man
+tt0183063,Los extraterrestres
+tt0183072,Feeders
+tt0183331,Kam zmizel kuryr
+tt0183523,Mission to Mars
+tt0183934,Ultraman Zearth 2
+tt0183979,Virtual Encounters 2
+tt0183981,Visions
+tt0184503,Gamera 3: Revenge of Iris
+tt0184973,Ultraman Tiga & Ultraman Dyna & Ultraman Gaia: Battle in Hyperspace
+tt0184974,Ultraman Tiga & Ultraman Dyna: Warriors of the Star of Light
+tt0184983,Uçan Kiz
+tt0185027,The Deathless Devil
+tt0185183,Battlefield Earth
+tt0185528,19
+tt0187738,Blade II
+tt0188535,Cyborg 009: Legend of the Super Galaxy
+tt0188925,Murdercycle
+tt0189014,Pod sozvezdiem bliznetsov
+tt0189169,Urutoraman sutori
+tt0189177,Another Life
+tt0189184,Veronica 2030
+tt0189198,War Is Menstrual Envy
+tt0189483,A Breath of Air
+tt0189764,Rebirth of Mothra III
+tt0189916,Maybe
+tt0190008,Sixteen Tongues
+tt0190229,Alien Outlaw
+tt0190520,Land of Doom
+tt0190818,Teito monogatari gaiden
+tt0190941,2090
+tt0190975,Low-Flying Aircraft
+tt0191053,The Model Couple
+tt0191400,Revenge of the Humanoids
+tt0191774,Alien Blood
+tt0192669,Teenage Space Vampires
+tt0193124,Double Role
+tt0193924,Expect to Die
+tt0194250,Pirata! Cult Movie
+tt0194640,Abrigo Nuclear
+tt0194722,Bridge of Dragons
+tt0195308,Starforce
+tt0195360,Os Trapalhões na Guerra dos Planetas
+tt0197218,Akvanavty
+tt0198460,Escape to Grizzly Mountain
+tt0198520,The Good Book
+tt0198708,Mania
+tt0199753,Red Planet
+tt0200280,"What's Up, Hideous Sun Demon"
+tt0200469,Bats
+tt0200483,Between the Moon and Montevideo
+tt0200739,O ippotis tis lakouvas
+tt0201300,Veld
+tt0201721,The Ugliest Woman in the World
+tt0202236,Tribulation
+tt0202314,Deep Core
+tt0202695,Numb
+tt0203285,Alien Agenda: Under the Skin
+tt0203908,Il signor Rossi cerca la felicità
+tt0203940,Spiders
+tt0203992,Lusty Transparent Man
+tt0204034,Voltage Fighter Gowcaizer
+tt0204526,Dead Mountaineer's Hotel
+tt0204607,Rumbo a la oscuridad
+tt0204679,Astronomy of Errors
+tt0204713,Ultraman: Monster Big Battle
+tt0204715,Ultraman
+tt0205722,Absolute Aggression
+tt0206285,Sexual Chemistry
+tt0206634,Children of Men
+tt0206754,Foes
+tt0207175,Urutoraman Zofuii
+tt0207346,Blobermouth
+tt0207358,The Bronx Executioner
+tt0207434,Dream Parlor
+tt0207479,France Inc.
+tt0207631,Nostradamus
+tt0208173,The Fury of the Karate Experts
+tt0208663,Abra Cadabra
+tt0208997,Goomer
+tt0209514,The Star Inspector
+tt0209958,The Cell
+tt0210108,Man with the Transplanted Brain
+tt0210200,Barren Illusions
+tt0210335,Il tempo dell'inizio
+tt0210417,Tanba Tetsuro no daireikai shindara dounaru
+tt0211443,Jason X
+tt0211575,Point of No Return
+tt0212712,2046
+tt0212720,A.I. Artificial Intelligence
+tt0212881,Last Stand
+tt0213322,Tomorrow I'll Wake Up and Scald Myself with Tea
+tt0213673,Galaxy of the Dinosaurs
+tt0213963,Omega Diary
+tt0214468,Space Armageddon
+tt0214871,The Last Patrol
+tt0215757,L'extraterrestre
+tt0215824,Die grüne Wolke
+tt0216216,The 6th Day
+tt0216251,Svart hav
+tt0216256,Xscape
+tt0216312,Invasion: UFO
+tt0216313,UFO... annientare S.H.A.D.O. stop. Uccidete Straker...
+tt0216315,UFO: Distruggete Base Luna
+tt0216316,UFO: Prendeteli vivi.
+tt0216344,Via Lattea... la prima a destra
+tt0216978,Police 2020
+tt0217072,Survival Zone
+tt0217135,Vortex
+tt0217392,Dr. Dildo's Secret
+tt0217679,Splatter: Naked Blood
+tt0217686,The New Women
+tt0217869,Unbreakable
+tt0218157,Sex Files: Digital Sex
+tt0218553,Ring 2
+tt0220514,"Hey, Happy!"
+tt0220605,The Krone Experiment
+tt0220864,Perfect Lover
+tt0220964,The Afterman
+tt0221527,Run Like Hell
+tt0222812,Beyond Re-Animator
+tt0222817,Entrails of a Virgin
+tt0223135,Death Powder
+tt0223152,Door III
+tt0223154,Dogura magura
+tt0223593,Juvenile
+tt0224038,Female Inquisitor
+tt0224156,Spectres of the Spectrum
+tt0224759,Chôkôsô hantingu
+tt0225009,964 Pinocchio
+tt0225549,Dospeláci muzou vsechno
+tt0226046,Female Neo Ninjas
+tt0226204,The Dimension Travelers
+tt0226408,Savannah
+tt0227055,Mikadoroido
+tt0227189,Cl.One
+tt0227348,Rasuto Furankenshutain
+tt0227379,Rex: Kyôryû monogatari
+tt0227408,Rubber's Lover
+tt0228196,Death Collector
+tt0228303,First Encounter
+tt0228333,Ghosts of Mars
+tt0228457,Stray Dog: Kerberos Panzer Cops
+tt0228690,Outlaw Prophet
+tt0229196,Dangerous Stories
+tt0229506,Kappa
+tt0229523,Laboratory
+tt0229656,Sex Files: Pleasure World
+tt0230046,The Sparkling World
+tt0230424,Kotsos and the Extraterrestrials
+tt0230540,Pale Blue Moon
+tt0230634,Petlya Oriona
+tt0230953,Virtue
+tt0230961,Return from Orbit
+tt0231419,Dager fra 1000 år
+tt0232086,Merikes ton protimoun... ilektroniko
+tt0232098,Battle Queen 2020
+tt0232473,Proibito baciare
+tt0232633,Shining Sex
+tt0232671,The Suns of Easter Island
+tt0234215,The Matrix Reloaded
+tt0234219,Le maître du temps
+tt0235245,Brain Twisters
+tt0236397,Death Has Blue Eyes
+tt0236483,Maxwell's Demon
+tt0237199,Echos of Enlightenment
+tt0237697,Beheaded Man
+tt0237923,Wild Sex of the Children of the Night
+tt0238318,It Came from Somewhere Else
+tt0238380,Equilibrium
+tt0238463,Timequest
+tt0238552,Replicant
+tt0239969,Sexcula
+tt0240732,The Moment After
+tt0242150,Xchange
+tt0242423,"Dude, Where's My Car?"
+tt0242653,The Matrix Revolutions
+tt0243036,Years of the Beast
+tt0243465,The Unknown
+tt0243759,The American Astronaut
+tt0244975,Another Heaven
+tt0245118,The Force on Thunder Mountain
+tt0245378,Quarantine
+tt0245655,Robot Taekwon V
+tt0245799,Rage of the Innocents
+tt0246076,Metal
+tt0246578,Donnie Darko
+tt0246894,Rollerball
+tt0247993,Beyond
+tt0249591,Hyper Space
+tt0250214,Anthrax
+tt0250406,Six God Combination God Mars: The Movie
+tt0250613,New Alcatraz
+tt0251005,Carnivore
+tt0251075,Evolution
+tt0251094,Gen-Y Cops
+tt0251369,The Remnant
+tt0251951,Pretty Cool
+tt0252116,Zvyozdnaya komandirovka
+tt0252196,Aditya 369
+tt0252363,Deham
+tt0252562,Japon Isi
+tt0253122,Hick Trek: The Moovie
+tt0253486,Sex Files: Pleasureville
+tt0253754,Star Trek: Nemesis
+tt0254199,CQ
+tt0254839,The Urge to Kill
+tt0254840,Hanuman vs. 7 Ultraman
+tt0254950,A.Li.Ce
+tt0255198,Godzilla vs. Megaguirus
+tt0255623,Subterano
+tt0255798,The Animal
+tt0256083,Hostile Environment
+tt0257408,Judgment
+tt0257625,Lovers Beyond Time
+tt0258153,S1m0ne
+tt0259525,Prátelé Bermudského trojúhelníku
+tt0259826,2076 Olympiad
+tt0260136,The Avenging Fist
+tt0260289,Por Incrível Que Pareça
+tt0260320,Repli-Kate
+tt0261242,Rock and the Alien
+tt0261597,The Champions of Justice
+tt0262221,Sex Files: Alien Erotica II
+tt0262429,Gamer
+tt0262846,The Third Cry
+tt0263329,Haytabo
+tt0263657,Lipgloss Explosion!
+tt0263976,Sem stikhiy
+tt0264108,Trinity
+tt0264429,Black Mask 2: City of Masks
+tt0264629,Games of Survival
+tt0264708,El increíble profesor Zovek
+tt0264747,Kak stat schastlivym
+tt0265104,The Breed
+tt0265198,Gangland
+tt0265273,L.I.N.X.
+tt0265521,The Pharaoh Project
+tt0265705,Saurians
+tt0265787,The Source
+tt0265828,Superstarlet A.D.
+tt0266493,Cin mikrorayonda
+tt0267024,Thru the Moebius Strip
+tt0267336,Dakota Bound
+tt0267804,The One
+tt0268695,The Time Machine
+tt0269356,Ice Planet
+tt0269603,The Girl in the Fur Coat
+tt0270393,Groom Lake
+tt0270612,Rolling Thunder
+tt0270683,Syukur 21
+tt0270745,XX Ray
+tt0270746,XX Ray II
+tt0270841,Cyber Wars
+tt0270846,Superbabies: Baby Geniuses 2
+tt0270919,Ditto
+tt0271042,"Pluk, naufragé de l'espace"
+tt0271253,The Dream Factory
+tt0271451,Descent Into Darkness
+tt0272152,K-PAX
+tt0272202,Mysterious Planet
+tt0272425,Reptile 2001
+tt0272557,Contagion
+tt0272647,Happiness Is a Warm Gun
+tt0273080,Anak ni Zuma
+tt0273285,Iron Bread
+tt0273689,It's All About Love
+tt0273788,Marching Out of Time
+tt0274509,From Venus
+tt0274891,Starfighters
+tt0276167,El gran marciano
+tt0277605,Bio-Zombie
+tt0277705,Final
+tt0277829,Black Milk
+tt0277909,Mutant Aliens
+tt0277986,Killer Rats
+tt0278089,Terror of Prehistoric Bloody Monster from Space
+tt0278259,.com for Murder
+tt0279468,Time Demon
+tt0279809,Fatal Conflict
+tt0281398,The Zeros
+tt0282179,Spiders II: Breeding Ground
+tt0282483,Fangs
+tt0282496,Flying Virus
+tt0282525,The Gifted
+tt0283015,Stranded
+tt0283054,Thunderpants
+tt0283086,Turn
+tt0283337,Ever Since the World Ended
+tt0283353,El futbolista fenómeno
+tt0283476,Mercano the Martian
+tt0283542,Terminal Error
+tt0284260,Lethal Target
+tt0284978,Cypher
+tt0285317,Lâche-moi les valseuses!...
+tt0285492,Cube²: Hypercube
+tt0285531,Dreamcatcher
+tt0286106,Signs
+tt0286716,Hulk
+tt0286751,Pulse
+tt0286876,Love Doll Report: An Adult Toy
+tt0287059,Twelve
+tt0287320,The Attack of the Giant Mousaka
+tt0287516,Nurse Diary: Beast Afternoon
+tt0287641,Pól serio
+tt0288215,Shadow Fury
+tt0289043,28 Days Later...
+tt0289132,A Conversation with an Alien
+tt0289213,Guardian
+tt0289531,Terra incognita
+tt0289596,Urban Warriors
+tt0289696,Dos nacos en el planeta de las mujeres
+tt0289879,The Butterfly Effect
+tt0290095,The Tuxedo
+tt0290334,X2: X-Men United
+tt0290669,Inseguito
+tt0290824,Recoil
+tt0292039,Kalimán en el siniestro mundo de Humanón
+tt0292429,Altered Species
+tt0293442,The Butterfly
+tt0293445,Narcosys
+tt0293823,Geonchugmuhan yugmyeongagcheui bimil
+tt0293905,Pulse Pounders
+tt0294252,2009: Lost Memories
+tt0294590,Future War 1986
+tt0295667,Space Warriors Baldios
+tt0295725,Time Changer
+tt0296572,The Chronicles of Riddick
+tt0296811,Power King
+tt0297080,Deuces
+tt0297416,Superman
+tt0297743,Armageddon: The Final Challenge
+tt0297805,Borg War 3
+tt0298109,A Dog Called Pain
+tt0298814,The Core
+tt0298960,Konets vechnosti
+tt0299710,Le coup du singe
+tt0299712,They Crawl
+tt0300556,Timeline
+tt0300630,Waiting for the Giants
+tt0300902,Absolon
+tt0301777,Robot Stories
+tt0302531,Endangered Species
+tt0303773,Deadly Swarm
+tt0303945,E.S.P.
+tt0304102,Granice svemira
+tt0304927,Weasels Rip My Flesh
+tt0305556,Evil Alien Conquerors
+tt0305831,Mindstorm
+tt0306483,Desert Sky
+tt0306699,Cyber Seeker
+tt0307109,The Lost Skeleton of Cadavra
+tt0307259,Oceano Atlantis
+tt0307268,Oigyeseo on Ulemae
+tt0307269,Oigyeseo on Ulemae 2
+tt0307270,Oigyeseo on Ulemae 3: Jeongyeok seulijagjeon
+tt0307343,À ton image
+tt0307540,Gaghtni khorhrdakane
+tt0307605,Ulemae 4: Thunder V Operation
+tt0307606,New Machine: Ulemae 5
+tt0307607,Je3 sedae: Ulemae 6
+tt0307608,Ulemae 7: Dolaon Ulemae
+tt0307922,Adiós querida luna
+tt0308195,Whit Monday
+tt0308244,Fairie
+tt0308281,Frog-g-g!
+tt0308606,Korean National Flower
+tt0309012,Killed by Lightning
+tt0309675,"Hesus, rebolusyunaryo"
+tt0309701,Idealnoe prestuplenie
+tt0310149,The Princess Blade
+tt0310293,Çilgin kiz ve üç süper adam
+tt0310352,Where's Johnny?
+tt0310890,Chronotrip
+tt0310967,Daeng Chilly and Sang Light
+tt0311462,Luminal
+tt0311595,Alien Thunder Dragon 2
+tt0311596,Alien Thunder Dragon
+tt0311866,Storm Watch
+tt0312358,Anatomy 2
+tt0312364,Anomaliya
+tt0312378,Ariel
+tt0313283,Bizon
+tt0313950,Daikaijû Tôkyô ni arawaru
+tt0314063,Immortal
+tt0314111,Godzilla Against MechaGodzilla
+tt0316290,Mutants
+tt0316345,The Aliens and Kong Kong Zombie
+tt0316654,Spider-Man 2
+tt0318627,Resident Evil: Apocalypse
+tt0318667,Scorpion
+tt0319262,The Day After Tomorrow
+tt0319382,Eunhaeseo on Byeolddong dongja
+tt0319383,Eunhaeseo on Byeolddong wangja
+tt0319384,Eunhaeseo on Byeolddong wangja je3tan: Eunha yeolcha
+tt0319393,El extraño visitante
+tt0320736,Vikram
+tt0321249,The Antman
+tt0321473,Blueprint
+tt0321492,The Big Space Travel
+tt0321626,Centipede!
+tt0321649,Gore from Outer Space
+tt0321722,Clon
+tt0322309,El forastero
+tt0322651,Dream Warrior
+tt0322905,Time Conqueror
+tt0323629,Phoenix Point
+tt0323727,Project Nightmare
+tt0324117,Ssuperzam el invencible
+tt0324518,The Wesley's Mysterious File
+tt0325257,17
+tt0325596,The I Inside
+tt0326308,El triunfo de los campeones justicieros
+tt0326441,Yesterday
+tt0327162,The Stepford Wives
+tt0327169,Resurrection of the Little Match Girl
+tt0327409,Alien Hunter
+tt0330175,Corn
+tt0330447,Santo: Infraterrestre
+tt0330972,Intergalactic Combat
+tt0331508,Gundress
+tt0332821,Vverkh tormashkami
+tt0334917,Badi
+tt0335057,Don't Ask Don't Tell
+tt0336946,Off
+tt0338013,Eternal Sunshine of the Spotless Mind
+tt0338337,Paycheck
+tt0338443,Diamond Zero
+tt0338470,Sumuru
+tt0338754,Baberellas
+tt0339579,Returner
+tt0342513,The Synthetic Man
+tt0343449,The Bone Snatcher
+tt0343818,"I, Robot"
+tt0344313,Secret War
+tt0344777,Six: The Mark Unleashed
+tt0345061,Code 46
+tt0345636,Maximum Velocity
+tt0345777,The Eavesdropper
+tt0346810,Dislocation
+tt0346811,The Curse of the Komodo
+tt0347534,Messengers
+tt0348129,Street Rats
+tt0348150,Superman Returns
+tt0348153,Surrender in Paradise
+tt0349047,(T)Raumschiff Surprise - Periode 1
+tt0349835,Monsters
+tt0350061,Ripper 2: Letter from Within
+tt0352171,And the Word Was Made Flesh
+tt0352547,Mad Dogs
+tt0353899,Posrednik
+tt0354105,This Corrosion
+tt0356423,Blizkata dalechina
+tt0356618,The Forgotten
+tt0357585,Decoys
+tt0357894,Silver Hawk
+tt0358351,Ainoa
+tt0358551,Julie and Jack
+tt0359013,Blade: Trinity
+tt0359077,El chupacabras
+tt0359422,El hombre que volvió de la muerte
+tt0360142,"Vampiro, guerrero de la noche"
+tt0360234,La zona del silencio
+tt0360652,If
+tt0361679,Guardian of the Realm
+tt0362137,My Friend Frankenstein
+tt0362169,Space Specks
+tt0362209,Lost in New Mexico: The Strange Tale of Susan Hero
+tt0362822,Light and the Sufferer
+tt0362872,Monkeys and Robots
+tt0362942,Post Impact
+tt0363240,Christmas on Mars
+tt0363277,Malice@Doll
+tt0363623,From Other Worlds
+tt0364343,The Final Cut
+tt0364726,Unearthed
+tt0364970,Babylon A.D.
+tt0365262,GhostWatcher
+tt0365478,Man with the Screaming Brain
+tt0365514,Moon Child
+tt0365570,Filmatron
+tt0365581,Odd Noggins
+tt0365617,The Passing
+tt0366347,Mega Scorpions
+tt0366886,Patalghar
+tt0366985,Rudraksh
+tt0367193,Utopía
+tt0367677,Dracula 3000
+tt0368008,The Manchurian Candidate
+tt0368561,Acne
+tt0369196,Wang shang guai tan
+tt0369226,Alone in the Dark
+tt0369880,Il ronzio delle mosche
+tt0370032,Ultraviolet
+tt0371282,Tales from Beyond
+tt0371628,Deep Sea Conspiracy
+tt0371724,The Hitchhiker's Guide to the Galaxy
+tt0371746,Iron Man
+tt0371920,Rottweiler
+tt0371962,Strange Attractor
+tt0372423,Mindgame
+tt0372429,Alien Sex Party
+tt0372851,Dark Queen
+tt0373046,Jetblast
+tt0373195,Nobody Loses Forever
+tt0373851,The Frozen Atlantis
+tt0374562,The Suicide Notes
+tt0376114,Space Patrol Orion
+tt0376994,X-Men: The Last Stand
+tt0377061,I'll Believe You
+tt0377713,Cube Zero
+tt0378428,Natural City
+tt0379786,Serenity
+tt0379945,Puerta del tiempo
+tt0380165,Acquaria
+tt0380368,The Brother from Space
+tt0380679,Rub Love
+tt0381181,Feedback
+tt0381601,Slipstream
+tt0381723,Mixed-Up Hong Kil-dong
+tt0381940,Cargo
+tt0382910,Planetfall
+tt0382979,Sirens of the 23rd Century
+tt0382992,Stealth
+tt0383353,Evil Aliens
+tt0384055,Dragon Head
+tt0384116,G.O.R.A.
+tt0384351,Moonlight by the Sea
+tt0384804,All Tomorrow's Parties
+tt0385635,Dans une galaxie près de chez vous - Le film
+tt0385990,Retrograde
+tt0386741,Renaissance
+tt0387072,The Bionic Boy
+tt0387808,Idiocracy
+tt0388341,Flying Saucers
+tt0388349,Power Corps.
+tt0388556,Zebraman
+tt0388730,Apparatspott - Gerangel in Ruum un Tied
+tt0388779,Blood of the Beast
+tt0388973,The Girl from Monday
+tt0389313,Red Cockroaches
+tt0389371,Sharkman
+tt0389549,Yo Alien
+tt0390384,Primer
+tt0390463,Sci-Fighter
+tt0390528,Swarm of the Snakehead
+tt0391044,Dark Heaven
+tt0391095,Dreamland
+tt0391502,The Third Dragon
+tt0392789,Spectres
+tt0392816,Super Salami
+tt0392818,The Return of Superman
+tt0393394,Jekyll
+tt0393469,El mensajero del miedo
+tt0393733,The Shadowlands
+tt0395932,Able Edwards
+tt0396114,Maya and the Starboy
+tt0397679,Terrarium
+tt0398075,Galaxy Hunter
+tt0398392,Wooly Booly 2: Ang titser kong alien
+tt0398698,De apparatspott
+tt0399134,Hello Earthlings!
+tt0399201,The Island
+tt0399361,Missy
+tt0399584,Roboflash Warrior
+tt0399762,Thunder of Gigantic Serpent
+tt0400352,The Ideon: A Contact
+tt0400426,Far Cry
+tt0402022,Æon Flux
+tt0402743,Abominable
+tt0402901,The Cave
+tt0402904,Cemetery Gates
+tt0403390,Oskar & Josefine
+tt0404325,Phil the Alien
+tt0404337,The Praying Mantis
+tt0404745,After the Apocalypse
+tt0405821,Casshern
+tt0406941,Lorelei
+tt0407304,War of the Worlds
+tt0407695,Crash Test
+tt0407830,Gong
+tt0407924,Martian Successor Nadesico - The Motion Picture: Prince of Darkness
+tt0408060,1
+tt0409860,Cutie Honey
+tt0410376,Nightclubber
+tt0410518,Revenge of Mr. Willie
+tt0410603,Sidekick
+tt0411189,Borrowing Time
+tt0411806,Return of the Living Dead: Rave to the Grave
+tt0412412,Animal
+tt0413300,Spider-Man 3
+tt0413669,Alien Factor 2: The Alien Rampage
+tt0414036,Game Box 1.0
+tt0414852,District B13
+tt0416664,The Vampire Is Still Alive
+tt0416781,Goldwing
+tt0416958,Un marciano llamado deseo
+tt0417177,"Star Jjangga II: Super Betaman, Majingga V"
+tt0417552,Contact
+tt0417745,Headspace
+tt0417844,Kampfansage - Der letzte Schüler
+tt0418279,Transformers
+tt0418778,Infection
+tt0418819,Land of the Dead
+tt0419692,Disconnect
+tt0419706,Doom
+tt0421983,Choker
+tt0422370,The Bottled Fools
+tt0422702,Mazinkaiser vs. Great General of Darkness
+tt0423783,11 Minutes Ago
+tt0424238,Re-Generation
+tt0424789,Allegro
+tt0424958,Disaster!
+tt0425141,It Came from Trafalgar
+tt0425522,Target Audience 9.1
+tt0426396,Alien Abduction
+tt0426592,Superhero Movie
+tt0427392,The Invasion
+tt0427688,Studio 666
+tt0428390,Severed
+tt0428620,Half-Life
+tt0428825,Mindbenders
+tt0430155,Green Eyes for Anastice
+tt0432021,Resident Evil: Extinction
+tt0432637,Krrish
+tt0433017,Die phantastische Welt des Matthew Madson
+tt0433362,Daybreakers
+tt0434409,V for Vendetta
+tt0435370,Sex
+tt0435705,Next
+tt0436283,The Ethereal Plane
+tt0438052,The Gene Generation
+tt0438488,Terminator Salvation
+tt0439581,The Ugly Swans
+tt0439615,Horrors of War
+tt0439709,Monarch of the Moon
+tt0439815,Slither
+tt0440730,Bipedalism
+tt0441164,The Dead Link
+tt0441565,Hidden Heroes
+tt0441748,Cyxork 7
+tt0443650,Spiritual Warriors
+tt0443678,Unholy
+tt0443693,The Wild Blue Yonder
+tt0444519,A Ticket to Space
+tt0444979,Space Case
+tt0445024,Kass kukub käppadele
+tt0445161,4
+tt0445683,Rubicon
+tt0445728,Somne
+tt0446038,Star Party
+tt0446719,Isolation
+tt0447160,GB: 2525
+tt0448001,Alien Incursion
+tt0448011,Knowing
+tt0448134,Sunshine
+tt0448919,Ulysses and the Stars
+tt0449590,FAQ: Frequently Asked Questions
+tt0450367,Puzzlehead
+tt0452262,InvaXon - Alieni in Liguria
+tt0452608,Death Race
+tt0453396,Samurai Commando Mission 1549
+tt0453467,Deja Vu
+tt0454065,The Aerial
+tt0454155,El hada buena - Una fábula peronista
+tt0454515,The Noah
+tt0454919,Pulse
+tt0455571,Jimmy Tornado
+tt0455584,The Kovak Box
+tt0456627,"Reigo, the Deep-Sea Monster vs. the Battleship Yamato"
+tt0457275,Altered
+tt0457297,The Butterfly Effect 2
+tt0457342,Evil Behind You
+tt0457490,Star Worms II: Attack of the Pleasure Pods
+tt0458367,Right at Your Door
+tt0458525,X-Men Origins: Wolverine
+tt0459443,Lies Inc.
+tt0459543,Sigma
+tt0459575,Tsuburo no gara
+tt0459924,Paragraph 78
+tt0459929,First on the Moon
+tt0460481,Karim Patwa's Spaceship
+tt0460571,Space Zombies: 13 Months of Brain-Spinning Mayhem!
+tt0460800,Frankenstein Reborn
+tt0460883,Night Skies
+tt0460975,Unidentified
+tt0461021,Death on Saturn's Moon
+tt0461769,Eri Eri rema sabakutani
+tt0462250,Automatons
+tt0462298,The Unknown Trilogy
+tt0462465,Outlander
+tt0463867,Apparatspott - Dat mokt wie gistern
+tt0463935,Candy Stripers
+tt0464796,The Can
+tt0465580,Push
+tt0465624,My Super Ex-Girlfriend
+tt0465892,Einstein Girl
+tt0466043,Khottabych
+tt0466103,Pyl
+tt0466375,Hinokio
+tt0466664,Alien Autopsy
+tt0466899,The Moment After II: The Awakening
+tt0467693,Space Police
+tt0468492,The Host
+tt0469135,Mil Mascaras vs. the Aztec Mummy
+tt0469263,The Astronaut Farmer
+tt0470575,Meteor
+tt0470711,Heaven's Soldiers
+tt0471367,The Bloodettes
+tt0472167,Radiant
+tt0472186,The Strange Case of Dr. Jekyll and Mr. Hyde
+tt0472254,11:59
+tt0473064,Doomsday: The Sinking of Japan
+tt0473348,Dead Men Walking
+tt0473397,The Sleeper
+tt0473514,Mulberry St
+tt0473626,La dernière incarnation
+tt0475417,Unearthed
+tt0475970,Creature of Darkness
+tt0476259,El Huésped
+tt0476453,Ekho: Fall of an Empire
+tt0476479,Purple Glow
+tt0477337,The Sword Bearer
+tt0477898,Wait 'Til You're Older
+tt0477909,Ultra-Toxic
+tt0478208,The Men Who Fell
+tt0478365,Hvordan vi slipper af med de andre
+tt0479162,Special
+tt0479651,Dasavatharam
+tt0479767,Aziris nuna
+tt0480083,The Cloud
+tt0480249,I Am Legend
+tt0480669,Timecrimes
+tt0480849,Six-Hundred & Sixty Six
+tt0481509,Displaced
+tt0482018,Project Grey
+tt0482554,Neil
+tt0482571,The Prestige
+tt0483607,Doomsday
+tt0484273,The Dark Hour
+tt0486480,Silk
+tt0486592,Guardians
+tt0486665,Trail of the Screaming Forehead
+tt0487891,Day X
+tt0487928,Dante 01
+tt0489099,Jumper
+tt0490016,Tres minutos
+tt0490240,Warriors of Terra
+tt0491005,Kaw
+tt0494901,The Zero Years
+tt0496251,Millennium Crisis
+tt0496304,Freezer Burn
+tt0497494,Afterman 2
+tt0498567,Summer Time Machine Blues
+tt0499321,EGG.
+tt0758442,Nuit noire
+tt0758754,Illegal Aliens
+tt0758762,The Last Sentinel
+tt0764219,An American Cyborg
+tt0764239,Firestar: First Contact
+tt0765485,Waste of Space
+tt0778767,Made in Brazil
+tt0779982,Black Sheep
+tt0780607,The Signal
+tt0781012,Sergeant Keroro the Super Movie
+tt0783511,Dr. Plonk
+tt0790818,Through the Footsteps of a Madman
+tt0791142,Recon 2022: The Mezzo Incident
+tt0791314,Keeper of the Necklace
+tt0796366,Star Trek
+tt0797014,Madrigal
+tt0800022,Electroma
+tt0800080,The Incredible Hulk
+tt0801344,The Monster of Phantom Lake
+tt0804529,Sleep Dealer
+tt0805511,Confinement
+tt0808139,977
+tt0808240,Turks in Space
+tt0810082,Scrambled Beer
+tt0810384,Konstruktor krasnogo tsveta
+tt0810396,Gomer and Ed Lost in Space
+tt0810397,Gomer and Ed in West Hollywood
+tt0810398,Gomer and Ed's Amazing Adventure
+tt0810846,Driller
+tt0810990,Nos amis les Terriens
+tt0811007,Perarasu
+tt0812352,9 Miles Down
+tt0815250,One Day Like Rain
+tt0820111,Meatball Machine
+tt0820988,Parallels
+tt0822856,Socket
+tt0823523,The Quatermass Conclusion
+tt0824772,She-Demons of the Black Sun
+tt0825279,20 Years After
+tt0826175,The Last Love Song on This Little Planet
+tt0826593,Pandemic
+tt0827709,The Green Hornet
+tt0827714,Jaane Hoga Kya
+tt0828420,The Lords of Praxton
+tt0828558,Crops
+tt0831272,Arcanum
+tt0831289,Event 16
+tt0831354,"1, 2, 3, Whiteout"
+tt0833557,Visioneers
+tt0836645,Czarne slonca
+tt0843878,UKM: The Ultimate Killing Machine
+tt0844678,The World Sinks Except Japan
+tt0848557,Diary of the Dead
+tt0852589,El regreso de la bestia
+tt0854667,Showdown at Area 51
+tt0860462,Mercury Man
+tt0860516,The Chasing World
+tt0860528,Salvation
+tt0861777,It Came from Another World!
+tt0865427,Alarido del terror
+tt0867271,Chile Puede
+tt0867460,Uchuujin from Outer Space
+tt0870112,Future by Design
+tt0872253,First Strike
+tt0872314,Bottom Feeder
+tt0872335,Serum
+tt0876294,Zombie Diaries
+tt0884192,Silver Mask
+tt0884328,The Mist
+tt0884335,Chrysalis
+tt0884865,Brotherhood of Legio
+tt0888496,Fascisti su Marte
+tt0892899,Outpost
+tt0893367,Robodoc
+tt0893402,Franklyn
+tt0899129,Africa paradis
+tt0899298,Technocalyps
+tt0906564,Bubble Fiction: Boom or Bust
+tt0910554,Frequently Asked Questions About Time Travel
+tt0910868,Nightmare City 2035
+tt0914796,Blood Predator
+tt0915463,Jackboots on Whitehall
+tt0918554,Plaguers
+tt0923653,The Dead Undead
+tt0925245,Heatstroke
+tt0926341,Terror Inside
+tt0926764,Possibility of an Island
+tt0930044,"Bikini-Blitzkrieg, Part One: Dance Domination"
+tt0933763,Protectors of Universe
+tt0934446,"Glenn, the Flying Robot"
+tt0938284,Bane
+tt0949731,The Happening
+tt0950753,The Last Man
+tt0951258,Chronicles of the Roman Numeral X
+tt0956294,Firefly
+tt0960842,The Shiftling
+tt0960890,Zombie Strippers!
+tt0961205,The Last Gateway
+tt0962711,The Objective
+tt0963194,Repo! The Genetic Opera
+tt0964529,MindFlesh
+tt0965350,An Incident at Bridgeville
+tt0965435,Out of State
+tt0969650,Stratagem
+tt0969653,White Wall
+tt0969694,The Sperm
+tt0970187,Próxima
+tt0970416,The Day the Earth Stood Still
+tt0970472,Vexille
+tt0972558,Dark Planet
+tt0973836,Fragment
+tt0977669,The Vanguard
+tt0977836,Subject 87
+tt0984155,Before the Fall
+tt0984229,Slices
+tt0984248,Zeppo: Sinners from Beyond the Moon!
+tt0986263,Surrogates
+tt0988043,One-Eyed Monster
+tt0988142,Tetsujin 28-gô: Hakuchû no zangetsu
+tt0990422,2 Epic
+tt0991010,Mad Warrior
+tt0991186,Kyaputen Tokio
+tt0993841,Dead Air
+tt0996979,Alien Raiders
+tt0997102,Superwizja
+tt0997147,Big Man Japan
+tt0997483,Polvo de ángel
+tt0999922,Ultraman Mebius and Ultra Brothers
+tt1000020,Windstorm
+tt1000146,Prism
+tt1009986,Beyond the Quest
+tt1010409,My DNA Says I Love You
+tt1015980,The Ideon: Be Invoked
+tt1016024,Battle Planet
+tt1017460,Splice
+tt10225388,En Rathathin Rathame
+tt1022882,The Outsider
+tt1023347,Universal Soldiers
+tt1023500,Doghouse
+tt1027874,InAlienable
+tt1031276,Bad Girl Island
+tt1031280,Splinter
+tt1031288,Truffe
+tt1034032,Gamer
+tt1037124,The Photon Effect
+tt10378618,Yamata no Orochi no Gyakushu
+tt1038072,Pulse 2: Afterlife
+tt1038685,The King of Fighters
+tt1038696,Taiketsu
+tt1042385,Synapse
+tt1043719,Cave Women on Mars
+tt1043800,For the Good of Others
+tt1046173,G.I. Joe: The Rise of Cobra
+tt1047877,Resiklo
+tt1049412,The Singularity Is Near
+tt1051259,Shadowplay
+tt1051263,Stolen Life
+tt1051780,Adam wa el nessaa
+tt1051915,Resonnances
+tt1053424,Repo Men
+tt1055369,Transformers: Revenge of the Fallen
+tt1056080,Internal Behaviors
+tt1056416,Sexy Killer: You'll Die for Her
+tt1056437,The Sky Crawlers
+tt1056467,Dying God
+tt1064210,Liar's Pendulum
+tt1067065,Ben David: Broken Sky
+tt1068654,Kamen Rider: The Next
+tt1070912,Anamnesis
+tt1073097,Apna Asmaan
+tt1082813,Children of the Hunt
+tt1082868,Quarantine
+tt1084733,Necessary Evil
+tt1084757,Others
+tt1084952,Dreamscape
+tt1087842,Eden Log
+tt1089677,God's Puzzle
+tt1092050,Alien Game
+tt1097014,Paragraf 78 - Film vtoroy
+tt1098210,Ivan the Idiot
+tt1103262,Deadlands 2: Trapped
+tt1103272,Night Things
+tt1104001,TRON: Legacy
+tt1105742,Swamp Devil
+tt1109488,Mars
+tt1112110,Hollywood
+tt1114731,Seres: Genesis
+tt1119205,Elixir
+tt1122836,Alien Trespass
+tt1123372,Cicak-Man
+tt1124041,Horror in the Wind
+tt1129396,Radio Free Albemuth
+tt1131725,2k3
+tt1131742,Mutants
+tt1134674,ZMD: Zombies of Mass Destruction
+tt1135095,Tell Tale
+tt1136608,District 9
+tt1137477,Scourge
+tt1144578,Dark Side of Heaven
+tt1145430,By Day and by Night
+tt1146320,Mutants
+tt1147687,The Devil's Tomb
+tt1152827,Super Hybrid
+tt1152843,Roswell 1847
+tt11562864,The Fist of Death
+tt1156311,Green Eyed Monster
+tt1161418,Gentlemen Broncos
+tt1164089,Chrysalis
+tt1165276,Dans une galaxie près de chez vous 2
+tt1172060,It's Alive
+tt1176416,Tetsuo: The Bullet Man
+tt1176453,Race
+tt1182345,Moon
+tt1185264,Freakdog
+tt1185654,Pandemic
+tt1187064,Triangle
+tt1190080,2012
+tt1190556,Opapatika
+tt1190867,The Monster X Strikes Back: Attack the G8 Summit
+tt1191971,Zone of the Dead
+tt1193624,Captain Eager and the Mark of Voth
+tt1194423,Dark Reprieve
+tt1194424,Denizen
+tt1196334,After Last Season
+tt1198142,Sex Galaxy
+tt1198333,Autumn
+tt1202044,Six Reasons Why
+tt1202515,Atlantis
+tt1206087,Star Trek: Operation Beta Shield
+tt1212024,Schrödinger's Girl
+tt1213636,Circuit
+tt1213644,Disaster Movie
+tt1216520,Womb
+tt1219820,Artifacts
+tt1220198,The Fourth Kind
+tt1220634,Resident Evil: Afterlife
+tt1223934,The Door
+tt1226681,Pontypool
+tt1226745,Brainjacked
+tt1226831,Spark Riders
+tt1227927,Caller ID: Entity
+tt1228705,Iron Man 2
+tt1228915,2033
+tt1229236,World's End
+tt1230538,Homeworld
+tt1231277,S. Darko
+tt1231587,Hot Tub Time Machine
+tt1234243,Dark Paradox
+tt1234432,Master Key
+tt1234541,The Butterfly Effect 3: Revelations
+tt1235433,Hunting Grounds
+tt1235448,The Thaw
+tt1236440,Lucky Fritz
+tt1236467,Erased
+tt1245111,Psychic Experiment
+tt1245736,Interceptor
+tt1245766,Triptosane
+tt1248893,Willows Way
+tt1260515,Ultraman Cosmos: The Blue Planet
+tt1260577,The Mandalorian Legacy
+tt1263692,Mock Up on Mu
+tt1265294,Dire Wolf
+tt1269717,From the Dark
+tt1270120,Transfer
+tt1270291,Hunter Prey
+tt1270478,The Men of Action: M.O.A.
+tt1272492,Signals
+tt1274272,An Immortal Tale
+tt1278180,Kenny Begins
+tt1278374,Iodine
+tt1279329,Warriors of the Apocalypse
+tt1280016,The Childhood of Icarus
+tt1282136,Cephalopod
+tt1286126,A.R.O.G
+tt1286147,Ghost Machine
+tt1288403,Universal Soldier: Regeneration
+tt1288411,You Are Here
+tt1289381,Chronicles of the Beyond
+tt1294160,Exile
+tt1294710,Reality Bleed-Through
+tt1296879,Sexy S.W.A.T. Team
+tt1298605,Sounds
+tt1300159,Growth
+tt1301309,A Foundling
+tt1302183,Gunheavy
+tt1303782,Ghost from the Machine
+tt1305797,Enthiran
+tt1305908,S4
+tt1311087,The Scientist
+tt1313130,The Clone Returns Home
+tt1316090,World Gone Mad
+tt1323946,Pulse 3
+tt1324898,Sindrome de Pinocchio
+tt1326238,Backlight
+tt1326944,It Came from Over Yonder
+tt1326957,Out of the Fog
+tt1328910,Chrome Angels
+tt1329424,Presence
+tt1330216,"Silent Night, Zombie Night"
+tt1334260,Never Let Me Go
+tt1337055,Future X-Cops
+tt1337070,War Stories
+tt1337467,The Coming
+tt1337566,Wake-Up Callz
+tt1337583,Alieni a Ponte Mammolo
+tt1337585,Apollo 54
+tt1337686,The Prometheus Project
+tt1337715,The Tower
+tt1339143,Paradise Cove
+tt1339144,The Paralyzing Agent
+tt1339163,Scars of Youth
+tt1340466,Schoof
+tt1340620,The Tragedy of Mister Geppetto
+tt1340654,The Formulation of Rectangles
+tt1340689,Very Little Time
+tt1340694,Wormtooth Nation
+tt1340798,Stem Cell
+tt1343077,Alien Presence
+tt1343740,Paradox
+tt1345449,The Black Knight Returns
+tt1346954,The Box
+tt1347295,The Whisperer in Darkness
+tt1347341,Heads of Control: The Gorul Baheu Brain Expedition
+tt1349646,Defcon 2012
+tt1351177,Last of the Living
+tt1355575,Interplanetary
+tt1355599,Stingray Sam
+tt1359425,"Capitalist Manifesto: Working Men of All Countries, Accumulate!"
+tt1360833,Star Quest: The Odyssey
+tt1374844,CX2: The Movie
+tt1375536,Algeny: the Genetic Factor
+tt1375666,Inception
+tt1376247,Space Girls in Beverly Hills
+tt1379636,Canary
+tt1379714,Braincell
+tt1380078,Alice's Birthday
+tt1381512,RoboGeisha
+tt1386609,Demekingu
+tt13877410,War of the God Monsters
+tt1388371,An American Hippie in Israel
+tt1390405,Happy End
+tt1391084,Killing Schrödinger's Cats
+tt1391579,The Dark Lurking
+tt1395783,Project Purgatory
+tt1396208,Action Replayy
+tt1396235,Catalina: A New Kind of Superhero
+tt1398918,2084
+tt1398999,Earthling
+tt1399952,Dark Planet: Rebellion
+tt1400337,The Fourth Pillar
+tt1401631,Slime City Massacre
+tt1401674,Recon 2023: The Gauda Prime Conspiracy
+tt1405412,Hardwired
+tt1407049,Altitude
+tt1410199,Almaz Black Box
+tt1411644,Babula
+tt1412476,Mark of the Damned
+tt1412727,Infest Wisely
+tt1414518,"Eureka Seven - good night, sleep tight, young lovers"
+tt1415872,Digimon X-Evolution
+tt1422891,Power
+tt1422894,Quarantined
+tt1424381,Predators
+tt1424839,Revelation 13
+tt1429382,Alien Opponent
+tt1430064,"1,001 Ways to Enjoy the Missionary Position"
+tt1432157,She Alien
+tt1436571,Beacon77
+tt1437274,The Four Twenty-One
+tt1438534,Primal
+tt1440339,The Thin Time
+tt1440747,Killer Tumbleweeds
+tt1441914,Timetravel_0
+tt1442569,Depositarios
+tt1447943,Alien Ecstasy
+tt1449385,Destination: Outer Space
+tt1451436,Unremembered
+tt1454602,"100% lucha, el amo de los clones"
+tt1455816,Prince
+tt1458624,TapeWorm
+tt1464008,Clear
+tt1464580,Stake Land
+tt1464606,You're So Cupid!
+tt1468324,"Hard Revenge, Milly: Bloody Battle"
+tt1470719,Wapakman
+tt1475143,Cryptopticon
+tt1478800,Assault Girls
+tt1478875,Zapping-Alien@Mozart-Balls
+tt1481522,"Chengdu, I Love You"
+tt1482889,Jim
+tt1483347,Cicak-Man 2: Planet Hitam
+tt1483759,Fade
+tt1483797,Redline
+tt1488032,Pickman's Muse
+tt1488601,The Show Must Go On
+tt1489946,The Blackout
+tt1489965,The Killer Robots and the Battle for the Cosmic Potato
+tt1493864,The Last Dudes on Earth
+tt1509125,Virus X
+tt1509640,The Parchene Conspiracy
+tt1510929,Prototype
+tt1513835,Nightbeasts
+tt1514054,Terrible Things
+tt1520408,The Diamonds of Metro Valley
+tt1520496,Circle of Eight
+tt1521236,Sacrifice
+tt1521803,Post: La aventura completa
+tt1523283,Frankenstein Unlimited
+tt1524125,Dreamland
+tt1525835,Gantz
+tt1528813,The Penitent Man
+tt1532382,Hooked
+tt1534085,Beyond the Black Rainbow
+tt1534568,Zebraman 2: Attack on Zebra City
+tt1537280,Forge
+tt1537725,Brainscan: Aku dan topi ajaib
+tt1540423,Hunting Grounds
+tt1541881,Terrestrials
+tt1542621,Death Force
+tt1543211,Godzilla
+tt1543283,MGS: Philanthropy
+tt1545077,I Heart Doomsday
+tt1545985,The Coming Days
+tt1548563,Macross Frontier: The False Songstress
+tt1550506,Hive Mind
+tt1557843,Purge
+tt1558994,The Hiking Trip
+tt1561479,Eyes in the Dark
+tt1564585,Skyline
+tt1568332,Grey Skies
+tt1568798,15 Till Midnight
+tt1568816,Phase 7
+tt1569364,Black Lightning
+tt1571235,The Lady Shogun and Her Men
+tt1578259,Atlantis Down
+tt1578265,Re-Generator
+tt1578856,Window on Your Present
+tt1584730,III Slices of Life
+tt1585572,Mocland - A super space adventure
+tt1586255,L'invasione degli astronazi
+tt1587666,Alien Vengeance
+tt1590125,My iz budushchego 2
+tt1592209,The Defiled
+tt1593655,Browncoats: Redemption
+tt1595006,The Last Zombi Hunter
+tt1597044,"Mirror, Mirror"
+tt1597103,Programmable Dreams
+tt1597127,Saberfrog
+tt1600765,Made Out Alive
+tt1602617,The Corridor
+tt1603488,The Lift
+tt1613047,Mission Park
+tt1614408,Time Traveller
+tt1615842,Fallen Souls
+tt1616128,Never Escape
+tt1616203,One Day
+tt1619016,Avenging Force: The Scarab
+tt1620549,Hooked 2: Next Level
+tt1629716,Nydenion
+tt1634022,The Sylvian Experiments
+tt1637674,Alien Vengeance II: Rogue Element
+tt1640193,Toxic Lullaby
+tt1642193,Death Kappa
+tt1645774,I'm Not Jesus Mommy
+tt1649970,The Dead Can't Dance
+tt1653097,When London Sleeps It Came Alive
+tt1653913,Helldriver
+tt1657458,The Realm
+tt1661266,Deep Contact
+tt1662534,Megaman
+tt1665730,GPS
+tt1665744,Iron Soldier
+tt1670229,Enemy Mind
+tt1670983,Electric Mind
+tt1674197,The Corrupted
+tt1674769,Ashes
+tt1677514,Andante
+tt1680008,The Invisible Atomic Monsters from Mars
+tt1682376,Ultraman Zero: The Revenge of Belial
+tt1682893,Dual: Herederos del pasado
+tt1688676,Waking Up
+tt1691832,City Under Siege
+tt1692193,Final Flesh
+tt1692231,Zombie Epidemic
+tt1692889,Plug & Pray
+tt1697696,Project Nine
+tt1700742,Blonde Ringlet
+tt1702405,The Zombie Hero
+tt1702436,Oh! Toumei ningen
+tt1706542,The Ah of Life
+tt1709173,Unaware
+tt1710994,Loups=Garous
+tt1711447,Bikini Monsters
+tt1715788,Hamesima X
+tt1717202,Rex Kyro: Mission to Marry
+tt1719680,Wendigo: Bound by Blood
+tt1732544,All the President's Favorite Foods
+tt1734170,Tin Can
+tt1735277,A Break in the Clouds
+tt1735942,White Whale
+tt1736026,Light
+tt1740744,Gol a Gol
+tt1743711,Red Eagle
+tt17442954,UFO: Allarme rosso... Attacco alla Terra!
+tt1745766,Mortifera
+tt1754388,Quam
+tt1754711,Shapeshifter
+tt1754743,Thomas Mao
+tt1764232,Children of the X-Files
+tt1773063,Samchongsa: Taimmeosin 001
+tt1773577,The Place Where the Last Man Died
+tt1773635,Project-X
+tt1773645,Red Zone
+tt1773774,The Untitled Kartik Krishnan Project
+tt1774607,The Family Complete
+tt1776168,"Earth and Space Peace, Moona History 1"
+tt1780982,Snapped
+tt1784603,Retorno
+tt1794784,End of Animal
+tt1796581,Parody Movie
+tt1807055,Time-Men
+tt1815582,Alien Encounter
+tt1815733,"Hank, Aaron and the Alien from Outer Space"
+tt1815938,Spacebong Beach Babes
+tt18183916,Star War the Third Gathers: The Backstroke of the West
+tt1820678,Space Tours: Mission E.V.A.
+tt1825207,Zombie Abomination: The Italian Zombie Movie - Part 1
+tt1825735,Dark Metropolis
+tt1831832,Star Appeal
+tt1837540,Cudoviste iz Tamisa
+tt1843196,Last Days
+tt1851831,27 Down
+tt1852060,Oko Boga
+tt1862489,Robot Taekwon V: Wooju jakjeon
+tt1865490,Robot Taekwon V 3tan! Sujung teukgongdae
+tt1869593,The Almighty Tycoon of the Ninja
+tt1874412,AniMen: Triton Force
+tt1876229,6 Angels
+tt1893336,Single Minded
+tt1900891,Haunters
+tt1906474,The Devil's Window
+tt1918917,Little Boy Blue: Tiny Terrestrial
+tt1926325,Seupakeumaen
+tt1937316,Sex Wars
+tt1947979,Defenders of Space
+tt1948043,Huo xing ren
+tt1948614,The Cosmos Conqueror
+tt1950327,Solar Adventure
+tt1972636,Death Run
+tt1974232,Chandrayaan
+tt1976589,Space Transformer
+tt1986206,Captain of Cosmos
+tt1987649,Raiders of Galaxy
+tt1990308,Ratstar
+tt1993354,Jeonja ingan 337
+tt1996392,Wonder of Frontier
+tt1996429,Timeserver
+tt1996455,Zhan shen
+tt2007358,Cheolin samchongsa
+tt2010942,Cassette
+tt2020056,Kamen Rider Blade: Missing Ace
+tt2022573,The Time Surgeon
+tt2057997,La notte eterna del coniglio
+tt2076276,Monolog
+tt2076782,Death Happen
+tt2109129,Genesi: The First Key
+tt2111385,Popular Unrest
+tt2114377,Encarta IV: Dark Hope
+tt2145853,RiffTrax Live: Plan 9 from Outer Space
+tt2162146,Gravity & Grace
+tt2181912,Sons of Steel - directors cut
+tt2199311,King of Snakes
+tt2243192,Ultraman Cosmos vs. Ultraman Justice: The Final Battle
+tt2246396,Kazachya byl
+tt2248755,Doppelgänger
+tt2330749,Cambio de sentido
+tt2337879,"Cries of Ecstasy, Blows of Death"
+tt2385237,The Hands of a Madman
+tt2419808,The Astrologer
+tt2457504,Delta Space Mission
+tt2626660,The Ozone Layer Vanishes
+tt2665072,Eutamnesia
+tt2700916,Star Trek I: Specter of the Past
+tt3027676,O Monstro Legume do Espaço
+tt3088040,Senario XX
+tt3238456,Letniye vpechatleniya o planete Z
+tt3263152,Hanuman and the 5 Kamen Riders
+tt3263160,Jumborg Ace & Giant
+tt3267254,Death to the Pee Wee Squad
+tt3355532,The Men in Black
+tt3385874,Nova Express
+tt3710822,Juego de niños
+tt3747600,The 1st of November Party: Through the Pages of Fairy Tales
+tt3916196,Things to Come
+tt4011600,Mun ma gub kwam mud
+tt4022932,Alien Babes
+tt4048480,Chousei Kantai Sazer-X the Movie: Fight! Star Warriors
+tt4130762,Turn A Gundam: Earth Light
+tt4130788,Turn A Gundam: Movie II: Moonlight Butterfly
+tt4147218,The World in the Year 2000
+tt4148284,Ghawar the Football Player
+tt4172568,Building No. 13
+tt4245838,Into the Void
+tt4263880,Elage
+tt4387006,Kiddy Grade: Maelstrom
+tt4400926,Kong: Return to the Jungle
+tt4415478,Kiddy Grade: Truth Dawn
+tt4533870,Ekstrasens
+tt4597490,Video Girl Ai
+tt4687330,Night Passage
+tt5121424,Kolobakha
+tt5150824,S uma soyti!
+tt5151028,Chyornyy kloun
+tt5156686,Novogodnyaya istoriya
+tt5252440,Hot Wheels Acceleracers the Ultimate Race
+tt5437514,Kreyk
+tt5830198,"Komu vgoru, komu vniz"
+tt5913550,SG3: Sword of the Samurai
+tt5980526,Alien brainsuckers
+tt6082470,Mastera poroka
+tt6676134,Feng kuang de tu zi
+tt7156464,I Love the Earth
+tt7243552,USS Angeles: The Price of Duty
+tt7392160,Wonder boy
+tt7763324,Amazing Stories
+tt7813256,Du wen
+tt8474326,Skin Eating Jungle Vampires
+tt8550848,Secret of Bigfoot
+tt9015178,The Return of Godzilla
+tt9870502,Star Trek: The Infinite Chain
+tt9876412,Star Trek: The Final Darkness

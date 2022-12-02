@@ -1,0 +1,2513 @@
+tconst,primaryTitle
+tt0064491,Winter in Mallorca
+tt0064727,The Bloody Judge
+tt0064832,Posol Sovetskogo Soyuza
+tt0065034,Staryy dom
+tt0065127,Tchaikovsky
+tt0065447,Ballada o Beringe i ego druzyakh
+tt0065501,A Bullet for Pretty Boy
+tt0065547,Chisum
+tt0065549,The Christine Jorgensen Story
+tt0065593,Cromwell
+tt0065688,Zapata
+tt0065792,"Goya, historia de una soledad"
+tt0066078,Michael the Brave
+tt0066109,The Music Lovers
+tt0066130,Ned Kelly
+tt0066206,Patton
+tt0066393,Song of Norway
+tt0066430,The Loves of Liszt
+tt0066494,Tropic of Cancer
+tt0066549,Waterloo
+tt0066730,10 Rillington Place
+tt0066787,One Day Before the Rainy Season
+tt0066885,Cao-Xa
+tt0066916,Chyornye sukhari
+tt0066993,The Devils
+tt0066997,Directed by John Ford
+tt0067069,Evel Knievel
+tt0067276,Joe Hill
+tt0067402,"Mary, Queen of Scots"
+tt0067456,The Murder of Fred Hampton
+tt0067483,Nicholas and Alexandra
+tt0067548,Pan Dodek
+tt0067648,Raga
+tt0067658,Von Richthofen and Brown
+tt0067698,Sacco & Vanzetti
+tt0067819,The Secret of a Great Narrator
+tt0067852,Three Lives
+tt0068182,"Aguirre, the Wrath of God"
+tt0068223,Arruza
+tt0068226,Mordet på Trotskij
+tt0068346,The Mattei Affair
+tt0068379,Ciao Manhattan
+tt0068383,Ciprian Porumbescu
+tt0068428,The Cross and the Switchblade
+tt0068446,The Darwin Adventure
+tt0068487,Dirty Little Billy
+tt0068585,Film Portrait
+tt0068662,The Great Waltz
+tt0068679,Harminckét nevem volt
+tt0068828,Lady Sings the Blues
+tt0068883,Ludwig
+tt0068884,Ludwig - Requiem for a Virgin King
+tt0068903,Malcolm X
+tt0068918,Manson
+tt0068924,Marjoe
+tt0069057,Pancho Villa
+tt0069110,Pope Joan
+tt0069168,Reed: Insurgent Mexico
+tt0069225,Savage Messiah
+tt0069412,Trotz alledem!
+tt0069434,Ukroshcheniye ognya
+tt0069438,I Am a Dancer
+tt0069528,Young Winston
+tt0069824,"Brother Sun, Sister Moon"
+tt0069976,Dillinger
+tt0069977,Cantemir
+tt0070008,Duma o Kovpake: Nabat
+tt0070109,Giordano Bruno
+tt0070170,Henry VIII and His Six Wives
+tt0070184,Hitler: The Last Ten Days
+tt0070242,Jimi Hendrix
+tt0070260,Coup d'Etat
+tt0070278,Kopernik
+tt0070325,Little Laura and Big John
+tt0070336,Der Lord von Barmbeck
+tt0070346,Luther
+tt0070377,Maurie
+tt0070403,The Mommila Murders
+tt0070431,Nadezhda
+tt0070511,Papillon
+tt0070518,Pat Garrett & Billy the Kid
+tt0070520,Pavlos Melas
+tt0070666,Serpico
+tt0070792,Theodor Hierneis oder Wie man ehem. Hofkoch wird
+tt0070895,Walking Tall
+tt0070957,Tenderness of the Wolves
+tt0071085,43: The Richard Petty Story
+tt0071096,The Abdication
+tt0071125,Aloïse
+tt0071148,Year One
+tt0071151,Antonia: A Portrait of the Woman
+tt0071163,Kenji Mizoguchi: The Life of a Film Director
+tt0071219,A Bigger Splash
+tt0071253,Bruce Lee's Deadly Kung Fu
+tt0071411,Dersu Uzala
+tt0071438,The Dove
+tt0071454,"Eadweard Muybridge, Zoopraxographer"
+tt0071545,Georgiy Sedov
+tt0071559,Gniazdo
+tt0071579,The Great McGonagall
+tt0071600,The High Solitudes
+tt0071691,The Enigma of Kaspar Hauser
+tt0071713,Karl May
+tt0071746,Lenny
+tt0071782,Lucky Luciano
+tt0071783,Young Lucrezia
+tt0071797,Mahler
+tt0071880,The Last 4 Days
+tt0071995,Piaf: The Early Years
+tt0072068,Little Raoul
+tt0072151,Prince Ehtejab
+tt0072204,Stavisky
+tt0072205,Stephen the Great - Vaslui 1475
+tt0072371,Les violons du bal
+tt0072382,Vybor tseli
+tt0072416,Wolz - Life and Illusion of a German Anarchist
+tt0072443,Mirror
+tt0072745,Bruce Lee and I
+tt0072761,Capone
+tt0072890,Dog Day Afternoon
+tt0072893,Doktor Mladen
+tt0072896,Don Milani
+tt0072916,Duma o Kovpake: Buran
+tt0073026,Funny Lady
+tt0073029,Galileo
+tt0073039,The Gentleman Tramp
+tt0073053,"Give 'em Hell, Harry!"
+tt0073091,The Happy Hooker
+tt0073109,The Hiding Place
+tt0073114,The Story of Adele H
+tt0073193,Janis
+tt0073208,A Woman Called Sada Abe
+tt0073230,Kazimierz Wielki
+tt0073279,Lepke
+tt0073298,Lisztomania
+tt0073302,Murph the Surf
+tt0073326,Marco Polo
+tt0073496,The Other Side of the Mountain
+tt0073849,Trip Around My Cranium
+tt0073873,Vozdukhoplavatel
+tt0073880,Walking Tall Part II
+tt0073911,Winstanley
+tt0074194,Beethoven-Days in a Life
+tt0074235,Bound for Glory
+tt0074291,Fellini's Casanova
+tt0074398,The Disenchantment
+tt0074439,The American Dream
+tt0074446,"Duma o Kovpake: Karpaty, Karpaty..."
+tt0074562,Gable and Lombard
+tt0074581,"Goodbye, Norma Jean"
+tt0074639,The Man Who Knew Love
+tt0074678,The Incredible Sarah
+tt0074712,Jaroslaw Dabrowski
+tt0074781,Leadbelly
+tt0074896,The Message
+tt0075143,The Message
+tt0075304,Tak nachinalas legenda
+tt0075409,W.C. Fields and Me
+tt0075652,Beyond Good and Evil
+tt0075688,Antonio Gramsci: The Days of Prison
+tt0075707,Aurel Vlaicu
+tt0075708,Death Is My Trade
+tt0075786,Brigham
+tt0075787,Brothers
+tt0076106,Greased Lightning
+tt0076111,The Greatest
+tt0076115,La güera Rodríguez
+tt0076133,Heinrich
+tt0076147,Hitler: A Film from Germany
+tt0076165,The Frenchman's Garden
+tt0076166,Hughes and Harlow: Angels in Hell
+tt0076212,"Stand Up Straight, Delfina"
+tt0076325,A Look at Liv
+tt0076342,MacArthur
+tt0076344,Mackan
+tt0076390,My Daughter Hildegart
+tt0076517,Padre Padrone
+tt0076567,The Private Files of J. Edgar Hoover
+tt0076864,Utamaro's World
+tt0076868,Valentino
+tt0076890,Viva Knievel!
+tt0076918,Who Are the DeBolts? and Where Did They Get Nineteen Kids?
+tt0077122,"Addio, piccola mia"
+tt0077261,Born Again
+tt0077280,The Buddy Holly Story
+tt0077283,The Mace with Three Seals
+tt0077318,The Chant of Jimmie Blacksmith
+tt0077600,"... gdziekolwiek jestes, panie prezydencie..."
+tt0077722,A Ilha dos Amores
+tt0077838,The Last Waltz
+tt0077850,"Bruce Lee: The Man, the Myth"
+tt0077925,The Messiah
+tt0077928,Midnight Express
+tt0077941,Molière
+tt0077964,My Way Home
+tt0078044,The Other Side of the Mountain: Part II
+tt0078084,The Adventures of Picasso
+tt0078186,Runoilija ja muusa
+tt0078321,Stevie
+tt0078843,The Bell Jar
+tt0078850,Best Boy
+tt0078865,Birth of the Beatles
+tt0078892,"Bolívar, a Tropical Symphony"
+tt0078897,Bosko Buha
+tt0078974,Cinematógrafo 1900
+tt0078987,"Companys, procés a Catalunya"
+tt0079029,Dawn!
+tt0079116,Escape from Alcatraz
+tt0079277,He Never Gives Up
+tt0079368,The Jesus Film
+tt0079542,Meetings with Remarkable Men
+tt0079596,My Brilliant Career
+tt0079730,Poema o krylyakh
+tt0079878,Sekret Enigmy
+tt0079920,The Brontë Sisters
+tt0079985,The Secret Life of Nikola Tesla
+tt0080031,Tom Horn
+tt0080381,Aria dla atlety
+tt0080480,Burebista
+tt0080492,Can't Stop the Music
+tt0080518,Charlotte
+tt0080549,Coal Miner's Daughter
+tt0080563,The Other One
+tt0080594,The Day After Trinity
+tt0080678,The Elephant Man
+tt0080686,Slow Attack
+tt0080906,Hungerjahre - in einem reichen Land
+tt0080907,The Hunter
+tt0080913,The Idolmaker
+tt0080966,Joni
+tt0081014,Krakh operatsii Terror
+tt0081059,The Lion of the Desert
+tt0081071,The Long Riders
+tt0081109,The Man Who Saw Tomorrow
+tt0081235,Nijinsky
+tt0081398,Raging Bull
+tt0081430,Amin: The Rise and Fall
+tt0081435,Romaneto
+tt0081748,Where the Buffalo Roam
+tt0081766,The Wizard of Speed and Time
+tt0081991,Rasputin
+tt0082091,Boldyn
+tt0082156,Chanel Solitaire
+tt0082158,Chariots of Fire
+tt0082168,O Chico Fininho
+tt0082176,Christiane F.
+tt0082225,Céleste
+tt0082311,Egon Schiele: Excess and Punishment
+tt0082356,Banovic Strahinja
+tt0082408,Francisca
+tt0082434,Gangster Wars
+tt0082578,The Wanderings of Jan Amos
+tt0082702,Malou
+tt0082751,Milosc ci wszystko wybaczy
+tt0082766,Mommie Dearest
+tt0082940,Priest of Love
+tt0082979,Reds
+tt0083193,This Is Elvis
+tt0083237,Flame Top
+tt0083267,Outlaw: The Saga of Gisli
+tt0083283,Victor Seastrom
+tt0083327,Wie de Waarheid Zegt Moet Dood
+tt0083342,Wrong Side of the Road
+tt0083356,From a Far Country
+tt0083517,Abuse
+tt0083567,Antonieta
+tt0083633,Before the Nickelodeon: The Early Cinema of Edwin S. Porter
+tt0083637,Boy Meets Girl
+tt0083710,Caligula and Messalina
+tt0083789,Danton
+tt0083872,Another Way
+tt0083967,Frances
+tt0083987,Gandhi
+tt0084044,Hajji Washington
+tt0084051,Fiona
+tt0084111,I'm Dancing as Fast as I Can
+tt0084117,If You Could See What I Hear
+tt0084136,The Flight of the Eagle
+tt0084311,Mat Mariya
+tt0084313,Matter of Heart
+tt0084335,Missing
+tt0084388,Diary for My Children
+tt0084589,The Return of Martin Guerre
+tt0084631,Satyajit Ray
+tt0084720,Squizzy Taylor
+tt0084870,Memories and Confessions
+tt0084893,We of the Never Never
+tt0084897,The White Rose
+tt0085138,Adi Shankaracharya
+tt0085175,The Man with the Carnation
+tt0085190,For Those I Loved
+tt0085218,Barefoot Gen
+tt0085320,Champions
+tt0085370,Entre Nous
+tt0085380,Cross Creek
+tt0085421,Demidovy
+tt0085445,Bozská Ema
+tt0085477,Edith and Marcel
+tt0085568,Spring Symphony
+tt0085622,The Grey Fox
+tt0085656,Heart Like a Wheel
+tt0085685,The Man in the Silk Hat
+tt0085689,Savage Attraction
+tt0085748,"Jára Cimrman Lying, Sleeping"
+tt0085835,Pharos of Chaos
+tt0085905,Marlene
+tt0085958,Montgomery Clift
+tt0086102,Phar Lap
+tt0086197,The Right Stuff
+tt0086220,Running Brave
+tt0086278,Semyon Dezhnev
+tt0086312,Silkwood
+tt0086355,Star 80
+tt0086372,The Story of Piera
+tt0086387,Summerspell
+tt0086495,U bent mijn moeder
+tt0086879,Amadeus
+tt0086904,Another Country
+tt0086945,The Bear
+tt0087039,Cento giorni a Palermo
+tt0087064,Claretta Petacci
+tt0087171,Down on Us
+tt0087231,The Falcon and the Snowman
+tt0087297,Frida
+tt0087322,George Stevens: A Filmmaker's Journey
+tt0087441,Hälfte des Lebens
+tt0087530,Kamalolmolk
+tt0087542,Katastrofa w Gibraltarze
+tt0087553,The Killing Fields
+tt0087615,Lev Tolstoy
+tt0087676,A Man Like Eva
+tt0087712,Mesrine
+tt0087813,Noi tre
+tt0087952,Przeznaczenie
+tt0087961,Qiu Jin
+tt0088073,The Secret Diary of Sigmund Freud
+tt0088074,Secret Honor
+tt0088275,The Times of Harvey Milk
+tt0088371,A vörös grófnö
+tt0088658,A.K.
+tt0088740,Artie Shaw: Time Is All You've Got
+tt0088812,Het bittere kruid
+tt0088980,Da Capo
+tt0088987,Dance with a Stranger
+tt0088989,Dario Argento's World of Horror
+tt0089052,Dreamchild
+tt0089310,Huey Long
+tt0089410,"Kerouac, the Movie"
+tt0089420,King David
+tt0089555,Marie
+tt0089560,Mask
+tt0089585,Meteor & Shadow
+tt0089603,Mishima: A Life in Four Chapters
+tt0089647,My American Cousin
+tt0089716,Colonel Redl
+tt0089755,Out of Africa
+tt0089933,Romanza final (Gayarre)
+tt0089958,Samuel Lount
+tt0090110,Sweet Dreams
+tt0090113,Sylvia
+tt0090185,"A Time to Live, a Time to Die"
+tt0090312,What Happened to Kerouac?
+tt0090326,Wills & Burke
+tt0090354,"Yo, 'El Vaquilla'"
+tt0090365,Zastihla me noc
+tt0090372,Zina
+tt0090570,84 Charing Cross Road
+tt0090572,A futura memoria: Pier Paolo Pasolini
+tt0090637,Amorosa
+tt0090769,The Boy in Blue
+tt0090798,Caravaggio
+tt0090806,Caspar David Friedrich - Grenzen der Zeit
+tt0090826,Chicherin
+tt0091126,God's Outlaw
+tt0091295,"Jo Jo Dancer, Your Life Is Calling"
+tt0091367,Käthe Kollwitz
+tt0091374,Lady Jane
+tt0091399,Lermontov
+tt0091533,Moa
+tt0091558,Mother Teresa
+tt0091712,Oviri
+tt0091783,Poslednyaya doroga
+tt0091869,Rosa Luxemburg
+tt0091943,Sherman's March
+tt0091954,Sid and Nancy
+tt0092553,The Loves of Kafka
+tt0092675,Bloodsport
+tt0092732,Castaway
+tt0092758,Chuck Berry: Hail! Hail! Rock 'n' Roll
+tt0092804,Cry Freedom
+tt0092814,Love Sins
+tt0093054,Le frère André
+tt0093105,"Good Morning, Vietnam"
+tt0093125,Gui hua xiang
+tt0093183,The Hero's Journey: The World of Joseph Campbell
+tt0093194,Hip Hip Hurrah!
+tt0093295,Jane B. for Agnes V.
+tt0093317,John and the Missus
+tt0093338,The Kid Brother
+tt0093378,La Bamba
+tt0093389,The Last Emperor
+tt0093458,El Lute: Run for Your Life
+tt0093571,Farewell Moscow
+tt0093599,Diary for My Lovers
+tt0093776,Prick Up Your Ears
+tt0094027,Stand and Deliver
+tt0094269,Vincent
+tt0094711,Baptême
+tt0094747,Bird
+tt0094828,Camille Claudel
+tt0094924,A Cry in the Dark
+tt0095051,Don Bosco
+tt0095127,Fallada: The Last Chapter
+tt0095148,Purgatory
+tt0095243,Gorillas in the Mist
+tt0095275,Hanna's War
+tt0095280,Haunted Summer
+tt0095301,High Fidelity
+tt0095341,Hôtel Terminus
+tt0095360,Imagine: John Lennon
+tt0095408,"John Huston: The Man, the Movies, the Maverick"
+tt0095433,The Summer of Aviya
+tt0095515,Let's Get Lost
+tt0095559,El Lute II: Tomorrow I'll Be Free
+tt0095601,Matar al Nani
+tt0095619,Mensagem
+tt0095677,Murder One
+tt0095836,Patty Hearst
+tt0095856,Pestalozzis Berg
+tt0095948,I ragazzi di via Panisperna
+tt0096029,Salome's Last Dance
+tt0096209,Turning Table
+tt0096250,Testimony
+tt0096309,Three Seats for the 26th
+tt0096316,Tucker: The Man and His Dream
+tt0096409,Walker
+tt0096411,Waller's Last Trip
+tt0096488,Young Toscanini
+tt0096520,Århus by night
+tt0096740,300 Miles to Heaven
+tt0096815,And the Violins Stopped Playing
+tt0096857,L'Autrichienne
+tt0096862,Evenings
+tt0096943,Blaze
+tt0096969,Born on the Fourth of July
+tt0097070,Clovek proti zkáze
+tt0097099,Common Threads: Stories from the Quilt
+tt0097100,Communion
+tt0097336,Fat Man and Little Boy
+tt0097382,Helmut Newton: Frames from the Edge
+tt0097383,Francesco
+tt0097422,Gesucht: Monika Ertl
+tt0097441,Glory
+tt0097449,"Goodnight, Sweet Marilyn"
+tt0097457,Great Balls of Fire!
+tt0097499,Henry V
+tt0097515,"Hiver 54, l'abbé Pierre"
+tt0097572,"In meinem Herzen, Schatz..."
+tt0097634,Justice Denied
+tt0097683,Kramarz
+tt0097818,Malarek
+tt0097937,My Left Foot
+tt0097999,Nocny gosc
+tt0098036,Oszolomienie
+tt0098052,Paganini
+tt0098204,Rikyû
+tt0098215,Rok i fortuna
+tt0098219,Romero
+tt0098232,Ruf
+tt0098391,Stradivari
+tt0098465,"Thelonious Monk: Straight, No Chaser"
+tt0098513,Triumph of the Spirit
+tt0098651,Prisoner of Rio
+tt0098660,Wired
+tt0098989,Life Is Like a Cucumber
+tt0099015,Alle Juden raus!
+tt0099040,An Angel at My Table
+tt0099077,Awakenings
+tt0099127,Bethune: The Making of a Hero
+tt0099241,Charuga
+tt0099242,Chattahoochee
+tt0099265,Kawashima Yoshiko
+tt0099266,My Mother's Castle
+tt0099446,Dr. Petiot
+tt0099584,Of Flesh and Blood
+tt0099669,My Father's Glory
+tt0099673,"Good Evening, Mr. Wallenberg"
+tt0099685,Goodfellas
+tt0099762,Henry & June
+tt0099763,Henry: Portrait of a Serial Killer
+tt0099874,"Jean Galmot, aventurier"
+tt0099949,Korczak
+tt0099951,The Krays
+tt0099965,Lacenaire
+tt0100145,Michelangelo: A Self Portrait
+tt0100223,Diary for My Father and Mother
+tt0100234,Close-Up
+tt0100402,Prazakum tem je hej
+tt0100486,Reversal of Fortune
+tt0100546,Sandino
+tt0100558,Schweitzer
+tt0100619,Silent Scream
+tt0100654,Solo de Violino
+tt0100682,La stanza delle parole
+tt0100873,Vincent & Theo
+tt0100878,Cellini: A Violent Life
+tt0100891,Vrag naroda - Bukharin
+tt0100990,"I, the Worst of All"
+tt0101316,The Lover
+tt0101370,Arthur Rimbaud - Une biographie
+tt0101416,Becoming Colette
+tt0101460,Bix
+tt0101490,To Be Number One
+tt0101516,Bugsy
+tt0101529,Cabeza de Vaca
+tt0101578,China Cry: A True Story
+tt0101650,Dalí
+tt0101761,The Doors
+tt0101996,Hammers Over the Anvil
+tt0102091,And the Wind Returneth
+tt0102103,Impromptu
+tt0102130,Isabelle Eberhardt
+tt0102134,Ítéletlenül
+tt0102141,Jacquot de Nantes
+tt0102252,De laatste sessie
+tt0102419,Max Ernst: Mein Vagabundieren - Meine Unruhe
+tt0102444,Milena
+tt0102523,Nelligan
+tt0102610,Otkroveniye Ioanna Pervopechatnika
+tt0102674,The Pistol: The Birth of a Legend
+tt0102707,Preminger: Anatomy of a Filmmaker
+tt0102739,Long Live the Hobos
+tt0102816,Center Stage
+tt0102998,Strip Jack Naked: Nighthawks II
+tt0103008,Superstar: The Life and Times of Andy Warhol
+tt0103110,Tous les matins du monde
+tt0103190,Van Gogh
+tt0103340,Life for Life: Maximilian Kolbe
+tt0103594,1492: Conquest of Paradise
+tt0103669,American Fabulous
+tt0103671,American Me
+tt0103747,The Babe
+tt0103838,The Inner Circle
+tt0103882,A Brief History of Time
+tt0103938,Changing Our Minds: The Story of Dr. Evelyn Hooker
+tt0103939,Chaplin
+tt0103962,Christopher Columbus: The Discovery
+tt0104018,Cousin Bobby
+tt0104045,Daddy and the Muscle Academy
+tt0104046,Daens
+tt0104099,O Dia do Desespero
+tt0104303,Frida Kahlo: A Ribbon Around a Bomb
+tt0104350,The Best Intentions
+tt0104427,Hoffa
+tt0104461,Hugh Hefner: Once Upon a Time
+tt0104475,I Am My Own Woman
+tt0104753,The Long Day Closes
+tt0104756,Lorenzo's Oil
+tt0104775,Lumumba: Death of a Prophet
+tt0104797,Malcolm X
+tt0104810,Manufacturing Consent: Noam Chomsky and the Media
+tt0104918,Death of a Neapolitan Mathematician
+tt0104945,Branford Marsalis: The Music Tells You
+tt0104946,Music for the Movies: Bernard Herrmann
+tt0104978,Need vanad armastuskirjad
+tt0105026,November Days
+tt0105032,Savage Nights
+tt0105268,Rock Hudson's Home Movies
+tt0105291,Ruby
+tt0105358,Tsenzuru k pamyati ne dopuskayu
+tt0105438,Dream of Light
+tt0105511,Sunday's Children
+tt0105570,Texas Tenor: the Illinois Jacquet Story
+tt0105596,Time Will Tell
+tt0105618,The Last Bolshevik
+tt0105839,Once Upon a Time in China II
+tt0105841,"Wszystko, co najwazniejsze..."
+tt0105895,Zhou Enlai
+tt0106246,Alive
+tt0106290,Anna ot 6 do 18
+tt0106339,Backbeat
+tt0106383,Belle van Zuylen - Madame de Charrière
+tt0106438,Blue
+tt0106457,The Strange Tale of Oyuki
+tt0106485,The Broadcast Tapes of Dr. Peter
+tt0106560,Chopin - Bilder einer Trennung
+tt0106637,The Curse of the Dragon
+tt0106745,Domenica
+tt0106770,Dragon: The Bruce Lee Story
+tt0106774,Dreamrider
+tt0106810,En compagnie d'Antonin Artaud
+tt0106912,Fire in the Sky
+tt0106989,"Gatica, the Monkey"
+tt0107096,Heaven & Earth
+tt0107130,A Home of Our Own
+tt0107157,The Puppetmaster
+tt0107158,A Soul Haunted by Painting
+tt0107187,"Ich will nicht nur, daß ihr mich liebt - Der Filmemacher Rainer Werner Fassbinder"
+tt0107207,In the Name of the Father
+tt0107243,Jack L. Warner: The Last Mogul
+tt0107259,Joan the Maid 1: The Battles
+tt0107260,Joan the Maid 2: The Prisons
+tt0107323,Kino
+tt0107339,Kontesa Dora
+tt0107419,Lillian
+tt0107446,"Louis, enfant roi"
+tt0107457,Ludwig 1881
+tt0107472,"The Wonderful, Horrible Life of Leni Riefenstahl"
+tt0107533,The Blue Exile
+tt0107756,Orlando
+tt0107893,The Case of Bronek Pekosinski
+tt0108002,Rudy
+tt0108028,Sakay
+tt0108052,Schindler's List
+tt0108065,Searching for Bobby Fischer
+tt0108085,Serye volki
+tt0108101,Shadowlands
+tt0108206,Split: William to Crysis: Portrait of a Drag Queen
+tt0108291,Wild Tango
+tt0108323,Theremin: An Electronic Odyssey
+tt0108328,Thirty Two Short Films About Glenn Gould
+tt0108330,This Boy's Life
+tt0108341,Time Indefinite
+tt0108358,Tombstone
+tt0108362,Toki rakujitsu
+tt0108396,Trotskiy
+tt0108501,Viva Castro!
+tt0108551,What's Love Got to Do with It
+tt0108583,Wittgenstein
+tt0108592,Once Upon a Time in China III
+tt0108644,Zai na yao yuan de di fang
+tt0108660,Zohar
+tt0109021,8 Seconds
+tt0109177,Aya: Imagined Autobiography
+tt0109206,Bandit Queen
+tt0109333,Bread & Roses
+tt0109381,Carmen Miranda: Bananas Is My Business
+tt0109382,Dear Diary
+tt0109385,Houses of Fire
+tt0109450,Cobb
+tt0109457,Colorado Cowboy: The Bruce Ford Story
+tt0109462,Coming Out Under Fire
+tt0109474,The Jodorowsky Constellation
+tt0109508,Crumb
+tt0109601,Les derniers jours d'Emmanuel Kant
+tt0109621,Dichiarazioni d'amore
+tt0109707,Ed Wood
+tt0109740,"Ernesto Che Guevara, the Bolivian Diary"
+tt0109771,Farinelli
+tt0109835,Frank & Jesse
+tt0110005,Heavenly Creatures
+tt0110047,Home Suite
+tt0110115,Imaginary Crimes
+tt0110116,Immortal Beloved
+tt0110217,Jupiter's Wife
+tt0110298,Lamarca
+tt0110428,The Madness of King George
+tt0110474,Mary: The Mary MacKillop Story
+tt0110480,Maya Lin: A Strong Clear Vision
+tt0110496,Mesmer
+tt0110520,"Carl, My Childhood Symphony"
+tt0110560,Montand
+tt0110588,Mrs. Parker and the Vicious Circle
+tt0110670,Niki de Saint Phalle
+tt0110689,Nostradamus
+tt0110877,The Postman
+tt0110932,Quiz Show
+tt0110963,Queen Margot
+tt0111007,Rock 'n' Roll Junkie
+tt0111271,Squanto: A Warrior's Tale
+tt0111366,Tarzan of Manisa
+tt0111454,Tom & Viv
+tt0111469,Tracking Down Maggie: The Unofficial Biography of Margaret Thatcher
+tt0111505,Trying to Kiss the Moon
+tt0111538,Ulrike Marie Meinhof
+tt0111622,The Sex Life of the Belgians
+tt0111756,Wyatt Earp
+tt0111848,Zorn
+tt0112315,"Aletta Jacobs, het hoogste streven"
+tt0112316,Alfred
+tt0112373,Anne Frank Remembered
+tt0112393,Art for Teachers of Children
+tt0112461,The Basketball Diaries
+tt0112474,Beim nächsten Kuß knall ich ihn nieder
+tt0112476,Belmonte
+tt0112573,Braveheart
+tt0112631,Carl Th. Dreyer: My Métier
+tt0112637,Carrington
+tt0112792,Dangerous Minds
+tt0112862,The Diary of Anne Frank
+tt0112962,L'enfant noir
+tt0112964,"England, My England"
+tt0113125,From the Journals of Jean Seberg
+tt0113137,Für mich soll's rote Rosen regnen
+tt0113151,Die Gebrüder Skladanowsky
+tt0113254,Hank Aaron: Chasing the Dream
+tt0113270,The Haunted World of Edward D. Wood Jr.
+tt0113463,Jefferson in Paris
+tt0113542,Killer: A Journal of Murder
+tt0113581,Kun en pige
+tt0113685,Lola Mora
+tt0113763,Maniya Zhizeli
+tt0113961,Neurosia: Fifty Years of Perversion
+tt0113973,Nico Icon
+tt0113987,Nixon
+tt0113991,No One Could Protect Her
+tt0114272,Restoration
+tt0114287,Rob Roy
+tt0114413,Sharaku
+tt0114461,The Seventh Room
+tt0114644,Teddy Kollek
+tt0114646,Tender Fictions
+tt0114702,Total Eclipse
+tt0114914,When Billy Broke His Head... and Other Tales of Wonder
+tt0114938,Wild Bill
+tt0114939,Wild Bill: Hollywood Maverick
+tt0115632,Basquiat
+tt0115766,The Bruce
+tt0115849,Cavafy
+tt0116212,Entertaining Angels: The Dorothy Day Story
+tt0116238,Eva Peron: The True Story
+tt0116250,Evita
+tt0116330,My Forgotten Man
+tt0116357,"Frantz Fanon: Black Skin, White Mask"
+tt0116480,Hamsun
+tt0116593,I Shall Not Be Removed: The Life of Marlon Riggs
+tt0116594,I Shot Andy Warhol
+tt0116595,I Was a Jewish Sex Worker
+tt0116621,In Love and War
+tt0116635,Infinity
+tt0116711,John Henrik Clarke: A Great and Mighty Walk
+tt0116749,Kathapurushan
+tt0116759,The Cherry Pick
+tt0116886,The Line King: The Al Hirschfeld Story
+tt0116980,Mandela
+tt0116987,Marco Polo: The Missing Chapter
+tt0117039,Michael Collins
+tt0117058,"Mirror, Mirror"
+tt0117106,Death in Granada
+tt0117192,No Sex Last Night
+tt0117196,Nobody's Business
+tt0117310,Paul Monette: The Brink of Summer's End
+tt0117318,The People vs. Larry Flynt
+tt0117418,Who Killed Pixote?
+tt0117631,Shine
+tt0117669,Small Wonders
+tt0117733,Stardust Stricken - Mohsen Makhmalbaf: A Portrait
+tt0117791,Surviving Picasso
+tt0117810,Poznan 56
+tt0117830,The Cinderella of Tallinn
+tt0117868,Tears of Stone
+tt0117873,Tell the Truth and Run: George Seldes and the American Press
+tt0117906,Tiburzi
+tt0117917,Timothy Leary's Dead
+tt0118026,And Nobody Weeps for Me
+tt0118084,Le violon de Rothschild
+tt0118109,W.E.B. DuBois: A Biography in Four Voices
+tt0118154,White Hotel
+tt0118163,The Whole Wide World
+tt0118209,Yük
+tt0118607,Amistad
+tt0118635,Aprile
+tt0118638,Ariane ou l'âge d'or
+tt0118662,Ayn Rand: A Sense of Life
+tt0118892,Dangerous Beauty
+tt0118977,Those Days in Terezin
+tt0119008,Donnie Brasco
+tt0119118,The Fight in the Fields
+tt0119280,Mrs. Brown
+tt0119385,Iruvar
+tt0119424,Jours de colère
+tt0119485,Kundun
+tt0119502,The Last Time I Committed Suicide
+tt0119577,Love Is the Devil: Study for a Portrait of Francis Bacon
+tt0119586,Lucie Aubrac
+tt0119614,Marcello Mastroianni: I Remember
+tt0119615,Les marches du palais
+tt0119846,Our God's Brother
+tt0119855,Les palmes de M. Schutz
+tt0119907,Pont Neuf
+tt0119934,Without Limits
+tt0119937,Prefontaine
+tt0119951,Private Parts
+tt0120001,Behind the Lines
+tt0120026,Finding Graceland
+tt0120054,Saint-Ex
+tt0120094,Selena
+tt0120102,Seven Years in Tibet
+tt0120439,Verrückt bleiben - verliebt bleiben
+tt0120443,Voyage to the Beginning of the World
+tt0120514,Wilde
+tt0120535,The Wright Brothers
+tt0120659,Endurance
+tt0120679,Frida
+tt0120684,Gods and Monsters
+tt0120706,The General
+tt0120788,Permanent Midnight
+tt0120899,My Life So Far
+tt0122194,Trash
+tt0122486,Faustina: The Apostle of Divine Mercy
+tt0122844,And Give My Love to the Swallows
+tt0123324,Why Do Fools Fall in Love
+tt0123385,Artemisia
+tt0123691,Clark
+tt0123952,Lautrec
+tt0124056,Picasso
+tt0124164,Theophilos
+tt0125475,Rizal in Dapitan
+tt0125664,Man on the Moon
+tt0125735,Between Marx and a Naked Woman
+tt0125898,The Warning
+tt0126320,Giovanni Falcone
+tt0126421,My Heart Is Mine Alone
+tt0126828,Can't You Hear the Wind Howl? The Life & Music of Robert Johnson
+tt0126973,James Dean: Race with Destiny
+tt0127536,Elizabeth
+tt0127925,Het teken van het beest
+tt0128133,The Harmonists
+tt0128239,Grey Owl
+tt0128241,The Guest: An Episode in the Life of Eugène Marais
+tt0128245,Guy Maddin: Waiting for Twilight
+tt0128331,Masoch
+tt0128927,America and Lewis Hine
+tt0129111,The Gambler
+tt0129166,Inzhener Graftio
+tt0129290,Patch Adams
+tt0129728,Dang Bireley's and the Young Gangsters
+tt0130444,Aimee & Jaguar
+tt0130864,"Milo Barus, der stärkste Mann der Welt"
+tt0131016,Signed: Lino Brocka
+tt0132198,Grüningers Fall
+tt0132477,October Sky
+tt0132563,To Walk with Lions
+tt0132932,Twenty Six Days from the Life of Dostoyevsky
+tt0133011,The Man in the Black Cape
+tt0133049,O-Roshiya-koku suimu-tan
+tt0134279,Dreams of the City
+tt0134692,"Goitia, un dios para sí mismo"
+tt0134836,The Mad Phoenix
+tt0136253,Hoy como ayer
+tt0136696,The Coffin Affair
+tt0137077,Liv till varje pris
+tt0137219,Stefan Luchian
+tt0137280,Zafiros: Blue Madness
+tt0137685,Ghashiram Kotwal
+tt0137890,The Count
+tt0138104,The Sleep Room
+tt0138357,Charles Mingus: Triumph of the Underdog
+tt0138364,O Cineasta da Selva
+tt0138563,Kurt & Courtney
+tt0138817,The Slim Dusty Movie
+tt0138987,20 Dates
+tt0139075,"Bocage, the Triumph of Love"
+tt0139440,Luz del Fuego
+tt0139942,"Com Licença, Eu Vou à Luta"
+tt0140032,Eternamente Pagú
+tt0140352,The Insider
+tt0140392,Mozart in Love
+tt0141001,The Exile and Death of Andrei Tarkovsky
+tt0141352,Three Scenes with Ingmar Bergman
+tt0141399,Isn't She Great
+tt0142494,The Hunt for Adolf Eichmann
+tt0143105,Amos Guttman: Film Director
+tt0144021,Stalin's Disciples
+tt0144199,The Female Closet
+tt0144589,Sada
+tt0144801,The Brandon Teena Story
+tt0144937,Frank Lloyd Wright
+tt0144953,Habiba Msika: The Dance of Fire
+tt0145046,Little Dieter Needs to Fly
+tt0145411,Proshchaniye s Peterburgom
+tt0145482,Sonho Sem Fim
+tt0145653,Angela's Ashes
+tt0145765,Pugachev
+tt0146339,Vasiliy i Vasilisa
+tt0147646,Und vor mir die Sterne... - Das Leben der Schlagersängerin Renate Kern
+tt0148583,Passion
+tt0149896,Bix: 'Ain't None of Them Play Like Him Yet'
+tt0150218,The Cream Will Rise
+tt0150915,Hilary and Jackie
+tt0151137,The Messenger: The Story of Joan of Arc
+tt0151327,Lenny Bruce: Without Tears
+tt0151568,Topsy-Turvy
+tt0151714,Naked Songs: The Life & Times of Rickie Lee Jones
+tt0152148,Razia Sultan
+tt0153328,"Hanson: Tulsa, Tokyo, & the Middle of Nowhere"
+tt0153414,A Bag of Marbles
+tt0154445,Eisenstein: The Master's House
+tt0154750,The Swan and the Wanderer
+tt0156020,Ricky 6
+tt0156026,Rossini! Rossini!
+tt0156135,Thyagayya
+tt0156690,Ocean of Mercy
+tt0157249,Wrestling with God
+tt0157938,Louise Brooks: Looking for Lulu
+tt0158033,Nora
+tt0159095,Vilko dantu karoliai
+tt0159784,Takedown
+tt0160244,Elvis in Hollywood
+tt0161216,Steal This Movie
+tt0161542,The Einstein of Sex
+tt0161860,Nowhere in Africa
+tt0162844,The Fighters
+tt0163180,Rembrandt
+tt0163526,Andy Warhol
+tt0163653,Guy de Maupassant
+tt0164021,Eleftherios Venizelos: 1910-1927
+tt0164237,Zoku ningen kakumei
+tt0165196,Molokai
+tt0165348,Karate Bullfighter
+tt0166013,When the Sky Falls
+tt0166275,Mob Law: A Film Portrait of Oscar Goodman
+tt0166635,Hans Staden
+tt0166712,"Moy dom, teatr"
+tt0166896,The Straight Story
+tt0167203,I Dreamed of Africa
+tt0167330,Peefeeyatko
+tt0168056,The Man Who Drove with Mandela
+tt0168076,"Moy luchshiy drug, general Vasiliy, syn Iosifa"
+tt0168462,Angel on My Shoulder
+tt0168541,Brakhage
+tt0168684,Donald Cammell: The Ultimate Performance
+tt0168786,Antwone Fisher
+tt0168950,Let It Come Down: The Life of Paul Bowles
+tt0169134,The Poet
+tt0169756,Derby
+tt0169781,Donator
+tt0170517,The Life of Aleksis Kivi
+tt0170694,Titovi memoari
+tt0171357,Barefoot Gen 2
+tt0171480,Lev s bílou hrívou
+tt0171804,Boys Don't Cry
+tt0171932,The Youth of Peter the Great
+tt0171957,Zvezda i smert Khoakina Murety
+tt0172152,Az ne zhiveya edin zhivot
+tt0172493,"Girl, Interrupted"
+tt0172518,Guardami
+tt0172691,Portrait of a Champion
+tt0173432,Vzlyot
+tt0173920,I'm from Hollywood
+tt0173984,Lillian Gish
+tt0174683,The Ghosts of Dickens' Past
+tt0174845,At the Crossroads of Great Storms
+tt0174856,The Hurricane
+tt0175215,Svatby pana Voka
+tt0175446,The Declic Years
+tt0175471,The Beach Boys: An American Band
+tt0175820,Concert at the End of Summer
+tt0175844,Lenny Bruce: Swear to Tell the Truth
+tt0176139,Siesta veta
+tt0176286,Veronika
+tt0176953,Lusten till ett liv
+tt0177516,The American Dreamer
+tt0177572,Die Braut
+tt0177636,Beloved Clara
+tt0177746,Children of the Century
+tt0178063,A Time to Dance: The Life and Work of Norma Canner
+tt0178231,America's Sweetheart: The Mary Pickford Story
+tt0178808,Padre Pio da Pietrelcina
+tt0179013,Cães Sem Coleira
+tt0179191,Genghis Khan
+tt0179460,The Secret Life of Sergei Eisenstein
+tt0180073,Quills
+tt0180804,Lon Chaney: Behind the Mask
+tt0181311,Best
+tt0181781,Rabbit in the Moon
+tt0181833,The Source
+tt0182410,Sermões - A História de Antônio Vieira
+tt0182857,Bruckners Entscheidung
+tt0183306,Jinnah
+tt0183627,Palette of Love
+tt0183659,Pollock
+tt0183752,Selahattin Eyyubi
+tt0184030,Wolfgang A. Mozart
+tt0184870,"Rubens, schilder en diplomaat"
+tt0186159,George Who?
+tt0186257,José Rizal
+tt0186483,The Real Bruce Lee
+tt0186683,Wallowitch & Ross: This Moment
+tt0187026,Frozen Heart
+tt0187486,Sathyavan Savithri
+tt0187509,Simons film
+tt0188799,Karate Bear Fighter
+tt0189041,The Real McCoy
+tt0189905,Paul Cadmus: Enfant Terrible at 80
+tt0190568,Modì
+tt0190861,Vatel
+tt0191430,Sextrospective
+tt0191804,Babatu
+tt0191807,Bagrationi
+tt0192295,Marlene
+tt0192335,Mr. Death
+tt0193003,Belyy sneg Rossii
+tt0193104,Dirtymouth
+tt0193198,A Good Dissonance Like a Man
+tt0193741,Badding
+tt0193896,En busca de un muro
+tt0194243,Pier Paolo Pasolini
+tt0194262,The Happiest Place on Earth
+tt0194382,"Sing Your Song, Poet"
+tt0195685,Erin Brockovich
+tt0196528,"Eldridge Cleaver, Black Panther"
+tt0196780,Nadro
+tt0196811,Olga
+tt0197392,Odd Little Man
+tt0197704,Mr. Hoover and I
+tt0198553,I'm Almost Not Crazy: John Cassavetes - the Man and His Work
+tt0198668,A Love Divided
+tt0198841,No More Time
+tt0199118,Un uomo perbene
+tt0199143,Word Is Out
+tt0199481,Druids
+tt0200027,Riding in Cars with Boys
+tt0200191,As White as in Snow
+tt0200257,Word and Utopia
+tt0200441,The Making of the Mahatma
+tt0200625,"The Eye Hears, the Ear Sees"
+tt0200849,My Best Fiend
+tt0202245,Artificial Paradise
+tt0202461,Maluala
+tt0202464,The Prince's Manuscript
+tt0202672,Bloom in the Moonlight
+tt0202908,Edo Porn
+tt0203019,Men of Honor
+tt0203424,Creative Process: Norman McLaren
+tt0204066,You Got to Move
+tt0204067,Yunost geniya
+tt0204505,This Is Noriko
+tt0204544,Papaflessas
+tt0204839,The Art of Amália
+tt0205958,Fury to Freedom
+tt0206131,Memories of Duke
+tt0206193,Oscar Presents: The War Movies and John Wayne
+tt0206608,The Farewell
+tt0207195,Wadd: The Life & Times of John C. Holmes
+tt0207284,"50, 000, 000 Joe Franklin Fans Can't Be Wrong"
+tt0207423,Donald Brittain: Filmmaker
+tt0207498,Grierson
+tt0208261,The Life and Times of Hank Greenberg
+tt0208298,The Miracle Maker
+tt0208483,A Season in Hell
+tt0210217,Pandaemonium
+tt0210314,São Jerônimo
+tt0210389,Wisconsin Death Trip
+tt0210717,Goya in Bordeaux
+tt0210931,A Question of Faith
+tt0210945,Remember the Titans
+tt0212797,The Bankers of God: The Calvi Affair
+tt0212827,Bride of the Wind
+tt0213569,The Komediant
+tt0216578,Murderous Maids
+tt0217019,Sade
+tt0218043,Beyond the Mat
+tt0218177,Es mi vida
+tt0218470,El Noa Noa
+tt0218711,The War Symphonies: Shostakovich Against Stalin
+tt0219142,Louis Prima: The Wildest!
+tt0219249,Pierre Fatumbi Verger: Mensageiro Entre Dois Mundos
+tt0219286,Saja aasta pärast mais
+tt0221023,Black Tar Heroin: The Dark End of the Street
+tt0221027,Blow
+tt0221073,Chopper
+tt0221417,La muerte de Pancho Villa
+tt0222724,Anne Frank's Diary
+tt0223992,Rashi: A Light After the Dark Ages
+tt0228004,We All Fall Down
+tt0228463,Joe D'Amato Totally Uncut - The Erotic Experience
+tt0230169,Ed Gein
+tt0230308,Hoover
+tt0230512,Mayor of the Sunset Strip
+tt0232025,Manto Mavrogenous
+tt0232970,Ya - aktrisa
+tt0233200,American Prophet: The Story of Joseph Smith
+tt0233330,Bhakta Siriyala
+tt0233582,Divided Loyalties
+tt0233651,Angels of the Universe
+tt0233687,The Eyes of Tammy Faye
+tt0234041,Roberto Succo
+tt0234078,Land for a Foreigner
+tt0235166,Against All Hope
+tt0236008,The Ballad of Ramblin' Jack
+tt0236216,The Filth and the Fury
+tt0236640,Prozac Nation
+tt0237727,Shaheed Uddham Singh: Alais Ram Mohammad Singh Azad
+tt0237840,Les traces du rêve
+tt0238891,One Hundred Steps
+tt0238997,General Sutter
+tt0239716,Night Waltz: The Music of Paul Bowles
+tt0239925,Ryakushô: renzoku shasatsuma
+tt0240221,Wojaczek
+tt0240356,The Last Judgement
+tt0240534,George Wallace: Settin' the Woods on Fire
+tt0240879,Sardar
+tt0241230,Byron: Ballad for a Daemon
+tt0242193,Bully
+tt0242290,Atsalut pader
+tt0244186,Fairyland
+tt0244431,The Black Moses of Soul
+tt0244782,The Secret Life: Jeffrey Dahmer
+tt0244955,After Stonewall
+tt0245547,Villa-Lobos: A Life of Passion
+tt0246215,Santha Shishunala Sharif
+tt0246601,Elia Kazan: A Director's Journey
+tt0246765,Lumumba
+tt0247196,Before Night Falls
+tt0248667,Ali
+tt0249110,The Rose of the Rascal
+tt0249361,Annamayya
+tt0249371,Ashoka the Great
+tt0249474,His Wife's Diary
+tt0250179,...But I Was a Girl: The Story of Frieda Belinfante
+tt0250371,The Other Side of Heaven
+tt0250604,Mémoires d'un juif tropical
+tt0250811,Vincent Price: The Sinister Image
+tt0251182,The Legend of Alfred Packer
+tt0251769,Kaznit ne predstavlyaetsya vozmozhnym
+tt0252072,In Memory of Friends
+tt0252198,Aenigma est
+tt0252359,Daughter of Suicide
+tt0252444,Rabbit-Proof Fence
+tt0253474,The Pianist
+tt0254130,Aris Velouchiotis - The Dilemma
+tt0254195,The Boxing Prince
+tt0254610,The Moving True Story of a Woman Ahead of Her Time
+tt0255713,Zubeidaa
+tt0256483,Veer Amarsingh Rathod
+tt0256878,Leila Diniz
+tt0257802,My Name Is Anna Magnani
+tt0257923,Missing Boy
+tt0258594,To frourio ton athanaton
+tt0258692,Jean-Gina B.
+tt0258883,Placido Rizzotto
+tt0260078,Houdini
+tt0260413,Takhti
+tt0261066,Piñero
+tt0261174,Pie in the Sky: The Brigid Berlin Story
+tt0261277,The Sea That Thinks
+tt0261551,Balkan baroque
+tt0262223,Alluri Seetharama Raju
+tt0262240,As I Was Moving Ahead Occasionally I Saw Brief Glimpses of Beauty
+tt0262367,The Devil You Know: Inside the Mind of Todd McFarlane
+tt0262627,Monkeys Like Becky
+tt0263373,Gazi kadin
+tt0264464,Catch Me If You Can
+tt0264916,Monarch
+tt0266563,Full Blossom: The Life of Poet/Actor Roberts Blossom
+tt0267563,Hybrid
+tt0267664,Leftenan Adnan
+tt0268312,Forever James Dean
+tt0268443,Marlene Dietrich: Her Own Song
+tt0268684,Teer baran
+tt0268978,A Beautiful Mind
+tt0269461,Safe Conduct
+tt0269941,Tanariri
+tt0270288,Confessions of a Dangerous Mind
+tt0270321,Dr. Babasaheb Ambedkar
+tt0270480,Mad Love
+tt0270939,Aliens to Themselves
+tt0273822,Mockingbird Don't Sing
+tt0274154,Tango Cabaret
+tt0274309,24 Hour Party People
+tt0274372,Bharathi
+tt0274407,Callas Forever
+tt0275453,Khromoy dervish
+tt0276110,Escape to Life: The Erika and Klaus Mann Story
+tt0276442,The Real John Lennon
+tt0276860,Chop Suey
+tt0277941,Ned Kelly
+tt0278031,Sheffey
+tt0278362,Bob Marley and the Wailers: The Bob Marley Story
+tt0278736,Stanley Kubrick: A Life in Pictures
+tt0279111,Gods and Generals
+tt0279439,Omi kvelastvis omia
+tt0279477,Tortured Dust
+tt0279721,The Calling
+tt0280419,Amato: A Love Affair with Opera
+tt0280653,Amen.
+tt0280778,Iris
+tt0281723,Cinema Falado
+tt0282856,Porn Star: The Legend of Ron Jeremy
+tt0283019,His Most Serene Highness
+tt0283109,El vals sin fin
+tt0284203,In the Mirror of Maya Deren
+tt0284929,Ted Bundy
+tt0285468,Bukowski at Bellevue
+tt0285522,Dmitry II
+tt0285728,Dahmer
+tt0286218,Thérèse: The Story of Saint Thérèse of Lisieux
+tt0287100,Living Afterwards: Words of Women
+tt0287624,Paradise Found
+tt0287782,O Velho: A História de Luiz Carlos Prestes
+tt0288519,Facing the Music
+tt0289080,Ayam El-Sadat
+tt0289355,Nasser 56
+tt0289483,Stavros Tornes: The Poor Hunter of the South
+tt0289999,María Cano
+tt0290423,The Afternoon of a Torturer
+tt0290879,The Legend of Suriyothai
+tt0291032,Balzac and the Little Chinese Seamstress
+tt0291149,Endless Waltz
+tt0291377,Nelson Gonçalves
+tt0292097,Markova: Comfort Gay
+tt0292508,Fidel
+tt0292553,I Don't Know Jack
+tt0293270,I Remember Me
+tt0294709,Mary Pickford: A Life on Film
+tt0294802,Obâchan's Garden
+tt0294955,Talmage Farlow
+tt0295145,The Moonhunter
+tt0295480,Nijinsky: The Diaries of Vaslav Nijinsky
+tt0296008,Inch'Allah dimanche
+tt0296074,Marco Polo: Return to Xanadu
+tt0296145,A Scandalous Journey
+tt0296689,Jango
+tt0296809,Porto of My Childhood
+tt0297038,Bruce Lee in G.O.D.: Shibôteki yûgi
+tt0297245,Lara
+tt0298238,Quitting
+tt0298280,A Composer's Notes: Philip Glass and the Making of an Opera
+tt0298744,Auto Focus
+tt0298757,Beyond the Next Mountain
+tt0299088,Human Pork Chop
+tt0299109,There Is a Secret in My Soup
+tt0299445,Abu Raykhan Beruni
+tt0300467,Serebryanye struny
+tt0300475,Shirdi Ke Sai Baba
+tt0300551,Nine Good Teeth
+tt0301125,Like an Airplane
+tt0301359,The Gospel According to Matthew
+tt0302436,To Kill a King
+tt0303187,Veer Savarkar
+tt0303274,The Romanovs: An Imperial Family
+tt0303353,The Kid Stays in the Picture
+tt0303356,Biggie & Tupac
+tt0305206,American Splendor
+tt0305580,Flash of a Dream
+tt0305739,Kurt Weill
+tt0307196,The Bricklayer
+tt0307596,"The Tulse Luper Suitcases, Part 1: The Moab Story"
+tt0308055,Bobby
+tt0308595,Monsieur N.
+tt0308644,Finding Neverland
+tt0308875,Shaheed-E-Mohabbat Boota Singh
+tt0309320,Baader
+tt0309434,La chanson du mal aimé
+tt0309820,Luther
+tt0310597,Ahmad Shamlou: Master Poet of Liberty
+tt0310622,All About My Father
+tt0311320,Blind Spot. Hitler's Secretary
+tt0311539,The Only Journey of His Life
+tt0311599,At the Edge of the Earth
+tt0311863,Stealing Sinatra
+tt0312329,Against the Ropes
+tt0312549,Veronica Guerin
+tt0314062,Fellini: I'm a Born Liar
+tt0314096,This Is Gary McFarland
+tt0314394,Mondo Lugosi - A Vampire's Scrapbook
+tt0314806,Tupac Shakur: Thug Angel
+tt0315000,El Cid: The Legend
+tt0316013,Prisoner of Paradise
+tt0316201,Mai's America
+tt0316339,Nuestro juramento
+tt0316465,Radio
+tt0316466,Raging Dove
+tt0316566,Sennen no koi - Hikaru Genji monogatari
+tt0317234,Painted Fire
+tt0317648,Hidalgo
+tt0317887,Madame Satã
+tt0317910,The Fog of War
+tt0318402,The Lilian Velez Story: Till Death Do Us Part
+tt0318462,The Motorcycle Diaries
+tt0318590,Cazuza: Time Doesn't Stop
+tt0318673,The Secrets of Sarah Jane: Sana'y mapatawad mo
+tt0319736,The Legend of Bhagat Singh
+tt0320159,All the Way
+tt0320244,Party Monster
+tt0320523,Sri Raghavendra
+tt0321059,A Sign Days
+tt0321513,Boy Ecury
+tt0322888,Julek
+tt0323551,Bad Boys
+tt0323576,Illusion Infinity
+tt0323932,Seven Sisters: A Kentucky Portrait
+tt0324951,23rd March 1931: Shaheed
+tt0325055,Sylvia
+tt0326208,Stander
+tt0326663,Something About AJ
+tt0326664,Swimming Upstream
+tt0326988,I'll Sing for You
+tt0327662,Dreyfus ou L'intolérable vérité
+tt0327836,Harukanaru sôro
+tt0328432,Sibelius
+tt0328707,Zille and Me
+tt0328912,Buamama
+tt0329177,Dawn of a New Day: The Man Behind VHS
+tt0330530,The Key for Determining Dwarfs or The Last Travel of Lemuel Gulliver
+tt0331232,Dhyasparva
+tt0332022,El-Soud ela al-hawia
+tt0332480,Velikiy polkovodets Georgiy Zhukov
+tt0333611,My Name Was Sabina Spielrein
+tt0334106,Pesnikov portret z dvojnikom
+tt0335053,Ferocious Saint Lord of the Gobi
+tt0335119,Girl with a Pearl Earring
+tt0336068,Bongo Man
+tt0337423,Vivre est une solution
+tt0337701,Raoul Wallenberg: Between the Lines
+tt0337902,Brother Outsider: The Life of Bayard Rustin
+tt0338330,The Passion of Bernadette
+tt0338467,High Roller: The Stu Ungar Story
+tt0338751,The Aviator
+tt0339743,The Last Confederate: The Story of Robert Adams
+tt0340253,Mosku - lajinsa viimeinen
+tt0340855,Monster
+tt0341569,Self Medicated
+tt0342150,Bukowski: Born into This
+tt0342172,Capturing the Friedmans
+tt0343121,Tupac: Resurrection
+tt0344097,Nam Pu
+tt0344952,Boris I
+tt0345177,Ek Doctor Ki Maut
+tt0345547,Lapu-Lapu
+tt0346150,Warriors of Independence
+tt0346457,Mangal Pandey
+tt0346491,Alexander
+tt0346794,A Constant Forge
+tt0347777,Ping Lacson: Super Cop
+tt0348874,Le soleil assassiné
+tt0349825,Miracle
+tt0349878,Netaji Subhas Chandra Bose: The Forgotten Hero
+tt0349995,The Soul Keeper
+tt0350258,Ray
+tt0350596,Beah: A Black Woman Speaks
+tt0351012,El gran Gato
+tt0351998,The Empress Dowager
+tt0352248,Cinderella Man
+tt0352277,De-Lovely
+tt0352520,The Life and Death of Peter Sellers
+tt0354592,Gabrielle Roy
+tt0354609,Gregório de Mattos
+tt0355702,Lords of Dogtown
+tt0356476,Cold Light of Day
+tt0356846,It's My Life
+tt0358273,Walk the Line
+tt0358982,Bantsuma - Bando Tsumasaburo no shogai
+tt0359513,Appassionata
+tt0359967,Sher-Dil
+tt0360833,Nelson Freire
+tt0361863,Made in Denmark
+tt0362269,Kinsey
+tt0362751,If I Should Fall from Grace: The Shane MacGowan Story
+tt0362789,Ay Juancito
+tt0363163,Downfall
+tt0363473,Beyond the Sea
+tt0364301,The Last Mitterrand
+tt0364961,The Assassination of Richard Nixon
+tt0365675,The Red Baron
+tt0366323,Cravan vs. Cravan
+tt0366652,A Bride of the Seventh Heaven
+tt0367188,Modigliani
+tt0367565,Breakfast with Hunter
+tt0367575,"Caballé, más allá de la música"
+tt0367790,Baadasssss!
+tt0368287,The Soul of a Man
+tt0368711,End of the Century
+tt0368794,I'm Not There
+tt0369523,Henri Cartier-Bresson: The Impassioned Eye
+tt0369649,Lagalag: The Eddie Fernandez Story
+tt0369702,The Sea Inside
+tt0370477,The Preacher
+tt0370694,Hey! Is Dee Dee Home?
+tt0371281,The Talking Muse
+tt0371583,Bonhoeffer
+tt0372806,Bright Leaves
+tt0373175,My Architect
+tt0373854,Gala
+tt0373999,Libertas
+tt0374569,Che: Part Two
+tt0375104,Bobby Jones: Stroke of Genius
+tt0375764,Frank Zappa: Phase II - The Big Note
+tt0375887,Kamaraj
+tt0375920,The Libertine
+tt0377029,24 Hours on Craigslist
+tt0377031,The Agronomist
+tt0377518,Bingbong: The Vincent Crisologo Story
+tt0377992,The Gospel of John
+tt0378284,Machuca
+tt0378357,Michael Laudrup: A Football Player
+tt0378879,Tintin et moi
+tt0378900,Traces of a Dragon
+tt0378970,Brave Puran Appu
+tt0379561,"The Tulse Luper Suitcases, Part 3: From Sark to the Finish"
+tt0379725,Capote
+tt0379730,Charlie: The Life and Art of Charles Chaplin
+tt0379941,Prom Fight: The Marc Hall Story
+tt0380036,Letter from a Yellow Cherry Blossom
+tt0380620,Red Passport
+tt0381874,American Rebel: The Dean Reed Story
+tt0382180,My Name Is Bach
+tt0382322,Sultan Beybars
+tt0382724,Grossmeyster
+tt0383617,Sant Gyaneshwar
+tt0384683,What We Do Is Secret
+tt0384798,Aimee Semple McPherson
+tt0384801,Alfredo Lim: Batas ng Maynila
+tt0385726,Glory Road
+tt0385741,Haunting Douglas
+tt0388139,It's All Gone Pete Tong
+tt0388356,Páginas del diario de José Martí
+tt0388980,The Greatest Game Ever Played
+tt0390123,In the Realms of the Unreal
+tt0390145,John Wycliffe: The Morning Star
+tt0390245,Matti: Hell Is for Heroes
+tt0390538,Tarnation
+tt0390849,Arakimentari
+tt0393162,Coach Carter
+tt0395169,Hotel Rwanda
+tt0396022,Forbidden Photographs: The Life and Work of Charles Gatewood
+tt0396087,Khachaturian
+tt0396112,Ma vie en cinémascope
+tt0396240,Superstar in a Housedress
+tt0397039,Bettie Page: Dark Angel
+tt0398801,The Boy Who Plays on the Buddhas of Bamiyan
+tt0399862,End of the Spear
+tt0400244,Bolívar: el héroe
+tt0401248,Beautiful Boxer
+tt0401383,The Diving Bell and the Butterfly
+tt0401997,Breach
+tt0402399,The New World
+tt0402406,The Nomi Song
+tt0402710,Young Andersen
+tt0403198,Key West: City of Colors
+tt0403524,Karate for Life
+tt0404802,The Notorious Bettie Page
+tt0405963,Heartworn Highways
+tt0406158,"The Prize Winner of Defiance, Ohio"
+tt0407031,Naked Fame
+tt0407263,Going Upriver
+tt0408281,"The Tulse Luper Suitcases, Part 2: Vaux to the Sea"
+tt0410321,The Mindscape of Alan Moore
+tt0411272,Mesrine: Public Enemy No. 1
+tt0412080,The World's Fastest Indian
+tt0412703,Henri Langlois: The Phantom of the Cinémathèque
+tt0412843,Durch diese Nacht sehe ich keinen einzigen Stern
+tt0413615,Unforgivable Blackness: The Rise and Fall of Jack Johnson
+tt0414055,Elizabeth: The Golden Age
+tt0414097,The Hidden Führer: Debating the Enigma of Hitler's Sexuality
+tt0415046,The Overture
+tt0416044,Mongol: The Rise of Genghis Khan
+tt0416499,Fighter in the Wind
+tt0416508,Becoming Jane
+tt0416680,Diego Rivera: I Paint What I See
+tt0417694,From Wharf Rats to Lords of the Docks
+tt0417871,Klimt
+tt0418129,Salvador Allende
+tt0418753,Inside Deep Throat
+tt0418763,Jarhead
+tt0419389,100 Minutes of Glory
+tt0419749,Find Me Guilty
+tt0420609,Infamous
+tt0420678,How Arnold Won the West
+tt0420952,Tell Them Who You Are
+tt0421054,Domino
+tt0421082,Control
+tt0421206,Gridiron Gang
+tt0422295,Fur: An Imaginary Portrait of Diane Arbus
+tt0422720,Marie Antoinette
+tt0422783,Music Within
+tt0423853,Be Here to Love Me
+tt0424908,Copying Beethoven
+tt0425278,My Nikifor
+tt0426508,The Lady in Question Is Charles Busch
+tt0426578,Sophie Scholl: The Final Days
+tt0426627,Stoned
+tt0426883,Alpha Dog
+tt0427047,Cavalcade
+tt0427309,The Great Debaters
+tt0427312,Grizzly Man
+tt0427319,"Gustav Mahler: To Live, I Will Die"
+tt0427969,Hollywoodland
+tt0428649,I Am a Sex Addict
+tt0430308,Get Rich or Die Tryin'
+tt0430377,Muhammad: The Last Prophet
+tt0430431,One Night with the King
+tt0430592,Wild Romance
+tt0431170,Joseph Smith: Prophet of the Restoration
+tt0431811,L'homme au cigare
+tt0432402,Factory Girl
+tt0433383,"Good Night, and Good Luck."
+tt0435638,Edgar G. Ulmer: The Man Off-Screen
+tt0435931,Rikidozan: A Hero Extraordinary
+tt0436231,The Devil and Daniel Johnston
+tt0436697,The Queen
+tt0436864,Unknown White Male
+tt0437232,Catch a Fire
+tt0437236,Hubert Selby Jr: It/ll Be Better Tomorrow
+tt0437516,Toyen
+tt0437780,Abel Raises Cain
+tt0438859,Goodbye Bafana
+tt0439272,Paul Soldner: Playing with Fire
+tt0439547,Two Sons of Francisco
+tt0439625,In a Nutshell: A Portrait of Elizabeth Tashjian
+tt0439885,The Go Master
+tt0441000,Derailroaded
+tt0441007,Gracie
+tt0441361,Malditos
+tt0441758,The Fearless Freaks
+tt0441774,Lonely Hearts
+tt0442751,Cafundó
+tt0442973,For the Living and the Dead
+tt0443474,Crazy
+tt0443680,The Assassination of Jesse James by the Coward Robert Ford
+tt0443698,William Eggleston in the Real World
+tt0444641,Halim
+tt0445541,Lurich
+tt0445691,Salvador (Puig Antich)
+tt0445952,George Michael: A Different Story
+tt0445990,Invincible
+tt0446059,Fearless
+tt0446071,We Jam Econo: The Story of the Minutemen
+tt0446269,Aidan Walsh: Master of the Universe
+tt0446667,Che Guevara
+tt0446750,Nightwatching
+tt0447988,Goodnite Charlie
+tt0448404,Camarón: When Flamenco Became Legend
+tt0448621,Marathon
+tt0448978,39 Pounds of Love
+tt0450188,La Vie en Rose
+tt0450334,That Man: Peter Berlin
+tt0450412,Dennis P.
+tt0451005,Bully: An Adventure with Teddy Roosevelt
+tt0452011,The Conclave
+tt0453366,Dievu miskas
+tt0453413,Valo
+tt0453508,The Last Dispatch
+tt0453802,On Wings of Fire
+tt0454190,The Tin Mine
+tt0454314,Vivekananda
+tt0454776,Amazing Grace
+tt0454921,The Pursuit of Happyness
+tt0455507,The God Who Wasn't There
+tt0455538,How to Lose Friends & Alienate People
+tt0455590,The Last King of Scotland
+tt0455957,Goya's Ghosts
+tt0457462,Totally Personal
+tt0457502,Through the Fire
+tt0458072,Provoked
+tt0458375,The Goebbels Experiment
+tt0458500,Theresa: The Body of Christ
+tt0458522,El cantante
+tt0458529,You Think You Really Know Me: The Gary Wilson Story
+tt0458972,TL-1 Mi reino por un platillo volador
+tt0459078,The Best of Secter & the Rest of Secter
+tt0459133,Shabnam Mausi
+tt0459293,"Gandhi, My Father"
+tt0459327,Gie
+tt0459408,In and Out of Fashion
+tt0459423,Kahaani Gudiya Ki...: True Story of a Woman
+tt0459913,Georg
+tt0460481,Karim Patwa's Spaceship
+tt0460505,The Rocket
+tt0460789,The Eyes of Van Gogh
+tt0461012,The Bet
+tt0462023,"Romulus, My Father"
+tt0462338,The Hoax
+tt0462477,Pierrepoint: The Last Hangman
+tt0462504,Rescue Dawn
+tt0462581,Troy's Story
+tt0463998,Freedom Writers
+tt0465737,"Maradona, the Hand of God"
+tt0465919,Bitayin si... Baby Ama!
+tt0465979,Ernst Ludwig Kirchner - Zeichnen bis zur Raserei
+tt0466174,Andersen. Zhizn bez lyubvi
+tt0466664,Alien Autopsy
+tt0467200,The Other Boleyn Girl
+tt0468776,Kamachi
+tt0469640,Bathory: Countess of Blood
+tt0469903,The Express
+tt0470385,Jiao Yulu
+tt0470732,Bernard and Doris
+tt0471003,Garbo
+tt0472062,Charlie Wilson's War
+tt0472198,Notorious
+tt0473453,The Bondage
+tt0475265,Face Addict
+tt0475420,The Untold Story of Emmett Louis Till
+tt0476872,Skazany na bluesa
+tt0476996,For Norman: Wherever You Are
+tt0477019,Jo Siffert: Live Fast - Die Young
+tt0478049,The U.S. vs. John Lennon
+tt0478197,Leonard Cohen: I'm Your Man
+tt0478329,The Gray Man
+tt0478337,Zidane: A 21st Century Portrait
+tt0479049,The Goal
+tt0479258,"A Few People, a Little Time"
+tt0479468,Gonzo
+tt0479570,Bullshit
+tt0479973,An Ox's Tale: The John Entwistle Story
+tt0480592,Tour de Force
+tt0480892,Filmmakers vs. Tycoons
+tt0481254,Zuzu Angel
+tt0482358,The Early Years: Erik Nietzsche Part 1
+tt0482473,The Borgia
+tt0482546,Miss Potter
+tt0482602,Raising Jeffrey Dahmer
+tt0482724,Goodbye Tomorrow
+tt0483785,Raj Kapoor
+tt0483836,What Remains
+tt0485759,Le corps sublimé
+tt0486090,Filmmakers in Action
+tt0486541,Scott Walker: 30 Century Man
+tt0486544,Albert Fish: In Sin He Found Salvation
+tt0488820,"Anthony, Warrior of God"
+tt0488988,Chapter 27
+tt0491046,A Matador's Mistress
+tt0491698,Tales of the Rat Fink
+tt0492499,An Unreasonable Man
+tt0493175,Vinicius
+tt0493450,Sixty Six
+tt0495768,Journey to the Land of Rimbaud
+tt0495863,Mädchen am Sonntag
+tt0496532,"Lola, la película"
+tt0496558,Pierlequin
+tt0496634,The Countess
+tt0497034,The Last Communist
+tt0498362,Laffit: All About Winning
+tt0498366,The Life of Reilly
+tt0499238,Milarepa
+tt0756727,Who Is Harry Nilsson (And Why Is Everybody Talkin' About Him?)
+tt0757240,Katharina Bullin - Und ich dachte ich wär' die Größte
+tt0758758,Into the Wild
+tt0762086,Crazy Again
+tt0763852,I Have Never Forgotten You: The Life & Legacy of Simon Wiesenthal
+tt0764639,Eight Miles High
+tt0765125,Noget om Halfdan
+tt0765429,American Gangster
+tt0765432,The Baader Meinhof Complex
+tt0772174,The Iron Man
+tt0775438,"Buy the Ticket, Take the Ride: Hunter S. Thompson on Film"
+tt0780134,Heavyweights
+tt0790663,The First Grader
+tt0791591,Trotsky y México. Dos revoluciones del siglo XX
+tt0794401,Yokohama Mary
+tt0795473,Spine Tingler! The William Castle Story
+tt0796335,Molière
+tt0796368,Talk to Me
+tt0799770,Gasolin'
+tt0799915,Air Guitar Nation
+tt0799962,Buzz
+tt0799979,Chetvyortaya vysota
+tt0800092,Ironmen
+tt0800099,Joe Strummer: The Future Is Unwritten
+tt0802948,An American Crime
+tt0802952,Bode Miller: Flying Downhill
+tt0804505,Married Life
+tt0808183,Brothers by Blood
+tt0808392,Neal Cassady
+tt0808405,"Oh, Mr. Faulkner, Do You Write?"
+tt0808417,Persepolis
+tt0809432,Hilde
+tt0810078,Jacques Mesrine: profession ennemi public
+tt0810784,Bright Star
+tt0811136,Shut Up & Sing
+tt0814005,The Amazing Truth About Queen Raquela
+tt0814031,Blessed Is the Match
+tt0815208,Natural Born Star
+tt0816516,Gregory Peck: His Own Man
+tt0816544,Jump!
+tt0816561,Life Is a Dream in Cinema: Pola Negri
+tt0819714,The Edge of Love
+tt0820987,Pacquiao: The Movie
+tt0821642,The Soloist
+tt0823174,The Fall of '55
+tt0824747,Changeling
+tt0824758,The Last Station
+tt0825271,Jean de La Fontaine - Le défi
+tt0826612,Raízes do Brasil: Uma Cinebiografia de Sérgio Buarque de Hollanda
+tt0827717,"Don't Waste Your Time, Johnny!"
+tt0829098,When Did You Last See Your Father?
+tt0829269,Puskás Hungary
+tt0829286,Big Pun: Still Not a Player
+tt0829459,A Mighty Heart
+tt0832939,Remembering Arthur
+tt0833561,Woh Lamhe ...
+tt0834171,Taarka
+tt0834948,Russkoe
+tt0835046,Mr. Conservative: Goldwater on Goldwater
+tt0837802,Your Name Here
+tt0839906,Mo & Me
+tt0844457,North Face
+tt0844761,This Filthy World
+tt0847187,O Lucky Malcolm!
+tt0847754,"Piano, solo"
+tt0849480,Transformation: The Life and Legacy of Werner Erhard
+tt0850709,Risen
+tt0851532,Forever Enthralled
+tt0853146,Requiem for Billy the Kid
+tt0853157,The Upsetter: The Life and Music of Lee Scratch Perry
+tt0854155,Missing Victor Pellerin
+tt0860418,Golda's Balcony
+tt0864761,The Duchess
+tt0867354,Zodiac of M.K. Ciurlonis
+tt0870111,Frost/Nixon
+tt0878804,The Blind Side
+tt0879255,Nehru: The Jewel of India
+tt0879870,Eat Pray Love
+tt0881200,Assembly
+tt0881233,Darling
+tt0881278,Llach: La revolta permanent
+tt0882816,"Tovarisch, I Am Not Dead"
+tt0887769,Kerala Varma Pazhassi Raja
+tt0889671,Trumbo
+tt0892255,Che: Part One
+tt0893356,Nanking
+tt0893382,Shine a Light
+tt0896872,The Whistleblower
+tt0896952,My Enemy's Enemy
+tt0899303,Oscar: The Color of Destiny
+tt0901481,Eichmann
+tt0901507,Rise of the Footsoldier
+tt0902252,A Swiss Rebel. Annemarie Schwarzenbach 1908-1942
+tt0902270,Constantine's Sword
+tt0905329,El Greco
+tt0909388,Ganes
+tt0910999,Eye See Me
+tt0912586,Girl 27
+tt0913958,Jimmy Carter Man from Plains
+tt0915457,"Falco - Verdammt, wir leben noch!"
+tt0915747,A Poor Kid's Guide to Success
+tt0923752,The King of Kong: A Fistful of Quarters
+tt0925307,VHS - Kahloucha
+tt0927629,Notes on Marie Menken
+tt0928124,Carnera: The Walking Mountain
+tt0929775,Mavi Gözlü Dev
+tt0930094,Visual Futurist: The Art & Life of Syd Mead
+tt0948127,Sunseed
+tt0949506,Pushkin: Poslednyaya duel
+tt0954542,Run for Your Life!
+tt0954981,Cass
+tt0962736,The Young Victoria
+tt0964517,The Fighter
+tt0964586,Skin
+tt0967474,Afife Jale
+tt0972377,Golden Days
+tt0972782,Notorious B.I.G. Bigger Than Life
+tt0974014,Creation
+tt0975738,Sinatra Club
+tt0976054,Rwanda Rising
+tt0977855,Fair Game
+tt0986233,Hunger
+tt0986354,Frank and Cindy
+tt0989007,Jean Charles
+tt0991154,The Feature
+tt0991163,The Man Who Shot Chinatown: The Life and Work of John A. Alonzo
+tt0995850,Vision
+tt0997057,An Englishman in New York
+tt0997110,The Woman with the Hungry Eyes
+tt0997280,The Demons of St. Petersburg
+tt0997428,Natural Born Forward
+tt0999872,Thomas Kinkade's Christmas Cottage
+tt1001343,"Don't F*** with Me, I Have 51 Brothers and Sisters"
+tt1003113,Black White + Gray: A Portrait of Sam Wagstaff and Robert Mapplethorpe
+tt1009011,Abbey of Thelema
+tt1009012,The Anna Nicole Smith Story
+tt1009014,J.C. Chávez
+tt1013753,Milk
+tt10151090,Dorothy and Alan at Norma Place
+tt1015470,A Single Woman
+tt1016268,Enron: The Smartest Guys in the Room
+tt1017451,The Runaways
+tt1018887,Dreams with Sharp Teeth
+tt1019402,"Cartola, the Samba Legend"
+tt1021085,The Days Without Lei Feng
+tt1023143,To Be with You Forever
+tt1023490,Il Divo
+tt1024983,Scream
+tt1028532,Hachi: A Dog's Tale
+tt1028561,"The Old, Weird America: Harry Smith's Anthology of American Folk Music"
+tt1028576,Secretariat
+tt1028579,Yeshua
+tt1029235,Max Manus: Man of War
+tt1029365,Rocking the Boat: A Musical Conversation and Journey
+tt1032821,Tyson
+tt1032854,Terror's Advocate
+tt1034080,Meat Loaf: In Search of Paradise
+tt1034419,White Lightnin'
+tt1035730,Anonyma - Eine Frau in Berlin
+tt1035736,Coco Before Chanel
+tt1037059,Frank Ned & Busy Lizzie
+tt1037140,Screenplay Series with Syd Field
+tt1038045,Mein Kampf
+tt1038914,Poisoned by Polonium: The Litvinenko File
+tt1039902,The Life of Buddha
+tt1042877,Cadillac Records
+tt1043532,The Novelist
+tt1045772,I Love You Phillip Morris
+tt1045885,Somay Ku: A Uganda Tennis Story
+tt1048171,Seraphine
+tt1049402,Howl
+tt1051920,O Último Condenado à Morte
+tt1052353,Sagan
+tt1053792,41
+tt1053946,Wesley
+tt1053951,Wrangler: Anatomy of an Icon
+tt1054473,Blinded Angels
+tt1054580,Desert Flower
+tt1054588,Flash of Genius
+tt1057500,Invictus
+tt1059200,Hwang Jin Yi
+tt1062964,The Seventh Python
+tt1068669,Telstar: The Joe Meek Story
+tt1069252,Apocrypha: Music for Peter and Paul
+tt1069272,Who Cares?: The Duane Peters Story
+tt1071355,Road to Dawn
+tt1071807,Amy Cook: The Spaces in Between
+tt1071812,Mao's Last Dancer
+tt1073624,Wild Blood
+tt1075086,Veritas
+tt1077259,PlayByPlayMen and the Art of the Perfect Call
+tt1084963,Nachalo puti
+tt1091225,Emma Smith: My Story
+tt10912916,Çiglik Çigliga Bir Sevda
+tt1091751,The Longshots
+tt1091863,With Great Power: The Stan Lee Story
+tt1092004,Glass
+tt1092016,My Name Ain't Johnny
+tt1093849,Obscene
+tt1094666,The Hammer
+tt1099200,Journey to Grace: The Hansie Cronje Story
+tt1099204,The Last Confession of Alexander Pearce
+tt1099974,A Letter from Greenpoint
+tt1101026,Admiral
+tt1101672,The Warrior
+tt1104083,Little Ashes
+tt1105369,Mehdi meshki va shalvarak-e dagh
+tt1107828,Korolyov
+tt1111234,Saravia
+tt1111876,Balibo
+tt1111902,Gholam zhandarm
+tt1116943,I Like Hearts Like Mine - Markos Vamvakaris
+tt1122767,Inning by Inning: A Portrait of a Coach
+tt1124377,John Rabe
+tt1125915,Un retrato de Diego
+tt1125929,Love Ranch
+tt1126490,Call Me Troy
+tt1127706,Personal Che
+tt1127896,Taking Woodstock
+tt1128213,Evo Pueblo
+tt1129435,The Beaches of Agnès
+tt1129445,Amelia
+tt1130080,The Informant!
+tt1130866,Pepe Sales: Pobres pobres que els donguin pel cul
+tt1130964,The 5th Quarter
+tt1130965,The Athlete
+tt1131747,Phantom Punch
+tt1134824,Iskilipli Atif Hoca
+tt1135503,Julie & Julia
+tt1138002,Chris & Don: A Love Story
+tt1139665,Polanski Unauthorized
+tt1139806,The Easy Way
+tt1142588,Woman
+tt1142804,Within the Whirlwind
+tt1143896,Holy Rollers
+tt1152758,Dear Zachary: A Letter to a Son About His Father
+tt1152815,Adjust Your Color: The Truth of Petey Greene
+tt1152836,Public Enemies
+tt1153043,The Least Among You
+tt1155592,Man on Wire
+tt1156173,Vincere
+tt1156470,Zen
+tt1157605,Anvil
+tt1159595,Who Is Norman Lloyd?
+tt1160931,Public Enemy Number One
+tt1164092,Praying with Lior
+tt1169272,Heart of Fire
+tt1172522,Machan
+tt1172570,Bronson
+tt1173685,Angel Wishes: Journey of a Spiritual Healer
+tt1173687,The Bang Bang Club
+tt1173901,The Island
+tt1174034,Coluche
+tt1175491,W.
+tt1179947,American: The Bill Hicks Story
+tt1183911,Mr. Nice
+tt1185344,Princess Kaiulani
+tt1185419,"A la diestra del cielo: Silvio, un cantaor rockero"
+tt1185431,My One and Only
+tt1185616,Waltz with Bashir
+tt1186357,The Outlaw
+tt1186795,Who Do You Love
+tt1186830,Agora
+tt1188986,The Consul of Sodom
+tt1189003,Falling Angels
+tt1194417,Casino Jack
+tt1194660,The Homeless Student
+tt1196593,Bierbichler
+tt1196707,Trying to Get Good: The Jazz Odyssey of Jack Sheldon
+tt1198595,Manos Hadjidakis: Reflection in the Mirror
+tt1199503,Nick Nolte: No Exit
+tt1201026,All About Tesla: The Research
+tt1202056,Waveriders
+tt1202170,Everywhere at Once
+tt1202576,Run for Your Life
+tt1205046,"Bucharest, Memory Lost"
+tt1205481,Father McGivney
+tt1205503,Without Bias
+tt1206306,Hudson Taylor
+tt1209319,Everyman's War
+tt1211875,Karolos Koun
+tt1213672,Billy: The Early Years
+tt1213685,Johny Indo
+tt1217592,A Kiss: Not for the Press
+tt1219825,Fanny Crosby
+tt1220719,Ip Man
+tt1221208,Frankie & Alice
+tt1224369,Made in Hungaria
+tt1224379,Zelyonyy teatr v Zemfire
+tt1226271,The Damned United
+tt1227536,Hellsinki
+tt1227929,Herb & Dorothy
+tt1229827,Jonas Brothers: The 3D Concert Experience
+tt1232162,Forever the Moment
+tt1232790,Of Time and the City
+tt1234559,Chico Xavier
+tt1234918,Amália
+tt1235537,Mahler on the Couch
+tt1235548,VIPs
+tt1235789,Charlotte: A Royal at War
+tt1236472,Lemmy
+tt1238721,Ballou
+tt1239276,Colours of Passion
+tt1239402,Deng Xiaoping
+tt1242845,Through the Mist
+tt1242867,Dirty Hands: The Art and Crimes of David Choe
+tt1244754,Conviction
+tt1245098,Robert Williams Mr. Bitchin'
+tt1245663,Nightmares from the Mind of Poe
+tt1246589,Miami Noir: The Arthur E. Teele Story
+tt1248980,Meadowlark
+tt1249311,Albert Schweitzer
+tt1251351,Ich. Immendorff
+tt1251724,Briefwechsel
+tt1252636,Margot
+tt1253586,Louis de Funès intime
+tt1254955,Edward James: Builder of Dreams
+tt1256623,Il falso bugiardo
+tt1259014,Mesrine: Killer Instinct
+tt1259615,12 Paces Without a Head
+tt1259793,WorldRevolution
+tt1260704,Confessions of an Innocent Man
+tt1261900,Lovecraft: Fear of the Unknown
+tt1262405,Burma Soldier
+tt1262863,Boogie Man: The Lee Atwater Story
+tt1262986,The Last Play at Shea
+tt1263697,One California Day
+tt1266029,Nowhere Boy
+tt1268820,"Xaviera Hollander, the Happy Hooker: Portrait of a Sexual Revolutionary"
+tt1270766,Henri 4
+tt1272011,Fort Apache Napoli
+tt1274274,Lionel
+tt1275724,Milton Glaser: To Inform and Delight
+tt1277944,Fraulein Stinnes Travels the World
+tt1278428,Poe: Last Days of the Raven
+tt1280009,Genghis Khan: The Story of a Lifetime
+tt1280536,Pedro
+tt1284525,"Vampiro: Angel, Devil, Hero"
+tt1285016,The Social Network
+tt1286747,Danny Greene: The Rise and Fall of the Irishman
+tt1286800,Harvard Beats Yale 29-29
+tt1286821,More Than a Game
+tt1287855,The Silent Revolution of Truth
+tt1289432,SM-rechter
+tt1290389,Bezerra De Menezes: The Diary of a Spirit
+tt1297297,Rock n Roll Nerd
+tt1298551,Dorfpunks
+tt1305872,Speedy Delivery
+tt1306997,"Parallel Worlds, Parallel Lives"
+tt1308111,Fake Orgasm
+tt1308123,In Search of Beethoven
+tt1312100,Identities
+tt1313104,The Cove
+tt1314772,Hollywood contra Franco
+tt1319093,Hadashi no Gen: Namida no bakuhatsu
+tt1319727,Mustafa
+tt1320087,O Engenho de Zé Lins
+tt1320096,Ich gehe jetzt rein
+tt1322277,The Assailant
+tt1326210,Di passaggio
+tt1326283,Jane's Journey
+tt1327819,Boy Interrupted
+tt1328874,Pearl
+tt1329382,Over My Dad's Body
+tt1329457,Gainsbourg: A Heroic Life
+tt1329489,An All-Weather Man
+tt1332023,Mary Pickford: The Muse of the Movies
+tt1333117,Still Bill
+tt1333656,Sergio
+tt1334479,"Yoo-Hoo, Mrs. Goldberg"
+tt1337068,Vincent: A Life in Color
+tt1337366,Nokas
+tt1339161,The Robber
+tt1339500,The Shot Felt 'Round the World
+tt1340103,On the Move
+tt1340112,The Mind of the Demon
+tt1340572,A Friend Indeed: The Bill Sackter Story
+tt1342272,Ossidiana
+tt1342918,Pigweed Philosopher: The Untethered Zen of Kimball Johnson
+tt1343704,Time You Change
+tt1344315,Garbo: The Spy
+tt1345823,Etüden op. 18
+tt1347072,No. 4 Street of Our Lady
+tt1347270,In the Wake of the Assassins
+tt1347442,The Front Line
+tt1359553,The Chameleon
+tt1378690,Huxley on Huxley
+tt1379651,The Gertrude Stein Mystery or Some Like It Art
+tt1380116,"Yannis Moralis, Painter"
+tt1381090,"Ne me libérez pas, je m'en charge"
+tt1381112,Sister Smile
+tt1385473,American Faust: From Condi to Neo-Condi
+tt1386411,The Deceiver
+tt1386504,Zolotaya golova na plakhe
+tt1386932,Ip Man 2
+tt1387528,Popieluszko. Wolnosc jest w nas
+tt1391092,Marwencol
+tt1393020,Sex & Drugs & Rock & Roll
+tt1394184,Charisma X - Iannis Xenakis
+tt1395059,Room and a Half
+tt1395699,"9 - Un chiffre, un homme"
+tt1396557,Winnebago Man
+tt1397190,Klucis: The Deconstruction of an Artist
+tt1397498,Confucius
+tt1399533,Carmel
+tt1399655,Jew Suss: Rise and Fall
+tt1405401,Starko!
+tt1405769,Focaccia blues
+tt1407053,Bobby Fischer Live
+tt1407990,General. Zamach na Gibraltarze
+tt1408343,Where I Stand: The Hank Greenspun Story
+tt1414814,Clough
+tt1417582,Among Wolves
+tt1419318,Facing Ali
+tt1420543,General Nil
+tt1421029,Carol I
+tt1423590,Jail of Flesh
+tt1423915,Cataluña Espanya
+tt1424432,Senna
+tt1424660,Lotman's World
+tt1426328,Leonie
+tt1428453,Princess
+tt1433318,Mònica del Raval
+tt1437238,Rassvet/Zakat. Dalai Lama 14
+tt1438216,Oranges and Sunshine
+tt1439556,Hunting Down Memory
+tt1440180,Young Goethe in Love
+tt1440286,Simonal: Ninguém Sabe o Duro que Dei
+tt1442576,"Lula, the Son of Brazil"
+tt1443561,Christine Cristina
+tt1448613,Road to Las Vegas
+tt1451646,The Execution of Julie Ann Mabry
+tt1453253,Popatopolis
+tt1458553,Dawn of Islam
+tt1461681,Hit
+tt1462553,La belle visite
+tt1462704,The Yellow Bittern
+tt1463772,Cankurtaran Istanbul
+tt1466475,Mary Magdalene
+tt1467030,Planeat
+tt1469852,A Chemical Reaction
+tt1469864,Beyond Gay: The Politics of Pride
+tt1470753,The Last Giants - Wenn das Meer stirbt
+tt1472541,Torey's Distraction
+tt1474203,Grace Paley: Collected Shorts
+tt1474792,May I Be Frank
+tt1474834,Radical Disciple: The Story of Father Pfleger
+tt1474871,Sunshine
+tt1475191,American Radical: The Trials of Norman Finkelstein
+tt1478274,Brizola: Tempos de Luta
+tt1478279,"Jack, the Balkans & I"
+tt1479743,Only a God Can Save Us
+tt1479832,Space Travelers
+tt1480692,This Way of Life
+tt1482246,Svetozar Markovic
+tt1482979,Amadores do Futebol
+tt1482989,"Bruce Lee, My Brother"
+tt1484124,Sisu: The Death of Tom Sukanen
+tt1485014,Königin im Ring
+tt1486548,Ahead of Time: The Extraordinary Journey of Ruth Gruber
+tt1486657,A Line a Day Must Be Enough!
+tt1486870,Voices Unveiled: Turkish Women Who Dare
+tt1487893,Deserto rosa. Luigi Ghirri
+tt1493063,Out of Annapolis
+tt1494746,His Name Is Bob
+tt1499486,Little Alien
+tt1499958,The Heretics
+tt1500153,Cildo
+tt1500252,Auf Wiedersehen: 'Til We Meet Again
+tt1500268,Wild Beast
+tt1500848,Open Your Mouth and Say... Mr. Chi Pig
+tt1500885,Searching for Elliott Smith
+tt1500889,Shtax: A Homecoming
+tt1500903,Swing con son
+tt1500953,Swooped from Nothing
+tt1503774,Genius Within: The Inner Life of Glenn Gould
+tt1503776,"Hugh Hefner: Playboy, Activist and Rebel"
+tt1504238,House of Bones
+tt1504320,The King's Speech
+tt1505044,Chekhov for Children
+tt1505886,Laskovyy may
+tt1507922,Fireflies
+tt1507961,Canine Instinct
+tt1508011,American Jihadist
+tt1508012,An Ordinary Couple
+tt1508021,Being Captain Zero
+tt1509130,Janie Jones
+tt1509201,Pink Taxi
+tt1509276,The Wildest Dream
+tt1512746,Chinatown Film Project
+tt1513185,No One Said It Would Be Easy
+tt1513883,Rockabilly 514
+tt1513891,Scrap
+tt1516586,The Greatest Ears in Town: The Arif Mardin Story
+tt1517095,Loki: Arnaldo Baptista
+tt1517191,"Homero Manzi, un poeta en la tormenta"
+tt1517605,Astralis - Institution
+tt1517615,B1
+tt1517822,Papers
+tt1518251,Professor
+tt1518255,Raw Faith
+tt1518293,Sundance Skippy
+tt1520836,7 Deadly Sins: Inside the Ecomm Cult
+tt1521679,April 31st
+tt1521716,Charents: In Search of My Armenian Poet
+tt1521761,Dirty Martini and the New Burlesque
+tt1522230,Opelo za Bobija Fisera
+tt1522259,Raging Boll
+tt1522276,Curse of the Shaolin
+tt1523322,Leon Blum
+tt1523382,La tierra se quedó
+tt1524095,Bhutto
+tt1524107,Candyman
+tt1524140,A Chave da Casa
+tt1524539,Harishchandrachi Factory
+tt1524566,Perdida
+tt1525432,Teenage Witness: The Fanya Heller Story
+tt1525818,Com Que Voz
+tt1525915,The Great Vazquez
+tt1526616,"On a Carousel of Sound, We Go Round"
+tt1527594,Antonio Ligabue: Fiction e realtà
+tt1527790,Total Badass
+tt1529292,The End Is My Beginning
+tt1529337,TL-2: La felicidad es una leyenda urbana
+tt1530935,Olafur Eliasson: Space Is Process
+tt1530960,Pinned
+tt1531631,Beyond This Place
+tt1531642,Charles Beaumont: the Short Life of Twilight Zone's Magic Man
+tt1531669,Five Ways to Dario
+tt1532945,Dzi Croquettes
+tt1533061,Katka
+tt1533796,The Magnetic Man
+tt1533980,An American Journey
+tt1536420,Hometown Glory
+tt1536458,The Desert of Forbidden Art
+tt1536527,Woke Up Alive
+tt1537279,For the Sake of the Song: The Story of Anderson Fair
+tt1537321,The Middle Men
+tt1538012,What's in a Name
+tt1538867,"Mountains That Take Wing: Angela Davis & Yuri Kochiyama - A Conversation on Life, Struggles & Liberation"
+tt1538949,Play in the Gray
+tt1539086,Vesku from Finland
+tt1540068,The Sun Behind the Clouds: Tibet's Struggle for Freedom
+tt1540447,Live to Forgive
+tt1540733,A Good Day to Die
+tt1541611,American Dreams Deferred
+tt1541943,To Catch a Dollar: Muhammad Yunus Banks on America
+tt1542344,127 Hours
+tt1542411,Budrus
+tt1543673,Popwhore: A New American Dream.
+tt1543765,Rouge ciel
+tt1543800,Sergej in der Urne
+tt1545103,Rush: Beyond the Lighted Stage
+tt1546985,Heaven and Earth and Joe Davis
+tt1550557,"OC87: The Obsessive Compulsive, Major Depression, Bipolar, Asperger's Movie"
+tt1551620,Hidalgo - La historia jamás contada.
+tt1553372,Survival Strength Starting Over
+tt1553679,Keep Eye on Ball: The Hashim Khan Story
+tt1555936,Yiannis Kouros - Forever Running
+tt1557148,Apaporis: In Search of One River
+tt1557720,My Perestroika
+tt1557769,The Locksmith
+tt1559008,The Trials of J. Robert Oppenheimer
+tt1559549,Restrepo
+tt1560702,The Death of Socrates
+tt1561408,Claude Lévi-Strauss - Auprès de l'Amazonie
+tt1564972,Visionaries
+tt1565416,Elias Petropoulos: An Underground World
+tt1565434,No Distance Left to Run
+tt1566205,Ebbe: The Movie
+tt1566405,Summer Pasture
+tt1567381,"Lucia Rijker: A Boxer, a Buddhist"
+tt1567766,"Deconstructing Dad: The Music, Machines and Mystery of Raymond Scott"
+tt1568150,Joan Rivers: A Piece of Work
+tt1568334,The Tillman Story
+tt1570383,"Mercedes Sosa: Cantora, an Intimate Journey"
+tt1570565,The Coach: 40 Year-Old Figure Skater
+tt1571402,Angel of Evil
+tt1571570,Dolpo Tulku - Heimkehr in den Himalaya
+tt1574600,I Am Secretly an Important Man
+tt1574610,Jason Bateman Thinks I'm Dead
+tt1576385,El mural
+tt1576458,San Martín: El cruce de Los Andes
+tt1576693,Inside Buffalo
+tt1580346,ReGeneration
+tt1581629,The Secret
+tt1583743,Jews and Baseball: An American Love Story
+tt1585270,Rasputin
+tt1585557,Aja meistrid
+tt1586001,Veda - Atatürk
+tt1587357,To Whom It May Concern: Ka Shen's Journey
+tt1589424,Dersimiz: Atatürk
+tt1590020,Eddie Meduza: The Movie
+tt1590231,Untouchable
+tt1590317,Cult Witness
+tt1590757,Behind the Hedgerow: Eileen Slocum and the Meaning of Newport Society
+tt1592136,Making Your Mark (A Year in the Life of an Entrepreneur)
+tt1592855,Dirty Pictures
+tt1592887,À ciel ouvert
+tt1596338,Wistful Wilderness
+tt1596352,I Am Slave
+tt1597089,Phil Ochs: There But for Fortune
+tt1600060,The Family Jams
+tt1600841,Please Remove Your Shoes
+tt1601195,Home by Christmas
+tt1601455,Head Cold
+tt1602523,Holding Hands
+tt1603489,The Weird World of Blowfly
+tt1604709,Straight & Butch
+tt1606229,Goodnight Nobody
+tt1608255,Toyland
+tt1608552,One Voice
+tt1609147,Malik Ek
+tt1609790,Cornelis
+tt1609975,The Rise and Fall and Rise of Sensational
+tt1610516,The Woodmans
+tt1611931,My Kidnapper
+tt1615843,"Fontana, the Interior Frontier"
+tt1615865,The 13th Day
+tt1617082,Der mit den Fingern sieht
+tt1617123,Let It Be
+tt1618390,The Disciple
+tt1620785,"How Much Does Your Building Weigh, Mr Foster?"
+tt1620786,Huellas y memoria de Jorge Preloran
+tt1620894,Mikis Theodorakis - The Composer of Poets and Visions from 1950 to the Present
+tt1621019,The Sons of Tennessee Williams
+tt1621444,Bill Cunningham: New York
+tt1621782,En helt vanlig dag på jobben
+tt1621814,Marching for Life
+tt1621817,Maria and I
+tt1623008,The Arbor
+tt1623777,Honest Man: The Life of R. Budd Dwyer
+tt1625092,Ed Hardy: Tattoo the World
+tt1625128,27 Scenes About Jorgen Leth
+tt1626811,Cameraman: The Life and Work of Jack Cardiff
+tt1638979,"Hey, Boo: Harper Lee and 'to Kill a Mockingbird'"
+tt1639089,The Westsiders
+tt1641638,The Legend Is Born: Ip Man
+tt1641917,All I Ever Wanted: The Airborne Toxic Event Live from Walt Disney Concert Hall
+tt1642230,I Met with an Accident
+tt1642276,"Ricardo Becher, the Final Stage"
+tt1644577,Ganavim Ba Hok
+tt1646135,The Anatomy of Vince Guaraldi
+tt1646958,The Autobiography of Nicolae Ceausescu
+tt1647692,Yaroslav. Tysyachu let nazad
+tt1648206,"Paavo, a Life in Five Courses"
+tt1652195,Das Kind (L'enfant)
+tt1652376,Under the Eightball
+tt1652408,Reparação
+tt1653668,Autumn Gold
+tt1653859,Gauguin à Tahiti et aux Marquises
+tt1653911,Mozart's Sister
+tt1653924,"Play It Again, Christos"
+tt1654812,"Alô, Alô, Terezinha!"
+tt1655581,Child of Giants
+tt1659325,The Children of the Commune
+tt1660399,Nude
+tt1661851,La voce Stratos
+tt1662540,Pratisaad: The Response
+tt1662688,Drive Somewhere: The Saga of the Vulgar Boatmen
+tt1663128,4192: The Crowning of the Hit King
+tt1663667,"Pupi Avati, ieri, oggi, domani"
+tt1664006,One Week Job
+tt1664742,Novembre
+tt1664809,Rakta Charitra
+tt1664825,Reparando
+tt1665722,Caro Francis
+tt1667093,I.M. Caravaggio
+tt1670251,Jimmy Murakami: Non Alien
+tt1670638,Five Friends
+tt1672112,Sam Hunt: Purple Balloon and Other Stories
+tt1673399,In Search of Myster Ey
+tt1673418,Love Shines
+tt1673459,2 Frogs in the West
+tt1673668,The Man of a Thousand Songs
+tt1674093,Michael Jackson Commemorated
+tt1674217,Transit
+tt1674246,Marathon Boy
+tt1675179,O Homem Pode Voar
+tt1676106,Finding Nico
+tt1676180,Put Up Your Dux
+tt1679144,An Ecology of Mind
+tt1679270,Questions for Crazy Horse
+tt1679641,Piché: entre ciel et terre
+tt1679657,Rock Hudson: Dark and Handsome Stranger
+tt1683519,Wagner & Me
+tt1684901,Loving Sophia
+tt1686834,You're Looking at Me Like I Live Here and I Don't
+tt1688421,Breaking Through the Clouds: The First Women's National Air Derby
+tt1688453,Girl with Black Balloons
+tt1692183,Bad Boy Kummer
+tt1692259,An Encounter with Simone Weil
+tt1692919,Sporini vaksa úr orðum
+tt1694580,The Man Who Stopped the Desert
+tt1696205,"Io sono Tony Scott, ovvero come l'Italia fece fuori il più grande clarinettista del jazz"
+tt1699236,The Man Who Saw Frankenstein Cry
+tt1700460,HN Hermann Nitsch
+tt1701980,Who Is Alvin Greene?
+tt1704234,Roca Bon: La geometría del alma
+tt1705078,United We Fall
+tt1706450,The Kingdom of Solomon
+tt1707244,Miwa: Looking for Black Lizard
+tt1707302,A Fighting Chance
+tt1707306,A Tale of Two Totters
+tt1707678,Hole in the Head: A Life Revealed
+tt1710431,Näsimi
+tt1711499,Sigrid & Isaac
+tt1712217,Palace of Silents
+tt1712517,The Chilean Building
+tt1715222,The Shaman & Ayahuasca: Journeys to Sacred Realms
+tt1718844,Nene Hatun
+tt1719528,My Asian Heart
+tt1719581,Petals: Vagina Dialogues
+tt1720170,Mongolia: In the Shadow of Genghis Khan
+tt1720197,Popa Wu: A 5% Story
+tt1725041,Moment of Truth: The Andy Meyers Story
+tt1725109,Sharkwise
+tt1727535,Rakhta Charitra 2
+tt1727596,Winston Churchill: Walking with Destiny
+tt1730136,Sokis Dykumoje
+tt1730714,Rubble Kings
+tt1732510,A Guy Called Dad
+tt1733527,King Me
+tt1735308,Blast and Whisper
+tt1735976,"Guru: Bhagwan, His Secretary & His Bodyguard"
+tt1736017,Last Man Standing
+tt1737632,Nine Days That Changed the World
+tt1739261,Viktor & I: An Alexander Vesely Film
+tt1740730,Focus: A Documentary
+tt1740801,Lesson Plan
+tt1742106,Only a Number
+tt1744823,Arab Attraction
+tt1745777,Norman Wisdom: His Story
+tt1745933,Li ké terra
+tt1748192,Sang Pencerah
+tt1753470,"Babaji, an Indian Love Story"
+tt1754435,River of Victory
+tt1754480,"Severn, la voix de nos enfants"
+tt1754948,We Still Live Here: Âs Nutayuneân
+tt1756364,0.56% ¿Qué le pasó a México?
+tt1756537,Gore
+tt1756633,Moy otets Evgeniy
+tt1756815,The Last First Comic
+tt1756884,Zimmer 202 - Peter Bichsel in Paris
+tt1757692,Brent Houzenga: Hybrid Pioneer
+tt1764270,Die verrückte Welt der Ute Bock
+tt1765864,Johnnie Got His Gun!
+tt1765914,Mia Palia Fotografia
+tt1766080,Sharkula: Diarrhea of a Madman
+tt1770721,Pablo's Hippos
+tt1772813,Dialogues
+tt1773443,Get Off Your Knees: The John Robinson Story
+tt1774604,The Dust Never Settles
+tt1779848,Voices from the Grave
+tt1781071,Ölücanlar
+tt1783352,Nainsukh
+tt1784424,"I, Giannoulis Chalepas"
+tt1785427,Kenwin
+tt1785520,Pope Michael
+tt1789697,Aung San Suu Kyi: Lady of No Fear
+tt1789810,José and Pilar
+tt1789876,Pablo de Tarso: El último viaje
+tt1795367,National Theatre Live: A Disappearing Number
+tt1795674,The Great Intervention
+tt1797415,Is Everybody Happy?
+tt1798287,The Way of the Heart
+tt1801048,The Start of Dreams
+tt1804604,Mee Sindhutai Sapkal
+tt1806772,Amin
+tt1809304,Mighty Jerome
+tt1813179,Belgrano
+tt1815691,Emil
+tt1815837,Moner Manush
+tt1815847,NICK: Biography of a Determined Man
+tt1816626,Rota Comando
+tt1817142,Family Instinct
+tt1820388,Ava Justin Popovic
+tt1820517,Malaki: Scent of an Angel
+tt1820597,Pelas sombras
+tt1820650,Schmuck der Strasse
+tt1827372,Boca
+tt1827391,Diário de Uma Busca
+tt1827402,Empire City
+tt1827439,Iconoclast
+tt1828245,Miracle on Jongno Street
+tt1832355,Francis Bacon and the Brutality of Fact
+tt1832431,Philip Guston: A Life Lived
+tt1833633,A Day with Zaha Hadid
+tt1840343,It's About You
+tt1842399,Let's Be Together
+tt1844084,The Search for Kennedy's PT 109
+tt1847690,We Were Communists
+tt1852886,Rachmaninoff
+tt1859508,Cain and Abel
+tt1861428,Tales of Beyoglu
+tt1864559,Tom Zé Liberated Astronaut
+tt1869458,Gwiazda Kopernika
+tt1869790,Uçurtmam tellere takildi
+tt1884263,Brown Babies: The Mischlingskinder Story
+tt1914189,A Föld szeretöje
+tt1922793,Yulia
+tt1925535,"Vivaldi, the Red Priest"
+tt1946243,Hamama
+tt1972710,McGilvray: The Game is Not the Same
+tt1972827,War Stories
+tt1991145,Rail of the Star
+tt1997280,Az ügynökök a paradicsomba mennek
+tt2007393,Hazreti Ömer'in adaleti
+tt2011956,Passion
+tt2055767,The Fourth Reich
+tt2056597,Herkes Uyurken
+tt2060510,Jimi Hendrix: Voodoo Child
+tt2069774,Flordelis: Basta Uma Palavra Para Mudar
+tt2073009,Kennedys Don't Cry
+tt2078744,The Gardener of God
+tt2154685,Mamonas Pra Sempre
+tt2158543,Imtithal
+tt2159724,Ömer Hayyam
+tt2196464,"Profils, Henri Cartier-Bresson: L'amour tout court"
+tt2249676,Padre Pio Sanctus
+tt2254620,Devi Ahilya Bai
+tt2261496,Whittle: The Jet Pioneer
+tt2265205,Charlotte be bazarche miayad
+tt2266841,Stupid Antonio presents
+tt2271415,Jean Sibelius: The Early Years
+tt2306763,Tagnawittude
+tt2354103,I am Von Höfler Variation on Werther
+tt2395387,Rallijs
+tt2501530,L'eretico - Un gesto di coraggio
+tt2642050,Os Sonhos de um Sonhador: A História de Frank Aguiar
+tt2675408,"PAPA the Man, the Myth, the Legend New Project"
+tt2700330,The Two Escobars
+tt2721570,Skrydis per Atlanta
+tt2805526,Vladyka Andrey
+tt2805906,Sam Cooke: Legend
+tt2831562,Rita Cadillac: The Lady of the People
+tt2871002,Mostefa Ben Boulaid
+tt3009036,Homo.pl
+tt3073842,Righteous Stepinac
+tt3109026,Learning Curve
+tt3206594,Sam Peckinpah: Portrait
+tt3365408,Manet: The Man Who Invented Modern Art
+tt3413644,An Jung Gun Shoots Ito Hirobumi
+tt3420718,The Strangest Dream
+tt3505042,A Woman Shook the Throne of Egypt
+tt3581384,Burroughs: The Movie
+tt3680242,Ante Pavelic Bez Maske
+tt3697240,Impaled: Painfully Blunt!
+tt3711566,Les lieux de Marguerite Duras
+tt3795628,Burning Calcutta
+tt4000940,Psevdonim: Lukach
+tt4063584,Shaheed-E-Azam
+tt4131140,El Mágico
+tt4320352,Zindagi Ek Safar
+tt4386844,Türkiye'nin ruhu
+tt4505282,Ptitsy bez gnyozd
+tt4518054,Loretta Lynn: Honky Tonk Girl
+tt4583862,Charbel: The Movie
+tt4746832,Le Battement D'ailes D'un Papillon
+tt5065274,Andrés Caicedo: unos pocos buenos amigos
+tt5091302,"Ya, Frantsisk Skorina..."
+tt5165012,The Scientist Jiang Zhuying
+tt5240408,Death Song
+tt5299510,Idu k tebe...
+tt5311426,Hason Raja
+tt5735932,Etyudy o Vrubele
+tt5761646,"He's a Legend, He's a Hero"
+tt5842444,Sokrat
+tt5917386,Let's Spend the Night Together
+tt6083394,Xunzhao Lin Zhao de linghun
+tt6150056,"Don't Cry for Me, Sudan"
+tt6281724,Zaloglu Rüstem
+tt6576140,Shilpi
+tt6627334,Tancredo: A Travessia
+tt6689628,Zhang Heng
+tt6713422,Mayor Chen Yi
+tt6721754,Kong Fan Sen
+tt6881934,A Trip Into the Supernatural
+tt6944510,Periyar
+tt7681400,Tülay German: Kor ve ates yillari
+tt7898970,Tathagatha Buddha The Life & Times of Gautama Buddha
+tt8179334,Gönül sultanlari: Azîz Mahmûd Hüdâyî - Hüdayi yolu
+tt8551250,In Search of the Great Beast 666
+tt8760392,Lenz
+tt9345114,Thirty

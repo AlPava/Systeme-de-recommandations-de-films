@@ -1,0 +1,2192 @@
+tconst,primaryTitle
+tt0036606,"Another Time, Another Place"
+tt0038687,Let There Be Light
+tt0063860,The Last Day of the War
+tt0064195,Girls for Mercenaries
+tt0064377,Golpe de mano (Explosión)
+tt0064386,The Fifth Day of Peace
+tt0064803,Pesn o Manshuk
+tt0064858,Pyat dney otdykha
+tt0064864,El quelite
+tt0064964,Overrun!
+tt0065111,Too Little for Such a Big War
+tt0065134,Two Mules for Sister Sara
+tt0065418,La araucana
+tt0065437,Aus unserer Zeit
+tt0065457,Beg
+tt0065528,Catch-22
+tt0065572,When Heroes Die
+tt0065673,Dzien oczyszczenia
+tt0065767,The Militarists
+tt0065770,La generala
+tt0065777,The Garden of the Finzi-Continis
+tt0065782,Sunflower
+tt0065825,Hell Boats
+tt0065838,Hoa Binh
+tt0065850,Hornets' Nest
+tt0065861,The Fed One
+tt0065900,Io non scappo... fuggo
+tt0065908,How I Unleashed World War II
+tt0065914,Jarzebina czerwona
+tt0065922,Julius Caesar
+tt0065938,Kelly's Heroes
+tt0065966,The Last Escape
+tt0065967,The Last Grenade
+tt0065969,The Last Valley
+tt0065975,Churchill's Leopards
+tt0066026,MASH
+tt0066064,The McKenzie Break
+tt0066067,My Zero Hour
+tt0066108,Atlantic Wall
+tt0066171,O.K.
+tt0066185,The Only Way
+tt0066206,Patton
+tt0066282,Raj na ziemi
+tt0066283,The Rangers
+tt0066301,Rio Lobo
+tt0066323,Sól ziemi czarnej
+tt0066386,Sluchay s Polyninym
+tt0066471,Too Late the Hero
+tt0066505,Underground
+tt0066511,Many Wars Ago
+tt0066530,Long Live Death
+tt0066564,Which Way to the Front?
+tt0066606,Znicz olimpijski
+tt0066745,"Adiós, Sabata"
+tt0066784,Armiamoci e partite!
+tt0066819,The Beguiled
+tt0066883,The French Calvinists
+tt0066885,Cao-Xa
+tt0066929,The Dove Must Not Fly
+tt0066963,Dad's Army
+tt0067033,Los días del amor
+tt0067140,"Duck, You Sucker!"
+tt0067269,Jeszcze slychac spiew i rzenie koni
+tt0067277,Johnny Got His Gun
+tt0067284,KLK Calling PTZ: The Red Orchestra
+tt0067337,Legenda
+tt0067364,La lunga ombra del lupo
+tt0067441,La montaña rebelde
+tt0067458,Murphy's War
+tt0067467,Red Psalm
+tt0067497,"No Drums, No Bugles"
+tt0067517,Officers
+tt0067523,Battle of Okinawa
+tt0067545,The Lost Forest
+tt0067605,Poezd v dalyokiy avgust
+tt0067625,Trial on the Road
+tt0067650,Raid on Rommel
+tt0067667,Appointment in Bray
+tt0067693,To the Last Man
+tt0067694,Die Russen kommen
+tt0067853,Ti ekanes ston polemo Thanasi
+tt0067885,The Third Part of the Night
+tt0067889,Twarz aniola
+tt0067895,The Pine Tree in the Mountain
+tt0067920,Guns of War
+tt0068014,Zeppelin
+tt0068161,The Dawns Here Are Quiet
+tt0068312,Boy posle pobedy
+tt0068544,The Heroes
+tt0068812,The Commander of the Lucky Pike
+tt0068984,My Old Man's Place
+tt0069054,Our Miss Fred
+tt0069168,Reed: Insurgent Mexico
+tt0069256,El señor de Osanto
+tt0069329,Summer Soldiers
+tt0069412,Trotz alledem!
+tt0069452,Walter Defends Sarajevo
+tt0069471,Vlak do stanice Nebe
+tt0069528,Young Winston
+tt0069803,The Blockhouse
+tt0069814,Bombasi
+tt0069837,Those Dirty Dogs
+tt0069880,Chyornyy kapitan
+tt0069972,Diario di un italiano
+tt0069982,Days of Betrayal
+tt0070008,Duma o Kovpake: Nabat
+tt0070010,Dva dnya trevogi
+tt0070017,Not Scared to Die
+tt0070036,Heroes in Hell
+tt0070356,Now Where Did the Seventh Company Get to?
+tt0070562,Prisoners
+tt0070586,Nothing to Report
+tt0070592,Massacre in Rome
+tt0070663,Anno Domini 1573
+tt0070758,The Battle of Sutjeska
+tt0070759,Svadba
+tt0070760,Swastika
+tt0070768,When Taekwondo Strikes
+tt0070823,Trader Horn
+tt0070826,The Train
+tt0070835,The Triple Echo
+tt0070861,Only Old Men Are Going to Battle
+tt0071161,She Devils of the SS
+tt0071211,Between Wars
+tt0071214,Sadsacks Go to War
+tt0071327,Ciemna rzeka
+tt0071371,Massacre at Noon
+tt0071525,Front bez flangov
+tt0071604,Hearts and Minds
+tt0071621,Horká zima
+tt0071633,Hubal
+tt0071711,"Captain Mikula, the Kid"
+tt0071733,"Lacombe, Lucien"
+tt0071891,Nagrody i odznaczenia
+tt0071927,Novios de la muerte
+tt0071956,Written Off
+tt0072017,Poslední ples na roznovske plovarne
+tt0072041,Promised Lands
+tt0072053,Let Joy Reign Supreme
+tt0072273,There Is No 13
+tt0072371,Les violons du bal
+tt0072384,Vysokoe zvanie. Dilogiya: Film vtoroy. Radi zhizni na zemle
+tt0072389,Warhead
+tt0072433,Yunga Severnogo flota
+tt0072630,Am Ende der Welt
+tt0072656,The Tree of Guernica
+tt0072684,Barry Lyndon
+tt0072746,Die Brücke von Zupanja
+tt0072774,Champagner aus dem Knobelbecher
+tt0072850,The General's Daughter
+tt0072859,Decak i violina
+tt0072893,Doktor Mladen
+tt0072916,Duma o Kovpake: Buran
+tt0072921,The Voyage Into the Whirlpool Has Begun
+tt0073089,Attack at Dawn
+tt0073257,De laatste trein
+tt0073312,Love and Death
+tt0073341,The Man Who Would Be King
+tt0073426,The Cape of Good Hope
+tt0073433,Na yasnyy ogon
+tt0073460,Noce i dnie
+tt0073488,They Fought for Their Country
+tt0073489,Opadly liscie z drzew
+tt0073490,Operation Lady Marlene
+tt0073502,Overlord
+tt0073622,Return of the 18 Bronzemen
+tt0073654,Brothel No. 8
+tt0073864,The Old Gun
+tt0073877,W te dni przedwiosenne
+tt0073911,Winstanley
+tt0073929,Znikad donikad
+tt0073939,Zwyciestwo
+tt0074060,The Standard
+tt0074100,And Agnes Chose to Die
+tt0074161,"Aty-baty, shli soldaty..."
+tt0074170,7 Man Army
+tt0074286,Carry on England
+tt0074370,Zero Pilot
+tt0074395,Deported Women of the SS Special Section
+tt0074400,The Desert of the Tartars
+tt0074405,Maiden Bridge
+tt0074446,"Duma o Kovpake: Karpaty, Karpaty..."
+tt0074447,Twenty Days Without War
+tt0074469,Captive Women 4
+tt0074515,Coup de Grâce
+tt0074569,The Gestapo's Last Orgy
+tt0074695,Cross of Iron
+tt0074768,SS Experiment Love Camp
+tt0074848,"Mama, I'm Alive"
+tt0074891,The Memory of Justice
+tt0074911,Moja wojna - moja milosc
+tt0074972,Black and White in Color
+tt0074993,Ocalic miasto
+tt0075007,The Seventh Company Has Been Found
+tt0075019,Operation Daybreak
+tt0075040,Seven Beauties
+tt0075094,The Written Off Return
+tt0075118,La question
+tt0075131,Family Portrait
+tt0075153,Redhead
+tt0075162,Salas u Malom Ritu
+tt0075163,Madam Kitty
+tt0075203,The 18 Bronzemen
+tt0075279,Zero Hour
+tt0075404,The Ascent
+tt0075406,Voyage of the Damned
+tt0075407,The Peaks of Zelengore
+tt0075467,The Fifth Seal
+tt0075627,Aces High
+tt0075649,Operation Stadium
+tt0075713,The Longest Bridge
+tt0075784,A Bridge Too Far
+tt0075885,Le Crabe-Tambour
+tt0075968,The Duellists
+tt0076056,Front za liniey fronta
+tt0076102,The Biggest Battle
+tt0076297,The Last Remake of Beau Geste
+tt0076311,Fliers of the Open Skies
+tt0076442,The Naval Commandos
+tt0076577,"Ptaki, ptakom..."
+tt0076584,The Inglorious Bastards
+tt0076646,As Ruínas no Interior
+tt0076649,The Beast in Heat
+tt0076668,Submission
+tt0076758,"Stand Up, Virgin Soldiers"
+tt0076777,Stormtroopers
+tt0076778,Sudba
+tt0076836,Hitler's Last Train
+tt0076842,Trini
+tt0077134,Akcja pod Arsenalem
+tt0077208,Barkhatnyy sezon
+tt0077270,The Boys in Company C
+tt0077283,The Mace with Three Seals
+tt0077362,Coming Home
+tt0077416,The Deer Hunter
+tt0077444,Do krwi ostatniej
+tt0077480,Dóra jelenti
+tt0077572,Force 10 from Navarone
+tt0077617,Go Tell the Spartans
+tt0077983,Tryasina
+tt0078061,Partita na instrument drewniany
+tt0078066,Pastorale 1943
+tt0078079,Little Girl in Blue Velvet
+tt0078320,Breakthrough
+tt0078511,Wszyscy i nikt
+tt0078532,Huso astgh
+tt0078723,1941
+tt0078730,The Abandoned Field: Free Fire Zone
+tt0078788,Apocalypse Now
+tt0078832,Partizanska eskadrila
+tt0078875,The Tin Drum
+tt0078897,Bosko Buha
+tt0079004,Cózes ty za pani...
+tt0079019,From Hell to Victory
+tt0079021,Dachnaya poezdka serzhanta Tsybuli
+tt0079028,David
+tt0079084,Droga daleka przed nami...
+tt0079101,Elegia
+tt0079191,Game for Vultures
+tt0079246,Guaguasi
+tt0079305,Raiding Party
+tt0079497,Operation Leopard
+tt0079576,More American Graffiti
+tt0079644,November 1828
+tt0079652,The Odd Angry Shot
+tt0079659,Occupation in 26 Pictures
+tt0079680,Osobo vazhnoye zadaniye
+tt0079692,Pakleni otok
+tt0079695,Pani Mariya
+tt0079700,The Passage
+tt0079743,Povratak
+tt0079748,Prijeki sud
+tt0079934,Sonntagskinder
+tt0079953,Sto koni do stu brzegów
+tt0080038,The Medic
+tt0080052,Ty pomnish?
+tt0080069,Usijanje
+tt0080110,Woman Between Wolf and Dog
+tt0080137,Wing Commander
+tt0080157,Yanks
+tt0080310,Breaker Morant
+tt0080316,The Battle of Port Arthur
+tt0080355,The Boy Soldier
+tt0080437,The Big Red One
+tt0080494,Mercenaries' Trap
+tt0080518,Charlotte
+tt0080537,Circus maximus
+tt0080571,The Red Horse
+tt0080581,Cukrová bouda
+tt0080610,The Last Metro
+tt0080616,Germany Pale Mother
+tt0080979,Kagemusha
+tt0081041,Lesson of a Dead Language
+tt0081053,The Life and Times of Rosie the Riveter
+tt0081084,A Mess in the House
+tt0081087,Lumina palida a durerii
+tt0081274,Olimpiada 40
+tt0081331,Petria's Wreath
+tt0081375,Private Benjamin
+tt0081378,Defiant Delta
+tt0081388,Pugovitsa
+tt0081470,The Sea Wolves
+tt0081531,"Snadji se, druze"
+tt0081579,Sverige åt svenskarna
+tt0081670,Ty dolzhen zhit
+tt0081692,Men or Not Men
+tt0081731,Vtorzheniye
+tt0081775,Wyrok smierci
+tt0081781,Xiao hua
+tt0081787,Yesterday
+tt0081805,Zielone lata
+tt0081821,The Inheritance
+tt0081998,Little Alexander
+tt0082095,The Boat Is Full
+tt0082096,The Boat
+tt0082219,The Fault
+tt0082351,Eye of the Needle
+tt0082421,Front v tylu vraga
+tt0082429,Circle of Deceit
+tt0082532,How Sleep the Brave
+tt0082545,Ideiglenes paradicsom
+tt0082566,Intrusion: Cambodia
+tt0082653,La leyenda del tambor
+tt0082893,The Skin
+tt0082925,Polonia restituta
+tt0083012,The Lynx
+tt0083017,Casa privata per le SS
+tt0083028,You Love Only Once
+tt0083131,Stripes
+tt0083145,Zvezdopad
+tt0083205,Fuga dall'arcipelago maledetto
+tt0083284,Victory
+tt0083507,13. jul
+tt0083543,Alsino and the Condor
+tt0083567,Antonieta
+tt0083736,Ciao nemico
+tt0083843,"Don't Cry, It's Only Thunder"
+tt0084075,Himeyuri no Tô
+tt0084089,A Captain's Honor
+tt0084132,Inchon
+tt0084204,Cyclops
+tt0084333,Miris dunja
+tt0084351,Monsignor
+tt0084492,Little Wars
+tt0084538,Privates on Parade
+tt0084544,Progon
+tt0084889,The Wars
+tt0084932,Esli vrag ne sdayotsya...
+tt0084947,Lepuri me pesë këmbë
+tt0085190,For Those I Loved
+tt0085198,Austeria
+tt0085215,Balkan ekspres
+tt0085370,Entre Nous
+tt0085481,Ekipazh mashiny boevoy
+tt0085598,Glowy pelne gwiazd
+tt0085620,The Imperial Navy
+tt0085688,Brady's Escape
+tt0085713,Igmanski mars
+tt0085770,Kalabaliken i Bender
+tt0085787,The Kid Who Couldn't Miss
+tt0085823,Last Plane Out
+tt0085829,The Lion of Flanders
+tt0085839,"Liberté, la nuit"
+tt0085911,Clash of Loyalties
+tt0085916,Matka Królów
+tt0085933,Merry Christmas Mr. Lawrence
+tt0086017,Funny Dirty Little War
+tt0086053,Operation Shtreimel
+tt0086056,"Oro, Plata, Mata"
+tt0086079,Gramps Is in the Resistance
+tt0086124,Po zakonam voennogo vremeni
+tt0086173,Raskenstam
+tt0086377,Streamers
+tt0086447,The Millennial Bee
+tt0086450,To Be or Not to Be
+tt0086459,The Last Blood
+tt0086474,Treasure of the Lost Desert
+tt0086502,Battle Anthem
+tt0086510,Under Fire
+tt0086531,Veliki transport
+tt0086617,The Year of Living Dangerously
+tt0086621,Yi ge he ba ge
+tt0086897,Angela's War
+tt0086955,Best Defense
+tt0086969,Birdy
+tt0086975,Blanche and Marie
+tt0086983,Wedle wyroków twoich...
+tt0087045,The Children of the War
+tt0087131,Deystvuy po obstanovke!
+tt0087137,Hong Kong 1941
+tt0087283,Fort 13
+tt0087284,Fort Saganne
+tt0087542,Katastrofa w Gibraltarze
+tt0087571,Children of Nagasaki
+tt0087599,The Last Winter
+tt0087689,Massive Retaliation
+tt0087771,Na strazy swej stac bede
+tt0087792,Nie bylo slonca tej wiosny
+tt0087888,"Partir, revenir"
+tt0087905,Pervaya konnaya
+tt0087956,Purple Hearts
+tt0087959,Love in a Fallen City
+tt0087980,The Razor's Edge
+tt0088009,A Year of the Quiet Sun
+tt0088012,Romans z intruzem
+tt0088093,MacArthur's Children
+tt0088213,Swing Shift
+tt0088345,Soldier's Revenge
+tt0088383,Adieu Bonaparte
+tt0088449,Zero
+tt0088723,Angkor: Cambodia Express
+tt0088746,The Assisi Underground
+tt0088810,The Burmese Harp
+tt0088811,Angry Harvest
+tt0088812,Het bittere kruid
+tt0088921,The Black Arrow
+tt0088934,Code Name: Emerald
+tt0089023,The Devastator
+tt0089030,Dluznicy smierci
+tt0089079,Eleni
+tt0089161,Forbidden
+tt0089207,Days of Hell
+tt0089266,Heidenlöcher
+tt0089315,"Hány az óra, Vekker úr?"
+tt0089323,Private Resistance
+tt0089336,An Indecent Obsession
+tt0089407,Kartka z podrózy
+tt0089417,Kim jest ten czlowiek?
+tt0089463,Latino
+tt0089483,The Liberation of Auschwitz
+tt0089565,Mata Hari
+tt0089594,The Go Masters
+tt0089707,November Moon
+tt0089763,Pacific Inferno
+tt0089766,Palace
+tt0089828,Porokh
+tt0089874,Radi neskolkikh strochek
+tt0089881,Ran
+tt0089903,The Lost Republic II
+tt0089955,Sam posród swoich
+tt0090015,Shoah
+tt0090215,The Unknown Soldier
+tt0090250,The Heifer
+tt0090280,Vreme leoparda
+tt0090283,W cieniu nienawisci
+tt0090340,Wreaths at the Foot of the Mountain
+tt0090365,Zastihla me noc
+tt0090677,Avanti popolo
+tt0090772,Bridge to Hell
+tt0090946,Wild Wind
+tt0090956,Eastern Condors
+tt0090964,Douce France
+tt0091005,Elysium
+tt0091019,Every Time We Say Goodbye
+tt0091026,Eye of the Eagle
+tt0091045,Field of Honor
+tt0091050,Final Mission
+tt0091179,The House on the River
+tt0091187,Heartbreak Ridge
+tt0091196,The Bastard Brother of God
+tt0091251,Come and See
+tt0091263,In de schaduw van de overwinning
+tt0091278,Iron Eagle
+tt0091283,Jan on the Barge
+tt0091359,Cuckoo in a Dark Forest
+tt0091716,Papilio
+tt0091763,Platoon
+tt0091831,Rebel Love
+tt0091876,Rus iznachalnaya
+tt0091892,Sarraounia
+tt0091914,The Second Victory
+tt0091950,Ricochets
+tt0091963,Sky Bandits
+tt0091976,Forbidden Dreams
+tt0091997,Brothers in Blood
+tt0092136,Unfinished Business
+tt0092153,Vecernja zvona
+tt0092264,Heroes Shed No Tears
+tt0092281,Zaproszenie
+tt0092293,Sign of Disaster
+tt0092526,Aktsiya
+tt0092593,"Goodbye, Children"
+tt0092713,H.M. Deserters
+tt0092716,Camp de Thiaroye
+tt0092721,Captive Hearts
+tt0092739,Champ d'honneur
+tt0092837,Engagements of the Heart
+tt0092858,Death of a Soldier
+tt0092880,Veronico Cruz
+tt0092882,Le diable rose
+tt0092921,Double Target
+tt0092963,The Emperor's Naked Army Marches On
+tt0092965,Empire of the Sun
+tt0093024,Filyor
+tt0093057,Fucking Fernand
+tt0093058,Full Metal Jacket
+tt0093073,Gardens of Stone
+tt0093104,Good Morning Babylon
+tt0093143,The Hanoi Hilton
+tt0093172,Hell on the Battleground
+tt0093322,Jungle Rats
+tt0093345,Behind Enemy Lines
+tt0093416,The Lighthorsemen
+tt0093451,Moon of Wolves
+tt0093470,Madrid
+tt0093576,Moy boevoy rashchyot
+tt0093579,Miss Arizona
+tt0093590,A másik ember
+tt0093592,Na iskhode nochi
+tt0093983,Skeleton Coast
+tt0094038,The Stick
+tt0094039,"Stielke, Heinz, Fifteen"
+tt0094059,Strike Commando
+tt0094369,Zavtra byla voyna
+tt0094397,¡Biba la banda!
+tt0094594,1969
+tt0094618,Afganistan - The Last War Bus
+tt0094712,Bat*21
+tt0094716,The Beast of War
+tt0094745,Images of the World and the Inscription of War
+tt0094759,Blind Justice
+tt0094773,The Lion's Den
+tt0094792,Braddock: Missing in Action III
+tt0094807,Sprays of Champagne
+tt0094810,Bua daeng
+tt0094821,Bye Bye Vietnam
+tt0094843,Casablanca Express
+tt0094844,A Case of Honor
+tt0094872,Chouans!
+tt0094878,The Road Home
+tt0094893,Leathernecks
+tt0094899,The Commander
+tt0094920,Not Another Mistake
+tt0095122,The Expendables
+tt0095203,Wherever You Are...
+tt0095232,Going Hollywood: The War Years
+tt0095275,Hanna's War
+tt0095293,Hell Raiders
+tt0095295,Herbstmilch
+tt0095327,Grave of the Fireflies
+tt0095493,Last Platoon
+tt0095585,Mannigan's Force
+tt0095651,My Friend the Traitor
+tt0095658,Those Whom Death Refused
+tt0095808,Oznamuje se láskám vasim
+tt0095856,Pestalozzis Berg
+tt0095870,Piec kobiet na tle morza
+tt0095877,Platoon Leader
+tt0095915,Promis... juré!
+tt0095951,The Raggedy Rawney
+tt0095979,Resan
+tt0095985,Return from the River Kwai
+tt0096131,A Soldier's Tale
+tt0096207,T4 - Hartheim 1 - Sterben und Leben im Schloß
+tt0096271,A Time of Destiny
+tt0096411,Waller's Last Trip
+tt0096416,War Requiem
+tt0096436,White Ghost
+tt0096507,Born to Defense
+tt0096516,Straight for the Heart
+tt0096737,1939
+tt0096744,84C MoPic
+tt0096815,And the Violins Stopped Playing
+tt0096828,The War Is Over
+tt0096833,Marriage of the Blessed
+tt0096877,Countdown to Esmeralda Bay
+tt0096894,"Bashu, the Little Stranger"
+tt0096966,The Battle of Kosovo
+tt0096969,Born on the Fourth of July
+tt0096970,Born to Fight
+tt0097282,Entertaining the Troops
+tt0097313,The Exiles
+tt0097339,Father
+tt0097377,Forced March
+tt0097570,In Country
+tt0097578,"Inimene, keda polnud"
+tt0097593,The Iron Triangle
+tt0097694,Black Rain
+tt0097715,The Last Warrior
+tt0097746,Lie ri nu wa zi
+tt0098036,Oszolomienie
+tt0098190,Resurrected
+tt0098225,The Rose Garden
+tt0098288,Senba-zuru
+tt0098328,The Siege of Firebase Gloria
+tt0098398,Strike Commando 2
+tt0098437,The Winter War
+tt0098462,That Englishwoman: An Account of the Life of Emily Hobhouse
+tt0098463,That Summer of White Roses
+tt0098585,Vent de galerne
+tt0098596,Life and Nothing But
+tt0098597,Vietnam War Story: The Last Days
+tt0098601,Violent Zone
+tt0098691,A Better Tomorrow III: Love and Death in Saigon
+tt0098990,Afghan Breakdown
+tt0099002,Stars and Roses
+tt0099005,Air America
+tt0099103,Bandits
+tt0099291,Come See the Paradise
+tt0099338,Da Jue Zhan I: Liao Shen Zhan Yi
+tt0099339,Decisive Engagement: Wei-hai Campaign
+tt0099340,Da Jue Zhan III: Ping Jin Zhan Yi
+tt0099392,The Scout
+tt0099447,Dog Tags
+tt0099537,Der Fall Ö.
+tt0099579,Fist of Glory
+tt0099638,Gavre Princip - Himmel unter Steinen
+tt0099670,Silent Gunpowder
+tt0099673,"Good Evening, Mr. Wallenberg"
+tt0099688,Gorzka milosc
+tt0099719,Red Dust
+tt0099747,Havana
+tt0099776,Europa Europa
+tt0099924,Karer
+tt0099949,Korczak
+tt0099955,Král kolonád
+tt0099988,Last Stand at Lang Mei
+tt0100072,Luba
+tt0100100,A Man Called Sarge
+tt0100133,Memphis Belle
+tt0100269,"No, or The Vain Glory of Command"
+tt0100327,Panny i wdowy
+tt0100393,The Last Butterfly
+tt0100414,Prisoners of the Sun
+tt0100743,Tank 'Klim Voroshilov-2'
+tt0100762,Time to Kill
+tt0100987,A Home Too Far
+tt0101014,Whampoa Blues
+tt0101025,"Oh, Carmela!"
+tt0101423,Behind the Mask
+tt0101646,A Day in October
+tt0101695,December
+tt0101772,The Boys from St. Petri
+tt0101871,Battle Gear
+tt0101879,The Finest Hour
+tt0101959,Cup Final
+tt0101966,The Sergeant
+tt0102058,Out of Life
+tt0102068,Au Revoir Mon Amour
+tt0102072,The Human Shield
+tt0102153,Jeszcze tylko ten las
+tt0102265,The Long Winter
+tt0102422,McBain
+tt0102426,Mediterraneo
+tt0102443,A Midnight Clear
+tt0102520,La neige et le feu
+tt0102548,La noche más larga
+tt0102623,Page blanche
+tt0102697,For Sasha
+tt0102850,Schacko Klak
+tt0102876,War and Youth
+tt0103089,Time for Cherries
+tt0103156,Silver Stallion
+tt0103612,Absent Without Leave
+tt0103804,Beyond the Call of Duty
+tt0103896,De bunker
+tt0103966,Chunuk Bair
+tt0104105,Diên Biên Phú
+tt0104224,The Fall of Otrar
+tt0104327,General
+tt0104374,The Undeclared War
+tt0104403,Hedd Wyn
+tt0104462,Huidos
+tt0104507,Indochine
+tt0104521,Into the Sun
+tt0104574,Comfort Women
+tt0104617,Oxygen Starvation
+tt0104621,Klamek ji bo Beko
+tt0104640,The Warrior's Heart
+tt0104645,Kshatriya
+tt0104672,Al-lail
+tt0104810,Manufacturing Consent: Noam Chomsky and the Media
+tt0105089,The Panama Deception
+tt0105257,Richard Lvinoe Serdtse
+tt0105783,Warsaw: Year 5703
+tt0105841,"Wszystko, co najwazniejsze..."
+tt0106207,The Abadanis
+tt0106330,From Karkheh to Rhein
+tt0106574,Cijena zivota
+tt0106703,Die Denunziantin
+tt0107007,Gettysburg
+tt0107132,The Man on the Shore
+tt0107135,L'honneur de la tribu
+tt0107157,The Puppetmaster
+tt0107167,Hundan al Belgrano
+tt0107316,Kill Zone
+tt0107319,Grey Knight
+tt0107340,Odds and Evens
+tt0107547,My Private War
+tt0107699,De nøgne træer
+tt0107727,L'oeil de Vichy
+tt0107825,Pierscionek z orlem w koronie
+tt0107866,Pozegnanie z Maria
+tt0108016,Rytsar Kennet
+tt0108067,Secondløitnanten
+tt0108171,Sniper
+tt0108211,Stalingrad
+tt0108489,Videogramme einer Revolution
+tt0108502,Les vivants et les morts de Sarajevo
+tt0108504,For a Lost Soldier
+tt0108506,Vrijeme za...
+tt0108516,Warheads
+tt0108626,End of the Road
+tt0109118,Angel of Mercy
+tt0109157,The Ascent
+tt0109405,Chasing the Deer
+tt0109584,The Decline of the Century: Testament L.Z.
+tt0109602,Des feux mal éteints
+tt0109614,Deserter
+tt0109823,For the Moment
+tt0109848,Frihetsligan
+tt0109859,Le fusil de bois
+tt0109994,The Quality of Mercy
+tt0110081,To Live
+tt0110123,In the Army Now
+tt0110260,Killer Kid
+tt0110322,Legends of the Fall
+tt0110330,Les Milles
+tt0110341,Liberation
+tt0110348,Zivot a neobycejna dobrodruzstvi vojaka Ivana Conkina
+tt0110407,La lumière des étoiles mortes
+tt0110450,Two Flags
+tt0110539,"Mizaldo, Kraj Teatra"
+tt0110817,Peshawar Waltz
+tt0110882,Before the Rain
+tt0111354,The Tale of the Three Lost Jewels
+tt0111473,Trampa para un gato
+tt0111546,An Unforgettable Summer
+tt0111579,Burnt by the Sun
+tt0111598,Veillées d'armes
+tt0111646,Vukovar Poste Restante
+tt0111647,Vukovar se vraca kuci
+tt0111700,White Badge
+tt0112358,Andjele moj dragi
+tt0112373,Anne Frank Remembered
+tt0112428,There Was No War in 72
+tt0112562,The Scent of Joseph's Shirt
+tt0112914,Marble Ass
+tt0113107,Frankie Starlight
+tt0113306,Himeyuri no Tô
+tt0113547,Kimia
+tt0113649,Freedomfighters
+tt0113720,Love Lessons
+tt0113930,"Don't Cry, Nanking"
+tt0113951,Childhood Enemies
+tt0113976,Germans
+tt0114200,Deborah
+tt0114206,A Journey Through the Dark Side
+tt0114243,Red Cherry
+tt0114279,Richard III
+tt0114461,The Seventh Room
+tt0114671,Land and Freedom
+tt0114863,Ulysses' Gaze
+tt0114888,The Walking Dead
+tt0114894,War Stories
+tt0114934,Wielki tydzien
+tt0114999,1941 Hong Kong on Fire
+tt0115575,Storm the Skies
+tt0115730,Minoo Watch Tower
+tt0115770,The Brylcreem Boys
+tt0115805,"Calling the Ghosts: A Story About Rape, War and Women"
+tt0115822,Captain Conan
+tt0115832,Carla's Song
+tt0116170,Oedipo alcalde
+tt0116192,The Empty Mirror
+tt0116193,In Praise of Older Women
+tt0116209,The English Patient
+tt0116317,Flame
+tt0116334,For Ever Mozart
+tt0116343,Forever Friends
+tt0116368,Iz ada v ad
+tt0116369,The Border
+tt0116444,La grande quercia
+tt0116480,Hamsun
+tt0116501,Haïfa
+tt0116693,East of War
+tt0116739,How the War Started on My Island
+tt0116754,Prisoner of the Mountains
+tt0116866,Level Five
+tt0117072,A Moment of Romance III
+tt0117093,Mother Night
+tt0117117,My Mother's Courage
+tt0117555,The Perfect Circle
+tt0117697,Fall Out
+tt0117959,The Truce
+tt0117999,Two Deaths
+tt0118709,Beyond Barbed Wire
+tt0118765,Bozic u Becu
+tt0118820,Il carniere
+tt0119173,G.I. Jane
+tt0119389,The Island on Bird Street
+tt0119494,The Land Girls
+tt0119561,The Long Way Home
+tt0119586,Lucie Aubrac
+tt0119625,Marthe
+tt0119859,Paradise Road
+tt0120070,Savior
+tt0120247,Surface to Air
+tt0120271,Talk of Angels
+tt0120311,Comanche Territory
+tt0120369,Treca zena
+tt0120490,Welcome to Sarajevo
+tt0120538,The Opium War
+tt0120626,April Captains
+tt0120716,Jakob the Liar
+tt0120815,Saving Private Ryan
+tt0120857,Tea with Mussolini
+tt0120863,The Thin Red Line
+tt0121097,"Yes, Sir! Part II"
+tt0121358,Hell Raiders
+tt0121496,The Last Duel of the Great Wall
+tt0121629,No Trespassing
+tt0121757,Sokol Did Not Love Him
+tt0121768,"Stejar, extrema urgenta"
+tt0122199,Operation Warzone
+tt0122221,Raiders of the Doomed Kingdom
+tt0122319,Jin men nu bing
+tt0122450,Eye of the Hurricane
+tt0122538,Holocaust 2: The Revenge
+tt0122657,Little Teachers
+tt0122708,The Stone Lion
+tt0122787,Vääpeli Körmy ja kahtesti laukeava
+tt0122844,And Give My Love to the Swallows
+tt0122995,The Cyclists
+tt0123138,Komediya o Lisistrate
+tt0123841,Forræderne
+tt0123846,Fratii Jderi
+tt0123915,Invaders of the Lost Gold
+tt0123934,Achtung! The Desert Tigers
+tt0123945,That Brief Summer
+tt0124011,Morenga
+tt0124169,Tokyo Trial
+tt0124701,Hajka
+tt0124768,The Boy Who Stopped Talking
+tt0125464,Porzûs
+tt0125537,Three Years Without God
+tt0125700,The Wild Team
+tt0125773,Der gudene er døde
+tt0125832,Liebes Lager
+tt0126232,Castelul condamnatilor
+tt0126283,The End of War
+tt0126386,The Crown of Fire
+tt0126449,Then I Sentenced Them All to Death
+tt0126544,"Noi, cei din linia întîi"
+tt0126934,Tropic of Emerald
+tt0127142,Portile albastre ale orasului
+tt0127522,Doroga na Ryubetsal
+tt0127703,Noch na 14-y paralleli
+tt0128183,Emisia continua
+tt0129563,Vremya tantsora
+tt0129892,Duios Anastasia trecea
+tt0130272,The Soldier's Story
+tt0130748,The Battle of Canudos
+tt0131156,Free Fall
+tt0131585,Serata
+tt0132198,Grüningers Fall
+tt0132614,A War Story
+tt0132676,Akseli and Elina
+tt0132762,Beirut the Encounter
+tt0133027,The Year After Dayton
+tt0133153,Pohjantähti
+tt0133167,Päämaja
+tt0133739,Crossfire
+tt0133859,Hitler from Our Street
+tt0134154,Ride with the Devil
+tt0134908,Prisoners of Hope
+tt0135465,Hustler Squad
+tt0136545,South Pacific 1942
+tt0137504,Exile in Sarajevo
+tt0137546,For All: Springboard to Victory
+tt0138539,Le jour de gloire
+tt0138683,The Liberation of Prague
+tt0138723,Why Not Believe in Miracles?
+tt0138835,"Halt, or I'll Miss!"
+tt0138989,Forty Days of Musa Dagh
+tt0139183,Europa: In the Shadow of the Reich
+tt0139680,Last Night of Love
+tt0139750,Ziua Z
+tt0139999,Dozhit do rassveta
+tt0140317,Kruglyanskiy most
+tt0140529,Salvo D'Acquisto
+tt0140588,Nazi Love Camp 27
+tt0141484,Two Forces
+tt0141926,U-571
+tt0141949,The Guarded Village 1944
+tt0142258,El Salvador: El pueblo vencerà
+tt0142757,Sign of the Beast
+tt0144085,Anahy de las Misiones
+tt0144164,Demons of War
+tt0144282,Long Shadows
+tt0147310,SS Camp 5: Women's Hell
+tt0147807,A u nas byla tishina...
+tt0149253,The Good War
+tt0149576,Abenko Green Berets
+tt0150433,Earth
+tt0150497,Fact
+tt0150712,Gertrudis
+tt0151160,Jeungeon
+tt0151475,Mambí
+tt0151713,Nakdongkaneun heureuneunga
+tt0152241,The Stake and the Flame
+tt0152929,The Tornado
+tt0153512,Venok sonetov
+tt0154591,Hindustan Ki Kasam
+tt0154920,My smerti smotreli v litso
+tt0155754,I'll Remember April
+tt0156269,Ai xuoi van ly
+tt0156386,Spring in My Hometown
+tt0157134,One Evening After the War
+tt0158871,På fremmed mark
+tt0159272,Beautiful People
+tt0159330,And the Bombs Keep Falling
+tt0159430,Evadarea
+tt0160797,Rules of Engagement
+tt0161010,The Trench
+tt0162563,Puraido: Unmei no toki
+tt0162625,Ambush
+tt0163537,To Be Twenty in the Aures
+tt0163747,Midnight Temptations 2
+tt0164420,The Blazing Temple
+tt0164595,Forgotten Heroes
+tt0164703,Killzone
+tt0164906,Spyder
+tt0164943,Truyen co tich cho tuoi muoi bay
+tt0164985,Zero Hour
+tt0165226,Hwang Sa-jin
+tt0165636,Bilyy ptakh z chornoyu oznakoyu
+tt0165697,East of Berlin
+tt0166145,The Last American Soldier
+tt0166233,Kad mrtvi zapjevaju
+tt0166286,No Rest for the Wicked
+tt0166483,Angely smerti
+tt0167085,Corbari
+tt0167239,The End of the Ataman
+tt0167336,Little Nurse
+tt0167510,Gold
+tt0168210,A Taste of Hell
+tt0169781,Donator
+tt0169826,Tough to Kill
+tt0169994,Heading Home
+tt0170209,Malet me blerim mbuluar
+tt0170340,Eight Kilos of Happiness
+tt0170691,Tigerland
+tt0170704,Train to Pakistan
+tt0170705,Train of Life
+tt0170841,Wintering in Jakobsfeld
+tt0171154,Times Devoid of Fairy Tales
+tt0171198,Crveni udar
+tt0171234,Dobrovoljci
+tt0171391,I teti në bronx
+tt0171406,A Shot
+tt0171661,Prishyol soldat s fronta
+tt0171726,The Seventh Bullet
+tt0171794,Destinies
+tt0171884,"Vera, nadezhda, lyubov"
+tt0171930,Yjet e netëve të gjata
+tt0171945,Zharkoye leto v Kabule
+tt0172762,Macedonian Part of Hell
+tt0172932,Ot Buga do Visly
+tt0173000,Pobeda
+tt0173183,Semya Kotsyubinskikh
+tt0173726,Cherez Gobi i Khingan
+tt0173876,Gerlovska istoriya
+tt0173929,The Irony of Chance
+tt0173968,Krasnaya ploshchad
+tt0174058,See You in the Next War
+tt0174095,Osadeni dushi
+tt0174111,For Motherland
+tt0174143,Forbidden Priests
+tt0174240,Stalingrad
+tt0174328,Vybor
+tt0174587,Devet kruhu pekla
+tt0174616,Ekzamen na bessmertie
+tt0174627,Squadron of Flying Hussars
+tt0174705,Gospodin Velikiy Novgorod
+tt0174785,Ya vas dozhdus
+tt0174794,"Judenkreis, abo vichne koleso"
+tt0174819,Klopka za generala
+tt0174849,Lager Nis
+tt0174852,The Last Days
+tt0175164,Si të vdiset
+tt0175225,"That Instant, That While"
+tt0175249,Torgovka i poet
+tt0175255,Trevozhnyy mesyats Veresen
+tt0175558,Day Does Not Die
+tt0175576,The Valley
+tt0175586,Battle for the Railway
+tt0176034,Posledni zhelaniya
+tt0176160,Sokolovo
+tt0176337,Zajtra bude neskoro
+tt0176753,Heroes Without Glory
+tt0176782,Goroda i gody
+tt0177122,Pomni imya svoye
+tt0177341,Living in Paradise
+tt0177824,La guérilléra
+tt0177960,Ozhidanie polkovnika Shalygina
+tt0178472,Français si vous saviez
+tt0178900,Unknown Soldier
+tt0179206,War in the Highlands
+tt0179211,Héroes de otra patria
+tt0179673,Berlin kaputt
+tt0179783,The Pals
+tt0179839,Hajduk
+tt0179890,Ypolohagos Natassa
+tt0179910,Jazol
+tt0180115,Sablazan
+tt0180261,Moment
+tt0180328,Zarki
+tt0180333,Zvezde su oci ratnika
+tt0180642,Girl from the Mountains
+tt0180723,The War of Brazil
+tt0180725,A Guerra dos Pelados
+tt0180750,I to ce proci
+tt0180788,Kraljevski voz
+tt0180889,Orkestar jedne mladosti
+tt0180894,Odmazda
+tt0180960,Last Train to Berlin
+tt0181003,Siroko je lisce
+tt0181029,Arrive Before Daybreak
+tt0181096,The Role of My Family in the Revolution
+tt0181304,Balada o svirepom...
+tt0181594,In Our Own Hands
+tt0181635,Kotorski mornari
+tt0181690,Mirko and Slavko
+tt0181730,Okovani soferi
+tt0181786,Regret to Inform
+tt0181826,So
+tt0181966,Kiliç Aslan
+tt0182001,The Price of a Town
+tt0182236,La hora de los valientes
+tt0182705,American Passport
+tt0182944,Cry Havoc
+tt0183306,Jinnah
+tt0183419,The Lost Platoon
+tt0183605,Önce vatan
+tt0183752,Selahattin Eyyubi
+tt0183800,Son akin
+tt0183948,Universal Soldier
+tt0183975,Viimeinen kesä
+tt0184071,Zakonnyy brak
+tt0184178,15 Amore
+tt0184567,Heroes of the Eastern Skies
+tt0184832,The Verdict
+tt0185134,Devetnaest djevojaka i jedan mornar
+tt0185299,Les enfants du diable
+tt0185511,War of the Shaolin Temple
+tt0185552,The Noblest Way to Die
+tt0185849,Aa koe naki tomo
+tt0185905,"Balweg, the Rebel Priest"
+tt0185983,Charlie Bravo
+tt0186249,Izgubljeni zavicaj
+tt0186261,Kaigun tokubetsu nenshô-hei
+tt0186446,Piloti
+tt0187428,Prvi splitski odred
+tt0187732,Rookies Run Amok
+tt0188030,Butterfly
+tt0188146,Po dannym ugolovnogo rozyska
+tt0188150,Snowdrops and Edelweiss
+tt0188164,Death on a Full Moon Day
+tt0188427,Assault Platoon
+tt0189142,Marcel Proust's Time Regained
+tt0189404,Flashback
+tt0189657,Ljubezen
+tt0191666,Deserter's Gold
+tt0191804,Babatu
+tt0191807,Bagrationi
+tt0191899,Cobra Mission
+tt0192484,Pyatnadtsataya vesna
+tt0193004,Beryom vsyo na sebya
+tt0193209,Guang dao nian ba
+tt0193724,Aquellos años
+tt0194027,"Abandoned Houses, Empty Homes"
+tt0194138,"Massoud, the Afghan"
+tt0194169,The Immigrant
+tt0194811,Sos Laribiancos - I dimenticati
+tt0195153,Porca vacca
+tt0195178,Prisoners of War
+tt0195232,The Saviour
+tt0196381,Checkpoint
+tt0196812,Holocaust
+tt0197923,On the Heights All Is Peace
+tt0198947,When the Bell Tolls
+tt0200422,Lover's Prayer
+tt0200460,Aftoi pou milisan me ton thanato
+tt0201345,Yaroslav Mudry
+tt0202539,Brothers in War
+tt0202777,Gateway to Glory
+tt0202831,The Children of Chabannes
+tt0203022,Four Days of Snow and Blood
+tt0203217,Ya - Russkiy soldat
+tt0203224,The Geisha
+tt0204058,Winter Soldier
+tt0204161,Begunec
+tt0204223,Covert Action
+tt0204906,Blu notte
+tt0206089,Life Goes to War: Hollywood and the Home Front
+tt0206200,Johnny the Partisan
+tt0206348,Tjoet Nja' Dhien
+tt0206386,Royal Vacation
+tt0206439,Yaban
+tt0207322,Report to the Squad Leader
+tt0207356,The Brigade
+tt0208127,Eternal Memory: Voices from the Great Terror
+tt0208350,Peregrina
+tt0209079,Kill Alex Kill
+tt0209180,Sky Hook
+tt0209212,Otryad
+tt0209374,Stormtroopers II
+tt0209464,Villa des roses
+tt0209898,Adwa
+tt0209933,Beau travail
+tt0210333,Wartime
+tt0210579,Madonna
+tt0210658,Dubrovnik Twilight
+tt0210717,Goya in Bordeaux
+tt0210987,De slag in de Javazee
+tt0211408,Heldenfrühling
+tt0212194,Goryachiy sneg
+tt0212574,In the Name of Father and Son
+tt0212872,Night of the Eagles
+tt0212890,Convoy of Women
+tt0212986,Chinese Glory
+tt0213220,Sawa Lakh Se Ek Ladaun
+tt0213847,Malena
+tt0214711,General Massacre
+tt0215590,Los Canadienses
+tt0215750,Enemy at the Gates
+tt0216799,Harrison's Flowers
+tt0218379,Kippur
+tt0218705,All My Loved Ones
+tt0218802,"28i Oktovriou, ora 5,30"
+tt0219190,Mutiny on the Western Front
+tt0219370,Un balcon en forêt
+tt0219662,I Made a Fool Out of Hitler
+tt0219920,The Mediterranean in Flames
+tt0220363,The Red Ribbon
+tt0220631,El mar
+tt0220642,A Woman in the Resistance
+tt0220785,Submarines: Sharks of Steel
+tt0220977,Operation Rainbow
+tt0222269,Phantom Soldiers
+tt0223271,Fei Hu: The Story of the Flying Tigers
+tt0224743,La chamuscada (Tierra y libertad)
+tt0225021,Aces: A Story of the First Air War
+tt0225448,A Cry from the Grave
+tt0226756,Hiroku Nagasaki onna-ro
+tt0228272,Going to Spain
+tt0228460,"One Step on a Mine, It's All Over"
+tt0228763,Rape: A Crime of War
+tt0229510,Kike wadatsumi no koe Last Friends
+tt0229539,Lover's Grief Over the Yellow River
+tt0229959,O aetos ton sklavomenon
+tt0230325,In Search of Peace
+tt0230407,Kazhdyy tretiy
+tt0230423,Korpus generala Shubnikova
+tt0230519,Mersedes ukhodit ot pogoni
+tt0231001,The Zookeeper
+tt0231093,Hero Bunker
+tt0231437,17 sfaires gia enan angelo
+tt0231643,The Brave Bunch
+tt0232043,"Mama, ya zhiv!"
+tt0232779,O teleftaios ton komitatzidon
+tt0232882,V nebe 'Nochnye vedmy'
+tt0233781,The Gateway of Europe
+tt0233812,"Good Kurds, Bad Kurds: No Friends But the Mountains"
+tt0233839,Hakuchi: The Innocent
+tt0234288,Divided We Fall
+tt0234765,The Dangerous Mission
+tt0234944,Under a Stone Sky
+tt0235048,Wicked Spring
+tt0235721,Ruins of the Reich: Rise to Power
+tt0236090,Cetverored
+tt0236169,Shake Hands and Make Up
+tt0237147,Den yparhoun lipotaktes
+tt0237516,Olenya okhota
+tt0237608,Prikaz: ogon ne otkryvat
+tt0237700,Sashka
+tt0240232,I Am Khortitsa
+tt0240433,Crazy
+tt0240473,The Edelweiss Pirates
+tt0242321,Maneuvers
+tt0243278,Under Heavy Fire
+tt0243609,To End All Wars
+tt0244709,Pavilion of Women
+tt0245171,Invincible
+tt0245276,The Profession of Arms
+tt0245562,Windtalkers
+tt0245929,Devils on the Doorstep
+tt0246266,The Blackboard
+tt0246882,Raja Raja Chozhan
+tt0246994,Trimata ot zapasa
+tt0247457,The Key
+tt0247783,The Death Triangle
+tt0248832,The Great Indian Wars 1840-1890
+tt0248912,Into the Arms of Strangers: Stories of the Kindertransport
+tt0249542,Goebbels und Geduldig
+tt0249970,Laforet the Soldier
+tt0251114,Hart's War
+tt0251465,Vietnam! Vietnam!
+tt0251953,Prikaz: pereyti granitsu
+tt0252001,Skvoz ogon
+tt0252111,Zhenskiye radosti i pechali
+tt0252367,Den komandira divizii
+tt0252402,Dvazhdy rozhdyonnyy
+tt0252480,The Grey Zone
+tt0252824,Agnostos stratiotis
+tt0252826,Struggle Without End
+tt0253128,Histoire du caporal
+tt0253913,Vorota v nebo
+tt0253975,Zdes tvoy front
+tt0254156,Avrianos polemistis
+tt0254235,Unfair Competition
+tt0254594,Order No. 027
+tt0254599,My Happiness
+tt0255956,O dosilogos
+tt0255967,O dromos ton iroon
+tt0257497,"La Commune (Paris, 1871)"
+tt0258121,Sangre derramada
+tt0258563,Falsch
+tt0258625,Grammos
+tt0258825,My Dinner with Abbie
+tt0259072,A Time for Drunken Horses
+tt0259673,"Torture Me, Kiss Me"
+tt0260414,Taking Sides
+tt0261102,Nezhnyy vozrast
+tt0261375,Up Syndrome
+tt0261451,Zbrane pro Prahu
+tt0261800,Lisa
+tt0261999,Shyol chetvyortyy god voyny
+tt0262052,Torpedo Bombers
+tt0262080,U opasnoy cherty
+tt0262278,Bez prava na proval
+tt0262493,Eniochos - The Charioteer
+tt0262863,V dvukh shagakh ot 'Raya'
+tt0263156,Brave New Land
+tt0263366,De fûke
+tt0263373,Gazi kadin
+tt0263499,"Juan Charrasqueado y Gabino Barrera, su verdadera historia"
+tt0263552,I kathodos ton 9
+tt0263585,To kokkino treno
+tt0263822,Osoboye podrazdeleniye
+tt0263883,Posledniy shag
+tt0263932,Reportazh s linii ognya
+tt0264765,Kontrudar
+tt0264766,Koordinaty smerti
+tt0265130,The Convoy
+tt0265668,Ruins of the Reich: The Glory Years
+tt0265834,Svidaniye na mlechnom puti
+tt0265842,A Secret Walk in the Woods
+tt0265899,Trevogi pervykh ptits
+tt0266096,Zhil otvazhnyy kapitan
+tt0266596,Govorit Moskva
+tt0266637,I nikto na svete...
+tt0268247,Dar jostejuye ghahraman
+tt0269298,Général... nous voilà!
+tt0269763,War Live
+tt0269934,In the Shadows of the City
+tt0270065,Not Forgotten
+tt0270104,"Land of Truth, Love & Freedom"
+tt0270738,Willie's War
+tt0271017,Eden
+tt0271639,"Mina, Wind of Freedom"
+tt0271675,Nineteen Twenty One
+tt0271679,Our Years
+tt0272217,No Man's Land
+tt0272646,Gu-Ga
+tt0272815,Rodiny soldat
+tt0273148,The Officer's Ward
+tt0273301,Jungle Heat
+tt0273435,Ararat
+tt0273930,Otsnebebis sasaplao
+tt0274527,Days of Grace
+tt0274730,Postaraysya ostatsya zhivym
+tt0275663,Sekunda na podvig
+tt0275694,Soshedshie s nebes
+tt0275743,Tsutisopeli
+tt0275820,"Ar Daijero, Rom agar var"
+tt0275942,Aszparuh
+tt0275963,Bichebi iasamnis quchidan
+tt0275969,Blood and Honor
+tt0276531,The Storm
+tt0276893,Let There Be Peace
+tt0277919,Celestial Body
+tt0278622,Paying the Price: Killing the Children of Iraq
+tt0280491,Bloody Sunday
+tt0280698,Amagleba
+tt0280801,Jung (War) in the Land of the Mujaheddin
+tt0280927,This Is My Moon
+tt0281306,Tsinaparta mitsa
+tt0281999,Men of Bronze
+tt0282023,The Undefeated
+tt0282406,La casta divina
+tt0282540,The Algerian War
+tt0282670,Kvarkvare
+tt0283109,El vals sin fin
+tt0283509,No Man's Land
+tt0284345,Netto Perde Sua Alma
+tt0284815,Address Unknown
+tt0284966,Claws in the Dust
+tt0285052,Strange Gardens
+tt0285736,Milky Way
+tt0286523,Brod
+tt0286872,Operatsia 'Vunderlandi'
+tt0286923,Japanese Devils
+tt0286978,"Sobibór, October 14, 1943, 4 p.m."
+tt0287008,The Last Captive
+tt0287100,Living Afterwards: Words of Women
+tt0287104,Savaitgalis pragare
+tt0287458,Genkai-nada
+tt0288127,Naga Bonar
+tt0288181,Priliv na nezhnost
+tt0288324,The Year That Trembled
+tt0288330,Zelary
+tt0288489,La Coyota
+tt0288569,Iluminados por el fuego
+tt0288677,"Ores agapis, ores polemou"
+tt0288741,Oi polemistai tis eirinis
+tt0289525,The Last Spring
+tt0289562,When the Greeks
+tt0289782,Under the Flag of the Rising Sun
+tt0290210,Max
+tt0291400,Monsieur Batignole
+tt0291886,Embun
+tt0291935,In the Bosom of the Enemy
+tt0293495,My Father
+tt0293585,Attack at Dawn
+tt0293718,Dawn Over the Drava
+tt0293865,Born Under Libra
+tt0294337,Battle Rats
+tt0294849,Prazdnik
+tt0294924,Slawna jak Sarajewo
+tt0295179,L'autre monde
+tt0295212,Dollia e dasmës sime
+tt0295288,Gunat permbi tela
+tt0295348,Ilegalët
+tt0295383,Këshilltarët
+tt0295394,Liri a vdekje
+tt0295474,Ndërgjegjja
+tt0295490,Në fillim të verës
+tt0295549,Radiostacioni
+tt0295727,Tingujt e luftës
+tt0295730,Tomka and His Friends
+tt0296267,Vendimi
+tt0297992,Jiyan
+tt0298131,Rosenstrasse
+tt0298365,The Homefront
+tt0298463,Nambugun
+tt0298506,Price for Peace
+tt0299636,Canon Cheol-jin's Mission
+tt0300263,Ngã ba Dong Loc
+tt0300287,Oglasheniyu ne podlezhit
+tt0300329,Pereprava
+tt0300606,Vao nam ra bac
+tt0300634,The War Effort
+tt0302427,The Conscientious Objector
+tt0302941,Port
+tt0303260,Purple Sunset
+tt0303281,Daughter from Danang
+tt0303961,L'empire du milieu du sud
+tt0304019,A Flame to the Phoenix
+tt0304267,Kedma
+tt0304855,Tunel
+tt0304857,Two Men Went to War
+tt0305499,Long Dark Night
+tt0306193,Vernymi ostanemsya
+tt0306721,Wildflowers on the Battleground
+tt0307000,Imya
+tt0307202,Mutthina Haara
+tt0307623,From Spring to Summer
+tt0308476,The Cuckoo
+tt0309047,War
+tt0309061,War Photographer
+tt0309643,Gruz 300
+tt0309922,Leg
+tt0310368,Yamashita: The Tiger's Treasure
+tt0310656,Arab
+tt0311320,Blind Spot. Hitler's Secretary
+tt0311356,War and Peace
+tt0311530,Missing Brendan
+tt0311597,Okhota na Edinoroga
+tt0312032,The Winter Warrior
+tt0312307,"22 iyunya, rovno v 4 chasa"
+tt0312432,Batka
+tt0312459,Bereg spaseniya
+tt0312647,Dôran
+tt0312693,First Kill
+tt0312756,Henker - Der Tod hat ein Gesicht
+tt0312859,Kannathil Muthamittal
+tt0313608,Deserter
+tt0313878,Chelovek v shtatskom
+tt0314451,"O tekh, kogo pomnyu i lyublyu"
+tt0314475,Otryad osobogo naznacheniya
+tt0314520,Polonez Oginskogo
+tt0314930,Yugoslavia: The Avoidable War
+tt0314941,"Zemlya, do vostrebovaniya"
+tt0315855,Bratyuzhka
+tt0315985,The Houses Are Full of Smoke
+tt0317226,Marooned in Iraq
+tt0317916,Mighty Mo: The Battleship USS Missouri
+tt0318974,The Alamo
+tt0319033,Barefoot to Herat
+tt0319251,Daredevil Commandos
+tt0320671,The Dark Night
+tt0321546,Flame
+tt0322674,Twin Sisters
+tt0322822,Rainy Days
+tt0323921,The Battle of Manchuria
+tt0324014,Soldiers of Innocence
+tt0325043,New Moon
+tt0325123,Bright Young Things
+tt0326595,Blazing Battle
+tt0326629,Satria Bergitar
+tt0326631,Saur Sepuh: Satria Madangkara
+tt0326905,The Great Raid
+tt0327128,Saigo no tokkôtai
+tt0327681,The Little Girl of Hanoi
+tt0329042,El Alamein - The Line of Fire
+tt0329076,Fellagas
+tt0329111,Strayed
+tt0329120,Miss Nhung
+tt0329508,Power Elite
+tt0329628,Abnaa' el Samt
+tt0330009,Asylum
+tt0330483,Jenin Diary: The Inside Story
+tt0332480,Velikiy polkovodets Georgiy Zhukov
+tt0332702,Mercy of the Sea
+tt0333126,The Baise Uprising
+tt0333527,Anxious to Return
+tt0333680,The Battle of Ji'nan
+tt0333690,Jue zhan zhi hou
+tt0334226,Remake
+tt0334294,La sangre de un valiente
+tt0334762,Young-gu Rambo
+tt0335027,Damarwulan-Minakjinggo
+tt0335094,Fatahillah
+tt0337044,The Last Cold Days
+tt0337214,Soerabaja '45
+tt0337436,Vsegda so mnoyu
+tt0337616,Epoca: The Making of History
+tt0338097,Head in the Clouds
+tt0338506,Eshelonite
+tt0338893,Da jie
+tt0339450,Names Engraved in Marble
+tt0340453,The Bloody Battle of Taierzhuang
+tt0341255,Berga: Soldiers of Another War
+tt0341384,The Coast Guard
+tt0343168,The Weather Underground
+tt0343221,Mother of Mine
+tt0343853,Battle of Oil Tankers
+tt0344285,Requiem
+tt0344331,Cross the Chishui River Four Times
+tt0344497,Storm
+tt0347416,LOC: Kargil
+tt0347720,Witnesses
+tt0348551,Blue
+tt0350983,Ghame Afghan
+tt0352143,Aftermath: The Remnants of War
+tt0352621,The Nazi Officer's Wife
+tt0354771,Wu yue ba yue
+tt0356483,Cong nu li dao jiang jun
+tt0357037,Pornography
+tt0357940,Nacido para matar
+tt0359078,Churchill: The Hollywood Years
+tt0359498,Janur Kuning
+tt0359686,Apocalypse Mercenaries
+tt0360677,Isang araw walang Diyos
+tt0361447,Falling in the Paradise
+tt0361596,Fahrenheit 9/11
+tt0361748,Inglourious Basterds
+tt0362291,Von Werra
+tt0363290,Purple Butterfly
+tt0363919,Radio West
+tt0365200,Fire Over Afghanistan
+tt0365285,The Great Water
+tt0366665,Kaptein Caprivi
+tt0367031,Shangani Patrol
+tt0367082,Fateless
+tt0367189,An Untold Triumph: America's Filipino Soldiers
+tt0368083,Noam Chomsky: Rebel Without a Pause
+tt0368276,Hero Zheng Chengong
+tt0368290,Spasenieto
+tt0368954,S21: The Khmer Rouge Killing Machine
+tt0369026,A Tradition of Honor
+tt0369616,Kampuchea: The Untold Story
+tt0369795,Operation Balikatan
+tt0370608,Gorod pod lipami (Epizody geroicheskoy oborony)
+tt0371771,Kavkazskaya ruletka
+tt0372214,Click... a 'Nam War Flick
+tt0372808,Brothers in Arms
+tt0372828,Company K
+tt0372862,Denyat na vladetelite
+tt0373283,Saints and Soldiers
+tt0374083,The Murmuring
+tt0374089,Nomad: The Warrior
+tt0374128,The Robbery of the Third Reich
+tt0375190,Virgin Forest
+tt0377935,Beyond Enemy Lines
+tt0378345,King of Beggars
+tt0378389,Movie in Action
+tt0378848,Battle for Finland
+tt0379581,War Camp
+tt0380615,Paper Clips
+tt0382357,Land of Plenty
+tt0382376,The Secret of Wonsan
+tt0382721,The Fallen
+tt0383177,Aguner Poroshmoni
+tt0383325,Dva shaga do tishiny
+tt0383461,Letters from Palestine
+tt0383905,Balkan Express 2
+tt0383991,Cielo e terra
+tt0384417,Journey to Jerusalem
+tt0384699,Missing in America
+tt0386064,Tae Guk Gi: The Brotherhood of War
+tt0386342,Brothers
+tt0386863,War Without End
+tt0387597,Singa Karawang Bekasi
+tt0387914,Innocent Voices
+tt0389318,Resisting Paradise
+tt0389557,Black Book
+tt0389828,C.S.A.: The Confederate States of America
+tt0390269,Mistah
+tt0390468,Septem8er Tapes
+tt0391261,Kadihan
+tt0392712,Reso
+tt0392785,War Children
+tt0393057,Asboobs: Asal bobo
+tt0393396,Jeremy Hardy vs. the Israeli Army
+tt0393561,Operation Algeciras
+tt0393882,Tina in Mexico
+tt0396816,The Last Train
+tt0397882,Ab Tumhare Hawale Watan Saathiyo
+tt0399471,Paradise Road
+tt0399517,Prostration on Water
+tt0399850,Visa
+tt0401394,Duel
+tt0402371,With a Right to Kill
+tt0403526,The Space Between
+tt0403579,Our Own
+tt0403645,Burnt by the Sun 2
+tt0403708,Yao's Young Warriors
+tt0403957,Dai Nippon teikoku
+tt0404176,Sema: The Warrior of Ayodhaya
+tt0405497,Taking Tiger Mountain by Strategy
+tt0406332,Cold Void
+tt0406551,Bab el shams
+tt0406914,Shadows of the Deceased
+tt0407297,The Second Front
+tt0407536,The Aryan Couple
+tt0408828,Guy X
+tt0410152,Bridges Over Oblivion
+tt0410370,Unofficial Business
+tt0410403,Only the Brave
+tt0410409,Echoes of the Past
+tt0410942,The Soldier and the Elephant
+tt0411702,The Ninth Day
+tt0413833,Beware of Time
+tt0415137,Maharlika
+tt0415955,In the Battlefields
+tt0416668,The Cu Chi Tunnels
+tt0417072,R-Point
+tt0417279,Qi xia si 1937
+tt0417863,The Riverside
+tt0418587,Camp X-Ray: Ghosts of Guantánamo Bay
+tt0418763,Jarhead
+tt0418847,Nina's House
+tt0420009,Nema problema
+tt0420090,Private
+tt0420286,Uncovered: The War on Iraq
+tt0420901,Shooting Dogs
+tt0421044,Beauty in Chaos
+tt0421572,Aishite imasu (Mahal kita) 1941
+tt0422182,Hell's Heroes
+tt0422909,Panaghóy sa subâ: The Call of the River
+tt0424129,Gunner Palace
+tt0424142,The Hero
+tt0424227,Turtles Can Fly
+tt0424272,Melancholian 3 huonetta
+tt0424290,The Moving Picture Boys in the Great War
+tt0424410,ScaredSacred
+tt0424885,Celsius 41.11: The Temperature at Which the Brain... Begins to Die
+tt0425176,The Fortress
+tt0426470,Go West
+tt0427871,Slash
+tt0427879,Son kale: Çanakkale
+tt0427914,Promise
+tt0430264,Pervyy posle Boga
+tt0430745,Voices of Iraq
+tt0430749,WMD: Weapon of Mass Destruction
+tt0431715,DMZ
+tt0431958,Oh! Man
+tt0432053,Sensen fukoku
+tt0432314,Leningrad
+tt0434958,Freedom2speak v2.0
+tt0435492,Under Black Skies
+tt0435725,The Ritchie Boys
+tt0435773,Waiting for NESARA
+tt0436364,Good
+tt0436508,The Liberace of Baghdad
+tt0436971,Why We Fight
+tt0438799,The Betrayal
+tt0439604,Heim ins Reich - Wéi Lëtzebuerg sollt preisesch ginn
+tt0439705,Min morfars morder
+tt0441970,Akai tsuki
+tt0444182,Days of Glory
+tt0446320,The End of Suburbia: Oil Depletion and the Collapse of the American Dream
+tt0446345,The Ground Truth
+tt0448267,Zozo
+tt0449573,California Dreamin'
+tt0449671,The Living and the Dead
+tt0450426,Gallipoli
+tt0450428,Gilane
+tt0450494,Rush to War
+tt0450680,Flanders
+tt0450958,About Baghdad
+tt0451845,Otoko-tachi no Yamato
+tt0451852,Palabra por palabra
+tt0452659,Occupation: Dreamland
+tt0452780,Fragments of Antonin
+tt0453313,Far from Home
+tt0453366,Dievu miskas
+tt0455927,Coca: The Dove from Chechnya
+tt0457430,Pan's Labyrinth
+tt0459668,Kilometre Zero
+tt0460012,Bastards
+tt0460492,The Last Train
+tt0460547,Le regard
+tt0460873,The Moon and the Stars
+tt0460989,The Wind that Shakes the Barley
+tt0461743,The Burnt Theatre
+tt0461832,Return to the Land of Wonders
+tt0461848,"Takaya dlinnaya, dlinnaya doroga"
+tt0462002,N (Io e Napoleone)
+tt0462373,Joy Division
+tt0462415,Martial Law 9/11: Rise of the Police State
+tt0462504,Rescue Dawn
+tt0463385,A Sunday in Kigali
+tt0464288,Underexposure
+tt0464691,Left Food Forward on the Beat
+tt0466265,A Time to Gather Stones
+tt0466562,Nafaka
+tt0466634,2 or 3 Things I Know About Him
+tt0468094,The Road to Guantanamo
+tt0468271,Yemende bir avuç türk
+tt0468288,Zindandan gelen mektup
+tt0468516,My Brother's War
+tt0468548,The Situation
+tt0469223,Weiße Raben - Alptraum Tschetschenien
+tt0469589,Sir! No Sir!
+tt0470082,The Roses of the Desert
+tt0470674,Anastasiya Slutskaya
+tt0470846,A Line in the Sand
+tt0470985,Back to Bosnia
+tt0471823,Murudeka 17805
+tt0472562,Shake Hands with the Devil
+tt0473567,...Yahaan
+tt0475095,John Huston War Stories
+tt0475783,Welcome to Dongmakgol
+tt0478030,Senede Bir Gün
+tt0478874,Missing Jane
+tt0479341,Adam Resurrected
+tt0479758,Starshina
+tt0481390,Kokoda: 39th Battalion
+tt0481519,The Fifth Patient
+tt0482444,The 11th Day
+tt0482567,Twilight
+tt0485772,Eyo imya - Vesna
+tt0485794,Los actores del conflicto
+tt0485863,Battle of the Warriors
+tt0485898,Enemy Image
+tt0485922,Keerthi Chakra
+tt0488873,The Blood of My Brother
+tt0488902,V sozvezdii byka
+tt0489281,Stop-Loss
+tt0490234,A Secret
+tt0490851,The Coldest Winter
+tt0492466,Iraq in Fragments
+tt0492483,Replay Revenge
+tt0492679,Malchishku zvali kapitanom
+tt0493155,One: The Movie
+tt0493264,Valley of the Wolves: Iraq
+tt0495351,In the Shadow of the Palms - Iraq
+tt0495870,Unknown Pages from the Life of a Scout
+tt0497335,Bosta
+tt0497951,Opium War
+tt0756237,The Hourglass
+tt0758732,Beaufort
+tt0763840,Home of the Brave
+tt0765010,Brothers
+tt0772168,Grace Is Gone
+tt0773747,The Tear of the Cold
+tt0774045,Pink Floyd the Wall Redux
+tt0775566,The War Tapes
+tt0776726,Ljubljana je ljubljena
+tt0777759,Spring
+tt0778737,Hayazaki no hana
+tt0780064,Memories of Dien Bien
+tt0780131,Journey to Chazzabeh
+tt0780498,Deadly Nam
+tt0780568,My Führer
+tt0783522,Ghetto
+tt0785012,In Tranzit
+tt0790712,The Messenger
+tt0794280,The Youth of Kamiya Etsuko
+tt0794321,Occupied Minds
+tt0795441,Winter in Wartime
+tt0799941,Beyond the Call
+tt0807747,Sea Without Exit
+tt0809349,Losing Ahmad
+tt0815174,The Hungarian Servant
+tt0815181,Iraq for Sale: The War Profiteers
+tt0815241,Religulous
+tt0816086,Kosova: Desperate Search
+tt0817940,Kingdom of War: Part 1
+tt0819880,The Insane Flew Away
+tt0821477,The Music Box
+tt0824330,Female Agents
+tt0825248,Intimate Enemies
+tt0825348,The Soldier's Star
+tt0826076,Heeva
+tt0826089,Kani-manga
+tt0826541,Eve Giden Yol 1914
+tt0828451,Silent Wings: The American Glider Pilots of World War II
+tt0829086,20.13: Purgatory
+tt0832313,Nice Bombs
+tt0833461,National Anthem
+tt0837800,The Mark of Cain
+tt0845426,Atash-e penhan
+tt0847478,Daliás idök
+tt0847899,Tai Hang shan shang
+tt0863013,Disarm
+tt0870211,Battle for Haditha
+tt0877344,Letters from the Dead
+tt0879843,Katyn
+tt0880482,Seduction of the Will
+tt0880603,Baghdad or Bust
+tt0881919,Glass House
+tt0882797,For Those We Love
+tt0882816,"Tovarisch, I Am Not Dead"
+tt0884173,Rhineland
+tt0887912,The Hurt Locker
+tt0889588,The Children of Huang Shi
+tt0893356,Nanking
+tt0896866,Standard Operating Procedure
+tt0896947,Marta
+tt0899242,Franz + Polina
+tt0901517,War Bus
+tt0902301,The Lost
+tt0903996,Storm of Emotions
+tt0905988,Diligin man ng dugo
+tt0906058,Poet's War
+tt0906064,Recon 7 Down
+tt0912593,No End in Sight
+tt0912599,War Dance
+tt0914798,The Boy in the Striped Pajamas
+tt0920460,Gitmek: My Marlon and Brando
+tt0920461,Tears of April
+tt0922532,Nocturnes
+tt0924003,The Knot
+tt0925296,Three Comrades
+tt0930057,Ever Again
+tt0932661,Brothers War
+tt0934473,Independent Intervention
+tt0934536,Muse of Fire
+tt0934543,Paygah-e jahannami
+tt0937237,Redacted
+tt0938327,See It Through
+tt0940766,The Blue Hills
+tt0940893,Param Vir Chakra
+tt0942385,Tropic Thunder
+tt0943465,The Eagles
+tt0962572,Green Ashes
+tt0963208,Where in the World Is Osama Bin Laden?
+tt0963745,Art in the Face of War
+tt0967925,Al Qarem
+tt0970462,1968 Tunnel Rats
+tt0972551,Cracker Crazy: Invisible Histories of the Sunshine State
+tt0978609,Identity
+tt0981039,A Letter to the Prime Minister
+tt0983990,1971
+tt0984125,They Turned Our Desert Into Fire
+tt0988090,Farewell Darkness
+tt0989831,Jibon Theke Neya
+tt0991250,Tonari machi sensô
+tt0992915,Fuel
+tt0992991,Cathedral Park
+tt0993753,David & Fatima
+tt0997088,The Rape of Europa
+tt0997193,"Yunagi City, Sakura Country"
+tt1000129,Megher Pore Megh
+tt1002457,The Flight in the Night
+tt1002538,I Am an American Soldier: One Year in Iraq with the 101st Airborne
+tt1010393,Facing Sudan
+tt1014783,Why Didn't Anybody Tell Me It Would Become This Bad in Afghanistan
+tt1015231,Perlasca
+tt1015246,War Made Easy: How Presidents & Pundits Keep Spinning Us to Death
+tt1019906,Dhire Bohe Meghna
+tt1020889,The Lighthouse
+tt1033631,Six Days in June
+tt1034427,Alexandra
+tt1037004,American Son
+tt1038684,I Want to Be a Shellfish
+tt1042424,Johnny Mad Dog
+tt1043512,"My War, My Story"
+tt1046997,Miracle at St. Anna
+tt1047850,Beyond the Barbed Wire: An Artist View of the Holocaust
+tt1051864,Facing the Enemy
+tt1052343,Best Wishes for Tomorrow
+tt1053308,Al omr lahza
+tt1059832,A Soldier's Peace
+tt1064861,On War
+tt1064929,The Battleship on the Ground
+tt1065306,Mine
+tt1067571,Casa
+tt1068634,Body of War
+tt1068642,Caparaó
+tt1068783,The Dead Cast a Shadow
+tt1073491,Dying for Change
+tt1079980,Death in Love
+tt1080677,Gwiazdy poranne
+tt1084963,Nachalo puti
+tt1087433,South Shaolin vs. North Shaolin
+tt1090190,B.O.H.I.C.A.
+tt1092007,Heavy Metal in Baghdad
+tt1092040,Vengeance Squad
+tt10926740,Ransom
+tt1093803,"Algeria, Unspoken Stories"
+tt1094275,Under the Bombs
+tt1094592,Gulf War Syndrome: Killing Our Own
+tt1094627,Buddha Collapsed Out of Shame
+tt1104068,Hamase-ye majnoon
+tt1105288,Snipers Valley
+tt11070812,Ju Qi Shou Lai
+tt1111231,Friends for Life
+tt1113809,Parental Farm
+tt1113831,Vasl-e nikan
+tt1116752,Land of Lovers
+tt1116799,Border
+tt1118595,A Man Like Rain
+tt1124052,City of Life and Death
+tt1124364,By the Will of Chingis Khan
+tt1130744,On an Unnamed Hill
+tt1130989,Long Flat Balls II
+tt1135952,White Material
+tt1143105,Fighting for Life
+tt1145479,Under the North Star
+tt1147707,Anatema
+tt1151370,The Survivors
+tt1151831,U-900
+tt1157650,The Greatest Silence: Rape in the Congo
+tt1160931,Public Enemy Number One
+tt1161431,Kusa no ran
+tt1161861,A Lonely Place for Dying
+tt1166085,120
+tt1169272,Heart of Fire
+tt1171271,Remember Vukovar
+tt1172963,Lemon Tree
+tt11791798,Eros and Wonder
+tt1189321,English Strawberries
+tt1192865,The Boys from Baghdad High
+tt1198220,Son of a Lion
+tt1199552,Dog Jack
+tt1209319,Everyman's War
+tt1212442,Shadows in Paradise
+tt1213858,Flipping Out
+tt1213920,The Miraculous
+tt1217070,Triage
+tt1217603,Soldiers of Conscience
+tt1224376,Tobruk
+tt1224437,Ask Not
+tt1229381,Outside the Law
+tt1234540,The Aviatrix of Kazbek
+tt1234548,The Men Who Stare at Goats
+tt1236471,Attack on Darfur
+tt1239427,Brothers at War
+tt1242516,Sword of War
+tt1242842,Dawn of the World
+tt1244496,Aleksandr. Nevskaya bitva
+tt1249306,Giovanna's Father
+tt1250968,Tombstone of the Fireflies
+tt1252616,Spring 1941
+tt1253843,Discovering the Buffalo
+tt1257565,Laviva
+tt1258120,Army of Crime
+tt1258812,War of the Gods
+tt1261975,Henry V
+tt1264074,The Wedding Song
+tt1268161,21 and a Wake-Up
+tt1270766,Henri 4
+tt1270846,Rule of Law: Justiz im Kosovo
+tt1272018,Kandagar
+tt1282093,Trooper
+tt1285174,Live and Remember
+tt1286511,Shooting Robert King
+tt1286779,Land of Sorrows
+tt1286863,Enemies
+tt1296155,Escape from Luanda
+tt1298590,The Reward of Silence
+tt1302183,Gunheavy
+tt1305656,Baler
+tt1305871,The Soviet Story
+tt1309592,Kurukshetra
+tt1311707,Car Bomb
+tt1311717,Superpower
+tt1313049,The Road to Fallujah
+tt1313230,In the Name of the Father
+tt1319093,Hadashi no Gen: Namida no bakuhatsu
+tt1320229,L'aria del lago
+tt1322929,The Inheritance of War
+tt1326223,God Went Surfing with the Devil
+tt1327836,Warring Factions
+tt1329309,The Battle of Pussy Willow Creek
+tt1334328,With Heart & Soul
+tt1337548,Een stukje blauw in de lucht
+tt1337579,Y Yoga Movie
+tt1337598,Confessions of a German Soldier
+tt1338691,The Truth About Weapons of Mass Destruction
+tt1340575,Google Darfur
+tt1344861,On Paper Wings
+tt1351672,The Man Who Will Come
+tt13552496,Vise od igre
+tt1357195,The Reckoning: Remembering the Dutch Resistance
+tt1378702,Iran Is Not the Problem
+tt1378811,When Soldiers Cry
+tt1379689,The Interrogation
+tt13802028,Mouse
+tt1380799,Habermann
+tt1381407,The Holy Land of Tyrol
+tt1382250,The Heart of No Place
+tt1382642,Battle Under Orion
+tt1382725,The Roundup
+tt1384597,Third on a Match
+tt1386962,"Nikto, krome nas..."
+tt1393003,Spoils of War
+tt1396532,Shell Shock
+tt1399655,Jew Suss: Rise and Fall
+tt1407990,General. Zamach na Gibraltarze
+tt1408011,Iraqi Short Films
+tt1418646,Beneath Hill 60
+tt1422806,A Call to Arms
+tt1427856,Death March of Bataan
+tt1431296,Night Bus
+tt1433826,Under the North Star II
+tt1435484,Den pobedy
+tt1437860,Obrechyonnye na voynu
+tt1438179,Isolation
+tt1438461,The Founding of a Republic
+tt1438496,Red and White
+tt1441084,Snow & Ashes
+tt1444680,"Bruc, the Manhunt"
+tt1447798,The Sandbox
+tt1456085,Among Thieves
+tt1464605,Everlasting Glory
+tt1465509,Tangled Up in Blue
+tt1467045,Rebuilding Hope
+tt1475182,A Life in Hashistan
+tt1483831,Lebanon
+tt1487096,Drug Wars: Silver or Lead
+tt1495823,Freedom
+tt1503149,Oliver Sherman
+tt1504216,Forgotten War: The Struggle for North America
+tt1506452,The Priest
+tt1508290,Caterpillar
+tt1513915,States of UnBelonging
+tt1517145,A Little Pond
+tt1517606,Atomic Mom
+tt1517805,20 Cigarettes
+tt1523377,Für meinen Vater
+tt1526331,The Conflict Zone
+tt1527742,Soul Diaspora
+tt1531017,Silent Shame
+tt1532567,The Road from Elephant Pass
+tt1534351,Father of the Kamikaze
+tt1540870,The Whisper of the Sand
+tt1543883,Standing Army
+tt15528020,Boy mestnogo znacheniya
+tt1554946,Five Days of Fire
+tt1557860,Ryabinovyy vals
+tt1560616,What Happened?
+tt1560618,The Attempt Dossier
+tt1561406,Chosin
+tt1561768,Essential Killing
+tt1562847,Amigo
+tt1565043,Once Upon a Time in Seoul
+tt1566624,Son Bulusma
+tt1572167,Rethink Afghanistan
+tt1573479,Protivostoyanie
+tt1575563,Hei yu da tao wang
+tt1576476,The Night Cook
+tt1579416,Kurdî
+tt1583968,Beating the Bomb
+tt1586712,Brocket 99: Rockin' the Country
+tt1587729,71: Into the Fire
+tt1598784,Day of the Sparrow
+tt1601184,"Camp Victory, Afghanistan"
+tt1601195,Home by Christmas
+tt1603471,Chicogrande
+tt1611913,Minus One
+tt1612768,Red and White II: Blood of Eagles
+tt1614339,Forgotten Transports to Poland
+tt1615843,"Fontana, the Interior Frontier"
+tt1619647,Eisis
+tt1626820,Färyad
+tt1631346,"Kamenge, Northern Quarters"
+tt1640680,Armadillo
+tt1641397,Postcard
+tt1653647,"442: Live with Honor, Die with Dignity"
+tt1655620,Under the Sun and Moon
+tt1664641,East Wind Rain
+tt1666012,Karafuto 1945 Summer Hyosetsu no mon
+tt1668200,Elle s'appelait Sarah
+tt1669815,Forgotten Bomb
+tt1683878,Hitokiri II: Road to Destiny
+tt1691845,Hababam taburu
+tt1699705,Tears of Gaza
+tt1719492,Flooding with Love for the Kid
+tt1726715,Parashuty na derevyakh
+tt1740055,Kayoko's Diary
+tt1741605,Afghan Hound
+tt1748088,Laskar Pemimpi
+tt1756604,Love During Wartime
+tt1757770,International Rescue
+tt1764569,Rescue Team
+tt1764583,Schockela Knätschgummi a brong Puppelcher
+tt1766032,Relentless
+tt1767277,Bakida külaklar asir
+tt1774596,The Americans in the Bulge
+tt1784739,Zaustavljeni Glas
+tt1786476,Farewell Baghdad
+tt1791606,Some Called Them Baby Killers... We Call Them Heroes
+tt1792812,The Boy with No Face
+tt1794892,Omdat wij mooi waren
+tt1799110,Joanna
+tt1802511,Pyatyorka otvazhnykh
+tt1809343,Sparkling Red Star
+tt1809387,The War You Don't See
+tt1813519,My Lai Four
+tt1814644,Bang Rajan 2
+tt1832879,1942
+tt1835903,Bambaziis samotxe
+tt1847690,We Were Communists
+tt1863356,Protect and Survive
+tt1864389,Komando Behçet
+tt1878842,A Jewish Girl in Shanghai
+tt1890371,Chocchan monogatari
+tt1891979,Ya budu pomnit
+tt1899260,Horizon
+tt1919064,Sheida
+tt1935882,Seobe II
+tt1948063,Kur pranvera vonohet
+tt1954196,"1982, estuvimos ahí"
+tt1972827,War Stories
+tt1975142,D-Day: Canada's 24 Hours of Destiny
+tt1977731,Britain's Home Front: When the Lights Go on Again
+tt1989513,Guadalcanal: The Island of Death
+tt2008553,La Esmeralda 1879
+tt2032573,Ukrainskaya vendetta
+tt2040365,Grensbasis 13
+tt2050549,Izhorskiy batalon
+tt2057966,Impunity
+tt2065987,Khelaghor
+tt2069863,Nguoi tinh khong chan dung
+tt2072961,"Eto mi, Gospodi..."
+tt2076338,Soli al fronte
+tt2083354,The Attack on H3
+tt2083925,Ami Aadu
+tt2102286,Bombardovanje
+tt2117958,Goodbye Life
+tt2143760,The War Dogs
+tt2158493,First Flight
+tt2162559,From 5 p.m. to 5 a.m.
+tt2162711,An Unattached Unit
+tt2224914,Ring of Fire
+tt2226647,Wolmi Island
+tt22336544,A Fistful of Dynamite
+tt2246945,Rebirth
+tt2247061,The Strangers
+tt2273478,R.V.S.
+tt2329454,Bêrîtan
+tt2338207,Land of the Sun
+tt2354019,Fatat Min Israeel
+tt2359300,Above the War
+tt2380041,Krasno solnyshko
+tt2384680,Vahsi bir kiz sevdim
+tt2385804,Mission X
+tt2404566,Mostar United
+tt2494788,Operation Inchon
+tt2494910,Mission Inferno
+tt2495098,Hero Commandos
+tt2496166,Super Platoon
+tt2498364,Code Name Flash
+tt2580538,Sunset at Chaopraya
+tt2626746,The Meridian of War
+tt2657782,The Firebird Conspiracy
+tt2671504,Chaklun i Rumba
+tt2677888,Naznachayeshsya vnuchkoy
+tt2807558,Niko Nije Rekao Necu
+tt2807916,Doch komandira
+tt2898648,Bao gao ban zhang 4
+tt2913050,Yesli eto sluchitsya s toboi
+tt2947226,Proekt 'Alfa'
+tt3001484,Syn polka
+tt3042438,Sto soldat i dve devushki
+tt3243446,Haixia
+tt3311126,Myortvoye pole
+tt3341488,The Lord of Ayuthaya
+tt3374220,Bohdan-Zynoviy Khmelnytskyi
+tt3397418,Snayper Sakha
+tt3493902,Posledny reis Albatrosa
+tt3517224,Plamya
+tt3712550,Riorita
+tt3714836,La guerra infinita - Kosovo nove anni dopo
+tt3720926,Stolen Kosovo
+tt3752316,Kromov
+tt3772260,Tamo Daleko - Prvi Svetski Rat
+tt4032688,More v ogne
+tt4037634,Rodina ili smert
+tt4054920,Pobeditel
+tt4130762,Turn A Gundam: Earth Light
+tt4130788,Turn A Gundam: Movie II: Moonlight Butterfly
+tt4132078,Krasnoe nebo. Chyornyy sneg
+tt4158020,Wall of Heroism
+tt4265750,Agh atly oghlan
+tt4330768,Black Hawk Down
+tt4359278,Dayereh Sorkh
+tt4650490,Ena argoporimeno efharisto
+tt4668050,Morskoy kharakter
+tt4695102,Za tvoyu sudbu
+tt4701594,Semnadtsatyy transatlanticheskiy
+tt4711124,Skhvatka
+tt4818864,Tovarishch general
+tt4839860,Sleduyu svoim kursom
+tt4840634,Soldier Terminators
+tt4844908,Mater chelovecheskaya
+tt4879382,Pyl pod solntsem
+tt4948216,Ghatok
+tt4966120,Taktika bega na dlinnuyu distantsiyu
+tt4971476,Tyazhyolaya voda
+tt4972876,Sodybu tustejimo metas
+tt5084406,On byl ne odin
+tt5088274,Synovya ukhodyat v boy
+tt5122434,Korespondent Bryan
+tt5140650,Sezercik küçük mücahit
+tt5159376,Goryachaya tochka
+tt5239952,Svadebnaya noch
+tt5245252,Ptitsam krylya ne v tyagost
+tt5268380,Megher Onek Rong
+tt5281680,Hangor Nodi Grenade
+tt5326080,The Dawn of the Sad Street
+tt5343100,Black and White
+tt5586694,InSight
+tt5592894,Buket fialok
+tt5593632,No Retreat
+tt5598066,Proval operatsii 'Bolshaya medveditsa'
+tt5605724,Tsena vozvrata
+tt5657546,Awakening
+tt5733364,Shuravi
+tt5781778,Sanmao Joins the Army
+tt5784080,Balami be soo-ye sahel
+tt5820032,The Tears of Reed Catkins
+tt5841996,Ostanniy bunker
+tt5891008,When We Were Heroes
+tt6106060,Russkaya zhertva
+tt6109182,Proryv
+tt6271874,An Apple from Paradise
+tt6363050,The Lost Dawn
+tt6436514,Underground Rendezvous
+tt6439446,Liberation of Nanjing
+tt6449936,Track Aduowan
+tt6451346,Rabeya
+tt6460734,The Stars Are Bright Tonight
+tt6483148,Rescued from Desperate Situation
+tt6486934,Suchona
+tt6545244,Daisny tserguudee sonsotsgoo!
+tt6724502,Dong ling da dao
+tt6761516,The Great Military March Forward: Liberate the Northwest
+tt6761820,The Great Military March Forward: Pursue and Wipe Out in the South
+tt6764310,18 kvadrat
+tt6765000,The Great Military March Forward: Engulf the Southwest
+tt6765220,"The Great Military March Forward: Fight for Nanjing, Shanghai and Hangzhou"
+tt6779054,Da zhuan zhe: Ao zhan lu xi nan
+tt6821424,Da zhuan zhe: Ting jin da bie shan
+tt7145012,Nofozi
+tt7228498,Chattogram Astragar Lunthan
+tt7256682,Soldier Warriors
+tt7376410,The Visit
+tt7439878,The Purple Horizon
+tt7621592,The Story of the South China Sea
+tt8101316,Giai phóng Sai Gòn
+tt8224418,Sahibini Arayan Madalya
+tt8739606,Oghneya Ala El Mamar
+tt9289206,The Boer War

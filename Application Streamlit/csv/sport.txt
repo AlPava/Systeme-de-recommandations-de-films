@@ -1,0 +1,1151 @@
+tconst,primaryTitle
+tt0065050,The Super Fight
+tt0065434,Atakku no. 1
+tt0065732,Formula 1: Nell'Inferno del Grand Prix
+tt0065753,Fußball wie noch nie
+tt0065754,Fútbol México 70
+tt0065757,The Games
+tt0065797,The Great White Hope
+tt0065906,Jack Johnson
+tt0066202,"Paragon, gola!"
+tt0066243,Il presidente del Borgorosso Football Club
+tt0066400,"Sport, sport, sport"
+tt0066581,The World at Their Feet
+tt0066773,The Goalie's Anxiety at the Penalty Kick
+tt0067113,Winged Devils
+tt0067299,Khod beloy korolevy
+tt0067385,The Troubles of Alfred
+tt0067424,Metrácek
+tt0067460,My Kingdom for...
+tt0067527,On Any Sunday
+tt0067783,The Sporting Club
+tt0068178,Weekend of a Champion
+tt0068283,Black Rodeo
+tt0068364,The Cheerleaders
+tt0068509,"Drive, He Said"
+tt0068564,Winter Comes Early
+tt0068575,Fat City
+tt0068694,The Hero
+tt0068795,Kansas City Bomber
+tt0069222,Sapporo Winter Olympics
+tt0069526,Young People
+tt0069689,The All-American Boy
+tt0069765,Bang the Drum Slowly
+tt0070135,The Great American Cowboy
+tt0070287,The Last American Hero
+tt0070309,Libero
+tt0070377,Maurie
+tt0070462,Nummer 14 Johan Cruijff
+tt0070730,Steel Arena
+tt0070734,Steptoe and Son Ride Again
+tt0070884,Visions of Eight
+tt0071498,The Butt
+tt0071942,One by One
+tt0071966,Paperback Hero
+tt0072236,The Swinging Cheerleaders
+tt0072822,"Cornbread, Earl and Me"
+tt0073074,The Great MacArthy
+tt0073092,Hard Times
+tt0073476,Odinnadtsat nadezhd
+tt0073631,Rollerball
+tt0073643,Run for the Roses
+tt0074207,The Bingo Long Traveling All-Stars & Motor Kings
+tt0074599,Gus
+tt0075137,Revenge of the Cheerleaders
+tt0075148,Rocky
+tt0075718,The Bad News Bears in Breaking Training
+tt0075778,The Boxer
+tt0076111,The Greatest
+tt0076212,"Stand Up Straight, Delfina"
+tt0076500,One on One
+tt0076578,Pumping Iron
+tt0076721,Skateboard
+tt0076723,Slap Shot
+tt0076900,Vtoraya popytka Viktora Krokhina
+tt0076916,White Rock
+tt0077199,The Bad News Bears Go to Japan
+tt0077235,Big Wednesday
+tt0077303,Casey's Shadow
+tt0077351,Coach
+tt0077623,"Goodbye, Franklin High"
+tt0077668,Here Come the Tigers
+tt0077716,Ice Castles
+tt0077743,International Velvet
+tt0077864,They Called Him Bulldozer
+tt0077952,Movie Movie
+tt0078227,Semi-Tough
+tt0078411,Totul pentru fotbal
+tt0078872,The Black Stallion
+tt0078902,Breaking Away
+tt0078950,The Champ
+tt0078960,The Great American Girl Robbery
+tt0079002,Hothead
+tt0079029,Dawn!
+tt0079055,Dirt
+tt0079080,Dreamer
+tt0079136,Fast Break
+tt0079138,Fast Company
+tt0079154,The Fish That Saved Pittsburgh
+tt0079225,Goldengirl
+tt0079510,The Main Event
+tt0079606,National Class Category Up to 785 Ccm
+tt0079640,North Dallas Forty
+tt0079709,Penitentiary
+tt0079723,Players
+tt0079771,Racquet
+tt0079817,Rocky II
+tt0079832,Running
+tt0080381,Aria dla atlety
+tt0080386,Asa Branca: A Brazilian Dream
+tt0080483,Bystree sobstvennoy teni
+tt0080487,Caddyshack
+tt0080546,The Club
+tt0080741,"Fist of Fear, Touch of Death"
+tt0080750,Foolin' Around
+tt0080898,Huang Fei Hong yu gui jiao qi
+tt0080999,Karate Killer
+tt0081003,Klincz
+tt0081398,Raging Bull
+tt0081517,Silver Dream Racer
+tt0081547,Spetters
+tt0081733,Speed Driver
+tt0081964,...All the Marbles
+tt0082090,Body and Soul
+tt0082136,The Cannonball Run
+tt0082158,Chariots of Fire
+tt0082282,Dostih
+tt0082540,Höjdhoppar'n
+tt0082676,Longshot
+tt0083284,Victory
+tt0083304,Vosmoe chudo sveta
+tt0083580,Ace of Aces
+tt0083871,Eccezzziunale... veramente
+tt0084011,G'olé!
+tt0084236,The Last Fight
+tt0084266,Dragon Lord
+tt0084485,Penitentiary II
+tt0084489,Personal Best
+tt0084602,Rocky III
+tt0084616,Running on Empty
+tt0084690,Six Pack
+tt0084718,Spring Fever
+tt0085154,All the Right Moves
+tt0085196,Auktsion
+tt0085254,Blue Skies Again
+tt0085260,The Champions
+tt0085773,Karambolage
+tt0085943,A Minor Miracle
+tt0086086,Patu!
+tt0086220,Running Brave
+tt0086316,Ski Time
+tt0086559,Vorobey na ldu
+tt0086874,L'allenatore nel pallone
+tt0087085,The Gold and the Glory
+tt0087134,Delivery Boys
+tt0087144,Dangerous Moves
+tt0087243,Fatal Games
+tt0087425,Hot Dog... The Movie
+tt0087781,The Natural
+tt0087866,Oxford Blues
+tt0088166,The Sprinter
+tt0088707,American Flyers
+tt0089466,Learn to Ski Better
+tt0089852,Pumping Iron II: The Women
+tt0089927,Rocky IV
+tt0090030,Ski Country
+tt0090046,La sombra del judoka contra el doctor Wong
+tt0090050,Sopernitsy
+tt0090263,The Old Music
+tt0090270,Vision Quest
+tt0090559,16 Days of Glory
+tt0090631,American Anthem
+tt0090685,Back to School
+tt0090713,The Best of Times
+tt0090769,The Boy in Blue
+tt0090863,The Color of Money
+tt0091065,Teenage Dream
+tt0091217,Hoosiers
+tt0091219,Hotshot
+tt0091326,The Karate Kid Part II
+tt0091677,On the Edge
+tt0091751,Pesti ve tme
+tt0091817,Rad
+tt0091995,Spiker
+tt0092012,Steep & Deep
+tt0092022,Streets of Gold
+tt0092214,Wildcats
+tt0092272,Youngblood
+tt0092545,Amazing Grace and Chuck
+tt0092647,Beyond the Edge
+tt0092684,Body Slam
+tt0092694,A Boy from Calabria
+tt0093181,Hero: The Official Film of the 1986 FIFA World Cup
+tt0093315,Jocks
+tt0093496,Run for Your Life
+tt0093612,New York Yankees (the Movie)
+tt0093692,Over the Top
+tt0093786,Proc?
+tt0093809,Quel ragazzo della curva B
+tt0094319,White Winter Heat
+tt0094599,Fist Fighter
+tt0094760,The Blizzard of AAHHH's
+tt0094764,The Blood of Heroes
+tt0094812,Bull Durham
+tt0094824,Caddyshack II
+tt0095082,Eight Men Out
+tt0095119,Everybody's All-American
+tt0095250,The Big Blue
+tt0095409,Johnny Be Good
+tt0095471,A Little Doll
+tt0095492,Last Man Standing
+tt0095947,Der Radfahrer von San Cristóbal
+tt0096161,Split Decisions
+tt0096171,Stealing Home
+tt0096913,Best of the Best
+tt0096952,Bloodfist
+tt0097042,Champions Forever
+tt0097129,Crossing the Line
+tt0097659,Kickboxer
+tt0097815,Major League
+tt0097987,No Holds Barred
+tt0098055,Red Wood Pigeon
+tt0098079,Perfect Profile
+tt0098369,Speed Zone
+tt0099110,Swimming Upstream
+tt0099136,Crossing the Line
+tt0099155,Bloodfist II
+tt0099215,Campioana
+tt0099371,Days of Thunder
+tt0099564,"Fire, Ice & Dynamite"
+tt0099789,The Man in the Golden Mask
+tt0100507,Rocky V
+tt0100631,Ski Patrol
+tt0100709,Struck by Lightning
+tt0100835,Ultrà
+tt0101268,Across the Tracks
+tt0101325,American Kickboxer
+tt0101473,Blonde Fist
+tt0101524,By the Sword
+tt0101741,Diving In
+tt0102178,K2
+tt0102202,Kickboxer 2: The Road Back
+tt0102203,Kickboxer King
+tt0102217,The King of the Kickboxers
+tt0102517,Necessary Roughness
+tt0102535,Night of the Warrior
+tt0102579,Den ofrivillige golfaren
+tt0102674,The Pistol: The Birth of a Legend
+tt0102793,Ring of Fire
+tt0102940,Ski School
+tt0103036,Talent for the Game
+tt0103747,The Babe
+tt0103862,Born to Ski
+tt0104094,Deuce Coupe
+tt0104107,Diggstown
+tt0104219,American Citizen
+tt0104346,Gladiator
+tt0104402,Heaven Is a Playground
+tt0104609,Kickboxer 3: The Art of War
+tt0104670,Ladybugs
+tt0104694,A League of Their Own
+tt0104926,Mr. Baseball
+tt0105109,Pastime
+tt0105159,The Power of One
+tt0105388,"Sumo Do, Sumo Don't"
+tt0105812,White Men Can't Jump
+tt0105824,Wind
+tt0106233,Airborne
+tt0106240,Alex
+tt0106315,Aspen Extreme
+tt0106989,"Gatica, the Monkey"
+tt0107743,The Olympic Summer
+tt0107962,Ring of Fire II: Blood and Steel
+tt0108002,Rudy
+tt0108065,Searching for Bobby Fischer
+tt0109021,8 Seconds
+tt0109035,Above the Rim
+tt0109067,The Air Up There
+tt0109305,Blue Chips
+tt0109450,Cobb
+tt0109457,Colorado Cowboy: The Bruce Ford Story
+tt0109708,Eden Valley
+tt0109729,The Endless Summer 2
+tt0109739,Ernest Goes to School
+tt0110057,Hoop Dreams
+tt0110255,Kickboxer 4: The Aggressor
+tt0110363,Little Big League
+tt0110364,Little Giants
+tt0110442,Major League II
+tt0110624,Let's Go Slam Dunk
+tt0110807,Pepe si Fifi
+tt0111073,Sarahsarà
+tt0111094,The Scout
+tt0111273,The St. Tammany Miracle
+tt0111413,Thin Ice
+tt0111614,Vertical Reality
+tt0112499,The Big Green
+tt0112536,Bloodsport 2
+tt0112574,The Break
+tt0112959,Endless Winter
+tt0113254,Hank Aaron: Chasing the Dream
+tt0113580,Kummeli Stories
+tt0113759,The Man with the Perfect Swing
+tt0113783,"Matías, juez de línea"
+tt0114464,Downhill Willie
+tt0114465,Ski School 2
+tt0114917,When Saturday Comes
+tt0115447,Il tocco - La sfida
+tt0115630,Baseball Girls
+tt0115851,Celtic Pride
+tt0116165,Ed
+tt0116168,Eddie
+tt0116277,The Fan
+tt0116448,The Great White Hype
+tt0116483,Happy Gilmore
+tt0116663,The Italians Are Coming
+tt0116767,Kids Return
+tt0116778,Kingpin
+tt0117126,Myggen
+tt0117341,Pin Gods
+tt0117457,Reggie's Prayer
+tt0117518,Rowing Through
+tt0117677,Snowriders
+tt0117742,Sticks & Stones
+tt0117784,Sunset Park
+tt0117973,True Blue
+tt0118147,When We Were Kings
+tt0118588,All Stars
+tt0118760,The Boxer
+tt0118764,Les Boys
+tt0118849,Children of Heaven
+tt0118976,Didier
+tt0119122,Dribbling Fate
+tt0119297,Historias de Fútbol
+tt0119456,Kickboxing Academy
+tt0119934,Without Limits
+tt0120149,Slutspel
+tt0120422,Up 'n' Under
+tt0120484,The Waterboy
+tt0120645,Meet the Deedles
+tt0120659,Endurance
+tt0120742,Major League: Back to the Minors
+tt0120767,The Naked Man
+tt0120876,Don't Go Breaking My Heart
+tt0121118,Boleiros: Era Uma Vez o Futebol...
+tt0121622,Rally
+tt0121739,Abbot Hai Teng of Shaolin
+tt0122728,Soul in the Hole
+tt0123833,The Striker with Number 9
+tt0124048,Pehlivan
+tt0124089,Raliul
+tt0124653,The Girl with Brains in Her Feet
+tt0124718,He Got Game
+tt0125342,The Last Season
+tt0125676,Black Diamond Rush
+tt0125713,Crystal Voyager
+tt0125740,Extreme Winter
+tt0126036,Snowriders II
+tt0126079,Steeper & Deeper
+tt0126902,Fame Whore
+tt0126916,For Love of the Game
+tt0127247,The Ride
+tt0127982,Zhrebiy
+tt0128119,Chudo s kosichkami
+tt0128226,Soccer Player
+tt0128348,Mijlocas la deschidere
+tt0128893,Risk - blagorodnoe delo
+tt0129564,Vsyo reshayet mgnoveniye
+tt0131857,BASEketball
+tt0132160,The First of May
+tt0132245,Driven
+tt0133035,Jäänmurtaja
+tt0133282,Year of the Dogs
+tt0134618,"Mystery, Alaska"
+tt0134969,Soccer Dog: The Movie
+tt0135363,Death Riders
+tt0136230,Groove Requiem in the Key of Ski
+tt0136365,License to Thrill
+tt0137210,Siestas & Olas: A Surfing Journey Through Mexico
+tt0137401,Les Boys II
+tt0138752,Rodeo
+tt0139658,Os Trapalhões e o Rei do Futebol
+tt0140282,In God's Hands
+tt0140796,Air Bud: Golden Receiver
+tt0141998,The Last Spring
+tt0142215,Histoires d'hiver
+tt0143130,Underdogs: A War Movie
+tt0145404,Possums
+tt0145459,Second Wind
+tt0146786,Game Day
+tt0146838,Any Given Sunday
+tt0146984,The Legend of Bagger Vance
+tt0146990,Like It Is
+tt0150767,Goshogaoka
+tt0151531,Magic Samson
+tt0151789,"O Sport, You Are Peace!"
+tt0154183,First Rank
+tt0156460,Defying Gravity
+tt0157567,The Edge
+tt0158719,The Last Home Run
+tt0159307,Broken Noses
+tt0159378,The Demo Crew
+tt0159507,The Kid
+tt0161107,Yawara! Sore yuke koshinuke kizzu!
+tt0161420,Un centesimo di secondo
+tt0162558,Power Play
+tt0162844,The Fighters
+tt0163810,Return to Campus
+tt0165306,Golf Punks
+tt0165384,The Match
+tt0167205,Ice Pawn
+tt0167833,Les collègues
+tt0168808,Freeriders
+tt0169102,Lagaan: Once Upon a Time in India
+tt0169756,Derby
+tt0170709,The Coach
+tt0171699,Rotsa akvavda nushi
+tt0172691,Portrait of a Champion
+tt0174856,The Hurricane
+tt0175635,Phoenix
+tt0178300,Carving the White
+tt0180734,Hardball
+tt0181045,Take It to the Limit
+tt0181275,a.k.a. Cassius Clay
+tt0181733,On the Ropes
+tt0182509,Usporeno kretanje
+tt0183127,Golpe de estadio
+tt0183160,Hero Interview
+tt0183482,Malý velký hokejista
+tt0184896,Hit the Goal
+tt0185456,Marathon
+tt0186105,Fighting Black Kings
+tt0186895,Les Boys III
+tt0188004,Isto É Pelé
+tt0188160,Price of Glory
+tt0190027,Southpaw
+tt0190238,American Nitro
+tt0191397,The Replacements
+tt0191869,The Catcher
+tt0192712,Uindii
+tt0193171,A Sunday in Hell
+tt0193854,A Shot at Glory
+tt0196020,Il profeta del gol
+tt0196106,MVP: Most Valuable Primate
+tt0196823,Pacific Vibrations
+tt0196857,Play It to the Bone
+tt0197485,Stadium Nuts
+tt0197523,Golfballs!
+tt0198494,Freewheelin'
+tt0198659,The Little Hero of Shaolin Temple
+tt0199725,Love & Basketball
+tt0200121,Cut-Throat Struggle for an Invaluable Treasure
+tt0200173,The Stars and the Water Carriers
+tt0201053,Salve-se Quem Puder
+tt0201840,The Cup
+tt0202928,Games of the XXI Olympiad
+tt0203515,Give It All
+tt0204946,Bring It On
+tt0206113,Madison
+tt0206184,On Edge
+tt0208261,The Life and Times of Hank Greenberg
+tt0210075,Girlfight
+tt0210945,Remember the Titans
+tt0211477,The Last Game
+tt0214770,Hockeyfeber
+tt0217756,Ready to Rumble
+tt0218043,Beyond the Mat
+tt0218411,The Long Run
+tt0221667,Two Billion Hearts
+tt0221959,Fifty
+tt0222373,Ski ala Carte
+tt0222962,El chanfle
+tt0223828,Off the Lip
+tt0223856,The Opponent
+tt0225947,Home Team
+tt0226606,Vyhrávat potichu
+tt0226660,Yo hice a Roque III
+tt0230063,California Girls
+tt0230294,Hip Hip Hurray
+tt0230591,One Day in September
+tt0232975,Yves! Yves!
+tt0233509,Cyclomania
+tt0236702,Running on the Sun: The Badwater 135
+tt0237156,Devushka i Grand
+tt0238660,There's Only One Jimmy Grimble
+tt0240084,Thammudu
+tt0243460,La revancha
+tt0243855,Dhanyee Meye
+tt0246409,False Start
+tt0246894,Rollerball
+tt0248667,Ali
+tt0249539,Go for It
+tt0250116,My Way
+tt0251174,Chilly Dogs
+tt0251637,Choke
+tt0252214,Ajax-Hark the Herald Angels Sing
+tt0252665,Ghislain Lambert's Bicycle
+tt0253399,One Leg Kicking
+tt0253798,Out Cold
+tt0253987,De zwarte meteoor
+tt0254625,New Wave
+tt0255558,The Rumble in the Jungle
+tt0260594,The Icelandic Dream
+tt0260695,Hometown Legend
+tt0260826,Copa 78 - O Poder do Futebol
+tt0260902,The Fifth Season
+tt0260924,A Gentleman's Game
+tt0261190,El portero
+tt0261552,The Foul King
+tt0262462,Carman: the Champion
+tt0263549,Ta katharmata
+tt0263633,Het laatste Joegoslavische elftal
+tt0263957,The Iron Ladies
+tt0264624,Further
+tt0265144,Offside
+tt0265662,The Rookie
+tt0266971,The Slaughter Rule
+tt0267891,The Ringer
+tt0268575,Ride
+tt0270971,Go Tigers!
+tt0271211,Stoked: The Rise and Fall of Gator
+tt0271798,Cock & Bull Story
+tt0273982,Poolhall Junkies
+tt0275309,Dogtown and Z-Boys
+tt0275353,Fists of Freedom: the Story of the '68 Summer Games
+tt0275684,Skateboard Madness
+tt0277223,Pasión dominguera
+tt0277558,A Fighter's Blues
+tt0277790,Landspeed
+tt0277895,Mickey
+tt0280170,Unchain
+tt0280385,6 dni strusia
+tt0282744,Mike Bassett: England Manager
+tt0283291,Cold Fusion
+tt0283532,Para usted jefa
+tt0284135,Full Ride
+tt0284189,Honeybee
+tt0285006,Australian Rules
+tt0285583,Goluboy lyod
+tt0285685,MVP 2: Most Vertical Primate
+tt0285997,The Ride
+tt0286922,The Rhino Brothers
+tt0289109,Champions Forever: The Latin Legends
+tt0291394,Wet Dice
+tt0291832,Crackerjack
+tt0291913,Forgotten Warrior
+tt0293557,Ricky 1
+tt0295736,Shooting Stars
+tt0298765,Billy Boy
+tt0299213,Waterboys
+tt0300532,Blue Crush
+tt0301520,Queen of the Night
+tt0302677,High Speed
+tt0303395,Ski Bums
+tt0304363,My Life on Ice
+tt0307156,Michel Vaillant
+tt0308064,Les Boys IV
+tt0308508,Step Into Liquid
+tt0309452,The Circuit
+tt0309778,Kony
+tt0310164,Snowboarder
+tt0310188,Surf Adventures: O Filme
+tt0310824,Burnout
+tt0316277,El moro de Cumpas
+tt0316465,Radio
+tt0316466,Raging Dove
+tt0316649,Space Riders
+tt0320512,The Smashing Machine
+tt0321491,Bolshoy tramplin
+tt0321556,Buscando un campeon
+tt0321858,30 Days
+tt0322332,Freedom's Fury
+tt0323498,1 Love
+tt0324550,Why
+tt0326429,The Miracle of Bern
+tt0326664,Swimming Upstream
+tt0327835,The Street Player
+tt0328258,Pinpon
+tt0329575,Seabiscuit
+tt0330111,The Calcium Kid
+tt0330321,Gerende ga tokeruhodo koishitai
+tt0330713,Ocean Men: Extreme Dive
+tt0332563,Aiki
+tt0333503,Go for the Gold
+tt0337879,Blackball
+tt0338077,Grind
+tt0338216,Lucky You
+tt0340013,Beitar Provence
+tt0347449,Avellaneda's Moon
+tt0350165,Storm
+tt0353501,Gol v Spasskie vorota
+tt0353773,N.B.T.
+tt0354594,The Game of Their Lives
+tt0354595,The Game of Their Lives
+tt0355702,Lords of Dogtown
+tt0355977,Iron Ladies 2
+tt0357208,Stumped
+tt0358347,Abba Shahor Lavan
+tt0359172,Dokaben
+tt0360201,Wimbledon
+tt0360216,The Year of the Yao
+tt0364722,The Ultimate Game
+tt0364725,Dodgeball: A True Underdog Story
+tt0365516,More Than Famous
+tt0365770,Soccer Dog: European Cup
+tt0370453,The Demon of the Derby
+tt0371915,The Ride
+tt0372536,Speedo
+tt0373726,Birdie & Bogey
+tt0373756,The Charlton Years
+tt0374145,Pink Punch
+tt0374308,United
+tt0374497,Amma Nanna O Tamila Ammayi
+tt0376108,Rebound
+tt0376784,My Brother's Keeper
+tt0377834,Soccer Days
+tt0378357,Michael Laudrup: A Football Player
+tt0379419,The Other Final
+tt0380389,Goal! The Dream Begins
+tt0381077,Casablanca Driver
+tt0381670,In Search of Tubular Swells
+tt0382095,In Orange
+tt0382724,Grossmeyster
+tt0383977,Die Champions
+tt0384162,Hell on Wheels
+tt0384194,We Are the Champions
+tt0384369,Before the Fall
+tt0384488,Saint Ralph
+tt0385002,Green Street Hooligans
+tt0385705,The Football Factory
+tt0385726,Glory Road
+tt0386438,Eski açik sari desene
+tt0386474,Freedom Park
+tt0387114,Chicks with Sticks
+tt0387847,Azul y Blanco
+tt0388980,The Greatest Game Ever Played
+tt0389326,Riding Giants
+tt0390022,Friday Night Lights
+tt0393162,Coach Carter
+tt0396100,Liquid Wind
+tt0397483,Johan Cruijff - En un momento dado
+tt0398165,The Longest Yard
+tt0398230,Never Been Done: The Jon Comer Story
+tt0399365,Monsterthursday
+tt0399644,She Got Game
+tt0403893,Still We Believe: The Boston Red Sox Movie
+tt0403946,Cloud 9
+tt0405159,Million Dollar Baby
+tt0405393,Rudo y Cursi
+tt0405461,Watermarks
+tt0407038,Pucked
+tt0407715,A Day on the Force: Women's Professional Tackle Football
+tt0407783,Fathers of the Sport
+tt0408261,This Old Cub
+tt0408524,Bad News Bears
+tt0411498,Hell on Wheels
+tt0412080,The World's Fastest Indian
+tt0413356,"Tennis, Anyone...?"
+tt0413615,Unforgivable Blackness: The Rise and Fall of Jack Johnson
+tt0415306,Talladega Nights: The Ballad of Ricky Bobby
+tt0415678,Boy s tenyu
+tt0416185,Resurrecting the Champ
+tt0416263,Tournament of Dreams
+tt0416688,Dishdogz
+tt0417217,Two for the Money
+tt0417433,Annapolis
+tt0417731,Guarding Eddy
+tt0418252,Der Traum vom Schweben
+tt0418325,Die Wilden Kerle 2
+tt0418647,Dreamer
+tt0419491,Believe in Me
+tt0419984,Mr. Woodcock
+tt0419992,My Brother... Nikhil
+tt0420134,Rock the Paint
+tt0424823,Balls of Fury
+tt0425055,Game 6
+tt0425413,Run Fatboy Run
+tt0426089,Maggie and Annie
+tt0427057,Le cheval de fer
+tt0427415,Just Another Romantic Wrestling Comedy
+tt0429230,Virgil
+tt0430289,A League of Ordinary Gentlemen
+tt0430454,El penalti más largo del mundo
+tt0430577,The Secret Spot
+tt0430634,Stick It
+tt0435931,Rikidozan: A Hero Extraordinary
+tt0436613,Murderball
+tt0437065,AmerAsian
+tt0437863,The Benchwarmers
+tt0438315,Peaceful Warrior
+tt0441007,Gracie
+tt0442908,Offside
+tt0445934,Blades of Glory
+tt0445990,Invincible
+tt0446010,No Rules
+tt0448621,Marathon
+tt0449018,The Final Season
+tt0449613,Mask de 41
+tt0449945,Five Summer Stories
+tt0452866,Studs
+tt0453365,FC Venus
+tt0453453,Beer League
+tt0453729,Iqbal
+tt0454396,Aryan: Unbreakable
+tt0454641,Tour des légendes
+tt0454941,The Sensei
+tt0454945,She's the Man
+tt0454976,Maradona by Kusturica
+tt0455475,First Descent
+tt0456014,Surf School
+tt0457007,Crying Fist
+tt0457303,Church Ball
+tt0457502,Through the Fire
+tt0457510,Nacho Libre
+tt0459449,M. Kumaran S/O Mahalakshmi
+tt0460505,The Rocket
+tt0460554,Rollin' Through the Decades
+tt0460721,The Big Bad Swim
+tt0460766,Deep Water
+tt0462501,Real: The Movie
+tt0462611,White Air
+tt0464039,Harder They Fall
+tt0464955,White Palms
+tt0465556,Overcoming
+tt0465737,"Maradona, the Hand of God"
+tt0466928,Polynesian Power
+tt0467003,Sye
+tt0469903,The Express
+tt0470087,Show de Bola
+tt0470671,Africa United
+tt0471005,Home of the Giants
+tt0472268,The Flying Scotsman
+tt0472462,Gol & Gincu
+tt0472482,Peanuts
+tt0473024,Crossover
+tt0473074,The Gymnast
+tt0473360,Goal II: Living the Dream
+tt0475355,Pride
+tt0477647,Footy Legends
+tt0478102,Bleeding Orange & Brown: A Cleveland Tradition
+tt0478166,The Heart of the Game
+tt0478337,Zidane: A 21st Century Portrait
+tt0479051,The Greater Meaning of Water
+tt0479143,Rocky Balboa
+tt0479310,Summer Nuts
+tt0479547,Surfwise
+tt0481222,Running the Sahara
+tt0482087,Glass Love
+tt0483586,Chasing 3000
+tt0483746,Murder Inside of Me
+tt0483993,Return2Sender
+tt0484187,The Ride
+tt0486546,Alleyball
+tt0487027,FC Venus
+tt0487271,Wo ist Fred?
+tt0487987,The Power of the Game
+tt0489247,Once in a Lifetime: The Extraordinary Story of the New York Cosmos
+tt0489569,Touch
+tt0490394,"Chivas USA: Sí, se puede"
+tt0491166,Sportkill
+tt0492956,The Game Plan
+tt0498362,Laffit: All About Winning
+tt0498502,Gyakkyo nine
+tt0499537,Offside
+tt0756259,Ya ya ya sa sa sa
+tt0757240,Katharina Bullin - Und ich dachte ich wär' die Größte
+tt0758794,We Are Marshall
+tt0764283,Die Wilden Kerle 3
+tt0765268,Warum halb vier?
+tt0769515,For the Title
+tt0770774,Jam
+tt0772178,Kickin' It Old Skool
+tt0774755,Offside
+tt0780158,Sun Dogs
+tt0782079,Rising Son: The Legend of Skateboarder Christian Hosoi
+tt0783705,On the Ropes
+tt0784962,7-10 Split
+tt0785077,Who's Your Caddy?
+tt0787470,Balls Out: Gary the Tennis Coach
+tt0787475,Hot Rod
+tt0788120,Love and Courage
+tt0790804,The Comebacks
+tt0796245,Boleiros 2: Vencedores e Vencidos
+tt0799948,Blue Blood
+tt0803029,Linha de Passe
+tt0805526,Facing the Giants
+tt0805622,Sweet Dreams
+tt0807715,Kisarazu Cat's Eye: Nihon Series
+tt0807716,Long Flat Balls
+tt0807768,Sunday Driver
+tt0807849,Mystic Ball
+tt0811138,The Love Guru
+tt0811159,The Wild Guys 4
+tt0814014,Apne
+tt0814130,The Hammer
+tt0814229,Nevalyashka
+tt0815140,Dale
+tt0816362,Card Subject to Change
+tt0816510,Goal Dreams
+tt0816638,The Runner: Extreme UltraRunner David Horton
+tt0819105,Into the Wind
+tt0819800,Rough
+tt0821455,Free as Love
+tt0822046,Way of the Puck
+tt0825225,American Pastime
+tt0826046,Chocolate Rap
+tt0829211,How to Become a Hero
+tt0829269,Puskás Hungary
+tt0838241,Street Dreams
+tt0839861,Ice Kings
+tt0839980,Semi-Pro
+tt0840322,Forever Strong
+tt0841021,For Right or Wrong
+tt0844847,Fairway to Heaven
+tt0847221,Streetballers
+tt0848250,Bullrider
+tt0848538,Kung Fu Dunk
+tt0853060,Deutschland. Ein Sommermärchen
+tt0860870,Touching Home
+tt0870101,The Dark Horse
+tt0871510,Let's Go! India
+tt0874317,Salute
+tt0878804,The Blind Side
+tt0878827,Scratch
+tt0889064,Like a Virgin
+tt0891466,The Road in the Air
+tt0904013,Blinkers
+tt0905644,What It Takes: A Documentary About 4 World Class Triathletes' Quest for Greatness
+tt0907856,Klunkerz
+tt0913349,17 Mayis
+tt0915458,Fast Girl
+tt0922626,Substitute
+tt0923752,The King of Kong: A Fistful of Quarters
+tt0923877,Row Hard No Excuses
+tt0928020,Bad Boys of Summer
+tt0928124,Carnera: The Walking Mountain
+tt0938303,The Final Winter
+tt0942384,Shelter
+tt0951318,Bra Boys
+tt0954542,Run for Your Life!
+tt0959282,To the Limit
+tt0960792,Spirit of the Marathon
+tt0972793,Cycle of Peace
+tt0973808,Goal
+tt0974587,Life on Ice
+tt0976035,Faded Dreams
+tt0978325,"Eusébio, la Pantera Negra"
+tt0982922,Road to Victory
+tt0983991,Miracle on 1st Street
+tt0990413,Sugar
+tt0991167,Ping Pong Playa
+tt0997045,Chasing October
+tt0997428,Natural Born Forward
+tt0999891,Hellfighters
+tt1003115,The First Saturday in May
+tt1003118,Steep
+tt1006855,Hope for the Broken Contender
+tt1006867,Doubletime
+tt1009014,J.C. Chávez
+tt1009017,The Minis
+tt1012804,Redbelt
+tt1014778,Unstrung
+tt1016184,Hit for Six
+tt1020899,Say Salaam India: 'Let's Bring the Cup Home'
+tt1020904,Takedowns and Falls
+tt1020996,Switch
+tt1023111,Never Back Down
+tt1029388,Sumolah
+tt10308440,Crap: Big Brother
+tt1032821,Tyson
+tt1034324,The Mighty Macs
+tt1039999,Who's on First?
+tt1043635,Fast Track: No Limits
+tt1043860,Newcastle
+tt1051212,Blood on the Flat Track: The Rise of the Rat City Rollergirls
+tt1051226,Frankenhood
+tt1051231,In the Hands of the Gods
+tt1058533,Ginga: The Soul of Brasilian Football
+tt1059980,Soccer Mom
+tt1063692,Projekt Gold - Eine deutsche Handball-WM
+tt1065330,The One Man Olympics
+tt1068976,Unflinching Triumph: the Philip Rockhammer Story
+tt1073654,L'allenatore nel pallone 2
+tt1075116,Coxless Pair
+tt1077259,PlayByPlayMen and the Art of the Perfect Call
+tt10795566,F.C Internazionale Milano vs Chelsea Football Club
+tt1080735,Magic Man
+tt1082881,"Two Fists, One Heart"
+tt1083456,Fired Up!
+tt1084019,Black Belt
+tt1087853,Gutterballs
+tt1090312,Chasing the Green
+tt1094246,Frei: Gespielt - Mehmet Scholl - Über das Spiel hinaus
+tt1094666,The Hammer
+tt1095429,Sumo East and West
+tt1099200,Journey to Grace: The Hansie Cronje Story
+tt1101672,The Warrior
+tt1104700,Orthodox Stance
+tt1107334,"The Prince of Tennis: Two Samurais, the First Game"
+tt1111944,Rivales
+tt1120897,Dhan Dhana Dhan Goal
+tt1122767,Inning by Inning: A Portrait of a Coach
+tt1125849,The Wrestler
+tt11262238,Football and Dreams
+tt11262264,The Cup
+tt1129921,Bustin' Down the Door
+tt1130964,The 5th Quarter
+tt1130983,Gloves of Stone
+tt1131747,Phantom Punch
+tt1135089,H2O Extreme
+tt1135944,Quantum Hoops
+tt1135964,Carlitos and the Chance of a Lifetime
+tt1144805,King Lines
+tt1144914,More Than Just a Game
+tt1148169,Happy Darts
+tt1151309,Bigger Stronger Faster*
+tt1152840,Racing Dreams
+tt1153545,Who Shot Mamba?
+tt1156464,Star Crossed
+tt1157668,Kicking It
+tt1160008,Football Under Cover
+tt1167839,The Silver Season
+tt1169152,Mathematically Alive: A Story of Fandom
+tt1170411,Victory
+tt1171238,The First Basket
+tt1172233,Whip It
+tt1172998,Hurricane Season
+tt1177161,Naoko
+tt1178481,Second Chance Season
+tt1179035,The Gracies and the Birth of Vale Tudo
+tt1179757,Resuface
+tt1185646,Major: The Winning Shot of Friendship
+tt1198059,City Without Baseball
+tt1198189,The Boxer
+tt1198405,Morning Light
+tt1202516,Golden Goal!
+tt1202539,A No-Hit No-Run Summer
+tt1204298,Gunnin' for That #1 Spot
+tt12140602,All the Goals of 2006 FIFA World Cup Germany
+tt12165362,Fiel
+tt1217424,Class C: The Only Game in Town
+tt1217553,...Og det var Danmark
+tt1221199,Sing gum zhook kao
+tt1226271,The Damned United
+tt1232162,Forever the Moment
+tt1233488,Punch Lady
+tt1247691,Shannon's Rainbow
+tt1249307,Puck Hogs
+tt1250861,Under the Boardwalk: The Monopoly Story
+tt1251761,Muay Thai Giant
+tt1254969,Pond Hockey
+tt1259560,Lost in the Fog
+tt1260705,Flying Rabbits
+tt1260937,The Fure Fure Girl
+tt1262978,Screwball: The Ted Whitfield Story
+tt1263800,Hole in One
+tt1265173,Tokyo Onlypic 2008
+tt1266118,We Believe
+tt1270686,Sankt Pauli! Rausgehen - Warmmachen - Weghauen
+tt1274274,Lionel
+tt1278074,108
+tt1284028,Love the Beast
+tt1285245,Lahore
+tt1286559,Jake's How-to
+tt1286800,Harvard Beats Yale 29-29
+tt1286821,More Than a Game
+tt1289451,Pulling John
+tt1293842,The Winning Season
+tt1294706,Parkour
+tt1295912,"Pour toujours, les Canadiens!"
+tt1298540,Berlin '36
+tt1298648,Take Off
+tt1302548,66/67: Fairplay Is Over
+tt1308944,Gara-Gara Bola
+tt1309000,Dream.net
+tt1312974,Henry O!
+tt1313144,Love Fight
+tt1313270,Dream Weavers: Beijing 2008
+tt1319032,The Race
+tt1320096,Ich gehe jetzt rein
+tt1320302,Truth in 24
+tt1322330,Kamennaya bashka
+tt1322916,Fighting Politics
+tt1326160,Mania
+tt1326277,The Yankles
+tt1326806,Lady Trojans
+tt1327621,Kategorie C
+tt1329355,Girls of Summer
+tt1331328,The Speed Odyssey
+tt1332471,199 Lives: The Travis Pastrana Story
+tt1333089,Lads & Jockeys
+tt1343753,A Woman Among Boys
+tt1344403,Jelenin svet
+tt1345506,Play On
+tt1346516,"That's It, That's All."
+tt1351099,Bicycle Dreams
+tt1356514,Arsenal - Arsène's Eleven
+tt1356996,Athlete
+tt1374971,Turn It Loose
+tt1381406,Freestyle
+tt1390424,Devil's Kickers
+tt1391623,Captain Majid
+tt1399210,Oppai Volleyball
+tt1400323,Bonus Track
+tt1405383,Team of Miracle: We Will Rock You
+tt1407061,Just Wright
+tt1407927,180° South
+tt1408355,Boys of Summer
+tt1409869,Bombora: The Story of Australian Surfing
+tt1411276,Ice Castles
+tt1414814,Clough
+tt1419318,Facing Ali
+tt1421050,Sabungero
+tt1424432,Senna
+tt1426325,Unrivaled
+tt1433816,Metastases
+tt1435543,Minnesota
+tt1440770,X Games 3D: The Movie
+tt1445022,Garuda di Dadaku
+tt1446151,Rookies the Movie: Graduation
+tt1451420,Stingers Rule!
+tt1462546,King
+tt1462768,The Drifter
+tt1466572,Lance et compte
+tt1470691,The Kings
+tt1483780,The Referees
+tt1491616,The Everlasting Flame
+tt1496380,Chennai 600028
+tt1499323,Sonicsgate
+tt1504354,Breaking The Press
+tt1505064,Deathbowl to Downtown
+tt1509282,Vinotinto - La película
+tt15146486,"Seoul, 1988"
+tt1517476,Feel the Wind
+tt1517615,B1
+tt1524131,Knucklehead
+tt1526619,Out of Place
+tt1530953,Pelada
+tt1530991,Ride the Divide
+tt1532903,Ballhawks
+tt1540082,Trail Angels
+tt1541065,"1955, Seven Days of Fall"
+tt1543529,Mountain Town
+tt1546014,Ni slova o futbole
+tt1548982,Going Vertical: The Shortboard Revolution
+tt1550623,Sweet Science
+tt1555936,Yiannis Kouros - Forever Running
+tt1559333,Bobby Cassidy: Counterpuncher
+tt1563704,Legendary
+tt1567274,Argentina Fútbol Club
+tt1567381,"Lucia Rijker: A Boxer, a Buddhist"
+tt1567739,Fruit of the Vine
+tt1568853,Lives of the Artists
+tt1570565,The Coach: 40 Year-Old Figure Skater
+tt1572309,Mount St. Elias
+tt1583213,A Barefoot Dream
+tt1585979,Dynasty
+tt1588358,Brother
+tt1590295,Brutal Beauty: Tales of the Rose City Rollers
+tt1592559,Kick Off
+tt1598872,Wrestlemaniac
+tt1603273,Bushidô Sixteen
+tt1612094,The Ride
+tt1622607,Esquivar y pegar
+tt1626175,One Night in Turin
+tt1631468,Salam Rugby
+tt1639089,The Westsiders
+tt1661219,Halbzeit - Vom Traum ins Leben
+tt1663203,The Seattle Pilots: Short Flight Into History
+tt1669617,Home Run
+tt1673411,Kushti
+tt1691334,Out of the Ashes
+tt1693814,Offside
+tt1697797,4th and Goal
+tt1703131,School Wars: Hero
+tt1705787,Tetherball: The Movie
+tt1707302,A Fighting Chance
+tt1707306,A Tale of Two Totters
+tt1712570,Flying Pigs
+tt1718721,Any Given Friday
+tt1725809,Close to You
+tt1727354,Lumpinee
+tt1727790,Fire in Babylon
+tt1731989,Fussballfieber
+tt1736549,Blazing Boards
+tt1740730,Focus: A Documentary
+tt1741682,Wintervention
+tt1744587,Daytona Dream
+tt1758662,"Inshallah, football"
+tt1764695,The Story
+tt1772838,The International Player
+tt1782415,Cutback
+tt1782495,Mundialito
+tt1786551,Late Rounders
+tt1794796,Inazuma Eleven: The Movie
+tt1800395,The Official 3D 2010 FIFA World Cup Film
+tt1809304,Mighty Jerome
+tt1820576,On the Shoulders of Giants: The Story of the Greatest Team You Never Heard Of
+tt1820685,Stvarnost je takva kakva je
+tt1852819,Kabaddi Ikk Mohabbat
+tt1880310,Race Across the Sky 2010
+tt1885266,Grand Prix
+tt1886570,IN DEEP: The Skiing Experience
+tt1895416,Jaago
+tt1972710,McGilvray: The Game is Not the Same
+tt1996211,Chasing Legends
+tt2012091,The Sun Ship Game
+tt2034095,Spurt
+tt2076202,Flex
+tt2162597,Centre Forward
+tt2196091,Vennila Kabadi Kuzhu
+tt2264132,David Knight: Iron Man of Enduro
+tt2279322,"Takaya ona, igra"
+tt2299573,The Wrestling Road Diaries
+tt2345966,Dream Team: Hero Fan Namnom
+tt2385900,Kallang Roar the Movie
+tt2404566,Mostar United
+tt2524628,The Way I See It
+tt2674496,City Monkey
+tt2691656,Eusébio: Um jogador de todos os tempos
+tt2700330,The Two Escobars
+tt2778674,Badri
+tt2899338,Occy: The Occumentary
+tt3001478,Syn chempiona
+tt3109026,Learning Curve
+tt3240322,Vegan Fitness: Built Naturally
+tt3379812,Bheemli Kabadi Jattu
+tt3431296,La Coupe De La Gloire: The Official Film of the 1998 FIFA World Cup
+tt3437372,Junior
+tt3473064,Reel Rock 5
+tt3772932,Argentina Campeones: 1978 FIFA World Cup Official Film
+tt3789490,Heading for Glory
+tt3798098,Hip-Hop Storm
+tt3815114,Esteghlalish Blue Vol.1
+tt3993956,There Was Always Sun Shining Someplace: Life in the Negro Baseball Leagues
+tt4699776,Pravo na pryzhok
+tt4966120,Taktika bega na dlinnuyu distantsiyu
+tt5365188,O chyom ne uznayut tribuny
+tt5774088,A Family Basketball Team
+tt5831538,Singh Siam
+tt6151092,Modern Collective
+tt6393532,Ghelghelak
+tt6436248,Asi Ruh
+tt6450162,Hilm el-Umr
+tt6779742,The Battle for Gold
+tt6840490,Tatchi: Sebangô no nai êsu
+tt6855752,4-2-4
+tt6863922,Tatchi 2: Sayonara no Okurimono
+tt6867880,Tatchi 3: Kimi ga tôrisugita ato ni
+tt7266388,A Turning Point
+tt7266728,Hand in Hand
+tt7266776,Beyond All Barriers
+tt7266800,"One Light, One World"
+tt7404724,Blue Crush
+tt7523106,Aim for the Ace!
+tt7910562,Ronnie Coleman: The Unbelievable!!
+tt7966088,Captain Tsubasa Movie 02 - Attention! The Japanese Junior Selection
+tt8347432,L'inspecteur Tahar Marque le But
+tt8366496,100 Yillik Sevda
+tt8367070,Unutulmaz Maçlar
+tt9779906,Big Wave
+tt9855214,Kisan

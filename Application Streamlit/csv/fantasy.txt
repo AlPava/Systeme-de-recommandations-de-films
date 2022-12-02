@@ -1,0 +1,3582 @@
+tconst,primaryTitle
+tt0035423,Kate & Leopold
+tt0057461,La rosa de los vientos
+tt0059900,"Wenn du groß bist, lieber Adam"
+tt0060477,Gregorio and His Angel
+tt0062701,Balsamus l'uomo di Satana
+tt0064554,King of the Reindeer
+tt0064843,Case for a Rookie Hangman
+tt0064932,Santo and Blue Demon vs. the Monsters
+tt0065050,The Super Fight
+tt0065073,Taste the Blood of Dracula
+tt0065171,The Vengeance of the Vampire Women
+tt0065390,The Amazing Transplant
+tt0065410,Aoom
+tt0065489,Brancaleone at the Crusades
+tt0065492,Brewster McCloud
+tt0065633,El diablo Cojuelo
+tt0065727,Flesh Feast
+tt0065817,"Hassan, the Bald"
+tt0065832,Hercules in New York
+tt0065834,Heroic Purgatory
+tt0065842,Mr. Superinvisible
+tt0065854,The House That Dripped Blood
+tt0065856,House of Dark Shadows
+tt0065862,Four Moods
+tt0065915,Libido: The Urge to Love
+tt0065917,Jonathan
+tt0065920,The Joys of Jezebel
+tt0065994,Lokis. Rekopis profesora Wittembacha
+tt0066018,Lucie and the Miracles
+tt0066099,Up Your Teddy Bear
+tt0066102,Move
+tt0066181,On a Clear Day You Can See Forever
+tt0066207,Donkey Skin
+tt0066234,Pound
+tt0066268,When Women Had Tails
+tt0066276,La ragazza di latta
+tt0066344,Scrooge
+tt0066349,Bizarre
+tt0066363,Una señora llamada Andrés
+tt0066414,Strawberries Need Rain
+tt0066516,Valerie and Her Week of Wonders
+tt0066537,Killing the Devil
+tt0066550,Watermelon Man
+tt0066561,When Dinosaurs Ruled the Earth
+tt0066592,The Yin and the Yang of Mr. Go
+tt0066732,200 Motels
+tt0066801,Little Ayse and the Magic Dwarfs in the Land of Dreams
+tt0066887,Capulina contra los vampiros
+tt0066952,"Count Yorga, Vampire"
+tt0066980,Queens of Evil
+tt0067012,Sleeping Beauty
+tt0067055,Equinox
+tt0067061,Pinocchio
+tt0067345,The Light at the Edge of the World
+tt0067386,The Legend of Doom House
+tt0067464,The Girl on a Broomstick
+tt0067570,The Tales of Beatrix Potter
+tt0067580,Pink Narcissus
+tt0067592,The Devil's Nightmare
+tt0067616,Prince Bajaja
+tt0067622,The Projectionist
+tt0067639,When Women Lost Their Tails
+tt0067749,Shinbone Alley
+tt0067753,The Long Swift Sword of Siegfried
+tt0067794,Die Stewardessen
+tt0067843,Terror at Orgy Castle
+tt0067861,The Death of Maria Malibran
+tt0067886,Black Mountain
+tt0067942,Veruschka - Poetry of a Woman
+tt0067958,WR: Mysteries of the Organism
+tt0067992,Willy Wonka & the Chocolate Factory
+tt0068025,The Apple War
+tt0068190,Alice's Adventures in Wonderland
+tt0068200,The Amazing Mr. Blunden
+tt0068232,Return of the Evil Dead
+tt0068236,Expulsion of the Devil
+tt0068284,Blacula
+tt0068380,The Inner Scar
+tt0068482,The Devil's Mirror
+tt0068619,Ganja & Hess
+tt0068696,Tonight or Never
+tt0068722,The Human Goddess
+tt0068791,Kadoyng
+tt0068894,The Master and Margaret
+tt0068909,Man of La Mancha
+tt0068996,The Exorcism of Hugh
+tt0069086,The Pied Piper
+tt0069226,Savages
+tt0069240,Sechse kommen durch die Welt
+tt0069287,The Snake Man
+tt0069458,Veronica
+tt0069544,Baba Yaga
+tt0069549,Angels and Cherubs
+tt0069700,Battle of the Amazons
+tt0069783,Beyond Atlantis
+tt0069866,Charley and the Angel
+tt0069874,Chinese in Paris
+tt0070006,Two Sane Nuts
+tt0070009,Duvidha
+tt0070040,The Spirit of the Beehive
+tt0070078,From Beyond the Grave
+tt0070090,The Down-in-the-Hole Gang
+tt0070093,Gawain and the Green Knight
+tt0070116,Successive Slidings of Pleasure
+tt0070131,Lifesize
+tt0070192,Die Hosen des Ritters Bredow
+tt0070280,Ein Käfer auf Extratour
+tt0070295,The Legend of Hillbilly John
+tt0070300,Lemora: A Child's Tale of the Supernatural
+tt0070337,Lost Horizon
+tt0070354,Le Magnifique
+tt0070381,The Great Love Songs
+tt0070464,O Lucky Man!
+tt0070605,Rhinoceros
+tt0070627,Samyy silnyy
+tt0070628,The Hourglass Sanatorium
+tt0070656,Scream Blacula Scream
+tt0070795,A Thief in the Night
+tt0070829,Dream City
+tt0070856,Ondine
+tt0070948,Zardoz
+tt0071203,Belladonna of Sadness
+tt0071317,Chorus
+tt0071381,Celine and Julie Go Boating
+tt0071406,Pastoral: To Die in the Country
+tt0071492,The Woman in Red Boots
+tt0071502,Arabian Nights
+tt0071535,The Loreley's Grasp
+tt0071569,The Golden Voyage of Sinbad
+tt0071586,Ghost of the Mirror
+tt0071595,Hans Röckle und der Teufel
+tt0071607,Herbie Rides Again
+tt0071609,Himiko
+tt0071615,The Holy Mountain
+tt0071671,The Island at the Top of the World
+tt0071687,"How to Drown Dr. Mracek, the Lawyer"
+tt0071737,Lancelot of the Lake
+tt0071762,The Little Prince
+tt0071819,La Mary
+tt0071832,The Marvelous Visit
+tt0071853,Monty Python and the Holy Grail
+tt0071867,Mr. Sycamore
+tt0071887,Na Cha the Great
+tt0071897,Nazareno Cruz and the Wolf
+tt0071941,Once
+tt0071964,La Paloma
+tt0071994,Phantom of the Paradise
+tt0072149,Shanks
+tt0072189,Son of Dracula
+tt0072237,The Switch or How to Alter Your Ego
+tt0072247,"Ta' det som en mand, frue!"
+tt0072434,Zaczarowane podwórko
+tt0072690,Begstvo mistera Mak-Kinli
+tt0072709,Black Moon
+tt0072716,Flowers for the Man in the Moon
+tt0072752,The Beast
+tt0072837,Dog's Heart
+tt0072868,Devil Woman
+tt0072882,Dirty Duck
+tt0072913,Master of the Flying Guillotine
+tt0072927,Elixirul tineretii
+tt0072951,Escape to Witch Mountain
+tt0072958,Euridice BA 2037
+tt0072970,Comedie fantastica
+tt0072971,The Fantastic Magic Baby
+tt0073166,India Song
+tt0073185,Ivan da Mariya
+tt0073191,Jai Santoshi Maa
+tt0073206,Black Magic
+tt0073227,Karlsson on the Roof
+tt0073260,The Land That Time Forgot
+tt0073278,Leonor
+tt0073561,Povero Cristo
+tt0073574,The Principle of Wisdom
+tt0073594,The Four of the Apocalypse...
+tt0073794,The Big Scare
+tt0073822,The Magic Flute
+tt0073830,Normande
+tt0073841,Under the Blossoming Cherry Trees
+tt0074114,Alice or The Last Escapade
+tt0074121,Allegro non troppo
+tt0074147,Face to Face
+tt0074148,Ape
+tt0074157,At the Earth's Core
+tt0074443,Duelle
+tt0074486,Eraserhead
+tt0074561,Metamorphosis
+tt0074578,Goldflocken
+tt0074643,Almost King
+tt0074846,The Little Mermaid
+tt0074878,A Matter of Time
+tt0074949,Nagin
+tt0074960,The Bride with the Most Beautiful Eyes
+tt0074974,Noroît (une vengeance)
+tt0075011,Once Upon a Time
+tt0075030,Twentieth Century Oz
+tt0075063,"Philipp, der Kleine"
+tt0075104,The Princess and the Pea
+tt0075113,Queen Kong
+tt0075128,Reisen til julestjernen
+tt0075200,The Shaggy D.A.
+tt0075232,The Slipper and the Rose: The Story of Cinderella
+tt0075415,The Web of Death
+tt0075633,Adela Has Not Had Supper Yet
+tt0075680,L'ange et la femme
+tt0075703,Long Live Ghosts!
+tt0075704,Audrey Rose
+tt0075790,The Brothers Lionheart
+tt0075811,The Sorcerer's Apprentice
+tt0075830,Chatterbox!
+tt0075848,Bye Bye Monkey
+tt0075888,The Crater Lake Monster
+tt0075936,Desperate Living
+tt0076054,Freaky Friday
+tt0076055,French Quarter
+tt0076118,Fight for Survival
+tt0076172,I Never Promised You a Rose Garden
+tt0076210,The Island of Dr. Moreau
+tt0076221,Jabberwocky
+tt0076222,Jacob Two-Two Meets the Hooded Fang
+tt0076240,Jubilee
+tt0076270,King Solomon's Treasure
+tt0076274,The Little Magician and the Big Bad Mark
+tt0076299,The Last Wave
+tt0076340,Ma-ma
+tt0076349,Madame X: An Absolute Ruler
+tt0076399,Modrá planeta
+tt0076432,The Moon Is a Green Cheese
+tt0076441,Naufragio
+tt0076474,At Night All Cats Are Crazy
+tt0076489,"Oh, God!"
+tt0076671,Ein Schneemann für Afrika
+tt0076759,Star Wars: Episode IV - A New Hope
+tt0076871,Trails
+tt0076886,Violanta
+tt0076929,Wizards
+tt0076937,Yeti: Giant of the 20th Century
+tt0077145,Alice in Spanish Wonderland
+tt0077225,Cave of the Sharks
+tt0077452,Dona Flor and Her Two Husbands
+tt0077503,Encounters in the Deep
+tt0077534,Fairy Tales
+tt0077663,Heaven Can Wait
+tt0077760,Jaganmohini
+tt0077782,Der junge Mönch
+tt0077869,The Lord of the Rings
+tt0078039,Org
+tt0078054,Beauty and the Beast
+tt0078078,Petey Wheatstraw
+tt0078095,Podarok chyornogo kolduna
+tt0078103,Poplach v oblacích
+tt0078128,Spiritual Kung Fu
+tt0078158,Return from Witch Mountain
+tt0078229,Sensual Pleasures
+tt0078239,Sgt. Pepper's Lonely Hearts Club Band
+tt0078249,The Brave Archer
+tt0078404,Tobi
+tt0078412,Train Ride to Hollywood
+tt0078474,Warlords of the Deep
+tt0078495,Metamorphoses
+tt0078504,The Wiz
+tt0078523,Love of the White Snake
+tt0078792,Arabian Adventure
+tt0078797,Arrebato
+tt0078828,Barnförbjudet
+tt0078975,Circle of Iron
+tt0079041,Demon Pond
+tt0079148,The Deadly Breaking Sword
+tt0079183,Full Moon Scimitar
+tt0079422,Kummatty
+tt0079492,Lovespell
+tt0079517,Mama Turns 100
+tt0079527,Spiritual Boxer II
+tt0079648,Nutcracker Fantasy
+tt0079715,The Phoenix
+tt0079760,The Donkey-Eared Prince
+tt0079777,Ravagers
+tt0079820,The King and the Mockingbird
+tt0079886,Legend of the Mountain
+tt0079958,Le strelle nel fosso
+tt0079971,Supersonic Man
+tt0079997,Ballad of Tara
+tt0080058,The Humanoid
+tt0080379,Cannibals in the Streets
+tt0080426,Osenniye kolokola
+tt0080495,La capilla ardiente
+tt0080539,City of Women
+tt0080609,Denver
+tt0080621,Shaolin Hellgate
+tt0080667,Dumbrava minunata
+tt0080684,Star Wars: Episode V - The Empire Strikes Back
+tt0080731,The Fiendish Plot of Dr. Fu Manchu
+tt0080752,Forbidden Zone
+tt0080827,Encounter of the Spooky Kind
+tt0080842,Harlequin
+tt0080846,Hawk the Slayer
+tt0080910,The Age of the Earth
+tt0081056,El liguero mágico
+tt0081238,The Ninth Heart
+tt0081268,"Oh, God! Book II"
+tt0081269,Oh Heavenly Dog
+tt0081298,The Palace
+tt0081373,Prins hatt under jorden
+tt0081411,Rendez-moi ma peau...
+tt0081414,Resurrection
+tt0081446,Rycerz
+tt0081471,High Test Girls
+tt0081534,Somewhere in Time
+tt0081613,The Tempest
+tt0081631,The Battle Wizard
+tt0081633,Time Bandits
+tt0081659,Trollsommar
+tt0081664,Tuck Everlasting
+tt0081721,Vincent and Me
+tt0081751,Wholly Moses!
+tt0081777,Xanadu
+tt0081782,Hex
+tt0081803,The Spooky Bunch
+tt0082141,La casa de las siete tumbas
+tt0082198,Conan the Barbarian
+tt0082263,The Devil and Max Devlin
+tt0082264,Los diablos del mar
+tt0082288,Dragonslayer
+tt0082319,Elle voit des nains partout!
+tt0082323,Odyssey of the Pacific
+tt0082348,Excalibur
+tt0082414,Freak Orlando
+tt0082425,Full Moon High
+tt0082509,Heavy Metal
+tt0082596,Kagero-za
+tt0082626,A Monstrous Corpse
+tt0082674,Drunken Dragon
+tt0082699,Samurai Reincarnation
+tt0082743,Mia moglie è una strega
+tt0082762,To Hell with the Devil
+tt0082763,Modern Problems
+tt0082788,México 2000
+tt0082924,Super Fuzz
+tt0082984,Reborn
+tt0083033,Saturday the 14th
+tt0083053,Gauche the Cellist
+tt0083144,The Survivor
+tt0083149,Sword of Heaven
+tt0083160,Day of the Idiots
+tt0083162,The Mysterious Castle in the Carpathians
+tt0083355,"Yume, yume no ato"
+tt0083520,Adam and Eve
+tt0083537,Alicja
+tt0083559,The Angel
+tt0083630,The Beastmaster
+tt0083663,Bloody Marlene
+tt0083699,Buddha's Palm
+tt0083700,"Buenas noches, señor monstruo"
+tt0083722,Cat People
+tt0083724,El cepo
+tt0083767,Creepshow
+tt0083783,On Top of the Whale
+tt0083791,The Dark Crystal
+tt0083863,Demon Is on the Island
+tt0083931,Son of the White Mare
+tt0084065,Hero
+tt0084149,Invitation au voyage
+tt0084210,Kiss Me Goodbye
+tt0084225,Yin ji
+tt0084226,Kuningas jolla ei ollut sydäntä
+tt0084232,Der lange Ritt zur Schule
+tt0084256,Little Dragon Maiden
+tt0084301,Mar brava
+tt0084401,Nelisita
+tt0084422,The Night of the Shooting Stars
+tt0084503,Pink Floyd: The Wall
+tt0084519,Popolvár najväcsí na svete
+tt0084535,Der Prinz hinter den sieben Meeren
+tt0084551,The Buddhist Spell
+tt0084557,The Miracle Fighters
+tt0084594,Descendant of the Sun
+tt0084696,Slyozy kapali
+tt0084749,The Sword and the Sorcerer
+tt0084750,Sword of the Valiant
+tt0084762,Along Unknown Paths
+tt0084776,Tempest
+tt0084781,Treasure of the Four Crowns
+tt0084824,Three Crowns of the Sailor
+tt0084876,Voyager from the Unknown
+tt0084913,Wolf Devil Woman
+tt0084935,Yor: The Hunter from the Future
+tt0084945,Zapped!
+tt0085132,The Magic Springs of Gerenia
+tt0085182,Art of Love
+tt0085183,"Ator, the Fighting Eagle"
+tt0085226,The Beautiful Prisoner
+tt0085233,The Beast and the Magic Sword
+tt0085310,Casta Diva
+tt0085316,Cindy - Cinderella '80
+tt0085356,Conquest
+tt0085402,Di wu ying
+tt0085501,Erendira
+tt0085535,Feroz
+tt0085542,Fire and Ice
+tt0085625,Grunt!
+tt0085672,Hercules
+tt0085706,I Am the Cheese
+tt0085737,"Gunan, King of the Barbarians"
+tt0085742,"Ja, vi elsker"
+tt0085780,The Keep
+tt0085792,"Lumaban ka, Satanas"
+tt0085811,Krull
+tt0085873,Lovesick
+tt0085918,Mausoleum
+tt0086026,Extra Terrestrial Visitors
+tt0086064,Otto Is a Rhino
+tt0086074,Hearts and Armour
+tt0086092,Pelnia nad glowami
+tt0086189,The Return of Captain Invincible
+tt0086190,Star Wars: Episode VI - Return of the Jedi
+tt0086203,Rock & Rule
+tt0086238,"Sangraal, la spada di fuoco"
+tt0086263,Screamtime
+tt0086308,Zu: Warriors from the Magic Mountain
+tt0086331,Sogni mostruosamente proibiti
+tt0086336,Something Wicked This Way Comes
+tt0086337,"Somewhere, Tomorrow"
+tt0086340,Sorceress
+tt0086494,Two of a Kind
+tt0086520,Urusei Yatsura: Only You
+tt0086533,Vénus
+tt0086538,Los viajes de Gulliver
+tt0086542,Life Is a Bed of Roses
+tt0086545,City of Pirates
+tt0086574,The Weird Man
+tt0086599,Wolf-Devil Woman 2
+tt0086607,Holy Flame of the Martial World
+tt0086616,Esprit D'amour
+tt0086627,Za humny je drak
+tt0086833,...a zase ta Lucie!
+tt0086863,Akademia pana Kleksa
+tt0086873,All of Me
+tt0086889,Love on the Ground
+tt0086934,Wanderers of the Desert
+tt0086963,La biblia en pasta
+tt0086972,The Blade Master
+tt0087044,General Invincible
+tt0087075,The Company of Wolves
+tt0087078,Conan the Destroyer
+tt0087127,Deathstalker
+tt0087135,Wu ye lan hua
+tt0087142,The Devil's Sword
+tt0087170,Dot and the Bunny
+tt0087202,The Enchanted Journey
+tt0087240,Las fantasías de Cuny
+tt0087256,El filandón
+tt0087307,Furious
+tt0087332,Ghostbusters
+tt0087363,Gremlins
+tt0087376,"Gwen, the Book of Sand"
+tt0087389,Haunters of the Deep
+tt0087406,Mo dian tu long
+tt0087436,Hundra
+tt0087449,I eshchyo odna noch Shakherazady
+tt0087487,Warrior Women
+tt0087580,King Thrushbeard
+tt0087612,Leonora
+tt0087651,"Lucie, postrach ulice"
+tt0087683,Mario
+tt0087784,Dream one
+tt0087788,The Next One
+tt0087798,Night Train to Terror
+tt0087805,Ninja III: The Domination
+tt0087814,Nothing Left to Do but Cry
+tt0087817,Nothing Lasts Forever
+tt0087835,"Oh, God! You Devil"
+tt0087878,Parade of the Planets
+tt0087889,The Party Animal
+tt0087907,Pessi and Illusia
+tt0087993,Hocus Pocus
+tt0088023,Rumburak
+tt0088041,Farewell to the Ark
+tt0088103,Sheena
+tt0088134,Slapstick of Another Kind
+tt0088161,Splash
+tt0088206,Supergirl
+tt0088267,Tian di xuan men
+tt0088348,Die vertauschte Königin
+tt0088379,The Warrior and the Sorceress
+tt0088771,Barbarian Queen
+tt0088851,The Bride
+tt0088870,Star Knight
+tt0088891,Cavegirl
+tt0089031,Atlântida: Do Outro Lado do Espelho
+tt0089060,The Dungeonmaster
+tt0089081,She Spent So Many Hours Under the Sun Lamps
+tt0089175,Fright Night
+tt0089200,Ghoulies
+tt0089230,Gritta of the Rats' Castle
+tt0089265,The Heavenly Kid
+tt0089271,The Adventures of Hercules
+tt0089371,Mr. Vampire
+tt0089469,Legend
+tt0089482,"Run Tiger, Run"
+tt0089569,Maxie
+tt0089685,Night Magic
+tt0089691,Death of a Ninja
+tt0089730,Once Bitten
+tt0089731,One Magic Christmas
+tt0089737,Orfeo
+tt0089775,Parking
+tt0089800,The Feather Fairy
+tt0089818,Pohádka o Malíckovi
+tt0089851,Pulgasari
+tt0089853,The Purple Rose of Cairo
+tt0089893,Red Sonja
+tt0089905,Return
+tt0089908,Return to Oz
+tt0089911,Revenge of the Stolen Stars
+tt0089949,Lonelyheart
+tt0089961,Santa Claus: The Movie
+tt0089974,School Spirit
+tt0089989,Love Pains
+tt0090009,She
+tt0090031,I skiahtra
+tt0090142,Teen Wolf
+tt0090150,Tex and the Lord of the Deep
+tt0090166,The Throne of Fire
+tt0090183,The Tomb
+tt0090196,Transylvania 6-5000
+tt0090199,Treasure Island
+tt0090248,Vampire Hunter D
+tt0090295,The Warrior
+tt0090334,Wizards of the Lost Kingdom II
+tt0090343,Xiao hu xian
+tt0090357,Young Sherlock Holmes
+tt0090386,The Insomniac on the Bridge
+tt0090587,Cross the River
+tt0090601,Aladdin
+tt0090615,Alone in the T-Shirt Zone
+tt0090627,Amazons
+tt0090714,Besuch bei Van Gogh
+tt0090722,The Ghost Snatchers
+tt0090725,The Beginning
+tt0090768,The Boy Who Could Fly
+tt0090848,The Clan of the Cave Bear
+tt0090948,The Dirt Bike Kid
+tt0091003,Eliminators
+tt0091020,Evil in the Woods
+tt0091049,Filme Demência
+tt0091090,"It's a Mad, Mad, Mad World"
+tt0091142,Gothic
+tt0091158,Gui meng jiao
+tt0091203,Highlander
+tt0091223,House
+tt0091244,I Love You
+tt0091292,Jiang shi shao ye
+tt0091317,Happy Ghost III
+tt0091369,Labyrinth
+tt0091449,The Snow Queen
+tt0091467,Mammame
+tt0091510,Dream Lovers
+tt0091537,Momo
+tt0091590,Life Is a Dream
+tt0091597,Sitting on the Golden Porch
+tt0091601,Nagina
+tt0091658,Nutcracker
+tt0091730,The Passage
+tt0091738,Peggy Sue Got Married
+tt0091766,Playing Beatie Bow
+tt0091772,Travels of Mr. Kleks
+tt0091781,Population: 1
+tt0091829,Rawhead Rex
+tt0091881,Régime sans pain
+tt0091885,Salomé
+tt0091908,Das Schulgespenst
+tt0091922,Seoul Jesus
+tt0091971,Sleepwalk
+tt0092115,Troll
+tt0092138,L'unique
+tt0092141,Urusei Yatsura 4: Lum the Forever
+tt0092147,Vamp
+tt0092216,Willy/Milly
+tt0092218,Windaria
+tt0092274,To Sleep So as to Dream
+tt0092275,Bambi's Youth
+tt0092283,Carovné dedictví
+tt0092296,Zombie Brigade
+tt0092297,Zombie Nightmare
+tt0092494,*batteries not included
+tt0092575,Appointment with Fear
+tt0092615,The Barbarians
+tt0092624,Beach Fever
+tt0092626,Beauty and the Beast
+tt0092650,"My Cousin, the Ghost"
+tt0092691,Born of Fire
+tt0092693,The Enchanted Forest
+tt0092755,The Blind Owl
+tt0092796,Creepshow 2
+tt0092806,The Young Magician
+tt0092834,Date with an Angel
+tt0093052,Froschkönig
+tt0093075,The Gate
+tt0093092,Julia and Julia
+tt0093116,The Great Land of Small
+tt0093144,Hansel and Gretel
+tt0093148,Harry and the Hendersons
+tt0093151,Hasenherz
+tt0093175,Hello Again
+tt0093191,Wings of Desire
+tt0093199,A Hungarian Fairy Tale
+tt0093201,Ghost Chase
+tt0093210,La hora 24
+tt0093220,House II: The Second Story
+tt0093231,Hunk
+tt0093240,Me and Him
+tt0093258,Rouge
+tt0093267,Intervista
+tt0093295,Jane B. for Agnes V.
+tt0093302,Jenatsch
+tt0093367,Peacock King
+tt0093393,The Last of England
+tt0093418,Like Father Like Son
+tt0093419,Lilac Ball
+tt0093467,Made in Heaven
+tt0093473,The Magic Snowman
+tt0093476,Maid to Order
+tt0093493,Mannequin
+tt0093507,Masters of the Universe
+tt0093516,Meatballs III: Summer Job
+tt0093531,Mon cas
+tt0093543,Mio in the Land of Faraway
+tt0093560,The Monster Squad
+tt0093582,Munchies
+tt0093589,My Demon Lover
+tt0093593,On the Silver Globe
+tt0093624,Night of the Demons
+tt0093628,Nightmare Sisters
+tt0093629,A Nightmare on Elm Street 3: Dream Warriors
+tt0093653,Novye skazki Shakherezady
+tt0093684,Ossegg oder Die Wahrheit über Hänsel und Gretel
+tt0093700,Pandemonium
+tt0093712,Freckled Max and the Spooks
+tt0093744,The New Adventures of Pippi Longstocking
+tt0093779,The Princess Bride
+tt0093798,Przyjaciel wesolego diabla
+tt0093831,Red Riding Hood
+tt0093891,Rumpelstiltskin
+tt0093959,Shock! Shock! Shock!
+tt0093978,A Chinese Ghost Story
+tt0093993,Sleeping Beauty
+tt0093999,Snow White
+tt0094002,Keep Your Right Up
+tt0094011,Under the Sun of Satan
+tt0094046,Stormquest
+tt0094054,Ghosts of the Dormers
+tt0094100,Princess from the Moon
+tt0094118,Teen Wolf Too
+tt0094185,La tribu de los aurones
+tt0094332,The Witches of Eastwick
+tt0094349,Yeelen
+tt0094371,Mirror for a Hero
+tt0094593,18 Again!
+tt0094595,Summer Vacation 1999
+tt0094641,"Amanece, que no es poco"
+tt0094652,"Amerika, Terra Incognita"
+tt0094655,Andy Colby's Incredible Adventure
+tt0094721,Beetlejuice
+tt0094737,Big
+tt0094763,The Bloody Monks
+tt0094833,Os Canibais
+tt0094849,Celia
+tt0094850,Cellar Dweller
+tt0094874,The Figures from Earth
+tt0094918,Crime Zone
+tt0094927,Crystalstone
+tt0094934,Da
+tt0095107,Ernest Saves Christmas
+tt0095182,The Frog Prince
+tt0095195,Jin yan zi
+tt0095210,Die Geschichte von der Gänseprinzessin und ihrem treuen Pferd Falada
+tt0095216,Ghost in the House
+tt0095241,Gor
+tt0095304,High Spirits
+tt0095326,Hot to Trot
+tt0095336,Picture of a Nymph
+tt0095424,Kalamazoo
+tt0095452,King Size
+tt0095454,The Kiss
+tt0095483,Lady Terminator
+tt0095484,Lady in White
+tt0095525,Gandahar
+tt0095547,The Lords of Magick
+tt0095561,Macao oder die Rückseite des Meeres
+tt0095598,La maschera
+tt0095638,The Milagro Beanfield War
+tt0095643,Cyber Ninja
+tt0095655,Moonwalker
+tt0095712,Nebojsa
+tt0095715,Alice
+tt0095729,The Tribulations of Balthazar Kober
+tt0095863,Phantasm II
+tt0095865,Where's Officer Tuba?
+tt0095869,The Little Devil
+tt0095925,Pumpkinhead
+tt0095995,Revenge of the Ninja
+tt0096039,Saturday the 14th Strikes Back
+tt0096061,Scrooged
+tt0096071,The Serpent and the Rainbow
+tt0096073,The Seventh Sign
+tt0096077,A Very Old Man with Enormous Wings
+tt0096103,Double Fattiness
+tt0096153,Spellcaster
+tt0096194,Super Xuxa Contra o Baixo Astral
+tt0096218,Tales from the Gimli Hospital
+tt0096239,Teen Vamp
+tt0096240,Tokyo: The Last Megalopolis
+tt0096253,Thank You Satan
+tt0096282,Tommy Tricker and the Stamp Traveller
+tt0096329,Ubit drakona
+tt0096380,Vice Versa
+tt0096421,The Warrior and the Blind Swordsman
+tt0096503,Zhena kerosinshchika
+tt0096522,Ballet
+tt0096764,The Adventures of Baron Munchausen
+tt0096791,God's Will
+tt0096794,Always
+tt0096919,Beyond Dream's Door
+tt0096920,Beyond the Door III
+tt0096925,Big Man on Campus
+tt0096932,The Black Cat
+tt0096948,Bliskie spotkania z wesolym diablem
+tt0097000,Bye bye chaperon rouge
+tt0097008,Cameron's Closet
+tt0097017,The Carpenter
+tt0097044,Chances Are
+tt0097069,Cleo/Leo
+tt0097174,Deathstalker and the Warriors from Hell
+tt0097184,Demonstone
+tt0097229,Der Drache Daniel
+tt0097263,Edge of Sanity
+tt0097289,Erik the Viking
+tt0097297,Et la lumière fut
+tt0097351,Field of Dreams
+tt0097395,Lost Souls
+tt0097427,Ghost Writer
+tt0097428,Ghostbusters II
+tt0097435,The Girl in a Swing
+tt0097531,How to Get Ahead in Advertising
+tt0097536,Hua gui you xian gong si
+tt0097550,I Bought a Vampire Motorcycle
+tt0097557,"I, Madman"
+tt0097609,Jaadugar
+tt0097638,Happy Ghost 4
+tt0097692,Kong-Fu Wonder Child
+tt0097702,The Icicle Thief
+tt0097740,Two Painters
+tt0097755,Limit Up
+tt0097799,Lüzzas Walkman
+tt0097806,The Magic Toyshop
+tt0097864,Meng gui hu li jing
+tt0097890,Miraklet i Valby
+tt0097942,Mystics in Bali
+tt0097981,A Nightmare on Elm Street 5: The Dream Child
+tt0097986,Moon Child
+tt0098048,Gor II
+tt0098058,Pan Samochodzik i praskie tajemnice
+tt0098061,Paperhouse
+tt0098084,Pet Sematary
+tt0098104,Pokhishcheniye charodeya
+tt0098115,Prancer
+tt0098116,Prazská petka
+tt0098118,Raiders of the Magic Ivory
+tt0098122,Priceless Beauty
+tt0098146,Ghostly Love
+tt0098147,A Terra-Cotta Warrior
+tt0098150,Magic Cop
+tt0098306,She's Back
+tt0098321,Shocking Dark
+tt0098333,Sinbad of the Seven Seas
+tt0098356,Some Girls
+tt0098382,Star Trek V: The Final Frontier
+tt0098410,Sukkubus
+tt0098453,Teen Witch
+tt0098502,The Toxic Avenger Part III: The Last Temptation of Toxie
+tt0098577,Vampire's Kiss
+tt0098622,Warlock
+tt0098649,Wicked Stepmother
+tt0098658,Wings of Fame
+tt0098690,Vampire vs Vampire
+tt0098692,Wicked City
+tt0098920,Piggate
+tt0098959,...Almost
+tt0098961,Les 1001 nuits
+tt0098971,Saga of the Phoenix
+tt0099010,Alchemik
+tt0099124,The Tantana
+tt0099175,Sedem jednou ranou
+tt0099292,The Comfort of Strangers
+tt0099330,Crystal Force
+tt0099388,Deathstalker IV: Match of Titans
+tt0099410,Despertaferro
+tt0099412,Destiny to Order
+tt0099461,Dragonfight
+tt0099487,Edward Scissorhands
+tt0099524,Evil Toons
+tt0099613,Harry and Harriet
+tt0099636,Gate 2: The Trespassers
+tt0099637,A Cat in the Brain
+tt0099648,Getting Lucky
+tt0099653,Ghost
+tt0099654,Ghost Dad
+tt0099656,Ghosts Can't Do It
+tt0099664,Girlfriend from Hell
+tt0099678,Golden Braid
+tt0099700,Gremlins 2: The New Batch
+tt0099710,The Guardian
+tt0099733,Happily Ever After
+tt0099807,My Neighbours Are Phantoms!
+tt0099890,Jit
+tt0100002,Lekin...
+tt0100014,Erotic Ghost Story
+tt0100016,La liberté d'une statue
+tt0100038,Living Doll
+tt0100070,Xuxa in Crystal Moon
+tt0100082,Ma yi chuan qi
+tt0100129,Meet the Applegates
+tt0100172,Mom
+tt0100179,Montalvo et l'enfant
+tt0100194,Motýlí cas
+tt0100201,Mr. Destiny
+tt0100260,Nightbreed
+tt0100264,Nils Karlsson Pyssling
+tt0100289,Olle Hexe
+tt0100330,Paper Mask
+tt0100448,Quest for the Mighty Sword
+tt0100456,The Rainbow Thief
+tt0100475,Repossessed
+tt0100503,Robot Ninja
+tt0100528,The Runestone
+tt0100610,The Revenge of Angel
+tt0100621,Simon les nuages
+tt0100625,A Chinese Ghost Story II
+tt0100626,Sleeping Beauty
+tt0100665,Soultaker
+tt0100740,Tales from the Darkside: The Movie
+tt0100788,Time Barbarians
+tt0100811,Transylvania Twist
+tt0100852,User Friendly
+tt0100854,In the Light of the King's Love
+tt0100858,Vidma
+tt0100910,Wei Si Li zhi ba wang xie jia
+tt0100915,What the Moon Saw
+tt0100975,Xtro II: The Second Encounter
+tt0100991,Hiruko the Goblin
+tt0100998,Dreams
+tt0101015,Zhuo gui he jia huan
+tt0101272,The Addams Family
+tt0101276,Afraid of the Dark
+tt0101343,And You Thought Your Parents Were Weird
+tt0101412,Beastmaster 2: Through the Portal of Time
+tt0101414,Beauty and the Beast
+tt0101420,Begotten
+tt0101452,Bill & Ted's Bogus Journey
+tt0101497,The Boneyard
+tt0101523,The Butcher's Wife
+tt0101583,"Ranma ½: The Movie, Big Trouble in Nekonron, China"
+tt0101600,The Dove's Lost Necklace
+tt0101698,Defending Your Life
+tt0101701,Delirious
+tt0101722,"Deystvuy, Manya!"
+tt0101765,The Double Life of Véronique
+tt0101775,Drop Dead Fred
+tt0101821,Ernest Scared Stupid
+tt0101831,Eve of Destruction
+tt0101847,Le fabuleux voyage de l'ange
+tt0101864,Crazy Safari
+tt0101874,Final Approach
+tt0101889,The Fisher King
+tt0101907,Ling hu
+tt0101917,Freddy's Dead: The Final Nightmare
+tt0101922,The Frog Prince
+tt0101930,Chizuko's Younger Sister
+tt0102034,Highlander II: The Quickening
+tt0102055,The Gambling Ghost
+tt0102069,Hua jie shen nu
+tt0102100,Immer & ewig
+tt0102105,In Between
+tt0102183,Happy Ghost V
+tt0102247,The Polar Bear King
+tt0102250,L.A. Story
+tt0102295,Liao zhai Jin Ping Mei
+tt0102296,Erotic Ghost Story II
+tt0102343,Love Potion No. 9
+tt0102365,Mo deng ru lai shen zhang
+tt0102366,Ma non per sempre
+tt0102367,My Life Is Hell
+tt0102371,The Magic Riddle
+tt0102372,Magic Warriors
+tt0102383,Malina
+tt0102395,Mannequin: On the Move
+tt0102434,My Flying Wife
+tt0102470,The Prince's Death
+tt0102569,A Nymphoid Barbarian in Dinosaur Hell
+tt0102628,The Adventures of Paper Peter
+tt0102667,Speaking of the Devil
+tt0102682,Po Taganke khodyat tanki
+tt0102722,Prospero's Books
+tt0102767,The Refrigerator
+tt0102783,Revenge of Billy the Kid
+tt0102824,Rölli - hirmuisia kertomuksia
+tt0102867,Secret Friends
+tt0102932,A Chinese Ghost Story III
+tt0103016,Switch
+tt0103077,There's Nothing Out There
+tt0103105,Toto the Hero
+tt0103129,Truly Madly Deeply
+tt0103150,Escape from the 'Liberty' Cinema
+tt0103166,Undine
+tt0103206,The Milky Life
+tt0103223,To Want to Fly
+tt0103250,White Light
+tt0103273,Wishman
+tt0103278,Wizards of the Demon Sword
+tt0103294,A Kid from Tibet
+tt0103295,Swordsman II
+tt0103299,Devil's Vendetta
+tt0103621,Adventures in Dinosaur City
+tt0103629,Age Isn't Everything
+tt0103776,Batman Returns
+tt0103783,Bebe's Kids
+tt0103790,La belle histoire
+tt0103798,Der Besucher
+tt0103873,Dead Alive
+tt0103874,Dracula
+tt0103893,Buffy the Vampire Slayer
+tt0103971,Cilveka berns
+tt0104009,Cool World
+tt0104029,Cronos
+tt0104058,Il giorno del porco
+tt0104070,Death Becomes Her
+tt0104096,Devil Girl 18
+tt0104115,Doctor Mordrid
+tt0104260,Fighting Spirit
+tt0104322,Saviour of the Soul
+tt0104352,Godzilla and Mothra: The Battle for Earth
+tt0104418,Highway to Hell
+tt0104460,Mad Mad Ghost
+tt0104522,Into the West
+tt0104559,Zipang
+tt0104560,Saviour of the Soul II
+tt0104584,Kacenka a zase ta strasidla
+tt0104641,Crystal Nights
+tt0104643,Horror Story
+tt0104719,Erotic Ghost Story III
+tt0104759,The Lost World
+tt0104811,Mao bian
+tt0104855,Merlin
+tt0104860,We Are Not Angels
+tt0104938,Munchie
+tt0104974,"Once Upon a Time, Cinema"
+tt0105031,Deadly Dream Woman
+tt0105034,The Nutt House
+tt0105045,Dark at Noon
+tt0105113,Patrioticheskaya komediya
+tt0105128,Pet Sematary II
+tt0105165,Prelude to a Kiss
+tt0105287,Sex and Zen
+tt0105412,Siméon
+tt0105428,Sleepwalkers
+tt0105430,Smacznego telewizorku
+tt0105466,Stay Tuned
+tt0105476,The Stone
+tt0105500,Suryavanshi
+tt0105552,Te yi gong neng xing qiu ren
+tt0105587,Lucky Encounter
+tt0105619,The Heroic Trio
+tt0105643,Troll 2
+tt0105654,The Tune
+tt0105792,Waxwork II: Lost in Time
+tt0105817,Wild Blue Moon
+tt0105858,The 13 Cold Blooded Eagles
+tt0105868,Yao guai du shi
+tt0105869,Wicked City
+tt0106215,Mutant Action
+tt0106220,Addams Family Values
+tt0106288,Anna - annA
+tt0106307,Arizona Dream
+tt0106342,The Bride with White Hair
+tt0106343,The Bride with White Hair II
+tt0106346,El baile de las ánimas
+tt0106538,The Mad Monk
+tt0106541,Chandra Mukhi
+tt0106558,Chinese Kamasutra
+tt0106559,Green Snake
+tt0106597,Condannato a nozze
+tt0106631,A Man of Nasty Spirit
+tt0106839,Gospel According to Harry
+tt0106912,Fire in the Sky
+tt0107005,To the Starry Island
+tt0107048,Groundhog Day
+tt0107091,Heart and Souls
+tt0107101,Hellbound
+tt0107120,Hocus Pocus
+tt0107175,"Oh, Woe Is Me"
+tt0107209,"Faraway, So Close!"
+tt0107253,Jardines colgantes
+tt0107254,Jason Goes to Hell: The Final Friday
+tt0107284,The Judas Project
+tt0107301,Císarovy nové saty
+tt0107345,Unkai no meikyû zegai
+tt0107387,Leprechaun
+tt0107454,Lowca. Ostatnie starcie
+tt0107531,Matusalem
+tt0107563,The Meteor Man
+tt0107586,Fantasy Romance
+tt0107626,My Boyfriend's Back
+tt0107665,Needful Things
+tt0107672,The Immortal Aunt
+tt0107688,The Nightmare Before Christmas
+tt0107690,The Revenge of Itzik Finkelstein
+tt0107719,The Nutcracker
+tt0107720,Nyomkeresö
+tt0107753,The Oracle
+tt0107756,Orlando
+tt0107907,Even Mountains Meet
+tt0107985,Rookie of the Year
+tt0108071,The Secret Garden
+tt0108074,The Eagle Shooting Heroes
+tt0108075,The Seven Ravens
+tt0108077,Il segreto del bosco vecchio
+tt0108112,Flying Dagger
+tt0108153,The Skateboard Kid
+tt0108173,Snøvsen
+tt0108263,The Vampire Wedding
+tt0108369,Tout le monde n'a pas eu la chance d'avoir des parents communistes
+tt0108425,Deadly Maria
+tt0108461,Urotsukidoji: Legend of the Overfiend
+tt0108500,Les visiteurs
+tt0108517,Warlock: The Armageddon
+tt0108539,Weekend at Bernie's II
+tt0108542,Hero Beyond the Boundary of Time
+tt0108569,Wilder Napalm
+tt0108601,Holy Weapon
+tt0108607,The Magic Crane
+tt0108611,He Ain't Heavy... He's My Father
+tt0108613,The Sword Stained with Royal Blood
+tt0108614,Butterfly and Sword
+tt0108624,Kung Fu Cult Master
+tt0108625,Vampire Family
+tt0108636,Younger and Younger
+tt0109071,Accumulator 1
+tt0109127,Angels in the Outfield
+tt0109213,Crystal Fortune Run
+tt0109227,Beanstalk
+tt0109354,Byzantine Blue
+tt0109356,Magic Hunter
+tt0109400,Charlie's Ghost Story
+tt0109497,Creation of Adam
+tt0109521,Master of Zen
+tt0109627,Dinosaur Island
+tt0109661,Dragonworld
+tt0109680,Drømspel
+tt0109746,Esti Kornél csodálatos utazása
+tt0109764,Eyes of the Serpent
+tt0109813,The Flintstones
+tt0109872,Fatal Fury: The Motion Picture
+tt0109884,Genesis: The Creation and the Flood
+tt0109905,Gladiator Cop
+tt0110027,Highlander: The Final Dimension
+tt0110074,The Hudsucker Proxy
+tt0110080,Burning Paradise
+tt0110117,Immortal Combat
+tt0110148,Interview with the Vampire: The Vampire Chronicles
+tt0110242,The Serpent's Tale
+tt0110252,Keita! L'héritage du griot
+tt0110329,Leprechaun 2
+tt0110340,The Lovers
+tt0110445,Making Waves
+tt0110476,Master i Margarita
+tt0110527,Miracle on 34th Street
+tt0110579,Le moulin de Daudet
+tt0110593,Munchie Strikes Back
+tt0110667,Night of the Demons 2
+tt0110719,Window to Paris
+tt0110823,Phantasm III: Lord of the Dead
+tt0110826,The Phoenix and the Magic Carpet
+tt0110881,Paramaatma
+tt0110893,The Watermill Princess
+tt0110913,Pumpkinhead II: Blood Wings
+tt0110926,Dragon and the Green Hornet
+tt0110969,Mermaid Got Married
+tt0110983,Revenge of the Red Baron
+tt0111040,Russian Symphony
+tt0111049,"S.P.Q.R.: 2,000 and a Half Years Ago"
+tt0111064,The Sandman
+tt0111112,The Secret of Roan Inish
+tt0111208,The Eight Hilarious Gods
+tt0111244,Sorceress
+tt0111359,Tall Tale
+tt0111396,A Terceira Margem do Rio
+tt0111407,"That Eye, the Sky"
+tt0111470,Trading Mom
+tt0111641,The Wizard of the Emerald City
+tt0111686,New Nightmare
+tt0111776,The Maidens of Heavenly Mountains
+tt0111783,Yamato Takeru
+tt0111837,The Chinese Ghostbuster
+tt0112363,Angel of Passion
+tt0112403,On Earth as It Is in Heaven
+tt0112473,Behind the Waterfall
+tt0112642,Casper
+tt0112682,The City of Lost Children
+tt0112711,Concert for a Rat
+tt0112817,Dead Man
+tt0112854,Destiny Turns on the Radio
+tt0112856,Two Orphan Vampires
+tt0112896,Dracula: Dead and Loving It
+tt0112923,Village of Dreams
+tt0112969,Entre Pancho Villa y una mujer desnuda
+tt0113025,Fanci's Persuasion
+tt0113074,Fist of the North Star
+tt0113089,Fluke
+tt0113094,Cyberella: Forbidden Passions
+tt0113141,The Legend of Galgameth
+tt0113142,Gamera: Guardian of the Universe
+tt0113205,Grajacy z talerza
+tt0113223,Grizzly Mountain
+tt0113233,Guimba the Tyrant
+tt0113303,Hideaway
+tt0113409,In the Mouth of Madness
+tt0113419,The Indian in the Cupboard
+tt0113453,How to Deserve a Princess
+tt0113526,Karan Arjun
+tt0113624,Leapin' Leprechauns!
+tt0113670,A Little Princess
+tt0113682,Loch Ness
+tt0113737,Magic in the Water
+tt0113819,Mighty Aphrodite
+tt0113855,Mortal Kombat
+tt0113928,The Eternal Evil of Asia
+tt0113992,Don't Die Without Telling Me Where You're Going
+tt0114019,Over My Dead Body
+tt0114040,Once in a Blue Moon
+tt0114168,Powder
+tt0114226,Raging Angels
+tt0114228,Rainbow
+tt0114241,Reckless
+tt0114303,Rough Magic
+tt0114306,Rumpelstiltskin
+tt0114312,The Fateful Day
+tt0114424,Ten Brothers
+tt0114462,The Skateboard Kid 2
+tt0114608,Tales from the Crypt: Demon Knight
+tt0114615,Taqdeerwala
+tt0114663,Three Wishes
+tt0114730,Der Trip
+tt0114787,Underground
+tt0114812,The Tragic Burlesque
+tt0114825,Vampire in Brooklyn
+tt0114864,De vliegende Hollander
+tt0114865,Golos travy
+tt0114948,Windrunner
+tt0114955,Wish Me Luck
+tt0114965,The Peony Pavilion
+tt0115030,A Young Connecticut Yankee in King Arthur's Court
+tt0115056,Romantic Dream
+tt0115432,When You Ain't Got Nothing
+tt0115461,Acri
+tt0115686,Biriken
+tt0115696,Black Scorpion II: Aftershock
+tt0115725,Bogus
+tt0115814,Camping Cosmos
+tt0115909,Saint Clara
+tt0115963,The Craft
+tt0115986,The Crow: City of Angels
+tt0116014,Forbidden City Cop
+tt0116036,Dating the Enemy
+tt0116074,Demon in the Bottle
+tt0116092,The Devil Takes a Holiday
+tt0116136,DragonHeart
+tt0116155,Dzieje mistrza Twardowskiego
+tt0116280,Fantôme avec chauffeur
+tt0116293,Female Perversions
+tt0116346,Fotos
+tt0116356,Frankenstein and Me
+tt0116365,The Frighteners
+tt0116390,Gamera 2: Attack of the Legion
+tt0116426,The God of Cookery
+tt0116669,Jack
+tt0116681,Body Troopers
+tt0116707,Joe's Apartment
+tt0116727,Jungle Boy
+tt0116756,Kazaam
+tt0116796,Das Zauberbuch
+tt0116882,Lilies
+tt0116916,The Lord Protector
+tt0116940,Luna e l'altra
+tt0116943,Lurid Tales: The Castle Queen
+tt0117008,Matilda
+tt0117038,Michael
+tt0117124,My Uncle the Alien
+tt0117128,Mystery Science Theater 3000: The Movie
+tt0117264,The Oyster and the Wind
+tt0117333,Phenomenon
+tt0117338,Picnic
+tt0117342,Pinocchio's Revenge
+tt0117372,The Preacher's Wife
+tt0117436,Rajkumar
+tt0117561,Schizopolis
+tt0117711,Spellbreaker: Secret of the Leprechauns
+tt0117775,Sudden Manhattan
+tt0117806,The Commanders Sword (1996)
+tt0117826,Bordello of Blood
+tt0117865,Taxandria
+tt0117894,Thinner
+tt0117924,To Gillian on Her 37th Birthday
+tt0117993,Yun cai zhi li xing
+tt0118200,X
+tt0118216,De Zeemeerman
+tt0118604,An American Werewolf in Paris
+tt0118621,Animals with the Tollkeeper
+tt0118664,Babel
+tt0118882,Conceiving Ada
+tt0118929,Dark City
+tt0118976,Didier
+tt0118998,Doctor Dolittle
+tt0119095,FairyTale: A True Story
+tt0119117,The Fifth Province
+tt0119227,Snow White: A Tale of Terror
+tt0119276,Hell's Belles
+tt0119484,Kull the Conqueror
+tt0119505,It All Came True
+tt0119525,Levitation
+tt0119528,Liar Liar
+tt0119535,A Life Less Ordinary
+tt0119550,Little Ghost
+tt0119568,Ruffiano and Sweeteeth
+tt0119637,The Maze
+tt0119643,Meet Joe Black
+tt0119703,Mordbüro
+tt0119707,Mortal Kombat: Annihilation
+tt0119744,Mystery Monsters
+tt0119751,Nachtvlinder
+tt0119771,An Ambiguous Report About the End of the World
+tt0119782,Nico the Unicorn
+tt0119784,The Night Flier
+tt0119816,O perlove panne
+tt0119864,Pasáz
+tt0119870,Paws
+tt0119893,Photographing Fairies
+tt0119947,Prince Valiant
+tt0119956,Prometheus
+tt0119962,The Firebird
+tt0120054,Saint-Ex
+tt0120133,A Simple Wish
+tt0120142,The Sixth Man
+tt0120148,Sliding Doors
+tt0120166,The Sorcerer's Apprentice
+tt0120211,Still Breathing
+tt0120328,Tic Tac
+tt0120393,Twilight of the Ice Nymphs
+tt0120404,A Witch's Way of Love
+tt0120479,Warriors of Virtue
+tt0120491,Welcome to Woop Woop
+tt0120524,Wishmaster
+tt0120601,Being John Malkovich
+tt0120604,Beowulf
+tt0120616,The Mummy
+tt0120632,City of Angels
+tt0120667,Fantastic Four
+tt0120689,The Green Mile
+tt0120710,In Dreams
+tt0120748,Matusalem II: le dernier des Beauchesne
+tt0120789,Pleasantville
+tt0120791,Practical Magic
+tt0120799,Let There Be Light
+tt0120882,The Visitors II: The Corridors of Time
+tt0120889,What Dreams May Come
+tt0120910,Fantasia 2000
+tt0120915,Star Wars: Episode I - The Phantom Menace
+tt0121124,Bu wen xiao zhang fu
+tt0121339,"Hahó, Öcsi!"
+tt0121387,Snow White
+tt0121407,Iratan e Iracema
+tt0121621,Shy Spirit
+tt0121765,Star Wars: Episode II - Attack of the Clones
+tt0121766,Star Wars: Episode III - Revenge of the Sith
+tt0121891,Huang Daxian
+tt0122046,The Devil's Owl
+tt0122050,Dragon Ball: The Magic Begins
+tt0122088,Ginseng King
+tt0122145,Empire of Ash III
+tt0122234,The Meeting Point
+tt0122286,Thrilling Bloody Sword
+tt0122294,Xin shi er sheng xiao
+tt0122318,Fei tou mo nu
+tt0122558,Jestrábí moudrost
+tt0122583,Legenda Tatr
+tt0122719,Children of Agony
+tt0122870,The Adventures of Flash Beaver
+tt0123040,La diosa virgen
+tt0123153,Little Virgil and Orla Frogsnapper
+tt0123376,Alegría
+tt0123768,Cumulus 9
+tt0123890,Hodja from Pjort
+tt0124800,Mr. Atlas
+tt0125037,A Chinese Ghost Story: The Tsui Hark Animation
+tt0125201,The Drifting Classroom
+tt0125217,The Discarnates
+tt0125434,School in the Crosshairs
+tt0125440,"Bound for the Fields, the Mountains, and the Seacoast"
+tt0125507,Sofies verden
+tt0125697,Chô shôjo Reiko
+tt0125830,They Were Called Three Musketeers But They Were Four
+tt0125841,Little Miss Magic
+tt0125896,Madeleine: Anatomy of a Nightmare
+tt0126004,The Iron Rose
+tt0126131,"Joshua, Joshua"
+tt0126234,Chamatkar
+tt0126848,Cry Wilderness
+tt0127278,Shakespeare's Plan 12 from Outer Space
+tt0127291,The Snooks in the Limelight
+tt0127454,Bay E
+tt0127919,Tale of the Mummy
+tt0128083,The Boy Who Saved Christmas
+tt0128120,"Chyornaya kuritsa, ili Podzemnye zhiteli"
+tt0128584,Sparkle's Tavern
+tt0129131,Kha-bi-assy
+tt0129360,Dear Santa
+tt0129634,The Wonderful Ice Cream Suit
+tt0129852,Deformed Monsters
+tt0129910,The Exotic House of Wax
+tt0130282,Stanley's Dragon
+tt0130446,Scarlet Flower
+tt0130652,Empire of Ash
+tt0131405,Galax Man-Doll
+tt0131417,Hanul dintre dealuri
+tt0131472,Maria si Mirabella in Tranzistoria
+tt0131545,Povestea dragostei
+tt0132347,Mystery Men
+tt0132910,The Crow: Salvation
+tt0133063,Lightmaker
+tt0133104,Rebirth of Mothra II
+tt0133137,Orbis Pictus
+tt0133226,Moon Over Tao: Makaraga
+tt0133375,¡Aquí espaantan!
+tt0133826,Guru
+tt0134149,Thumbelina
+tt0134899,Podzemelye vedm
+tt0134928,Spiral
+tt0135033,Poison for the Fairies
+tt0135663,Szegény Dzsoni és Árnika
+tt0135741,7 fois... par jour
+tt0137224,Svampe
+tt0137261,Volshebnyy portret
+tt0137432,"Tsirk sgorel, i klouny razbezhalis"
+tt0137891,Under the Glacier
+tt0138074,Santa and the Ice Cream Bunny
+tt0138451,The Fourth King
+tt0138498,Monkey's Playtime
+tt0138510,Idle Hands
+tt0138529,Jack Brown Genius
+tt0138545,The Juniper Tree
+tt0138590,Twice Upon a Yesterday
+tt0138703,Phantasm IV: Oblivion
+tt0138714,Poslední propadne peklu
+tt0138788,Sebechlebski hudci
+tt0138907,The Great Unknown
+tt0139465,The Minion
+tt0139649,Too Tired to Die
+tt0139657,Os Trapalhões e o Mágico de Oróz
+tt0139659,Os Trapalhões na Terra dos Monstros
+tt0140349,A little witch
+tt0140379,A Midsummer Night's Dream
+tt0140457,Pinocchio's Birthday Party
+tt0140581,The Suckling
+tt0141122,The Gingko Bed
+tt0141880,Tales of the Third Dimension
+tt0142242,Dragon Ball Z: Broly - The Legendary Super Saiyan
+tt0142312,The Pill
+tt0142893,Taikapeli
+tt0143209,Deseos
+tt0143874,Shattered Image
+tt0143924,Promise Her Anything
+tt0144249,The Incredible Genie
+tt0144280,Whispers from a Shallow Grave
+tt0144597,Secret of the Andes
+tt0144636,Tokyo: The Last War
+tt0144819,O Cavalinho Azul
+tt0144964,Highlander: Endgame
+tt0145008,Queen of the Lake
+tt0145456,The Schedule
+tt0145643,Acid Rain
+tt0145814,Heaven Sent
+tt0145893,Simply Irresistible
+tt0146315,Tom's Midnight Garden
+tt0146316,Lara Croft: Tomb Raider
+tt0146337,Uzun Ince Bir Yol
+tt0146675,End of Days
+tt0146984,The Legend of Bagger Vance
+tt0147505,Sinbad: The Battle of the Dark Knights
+tt0147699,Where the Elephant Sits
+tt0147822,Adi Vasfiye
+tt0148392,Lancelot: Guardian of Time
+tt0148415,Little Shop of Erotica
+tt0149893,Birth
+tt0150493,Weedsowers in Fableland
+tt0150682,Galose stastia
+tt0150768,Gradiva
+tt0150844,Armageddon: The Great Battle with Genma
+tt0151022,Ice from the Sun
+tt0151070,The Intruder
+tt0151072,Io e lui
+tt0151232,Knutsen & Ludvigsen
+tt0151266,Sinderella külkedisi
+tt0151572,The Miracle of P. Tinto
+tt0151778,Not Quite an Angel
+tt0151886,Snow White and the Seven Dwarfs
+tt0152946,Teen Knight
+tt0152979,Tenchi the Movie 2: The Daughter of Darkness
+tt0154464,Eu sunt Adam!
+tt0154998,Pataal Bhairavi
+tt0155277,Tobu yume wo shibaraku minai
+tt0155556,Dugo ng panday
+tt0155589,The Carpathian Castle
+tt0155647,Darna: The Return
+tt0155844,Magic Temple
+tt0155914,Nihavend mucize
+tt0156042,Sampoorna Ramayanam
+tt0156098,Sree Rama Anjaneya Yuddham
+tt0156529,Fatal Exam
+tt0156610,The Hole
+tt0156698,Kaya Palat
+tt0157713,Mister Designer
+tt0157736,Hari Darshan
+tt0157845,Bajrangbali
+tt0158049,One Hell of a Guy
+tt0158292,Tulsi Vivah
+tt0158719,The Last Home Run
+tt0158983,"South Park: Bigger, Longer & Uncut"
+tt0159251,Anna Magdalena
+tt0159427,Espelho de Carne
+tt0159443,Five Star Stories
+tt0159833,Wings of an Angel
+tt0160245,Emmanuelle 7
+tt0160429,The King and I
+tt0160508,Makai tenshô: The Armageddon
+tt0160801,The Little Mermaid
+tt0161977,Simon Magus
+tt0161979,Slayers Return
+tt0162035,A Very Unlucky Leprechaun
+tt0162301,The Effects of Magic
+tt0162661,Sleepy Hollow
+tt0163016,Jacob Two Two Meets the Hooded Fang
+tt0163097,Medusa
+tt0163494,Space Adventure Cobra
+tt0163581,Timeless Romance
+tt0163716,Litan
+tt0163727,Luminous Procuress
+tt0163816,Woman Chasing the Butterfly of Death
+tt0164389,Samurai Bells of Death
+tt0164409,Biokids
+tt0164519,Da grande
+tt0164689,La isla del diablo
+tt0164724,The Last Revenge
+tt0164857,Ruslan and Ludmila
+tt0164869,San-Antonio ne pense qu'à ça
+tt0164950,Un rêve plus long que la nuit
+tt0164961,Vidocq
+tt0165078,After Life
+tt0165208,Deadly Snake Versus Kung Fu Killers
+tt0165228,Devils to Worry
+tt0165230,Diamond Ninja Force
+tt0165366,Demon of the Lute
+tt0165396,My Brother the Pig
+tt0165499,The Storm Riders
+tt0165753,Emily's Ghost
+tt0165756,The Enchantress
+tt0165805,Gopal Krishna
+tt0165866,Lucinda's Spell
+tt0165890,Mytar
+tt0165906,Pacala
+tt0166095,Ukvdavebis tetri vardi
+tt0166276,Monkeybone
+tt0166370,Subconscious Cruelty
+tt0166601,Mr. Rice's Secret
+tt0166853,"Mahuliena, Golden Maiden"
+tt0166948,The Adventures of the American Rabbit
+tt0166986,Angel in Training
+tt0167059,The Book of Life
+tt0167190,Hellboy
+tt0167302,Naissance d'un Golem
+tt0167770,Dot and Santa Claus
+tt0167945,Fruit Is Swelling
+tt0169574,Paper Airplanes
+tt0169639,Boy Meets Girl
+tt0169654,Der Bärenhäuter
+tt0169716,The Man to Kill
+tt0170016,How the Grinch Stole Christmas
+tt0171121,The Blue Light
+tt0171363,The Haunting
+tt0171431,Kaze no Matasaburô - Garasu no manto
+tt0171474,Lisova pisnya. Mavka
+tt0171585,O zatoulané princezne
+tt0172160,Ballen i øyet
+tt0172735,A locsolókocsi
+tt0173052,The Prince and the Surfer
+tt0173369,Tum Mere Ho
+tt0173671,Beasts
+tt0173937,Jack and the Beanstalk
+tt0174129,Le portrait de Dorian Gray
+tt0174174,Ruslan and Ludmila
+tt0174757,Hroch
+tt0175075,Propala hramota
+tt0175203,The Stone Raft
+tt0175323,The Werewolf Reborn!
+tt0175553,Daredreamer
+tt0175555,Deal of a Lifetime
+tt0175663,Escape from Galaxy 3
+tt0175767,In schwimmen-zwei-vögel
+tt0175793,Já nejsem já
+tt0175913,Mikola a Mikolko
+tt0176025,Plavcík a Vratko
+tt0176130,The Seven Mysteries of Life
+tt0176174,Spuk aus der Gruft
+tt0176283,Verflixtes Mißgeschick!
+tt0176579,Bullfighter
+tt0176689,Kunoichi ninpô-chô: Yagyû gaiden
+tt0176741,G2
+tt0177072,La orilla de la tierra
+tt0177394,The Wolves of Kromer
+tt0177484,Aadmi Aur Apsara
+tt0177606,Puss in Boots
+tt0177838,History of Cinema in Popielawy
+tt0177851,Junior Heads
+tt0177889,Almanzor's Rings
+tt0178120,¡Que vivan los muertos!
+tt0178122,L'âme-soeur
+tt0178900,Unknown Soldier
+tt0179080,Angelito mío
+tt0179196,"Goodbye, 20th Century"
+tt0179982,Moy muzh - inoplanetyanin
+tt0180242,A Texas Funeral
+tt0180454,Atoski vrtovi - preobrazenje
+tt0180579,Brannen
+tt0180679,Escanaba in da Moonlight
+tt0180817,Man of Steel
+tt0180866,The Bizarre Country
+tt0181038,Aliens Are to Be Blamed for Everything
+tt0181307,O Barão Otelo no Barato dos Bilhões
+tt0181312,Bill Diamond - Geschichte eines Augenblicks
+tt0181315,Subspecies 4: Bloodstorm
+tt0181836,The Specials
+tt0182221,J'ai rencontré le Père Noël
+tt0182675,The Nameless Knight
+tt0183008,The Dragon Gate
+tt0183768,Sherlock Holmes und die sieben Zwerge
+tt0183802,Holy Sword
+tt0183892,Armageddon
+tt0184063,Astray Lamb
+tt0184190,False Lady
+tt0184276,Billy Frankenstein
+tt0184433,Ru lai ba gua gun
+tt0184503,Gamera 3: Revenge of Iris
+tt0184655,Kunoichi ninpô-chô II: Sei-shôjo no hihô
+tt0184767,Nan yang di yi xie jiang
+tt0185012,Wolfridge
+tt0185170,Babaouo
+tt0185359,Firebird: Karma Chapter
+tt0185371,House on Haunted Hill
+tt0185389,Time Stranger
+tt0185431,Little Nicky
+tt0185528,19
+tt0185614,Five Fighters from Shaolin
+tt0185732,Crane
+tt0185852,Aladdin's Lamp
+tt0185853,Ali Baba and the Forty Thieves
+tt0185858,The Golden Prince in the Land of the Giants
+tt0185984,Checkers in Tan Tan tanuki
+tt0186091,Fearless Kung Fu Elements
+tt0186844,Ayiram Janmangal
+tt0187220,Kunoichi ninpô-chô III: Higi densetsu no kai
+tt0187221,Kunoichi ninpô-chô IV: Chûshingura hishô
+tt0187222,"Kunoichi ninpô-chô: Yagyû gaiden, Aizu-yuki jigoku-hen"
+tt0187223,Kunoichi ninpô-chô V: Jiraiya hishô
+tt0187351,Nigahen: Nagina Part II
+tt0187375,Oslinaya shkura
+tt0187999,Invincible Super Chan
+tt0188014,Daigoro vs. Goliath
+tt0188093,Necropolis
+tt0188140,Tom Thumb
+tt0188242,The Invisible Swordsman
+tt0188306,Polosa vezeniya
+tt0188311,The Islands
+tt0188404,Dexter the Dragon & Bumble the Bear
+tt0188547,Darna vs. the Planet Women
+tt0188688,Insatiable Wives
+tt0188757,Kill by Inches
+tt0189192,Just Visiting
+tt0189198,War Is Menstrual Envy
+tt0189603,These Sorcerers Are Mad
+tt0189764,Rebirth of Mothra III
+tt0189791,Zoando na TV
+tt0189971,Le rouge de Chine
+tt0190024,Sorceress II: The Temptress
+tt0190052,Surrender
+tt0190374,Dungeons & Dragons
+tt0190524,Left Behind: The Movie
+tt0190818,Teito monogatari gaiden
+tt0190837,Tokyo Babylon 1999
+tt0191774,Alien Blood
+tt0192400,Orpheus in der Unterwelt
+tt0192455,Picking Up the Pieces
+tt0192612,"Simão, o Fantasma Trapalhão"
+tt0192792,The White Pony
+tt0192975,Andrius
+tt0193318,Merlin: The Return
+tt0193763,Besat
+tt0194146,Mel
+tt0194664,Angels
+tt0194923,Zolotoy tsyplyonok
+tt0194995,The Juggler of Notre Dame
+tt0195375,The Usual Children
+tt0195994,Pirates of the Plain
+tt0197049,The Call of the Oboe
+tt0197278,Beder Meye Josna
+tt0197636,Loons
+tt0197951,Tiger Claws III
+tt0198302,"Love, Carnival and Dream"
+tt0198664,Long Road to Gallantry
+tt0198769,Mondo candido
+tt0199828,Wu Tang vs. Ninja
+tt0199846,Ninja Strike Force
+tt0199867,Ninja: The Violent Sorceror
+tt0199950,The New Adventures of Pinocchio
+tt0200097,Sea God and Ghosts
+tt0201107,The Snake Prince
+tt0201197,Succubare
+tt0201545,Cowboy in Sweden
+tt0201983,Thunder Ninja Kids: The Hunt for the Devil Boxer
+tt0202052,The Vampire Raiders
+tt0202586,Shapeshifter
+tt0203237,Yu Yu Hakusho: Fight for the Netherworld
+tt0203408,The Omega Code
+tt0203520,Moon Mask Rider
+tt0203665,Fei long wang zi po qun yao
+tt0203802,Pink Lady's Motion Picture
+tt0204541,Thumbelina
+tt0204636,"Smankote, babicko, caruj!"
+tt0204713,Ultraman: Monster Big Battle
+tt0204715,Ultraman
+tt0204870,De bal
+tt0205281,Magic Adventure
+tt0205778,A Question of Faith
+tt0206420,Woman on Top
+tt0206582,Bashtata na yaytzeto
+tt0206827,In the Aftermath
+tt0206833,Iran Is My Land
+tt0207023,Presage
+tt0207201,What Women Want
+tt0207222,Yamagola
+tt0207374,Carnival Magic
+tt0207529,Them
+tt0208336,Night of San Juan: Santo in Black Gold
+tt0208423,Santo vs. the She-Wolves
+tt0208464,Under the Chinese Restaurant
+tt0208663,Abra Cadabra
+tt0209163,The Mummy Returns
+tt0210016,Man in the Box
+tt0210066,Gay Salomé
+tt0210070,Ginger Snaps
+tt0210223,Legend of the Phantom Rider
+tt0210302,Gemini
+tt0210890,"Paris, mon petit corps est bien las de ce grand monde"
+tt0210964,Schneeweißchen und Rosenrot
+tt0211038,Thomas and the Bewitched
+tt0211248,Bible!
+tt0211413,Himitsu
+tt0212615,The Wishing Tree
+tt0212879,Citizen Toxie: The Toxic Avenger IV
+tt0212910,Delivering Milo
+tt0213260,Split Infinity
+tt0213314,Wishes of the Stars
+tt0213613,Didn't You Hear?
+tt0214292,Wanted
+tt0214468,Space Armageddon
+tt0214529,Belphegor: Phantom of the Louvre
+tt0214862,Knut Formos siste jakt
+tt0214984,Neeya
+tt0215223,Freeway Rhapsody
+tt0215696,Dashavatharam
+tt0215758,Fabel
+tt0216149,De rode zwaan
+tt0216346,La via del cibo
+tt0216522,Second Life
+tt0217039,La septième dimension
+tt0217331,The Convent
+tt0217571,Infinity
+tt0217594,How Ivanushka the Fool Travelled in Search of Wonder
+tt0217662,La montaña del diablo
+tt0217704,Oh Babylon
+tt0217727,While the Clocks Are Ticking
+tt0217802,Silver Man
+tt0217841,Ten
+tt0218141,Deeply
+tt0218258,Fluctuations
+tt0218516,Planet Alex
+tt0218688,Une femme fatale
+tt0218967,The Family Man
+tt0219653,Dracula 2000
+tt0219699,The Gift
+tt0219854,The Kid
+tt0220084,Tadon to chikuwa
+tt0220514,"Hey, Happy!"
+tt0220992,The One Who Came from Heaven
+tt0221982,Gaja Gamini
+tt0222257,Palaver
+tt0222717,Sex Files: Ancient Desires
+tt0222719,Andromina: The Pleasure Planet
+tt0222790,Raspberry & Lavender
+tt0222868,La Witches de a Brujas
+tt0222961,El chanfle II
+tt0223226,Die ersten Tage
+tt0223268,Faust
+tt0223391,Grandma and Her Ghosts
+tt0223593,Juvenile
+tt0224102,Entrails of a Beautiful Woman
+tt0226232,O princezne Jasnence a létajícím sevci
+tt0226362,Ragdoll
+tt0226451,Serebryanye golovy
+tt0227379,Rex: Kyôryû monogatari
+tt0227409,Ruby Fruit
+tt0227684,The Third Prince
+tt0227694,La tumba del Atlantico
+tt0228149,Private Collections
+tt0228237,Dr. Wong's Virtual Hell
+tt0228430,El infierno prometido
+tt0228685,Oriundi
+tt0228699,Paradise View
+tt0228807,Saimin
+tt0228838,Threshold of the Void
+tt0228954,El tonto que hacía milagros
+tt0228982,Ultraman Tiga: The Final Odyssey
+tt0229260,Book of Shadows: Blair Witch 2
+tt0229404,Haunted School 2
+tt0229499,Don't Look Up
+tt0229506,Kappa
+tt0229548,Reborn from Hell II: Jubei's Revenge
+tt0229860,Yabu no naka
+tt0230030,Bedazzled
+tt0230357,Jal Mahal
+tt0230453,Granddaughter of Ice
+tt0230764,Shans
+tt0230866,Tenshu monogatari
+tt0230960,Jadosnuri game
+tt0230969,The Devil's Three Golden Hairs
+tt0231775,Down to Earth
+tt0232195,Zogi chiri margebelia
+tt0232465,The Watermill Princess 2
+tt0232475,Uncle Cyril
+tt0233065,Jecão... Um Fofoqueiro no Céu
+tt0233764,Future Murder
+tt0233839,Hakuchi: The Innocent
+tt0233856,Hello Brother
+tt0233997,Kacenka a strasidla
+tt0234058,Thomas and the Falcon King
+tt0234084,Last Mountain
+tt0234102,Das Licht der Liebe
+tt0235091,Zauber um Zinnober
+tt0235618,The Nine Lives of Tomas Katz
+tt0235722,Rusalka
+tt0237227,The False Prince
+tt0237563,Die Pfauenfeder
+tt0238342,Kanka do pohádky
+tt0238546,Queen of the Damned
+tt0238650,Tajomstvo alchymistu Storitza
+tt0238895,The Imp
+tt0239102,Wild Flowers
+tt0239341,Devi Putrudu
+tt0239349,Doctor K
+tt0239450,Ants in the Pants
+tt0239593,Mariken
+tt0240462,Dr. Dolittle 2
+tt0240491,Eu Faço... Elas Sentem
+tt0240773,Od zítrka necaruji
+tt0241326,Le coup suprême
+tt0241527,Harry Potter and the Sorcerer's Stone
+tt0242285,The Art of Dying
+tt0242459,"Finest, the brave Falcon"
+tt0242502,Hanuman Vijay
+tt0242504,Har Har Gange
+tt0242509,Haatim Tai
+tt0242599,The Legend of the North Wind
+tt0242635,Mahabali Hanuman
+tt0242656,Maya Bazar
+tt0242714,Naag Panchami
+tt0242716,Naked Wishes
+tt0242860,Schneeweißchen und Rosenrot
+tt0242952,Time Burst: The Final Alliance
+tt0243017,Waking Life
+tt0243160,Bulgaria - tova sam az!
+tt0243210,On the Nose
+tt0243378,Lava
+tt0243462,Mee-Shee: The Water Giant
+tt0243649,Hitler Meets Christ
+tt0244083,The Gold Woman
+tt0244161,The Bet
+tt0244591,Kocicí princ
+tt0244657,Mi fantasma y yo
+tt0244685,No tiene la culpa el Indio
+tt0244803,Snakeskin
+tt0244870,Spiral
+tt0245157,Zus & Zo
+tt0245674,Thir13en Ghosts
+tt0245803,Bulletproof Monk
+tt0246190,Rani Aur Lalpari
+tt0246199,Terminal Rite
+tt0246339,Yamudiki Mogudu
+tt0246414,Agathiyar
+tt0246659,A Goddamn Job
+tt0246683,The Hour of Blue Elephants
+tt0246717,Accidental Saint
+tt0246766,Maa
+tt0247133,The Meeksville Ghost
+tt0247153,L'affaire Marcorelle
+tt0247928,Angel Mine
+tt0248190,No Such Thing
+tt0248535,Terrorgram
+tt0248926,Njan Gandharvan
+tt0249081,Tom Thumb
+tt0249131,Rollo and the Woods Sprite
+tt0249893,The Price of Milk
+tt0250944,The Adventures of Cinderella's Daughter
+tt0251052,The Discovery of Heaven
+tt0251763,"Kalimán, el hombre increíble"
+tt0252335,Love Torn in a Dream
+tt0252534,Ilyuzia
+tt0252627,The Dragon
+tt0252965,Burger Boy's
+tt0253556,Reign of Fire
+tt0253592,Il ritorno d'Ulisse in patria
+tt0253761,Tales from a Flying Trunk
+tt0254125,Potlatch
+tt0254324,Imago
+tt0254325,Comedy of Innocence
+tt0254387,Hong Kil-dong
+tt0254422,The Inside Story
+tt0254609,La nuit claire
+tt0254839,The Urge to Kill
+tt0254983,Balamos
+tt0255092,Danilo Treles: The Famed Andalusian Musician
+tt0255293,Kamen gakuen
+tt0255477,Pinocchio
+tt0255962,Moon Runaway
+tt0256086,Hänsel und Gretel
+tt0256155,Beneath Loch Ness
+tt0256343,Roberte
+tt0256378,Sex Files: Sexually Bewitched
+tt0256380,Shallow Hal
+tt0256851,Karkalou
+tt0257288,Women Kingdom
+tt0257498,Con el cuerpo prestado
+tt0258968,Skazki starogo volshebnika
+tt0259261,Daana Veera Soora Karna
+tt0259288,Dragonfly
+tt0259324,Ghost Rider
+tt0259711,Vanilla Sky
+tt0259929,Christmas Carol: The Movie
+tt0259961,A Dança dos Bonecos
+tt0260136,The Avenging Fist
+tt0260208,A Mulher Que Põe a Pomba no Ar
+tt0260556,What a Flash!
+tt0260684,Agente 0013: Hermelinda linda II
+tt0261367,El trono del infierno
+tt0261546,The Adventures of God
+tt0262222,Alligator Alley
+tt0262411,Fatty Drives the Bus
+tt0262503,Fei tian dun di jin gang ren
+tt0262750,Ta simadia tis nyhtas
+tt0262753,Scorpion Thunderbolt
+tt0263179,Capulina contra los monstruos
+tt0263265,Shortcut to Happiness
+tt0263388,The Shadow Play
+tt0263426,"My Dreams, My Love and You"
+tt0263568,The Garden of God
+tt0263728,Megiddo: The Omega Code 2
+tt0263971,The Scarecrow
+tt0264079,"Tainah, an Amazon Adventure"
+tt0264357,Ammoru
+tt0264410,Berserker
+tt0264508,Dagon
+tt0264581,Sex Files: Erotic Possessions
+tt0264610,El fantástico mundo de María Montiel
+tt0265087,Black Knight
+tt0265138,Chu nu jiang
+tt0265691,The Slurb
+tt0265752,Wolf Girl
+tt0265830,Superzan y el niño del espacio
+tt0265932,Children's Play
+tt0266450,Death Visits the Living
+tt0266775,Mr. Horatio Knibbles
+tt0267263,Animated Corpse
+tt0267287,Avalon
+tt0267455,Durango Kids
+tt0267601,Truth About Demons
+tt0267845,Prem Shakti
+tt0267923,She
+tt0267950,Sri Krishnarjuna Vijayam
+tt0268042,Yamaleela
+tt0268267,Dora and the Magic Lantern
+tt0268295,The Fall of the Louse of Usher: A Gothic Tale for the 21st Century
+tt0268363,Hodiak
+tt0268878,"A gozar, a gozar, que el mundo se va acabar"
+tt0268930,Anarchisták
+tt0269168,Dreams Beyond Memory
+tt0269492,Dead Aim
+tt0269587,Mysterious Object at Noon
+tt0269603,The Girl in the Fur Coat
+tt0269604,Naken
+tt0270612,Rolling Thunder
+tt0271191,Skazka pro vlyublyonnogo malyara
+tt0271253,The Dream Factory
+tt0271270,Thirst of Passion
+tt0271355,Adharvam
+tt0271383,A Dog's Will
+tt0271708,Peak Experience
+tt0271718,Pinocho
+tt0272101,Gallavants
+tt0272291,Seri Dewi Malam
+tt0272362,Wu Yen
+tt0272425,Reptile 2001
+tt0272766,Out of the Darkness
+tt0273268,The Mansion of the 7 Mummies
+tt0273695,Jodidar
+tt0273918,Oncle Zizou habibi
+tt0273980,Polyot v stranu chudovishch
+tt0274347,Uma Aventura na Floresta Encantada
+tt0274470,Dot and the Kangaroo
+tt0274626,Lavender
+tt0274748,Radio Free Steve
+tt0274763,Robbery of the Mummies of Guanajuato
+tt0274877,Special Silencers
+tt0274932,Tarkan and the Blood of the Vikings
+tt0275194,Angel of Light
+tt0275705,Subversion
+tt0275773,Versus
+tt0276177,La haine de la fille
+tt0276637,Night of the Vampire Hunter
+tt0276961,Der fliegende Holländer
+tt0277044,Inugami
+tt0277296,The Scorpion King
+tt0277585,Undermind
+tt0277725,The Fox with Nine Tails
+tt0277766,Jesus
+tt0277800,The Little Unicorn
+tt0277919,Celestial Body
+tt0277926,La noche de la bestia
+tt0278351,Out Live
+tt0278380,Camera
+tt0278488,How High
+tt0278675,Revelation
+tt0278891,Aaahh Belinda
+tt0279016,Charlie and the Talking Buzzard
+tt0279112,"Godzilla, Mothra and King Ghidorah: Giant Monsters All-Out Attack"
+tt0279173,Keloglan
+tt0279231,Miss Minoes
+tt0279309,Pancha Thanthram
+tt0279479,Train Quest
+tt0279618,Ikibin yilin sevgilisi
+tt0279657,"Devil, My Friend"
+tt0280507,Bunuel and King Solomon's Table
+tt0280840,The Complaint of an Empress
+tt0281140,Le royaume des rapiats
+tt0281241,Sundelbolong
+tt0281370,WillFull
+tt0281686,Bubba Ho-Tep
+tt0281707,The Devil Knows Why
+tt0282135,The Hero of Swallow
+tt0282209,Darkness Falls
+tt0282525,The Gifted
+tt0282599,Il Mare
+tt0282725,Mask Under Mask
+tt0282827,Pappan Priyappetta Pappan
+tt0282917,Year of the Devil
+tt0282936,Sakuya: Slayer of Demons
+tt0283084,Tuck Everlasting
+tt0283086,Turn
+tt0283153,Xoxontla
+tt0283242,The Scarlet Flower
+tt0283353,El futbolista fenómeno
+tt0283601,Sombras paralelas
+tt0283644,Left Behind II: Tribulation Force
+tt0283888,El apenitas
+tt0283915,Bear's Kiss
+tt0284066,Double Vision
+tt0284084,Elisa da Rarus tavgadasavali
+tt0284849,L'ampélopède
+tt0285119,FrogZ
+tt0285292,A Light in the Forest
+tt0285808,Nyi Blorong
+tt0286009,Les rois mages
+tt0286057,Second Time Around
+tt0286098,Zu Warriors
+tt0286112,Shaolin Soccer
+tt0286776,La Valse
+tt0286786,Lesbian Harem
+tt0287075,Universal Groove
+tt0287082,Utskho
+tt0287310,Altar
+tt0287351,Pinocchio
+tt0287566,Misterii
+tt0287811,Visible Secret
+tt0287963,Secret Things
+tt0288045,The Medallion
+tt0288244,Tangy Guacamole
+tt0288261,Eros Nights in Tokyo
+tt0288299,Vasilisa
+tt0289054,Warm Water Under a Red Bridge
+tt0289696,Dos nacos en el planeta de las mujeres
+tt0290028,Platinum Blonde
+tt0290231,Lav Kush
+tt0290406,Alice in Wonderland
+tt0290819,Quincy's Quest
+tt0291009,Akasha
+tt0291061,Calacán
+tt0291284,Julie's Spirit
+tt0291350,Millennium Actress
+tt0291573,Yume de aimasho: Wonderland
+tt0291966,The Woman Who Dreamed
+tt0292039,Kalimán en el siniestro mundo de Humanón
+tt0292431,Apolinar
+tt0292996,Bug Off!
+tt0293019,Castle Eros
+tt0293117,Déjala correr
+tt0293155,Hypnotized and Hysterical (Hairstylist Wanted)
+tt0293467,Night of Death
+tt0293688,"Una vez, un hombre..."
+tt0293832,Hansel & Gretel
+tt0293844,Jaguimo
+tt0293905,Pulse Pounders
+tt0293984,Tales of the Unusual
+tt0294237,01412 pasasingeum
+tt0294251,2002
+tt0294880,Robot in the Family
+tt0294886,S.O.S Gulubu
+tt0294969,Tirannoui baltob
+tt0295003,"Help, I'm a Boy!"
+tt0295297,Harry Potter and the Chamber of Secrets
+tt0295375,More Ants in the Pants
+tt0295436,La metralleta infernal
+tt0295492,O statecném kovári
+tt0295598,Sekskazka
+tt0295725,Time Changer
+tt0295989,High Adventure
+tt0296032,Scarecrow
+tt0296605,Dragon Tuka
+tt0296619,The Rain Children
+tt0296621,Everybody Says I'm Fine!
+tt0297024,Betaville
+tt0297149,Les gloutonnes
+tt0297215,A Journey Through Fairyland
+tt0297282,Midnight Days
+tt0297745,Ascension
+tt0297808,Botë e padukshme
+tt0298482,Nothing
+tt0298491,The Invisible
+tt0298786,Caramuru: The Invention of Brazil
+tt0299014,Lucky
+tt0299025,Maruf
+tt0299040,Momo
+tt0299873,Fausto 5.0
+tt0299878,Fimfárum Jana Wericha
+tt0299909,Grey Fire
+tt0300362,Poslednyaya noch Shakherezady
+tt0300490,Skazka o gromkom barabane
+tt0300657,The Hexer
+tt0301429,Volcano High
+tt0302640,The Hot Chick
+tt0302758,"My Beautiful Girl, Mari"
+tt0302882,L'odyssée d'Alice Tremblay
+tt0303968,"Equinox, the Garden of the Roses"
+tt0304141,Harry Potter and the Prisoner of Azkaban
+tt0304262,The Happiness of the Katakuris
+tt0304669,The Santa Clause 2
+tt0304872,"Unicorn, the Garden of the Fruits"
+tt0304922,Yuen mei ching yan
+tt0304982,The Third Eye
+tt0305210,Amodini
+tt0305859,My Life as a Troll
+tt0306802,Fantasticheskaya istoriya
+tt0306875,The Water Spider
+tt0307245,Novye priklyucheniya yanki pri dvore korolya Artura
+tt0307456,Shaye & Kiki
+tt0308244,Fairie
+tt0308320,God Is on Their Side
+tt0308459,Kikuchi-jô monogatari - sakimori-tachi no uta
+tt0308478,Snaker
+tt0308506,Like Mike
+tt0308631,Nanu Nanna Hendthi
+tt0308673,Onna kunishuu ikki
+tt0308903,"The Tale of Fedot, the Shooter"
+tt0309114,Song of the Miraculous Hind
+tt0309778,Kony
+tt0309800,Chota Jadugar
+tt0309805,Las locuras del extraterrestre
+tt0309832,Maléfique
+tt0310181,Witches to the North
+tt0310292,Three Supermen at the Olympic Games
+tt0310330,Vozvrashchenie Khodzhi Nasreddina
+tt0310712,Bancharamer Bagan
+tt0310790,The Living Forest
+tt0310985,De que estamos hechos
+tt0310995,Demir Yumruk: Devler geliyor
+tt0311364,Marry a Rich Man
+tt0311401,Kissaa Kursee Kaa
+tt0311429,The League of Extraordinary Gentlemen
+tt0311489,Manôushe
+tt0311573,Nechistaya sila
+tt0312043,Xuxa and the Elves 2
+tt0312366,AntiFaust
+tt0312493,Eve
+tt0313233,The Hunter
+tt0313802,Green Light
+tt0313940,Cultivision (Collapsing Stars)
+tt0313965,Devi
+tt0315327,Bruce Almighty
+tt0315575,El extraño hijo del Sheriff
+tt0316396,Peter Pan
+tt0316882,Warriors of Virtue: The Return to Tao
+tt0317299,"Cándido de día, Pérez de noche"
+tt0317476,Angel on the Right
+tt0317772,Arcibel's Game
+tt0318032,Royal Bonbon
+tt0318034,Russian Ark
+tt0318275,Adisaya Piravi
+tt0318709,Soundtrack
+tt0318849,Half Piece of Map
+tt0319061,Big Fish
+tt0319393,El extraño visitante
+tt0319685,A House Built on Water
+tt0319901,My Left Eye Sees Ghosts
+tt0320656,Las Travesuras de Super Chido
+tt0320691,Underworld
+tt0320751,Warrior
+tt0321436,Bibi Blocksberg
+tt0321595,Capulina vs. The Mummies (The Terror of Guanajuato)
+tt0321781,Cremaster 3
+tt0322116,The Day Maradona Met Gardel
+tt0322232,Electrical Girl
+tt0322330,Freaky Friday
+tt0322441,Erotic Witchcraft
+tt0322659,Northfork
+tt0322847,El jinete de la muerte
+tt0322991,Krai Thong
+tt0323141,Made in Berlin
+tt0323753,Ah yoo redi?
+tt0323774,Ratu Sakti Calon Arang
+tt0324174,Dyavolskoto orazhie
+tt0324943,The 13th House
+tt0324977,Alavuddinum Athbutha Vilakkum
+tt0325655,The Eye
+tt0325703,Lara Croft Tomb Raider: The Cradle of Life
+tt0325980,Pirates of the Caribbean: The Curse of the Black Pearl
+tt0326143,Saint Seiya: Legend of Crimson Youth
+tt0326228,Super-B
+tt0326746,Baba
+tt0326789,Los caciques
+tt0326983,Jaani Dushman: Ek Anokhi Kahani
+tt0327153,The Singing Forest
+tt0327554,Catwoman
+tt0327679,Ella Enchanted
+tt0328033,Kingdom
+tt0328316,Redentor
+tt0329030,The Dust Factory
+tt0329954,Thirteen Erotic Ghosts
+tt0330373,Harry Potter and the Goblet of Fire
+tt0330383,Henry X
+tt0330540,Kárate a muerte en Torremolinos
+tt0330889,Sima Vaknin Witch
+tt0330954,Swapner Feriwala
+tt0330994,Titanic: The Legend Goes On...
+tt0331513,Nan quan wang II zhi Qi zhuang shan he
+tt0332029,My Father's Dragon
+tt0332136,If Only
+tt0332239,The Marsh
+tt0332318,Pinocchio 3000
+tt0332706,Woman of Water
+tt0332817,The Virgin of Lust
+tt0333067,Alibaba 40 Dongalu
+tt0333215,The Magician's Hat
+tt0333694,K
+tt0334148,Povelitel luzh
+tt0334205,Ra: Path of the Sun God
+tt0334217,Rarotonga
+tt0334726,Chow Yun-Fat Boy Meets Brownie Girl
+tt0334761,Young-gu and Daengchili
+tt0334763,Young-gu and Daengchili 4: Hong Kong Granny Ghost
+tt0334764,Young-gu and the Solim Temple
+tt0334765,Young-gu and Princess Zzu-Zzu
+tt0334901,Ibong Adarna
+tt0334990,Cengiz han'in fedaisi
+tt0335057,Don't Ask Don't Tell
+tt0335121,Godsend
+tt0337563,13 Going on 30
+tt0337876,Birth
+tt0338094,The Haunted Mansion
+tt0338436,Singsing ni Lola
+tt0338437,Poor Little Hampsters
+tt0338453,Someone Like Hodder
+tt0338470,Sumuru
+tt0338526,Van Helsing
+tt0338910,The barrio kings
+tt0339357,The Story of Marie and Julien
+tt0339638,Screen Door Jesus
+tt0339840,Undead
+tt0339847,Ultraman Cosmos: The First Contact
+tt0340068,De la mano de un ángel
+tt0340084,The Drop
+tt0340096,The Emperor's Wife
+tt0341455,The Web of the Witch
+tt0343495,Buaya Putih
+tt0343857,"Jeannie, bakit ngayon ka lang?"
+tt0345140,Return from the Other World
+tt0345416,Hunting Evil Spirit
+tt0345550,Lastikman
+tt0345642,Die Meistersinger von Nürnberg
+tt0345940,So Long Mister Monore
+tt0345979,Susuk Nyi Roro Kidul
+tt0346060,Troublesome Night 16
+tt0346179,Zuma
+tt0346904,Dream of a Warrior
+tt0346911,Dugo ng birhen: El kapitan
+tt0347230,Chin cheng sin sang
+tt0347354,Kokey
+tt0347585,The Mummy's Kiss
+tt0347758,Pedrong palad
+tt0347760,Pepeng Agimat
+tt0348060,The Snow Queen
+tt0348087,Spirit Warriors
+tt0348088,Spirit Warriors: The Shortcut
+tt0348214,Luen oi hang sing
+tt0348270,Der Tölpelhans
+tt0348461,You're Driving Me Crazy
+tt0349072,El ahorcado
+tt0349349,Die You Zombie Bastards!
+tt0349763,Luv Text
+tt0349880,Neverland
+tt0350022,Quigley
+tt0350027,Radúz a Mahulena
+tt0350044,Reflections of Evil
+tt0350053,Ride on Baby
+tt0350204,Thunderclap
+tt0350651,La boîte à soleil
+tt0350774,Dead & Breakfast
+tt0350804,God Is Brazilian
+tt0351265,The Lucky Ones
+tt0352014,Chinese Erotic Ghost Story
+tt0352171,And the Word Was Made Flesh
+tt0352394,Hellborn
+tt0353794,New Guy
+tt0354498,Demi-Haunted
+tt0354684,Koi ni utaeba
+tt0354899,The Science of Sleep
+tt0355563,The Illustrated Family Doctor
+tt0355617,Junior Mandrake
+tt0355857,Onmyoji: The Yin Yang Master
+tt0356793,Thief or Reality
+tt0356858,The Curse of Marialva
+tt0357225,The Tears of Heaven
+tt0358182,Suraj Aur Chanda
+tt0358722,Swing
+tt0359075,Christiana
+tt0359123,Curado de espantos
+tt0359299,Fukumimi
+tt0359359,Les guerriers de la beauté
+tt0359433,Hotoke
+tt0359564,The Book of Fate
+tt0359603,Liktendzirnas
+tt0359730,Nagadevathe
+tt0359971,Sheshnaag
+tt0360486,Constantine
+tt0360490,Creature of the Mist
+tt0360887,The Treasure Planet
+tt0360921,Red Trousers: The Life of the Hong Kong Stuntmen
+tt0361852,Love Hollywood Style
+tt0362165,Son of the Mask
+tt0362417,Aragami
+tt0363771,"The Chronicles of Narnia: The Lion, the Witch and the Wardrobe"
+tt0363786,Maha Shaktimaan
+tt0363910,The Princess and the Dwarf
+tt0364365,The River's End
+tt0364376,The Gingerdead Man
+tt0364526,The Living World
+tt0365398,The Days When I Do Not Exist
+tt0365478,Man with the Screaming Brain
+tt0365577,O Lucky Man
+tt0365808,Tie chao ren
+tt0365852,Tooth
+tt0365918,Westender
+tt0365927,Whitcomb's War
+tt0365967,Zurdo
+tt0366291,Slaves of the Realm
+tt0366336,Dance of the Cookoos
+tt0366371,Gwong yat cham... Tin Hau
+tt0366450,Five Children and It
+tt0366526,Godzilla: Tokyo S.O.S.
+tt0366627,The Jacket
+tt0366780,Mirrormask
+tt0366886,Patalghar
+tt0366985,Rudraksh
+tt0367000,House of Voices
+tt0367193,Utopía
+tt0367466,A1
+tt0367472,Abriendo fuego
+tt0367567,Sea of Dreams
+tt0367753,Freedom Deep
+tt0367822,Hong Kong X-File
+tt0367913,Ju-On: The Grudge 2
+tt0368145,Phra apai mani
+tt0368181,Prisoner Queen-Mindless Music & Mirrorballs
+tt0368233,Sahasa Veerudu Sagara Kanya
+tt0368821,Jôhatsu tabinikki
+tt0368855,Samurai Resurrection
+tt0369880,Il ronzio delle mosche
+tt0371249,Der Spiegel des großen Magus
+tt0371282,Tales from Beyond
+tt0371310,Tetsujin 28
+tt0371346,La tumba de Matías
+tt0371519,Alien Dreamtime
+tt0371668,The Fakir
+tt0371675,Forbidden Warrior
+tt0371712,The Diamond Ring
+tt0371846,Near Death
+tt0371922,Saaya
+tt0371968,Superman
+tt0372036,Yan Bibiyan
+tt0372461,Pelicanman
+tt0372873,Dragon Wars: D-War
+tt0372921,Flesh for the Beast
+tt0372937,Into the Mirror
+tt0373028,In Your Dreams
+tt0373074,Kung Fu Hustle
+tt0373151,Mind Forest
+tt0373786,Devilman
+tt0373866,Globi and the Stolen Shadows
+tt0374358,Stork Day
+tt0374536,Bewitched
+tt0374639,Incident at Loch Ness
+tt0374853,Malice in Wonderland
+tt0374891,"Mágico, el enviado de los dioses"
+tt0375114,Supernova [Expérience #1]
+tt0375514,12 B
+tt0376242,Temptation Island
+tt0376269,Treasure: in Search of the Golden Horse
+tt0376787,Naani
+tt0376887,Shiva Ka Insaaf
+tt0376995,Otherworld
+tt0377079,Izo
+tt0377633,The Legend of Evil Lake
+tt0377744,A Day Without a Mexican
+tt0378262,Little Longnose
+tt0378296,Magic Kingdom: Ang alamat ng Damortis
+tt0378394,Mucha sangre
+tt0378661,They Came Back
+tt0379945,Puerta del tiempo
+tt0380069,My Lucky Star
+tt0380242,Calla
+tt0380249,Tears for Sale
+tt0380510,The Lovely Bones
+tt0380535,O Martelo de Vulcano
+tt0380609,P.S.
+tt0380738,Ang TV Movie: The Adarna Adventure
+tt0381111,Crusade in Jeans
+tt0381121,Dance of the Wind
+tt0381361,The Last Sign
+tt0381668,Tropical Malady
+tt0381723,Mixed-Up Hong Kil-dong
+tt0381953,The City of Nine Gates
+tt0381958,Co-Incidence
+tt0382023,Extranghero
+tt0382289,A Step from the Roof
+tt0382295,Seven Dwarves
+tt0382349,Les trois offrandes
+tt0382680,Expiration
+tt0382912,Pluk van de Petteflet
+tt0382979,Sirens of the 23rd Century
+tt0383001,Tainá 2: A Aventura Continua
+tt0383041,About the Looking for and the Finding of Love
+tt0383222,BloodRayne
+tt0383331,Dvenadtsat mesyatsev
+tt0383543,Onmyoji 2
+tt0383574,Pirates of the Caribbean: Dead Man's Chest
+tt0383679,Los tres animales
+tt0383709,Vozvrashchenie Bagdadskogo Vora
+tt0383720,Xin A Li Ba Ba
+tt0384057,The Dream-Quest of Unknown Kadath
+tt0384321,Maskeli Seytan
+tt0384556,Spook
+tt0384853,Blusang itim
+tt0384864,Buhawi Jack
+tt0385115,Nangman jagaek
+tt0385560,Boo
+tt0385752,The Golden Compass
+tt0385791,Jam Films
+tt0386130,Yomigaeri
+tt0386327,Bibi Blocksberg and the Secret of Blue Owls
+tt0387154,Danila Prepeleac
+tt0387310,Ivan Turbinca
+tt0387332,Kamakalawa
+tt0387503,Plemennikat chuzhdenetz
+tt0387693,Womb Raider
+tt0387823,Real Life
+tt0388356,Páginas del diario de José Martí
+tt0388544,Woodenhead
+tt0388703,Alma mater
+tt0388891,Divoké pivo
+tt0389860,Click
+tt0390170,Demonic Beauty
+tt0390309,Nos stars
+tt0390602,Vikramarka Vijayam
+tt0391044,Dark Heaven
+tt0392023,Gagamboy
+tt0392318,Minik cadi
+tt0392380,Magyosnitzi
+tt0392395,"Malkocoglu, the Wolf Master"
+tt0392746,Saraylar melegi
+tt0392761,Sehzade Sinbad kaf daginda
+tt0392816,Super Salami
+tt0392818,The Return of Superman
+tt0392854,Tolga
+tt0392883,Valley of Flowers
+tt0393685,Santa's Slay
+tt0393735,The Shaggy Dog
+tt0395519,Doodh Ka Karz
+tt0395558,Ghosts of Hamilton Street
+tt0395757,Semurg
+tt0395947,"Boo, Zino & the Snurks"
+tt0395991,Sound of Colors
+tt0396041,Gory Gory Hallelujah
+tt0396171,Perfume: The Story of a Murderer
+tt0396592,Fat Albert
+tt0396707,The Secret of Moonacre
+tt0396752,Nanny McPhee
+tt0397044,Blood and Chocolate
+tt0397078,Just My Luck
+tt0397386,Dead Cool
+tt0397536,The Miles Ahead
+tt0397582,Obaba
+tt0398563,Sky High
+tt0398808,Bridge to Terabithia
+tt0399102,Godzilla: Final Wars
+tt0399510,The Precipice
+tt0401516,Dancing in Twilight
+tt0401815,Tamara
+tt0401855,Underworld: Evolution
+tt0402153,Iron Jack
+tt0402294,Iznogoud- Caliph Instead of the Caliph
+tt0402352,Machete: Istatwang buhay
+tt0402454,Puto
+tt0402899,Tu te lo pierdes
+tt0403358,Night Watch
+tt0403390,Oskar & Josefine
+tt0403407,Perfect Creature
+tt0403990,Doppelganger
+tt0404445,Sommer der Liebe
+tt0404469,Summer Seductions
+tt0404745,After the Apocalypse
+tt0405023,Dazzling
+tt0405061,The Eye 2
+tt0405343,A Ghost at the Gateway to Time
+tt0405479,Child of Peach
+tt0405481,YMO Propaganda
+tt0405756,Body Confusion
+tt0406535,Apple
+tt0406692,Dark
+tt0406733,El segundo
+tt0407805,Freonový duch
+tt0408253,Tears of Kali
+tt0409904,Day Watch
+tt0410297,The Lake House
+tt0410478,Progulka po eshafotu
+tt0410603,Sidekick
+tt0410648,Soul Searcher
+tt0410764,Tideland
+tt0411267,The Dark
+tt0411455,The Gate of Destiny
+tt0411477,Hellboy II: The Golden Army
+tt0411618,Macbeth
+tt0411759,Planet Ibsen
+tt0412538,The Gospel According to God
+tt0412540,The Burning Hell
+tt0412751,Little Fruit from the Equator
+tt0413099,Evan Almighty
+tt0413172,Puritan
+tt0413323,Subway Cafe
+tt0413893,Cha no aji
+tt0414036,Game Box 1.0
+tt0414040,Gayab
+tt0414135,The Porcelain Doll
+tt0414976,Fated
+tt0415116,Baober in Love
+tt0415160,Minotaur
+tt0415164,Mokus
+tt0415679,Boy Eats Girl
+tt0416071,Ne quittez pas!
+tt0416254,Throg
+tt0416316,Wolfhound
+tt0416966,Mattie Fresno and the Holoflux Universe
+tt0417431,Angulimala
+tt0417453,The Plane
+tt0417610,Asleep in the Sun
+tt0417782,"My Mother, the Mermaid"
+tt0417875,Koreatown
+tt0417976,The Promise
+tt0418004,Neverwas
+tt0419165,The Steam-Driven Adventures of Riverboat Bill
+tt0419963,Mezcal
+tt0420101,A Legendary Love
+tt0420116,A Journey Into Bliss
+tt0420223,Stranger Than Fiction
+tt0421051,Daniel the Wizard
+tt0421715,The Curious Case of Benjamin Button
+tt0422151,Dyesebel
+tt0422429,Homoti
+tt0422946,Petrang kabayo 2: Anong ganda mo! Mukha kang kabayo
+tt0423034,Rampo Noir
+tt0423441,The Lost Domain
+tt0424068,Engkanto
+tt0425090,The Seventh Sense
+tt0425123,Just Like Heaven
+tt0425648,Whitepaddy
+tt0425661,The Great Yokai War
+tt0426906,Apocalypse and the Beauty Queen
+tt0427382,Inday Bote
+tt0427580,Mécanix
+tt0429078,Seven Swords
+tt0429591,Aquamarine
+tt0429766,Cheshmane John Malkovich 1: Viggo Mortensen
+tt0430582,Shaitan's Warrior
+tt0430651,Survive Style 5+
+tt0430957,Cross-Eyed Waltz
+tt0431265,Metamorphosis
+tt0431372,Der Ruf der Sibylla
+tt0431670,Cabeza de pescado
+tt0431785,Giulia
+tt0433626,The Ritual
+tt0434179,Marebito
+tt0434541,Macbeth
+tt0435670,The Invisible
+tt0435687,The League of Gentlemen's Apocalypse
+tt0436099,The Barn
+tt0436232,The Devil's Courthouse
+tt0436370,Gruesome School Trip
+tt0437059,Adán y Eva (Todavía)
+tt0437468,Sangkuriang
+tt0437538,Las vueltas del citrillo
+tt0438882,Jenifa
+tt0439182,Four Eyed Monsters
+tt0439659,Kraftverk 3714
+tt0440581,Leyendas de amor y muerte
+tt0441022,The Dead One
+tt0441674,Princess Raccoon
+tt0441751,Dear Mr. Cash
+tt0441796,Stay Alive
+tt0442268,Be with You
+tt0442533,Tukso layuan mo ako!
+tt0442940,The Face You Deserve
+tt0442976,Embrujo de rock
+tt0443012,O Gato de Botas Extraterrestre
+tt0443232,The Book of the Dead
+tt0443310,Ah Aah: Anbe Aaruyire
+tt0443455,Brand Upon the Brain!
+tt0443543,The Illusionist
+tt0443567,Left Behind III: World at War
+tt0443734,A Christmas Carol
+tt0443737,Death Trance
+tt0444778,Citizen Dog
+tt0445009,The Eternal Present
+tt0445282,Hex vs. Witchcraft
+tt0445689,Mat the Cat
+tt0445922,Across the Universe
+tt0445960,Eréndira la indomable
+tt0446029,Scott Pilgrim vs. the World
+tt0446463,The Secret
+tt0446476,Storm
+tt0446685,Drawing Restraint 9
+tt0447257,Little John
+tt0447383,Ruudi
+tt0448017,"Let Us Go and Burn Her Body; or, the Devil Done Let Out"
+tt0448157,Hancock
+tt0449011,A Christmoose Carol
+tt0449088,Pirates of the Caribbean: At World's End
+tt0449514,"Folies passagères, contes trash et sournois"
+tt0449604,Jesus the Curry King
+tt0449671,The Living and the Dead
+tt0450269,GamerZ
+tt0450385,1408
+tt0450405,Cirque du Freak: The Vampire's Assistant
+tt0451097,The Land of College Prophets
+tt0451759,Historias del desencanto
+tt0451769,Imaginum
+tt0451829,Funky Forest: The First Contact
+tt0451850,Paheli
+tt0452130,Amon Saga
+tt0452637,Lady in the Water
+tt0452694,The Time Traveler's Wife
+tt0453091,The Enchanting Ghost
+tt0453375,Captain Nemo
+tt0454065,The Aerial
+tt0454199,The Bullet Wives
+tt0454515,The Noah
+tt0455445,Du gui zong dong yuan
+tt0455918,The Bracelet of Bordeaux
+tt0456549,Mr Ya Miss
+tt0456627,"Reigo, the Deep-Sea Monster vs. the Battleship Yamato"
+tt0457419,Mr. Magorium's Wonder Emporium
+tt0457430,Pan's Labyrinth
+tt0457513,Scoop
+tt0457920,Goopy Bagha Phire Elo
+tt0458227,Hatsujô kateikyôshi: Sensei no aijiru
+tt0459127,Secondary Effects
+tt0459744,Ashura-jô no hitomi
+tt0460780,In the Name of the King: A Dungeon Siege Tale
+tt0460791,The Fall
+tt0460829,Inland Empire
+tt0460838,Judges
+tt0461230,Promise Me Not
+tt0461612,Arch Angels
+tt0461642,7 Dwarves: The Forest Is Not Enough
+tt0461703,Skinwalkers
+tt0461934,The Divine Emerald
+tt0461994,Mengaloth
+tt0462219,Camille
+tt0462246,Darkon
+tt0462449,Neptune
+tt0462478,Pizza Girl
+tt0462591,Urchin
+tt0463352,Me Two
+tt0463970,A Dream of Color in Black and White
+tt0465109,L'éclaireur
+tt0465643,Time of Her Life
+tt0465676,The Banquet
+tt0466043,Khottabych
+tt0466111,Rosa mistica
+tt0466145,Super Mouse and the Roborats
+tt0466909,The Omen
+tt0467116,The Valley of Tears
+tt0467128,Wallonie 2084
+tt0467817,Gilles
+tt0468693,Chulsoo & Younghee
+tt0468879,Sodom the Killer
+tt0468975,Yaji and Kita: The Midnight Pilgrims
+tt0469081,For Heaven's Sake
+tt0469640,Bathory: Countess of Blood
+tt0469682,Üç kral serseri
+tt0469694,Saturday Morning
+tt0470000,Wicked Little Things
+tt0470124,Garuda
+tt0470130,Necromancer
+tt0470132,Werewolf Warrior
+tt0470263,Bug Me Not!
+tt0470402,Sars Wars
+tt0470521,Saawan... The Love Season
+tt0470745,Empress Chung
+tt0471032,Sea of Dust
+tt0471765,"God's Left Hand, Devil's Right Hand"
+tt0471871,The Hungry Snake Woman
+tt0472160,Penelope
+tt0472479,A Dog's Dream
+tt0473075,Prince of Persia: The Sands of Time
+tt0473363,Gretchen
+tt0473671,Manô
+tt0473715,Unna ja Nuuk
+tt0473753,Angel-A
+tt0474545,Anak ng demonyo
+tt0474865,A Lobster Tale
+tt0474949,Ta-Kien
+tt0475100,Maija and Paija
+tt0475271,Fetching Cody
+tt0475330,Love and Mary
+tt0475659,Mia Sarah
+tt0475723,Shinobi: Heart Under Blade
+tt0475944,The Covenant
+tt0476359,Stray Cats
+tt0476541,Exes
+tt0476550,God Tussi Great Ho
+tt0476580,The Champion
+tt0476991,Were the World Mine
+tt0477071,Premonition
+tt0477139,Wristcutters: A Love Story
+tt0477404,Through the Forest
+tt0477640,1st Bite
+tt0477988,Jean-Philippe
+tt0478044,Takeshis'
+tt0478188,King of the Lost World
+tt0478265,Small Town Folk
+tt0478394,The Substitute
+tt0478660,El horror de la dama del lago
+tt0479042,G.I. Jesus
+tt0479074,The Inner Life of Martin Frost
+tt0479091,Love & Plutonium
+tt0479546,Super Inday and the Golden Bibe
+tt0479660,Exodus: Tales from the Enchanted Kingdom
+tt0479722,Mulawin: The Movie
+tt0479974,Passage to Zarahemla
+tt0481001,Under a Shipwrecked Moon
+tt0481398,The 4th Life
+tt0481797,Youth Without Youth
+tt0482364,Kamen Rider Ryuki: Episode Final
+tt0482495,Doll Graveyard
+tt0482527,It's a Boy Girl Thing
+tt0482925,De profundis
+tt0482930,Dragon Tiger Gate
+tt0483541,"1888, el extraordinario viaje de la Santa Isabel"
+tt0484010,Yamajaathakudu
+tt0484111,The Good Night
+tt0484881,Puffball: The Devil's Eyeball
+tt0485947,Mr. Nobody
+tt0486576,Fantastic Four: Rise of the Silver Surfer
+tt0486583,Fred Claus
+tt0486609,Kriegerherzen
+tt0486617,The Horror of H.P. Lovecraft
+tt0486655,Stardust
+tt0487011,Anandabhadram
+tt0487897,Dreamer
+tt0488338,The Tiger Blade
+tt0488712,The Big One
+tt0488962,Big Bad Wolf
+tt0489210,Little Hercules in 3-D
+tt0489235,My Name Is Bruce
+tt0489399,Petrang kabayo at ang pilyang kuting
+tt0489451,Canned Beauties
+tt0490080,Guantanamero
+tt0490447,Makoto
+tt0490931,Les filles de Malemort
+tt0491020,The Belly of the Bee
+tt0492330,Poltergay
+tt0492348,Nokta ile Virgül: Saskin Milyonerler
+tt0493107,An Angel of the Lord
+tt0493409,Devil's Den
+tt0494032,Boi Aruá
+tt0494206,Attack of the Gryphon
+tt0494238,Inkheart
+tt0495596,Tales from Earthsea
+tt0495626,In the Name of the Tiger
+tt0496408,That Beautiful Somewhere
+tt0496436,White Noise 2: The Light
+tt0497143,Tonyong Bayawak
+tt0497876,"Big Bang Love, Juvenile A"
+tt0497972,Sex and Death 101
+tt0498311,Re-cycle
+tt0498397,Two Front Teeth
+tt0499261,The Sword of Alexander
+tt0499318,Cuando el cielo es azul
+tt0499525,"McDull, the Alumni"
+tt0499549,Avatar
+tt0499570,Slipstream
+tt0756222,Art of the Devil 2
+tt0756238,Ocean Butterfly
+tt0756258,Werewolf in Bangkok
+tt0756281,33X Around the Sun
+tt0756683,The Man from Earth
+tt0757378,My Kung Fu Sweetheart
+tt0758742,Death Note
+tt0760329,The Water Horse
+tt0762073,Thirst
+tt0762131,Scarlet Moon
+tt0765465,The Legend of Secret Pass
+tt0768137,The Shoe Fairy
+tt0768187,Me and My Umbrella
+tt0769507,The Sun Also Rises
+tt0770778,King of the Avenue
+tt0772176,Christmas Story
+tt0772181,Krabat
+tt0775461,The Rain Fairy
+tt0775480,Hellphone
+tt0775489,The Illusionist
+tt0777829,Without Words
+tt0778021,Route 225
+tt0780030,Dark Side Romance
+tt0780116,Vengeance
+tt0780461,The 4th Dimension
+tt0780503,Dororo
+tt0780622,Teeth
+tt0780653,The Wolfman
+tt0782063,Moments of Love
+tt0782075,Randevú
+tt0784152,Más que a nada en el mundo
+tt0784806,Abrakadabra
+tt0785007,Over Her Dead Body
+tt0787495,Netherbeast Incorporated
+tt0790799,$9.99
+tt0792948,The Exterminating Angels
+tt0793607,Once Upon a Time
+tt0795500,Volume 2
+tt0799949,Epic Movie
+tt0800320,Clash of the Titans
+tt0803019,Kibakichi: Bakko-yokaiden 2
+tt0804466,The Dork of the Rings
+tt0805526,Facing the Giants
+tt0805605,Seinto Seiya: Tenkai-hen joso - Overture
+tt0805640,Vacuum Killer
+tt0806027,Blood: The Last Vampire
+tt0808138,Inside the Twin Towers
+tt0808185,The Bothersome Man
+tt0808230,Les deux mondes
+tt0808265,The Ferryman
+tt0808510,Tooth Fairy
+tt0810364,A Belly Full of Dreams
+tt0810806,Coming Soon
+tt0810988,The Nines
+tt0813540,Naksha
+tt0813996,Different
+tt0814131,Hank and Mike
+tt0814255,Percy Jackson & the Olympians: The Lightning Thief
+tt0815178,The Life Before Her Eyes
+tt0815245,The Uninvited
+tt0816192,Behind the Clouds
+tt0819953,Days of Darkness
+tt0820872,Drifter
+tt0821640,Ghosts of Girlfriends Past
+tt0821765,Domrol
+tt0824323,Osobennyy
+tt0824700,Raccontami una storia
+tt0825279,20 Years After
+tt0826175,The Last Love Song on This Little Planet
+tt0826570,Catcher: Cat City 2
+tt0827498,Blood Tea and Red String
+tt0828115,Tripping
+tt0828120,Angel
+tt0828420,The Lords of Praxton
+tt0831887,The Spirit
+tt0834001,Underworld: Rise of the Lycans
+tt0835514,Nebyt dnesni
+tt0840046,Dorks & Damsels
+tt0841032,The Perfect Holiday
+tt0843998,A Real Pirate
+tt0844012,The Lost Princess
+tt0844025,Still Small Voices
+tt0845474,Küçük Kiyamet
+tt0847567,Jenseits
+tt0848310,Guardianes de la dimensión prohibida
+tt0848557,Diary of the Dead
+tt0850284,Gomeda
+tt0851578,Paprika
+tt0852548,Eqvsi da shvidi
+tt0852726,Nightmare Detective
+tt0853267,Vampire Diary
+tt0857376,Gabriel
+tt0857381,I See You
+tt0858436,Dragon
+tt0859163,The Mummy: Tomb of the Dragon Emperor
+tt0862946,Mushi-Shi: The Movie
+tt0862966,The Three Trials
+tt0865556,The Forbidden Kingdom
+tt0867252,Balak Dhruv
+tt0870921,His Majesty Minor
+tt0871971,Atagoal: Cat's Magical Forest
+tt0871989,Hanada Shonenshi the Movie: Spirits and the Secret Tunnel
+tt0872027,Tsubakiyama kachô no nanoka-kan
+tt0872236,Year of the Fish
+tt0875003,Day of the Angel
+tt0876159,One Eye Red
+tt0877717,Super Noypi
+tt0879812,Kitaro
+tt0880504,Alive
+tt0881252,Franklin and the Turtle Lake Treasure
+tt0882824,Holy Daddy
+tt0884192,Silver Mask
+tt0884819,Wool 100%
+tt0884853,Black Gruya and the Stone of Wisdom
+tt0885531,Do Over
+tt0887259,Guadalupe: El Milagro Y El Mensaje
+tt0891496,The Fox Family
+tt0892422,Extended Play
+tt0893402,Franklyn
+tt0895774,A Ilha do Terrível Rapaterra
+tt0896815,Missing
+tt0897413,Bhoot Unkle
+tt0898319,Just Follow Law
+tt0899224,Ten Nights of Dreams
+tt0902254,Anplagghed al cinema
+tt0904111,Chui-si zao-wu ai-ge
+tt0910853,Circle's Short Circuit
+tt0918628,Fishtales
+tt0918630,Magus
+tt0922366,Snow White: The Sequel
+tt0924317,Yamadonga
+tt0926036,Around June
+tt0926084,Harry Potter and the Deathly Hallows: Part 1
+tt0926151,Mummys Island
+tt0932922,Alice
+tt0933033,O Homem Que Desafiou o Diabo
+tt0934964,Sum seung si sing
+tt0938281,The Adventures of Super Monkey
+tt0938347,Virus Undead
+tt0940597,Kapital
+tt0940662,Native Dancer
+tt0940765,On the Count of Zero
+tt0940779,Swethanagu
+tt0944119,Salamamgkero
+tt0944240,The Haunted Samurai
+tt0945580,Odysseus: Voyage to the Underworld
+tt0946998,Dead Time
+tt0953382,Trouble at Timpetill
+tt0954329,Ekipo Ja
+tt0954544,A Heavenly Vintage
+tt0956341,Gwyncilla: Legend of Dark Ages
+tt0960066,The Black Waters of Echo's Pond
+tt0961721,Butterfly Dreaming
+tt0962762,Genius Party
+tt0969746,La sangre iluminada
+tt0970411,City of Ember
+tt0970452,Solomon Kane
+tt0970453,Spike
+tt0970519,Imagination
+tt0970948,Monster Camp
+tt0970955,The Reason
+tt0970961,Spartakiada. Lokalnoe poteplenie
+tt0974661,17 Again
+tt0976060,Tokyo!
+tt0976209,Lyubov-Morkov
+tt0976212,Pink
+tt0977203,Doctor Infierno
+tt0980970,The Chronicles of Narnia: The Voyage of the Dawn Treader
+tt0981032,Kisshô Tennyo
+tt0981224,Midnight Movie
+tt0981352,The Messenger
+tt0984069,The Midnight Drives
+tt0985025,Dark Floors
+tt0988140,The Superhero
+tt0989760,Suspension
+tt0991010,Mad Warrior
+tt0995039,Ghost Town
+tt0995747,Mermaid
+tt0997035,Bibliothèque Pascal
+tt0997240,Chudesa v Reshetove
+tt0999922,Ultraman Mebius and Ultra Brothers
+tt1000768,Pilgrim's Progress
+tt1002567,Hansel and Gretel
+tt1003009,Legend Quest: The Legend of La Nahuala
+tt1003025,Under the Snow
+tt1006929,The Other Side of the Tracks
+tt1010295,Alice
+tt1014759,Alice in Wonderland
+tt1018943,The Third Pint
+tt1019971,Sóley
+tt1020874,Circulation
+tt1020885,Vampire Killers
+tt10224614,Tuo gu gui jian lang yan
+tt1023344,Outrage: Born in Terror
+tt1031241,From Time to Time
+tt1031540,Ajian Ratu Laut Kidul
+tt1032751,The Warrior's Way
+tt1032764,"Love, Pain and Vice Versa"
+tt1033483,Kandisha
+tt1034036,The Importance of Being Russell
+tt1035462,How Clarence Became Truly Normal
+tt1037811,La nuit des horloges
+tt1038686,Legion
+tt1039892,Naraka 19
+tt1041804,The Nutcracker: The Untold Story
+tt1046198,Ya ostayus
+tt1046952,Love Is Cinta
+tt1047490,Lo
+tt1047877,Resiklo
+tt1049948,Casi divas
+tt1053837,The Elimination Pursuit
+tt1054472,The Eight Immortals
+tt1054606,The Imaginarium of Doctor Parnassus
+tt1055300,Painted Skin
+tt1055363,The Dead Matter
+tt1058017,The Invention of Lying
+tt1059233,The Strength of Water
+tt1059773,The Adventures of Food Boy
+tt1060249,The Legend of Drona
+tt1065099,My Friend Ganesha
+tt1065308,Nightcast
+tt1067069,Dead Moon Rising
+tt1067086,Sweet Rain: Accuracy of Death
+tt1068672,The Third Part of the World
+tt1070829,Nochnoy bazar
+tt1071804,Ink
+tt1073098,Star Troopers
+tt1073498,Meet the Spartans
+tt1073549,Prince and Me and You
+tt1074945,Captain Barbell
+tt1075747,Jonah Hex
+tt1076797,Djinn
+tt1077091,Musallat
+tt1077274,"Yobi, the Five Tailed Fox"
+tt1079372,Midnight Chronicles
+tt1079987,Whisper Island
+tt1085779,The Hole
+tt1086835,Have You Another Apple?
+tt1087860,Little King Macius
+tt1090246,Uncle's Paradise
+tt1092011,Kutsal Damacana
+tt1092081,Le opere e i giorni
+tt1093394,The Vampire Combat
+tt1095227,Shin onna tachiguishi retsuden
+tt1096971,"Zoom, Zoom, Superman!"
+tt1096997,The Pagan Queen
+tt1097004,Justice Be Damned
+tt1098327,Dragonball Evolution
+tt1099212,Twilight
+tt1102232,Hoboot
+tt1102308,Pulijanmam
+tt1114702,A Yeti in the City
+tt1116815,Rachel's Angels
+tt1117636,Strigoi
+tt1124374,Gnomes & Trolls: The Secret Chamber
+tt1125300,Defective Man!
+tt1127877,Cold Souls
+tt1130984,Cinéman
+tt1132135,Asylum Seekers
+tt1132588,Gooby
+tt1133594,Shaolin Girl
+tt1137434,Aabra Ka Daabra
+tt1139574,Behtarin baba-ye donya
+tt1139641,Tokyo Girl
+tt1139797,Let the Right One In
+tt1143100,The Wall-Passer
+tt1143913,SpaceDisco One
+tt1144809,Orochi - Blood
+tt1145901,Helden sterben anders
+tt1149199,Aga Bai Arecha
+tt1149610,La Virgen Negra
+tt1151384,"Otto; or, Up with Dead People"
+tt1152404,"X-mas, Inc."
+tt1152751,Bergola Ijo
+tt1153085,Semum
+tt1155613,"Hello, I'm the Cat"
+tt1155705,20th Century Boys 1: Beginning of the End
+tt1160524,Naruto Shippuden: The Movie - Bonds
+tt1161646,Gingerdead Man 2: Passion of the Crust
+tt1165253,Dream
+tt1169147,Kitaro and the Millennium Curse
+tt1170400,Kids
+tt1172065,Zombie Farm
+tt1172203,Sita Sings the Blues
+tt1172525,Na Cha and the Seven Devils
+tt1172550,Zombies from Banana Village
+tt1176442,Nejkrásnejsí hádanka
+tt1180337,Fongaluli
+tt1181919,20th Century Boys 3: Redemption
+tt1181920,20th Century Boys 2: The Last Hope
+tt1181934,Speakerman: The Boo
+tt1185264,Freakdog
+tt1185266,Stan Helsing
+tt1186371,The Storm Warriors
+tt1187064,Triangle
+tt1189076,Ricky
+tt1190556,Opapatika
+tt1190617,Big Fat Important Movie
+tt1190910,The Beacon
+tt1191111,Enter the Void
+tt1194232,Jaane Kahan Se Aayi Hai
+tt1194618,Moomin and Midsummer Madness
+tt1194653,Batwoman and Robin
+tt1198351,r3tual
+tt1201649,Reiki
+tt1206087,Star Trek: Operation Beta Shield
+tt1206285,Camino
+tt1209371,Invisible Eyes
+tt1210028,Atlihan
+tt12118230,Malam Satu Suro
+tt1212415,Peer Gynt from the Streets
+tt1212419,Hereafter
+tt1212985,See Dick Run
+tt1213647,Het leven uit een dag
+tt1220214,Heartless
+tt12206548,Super Rider Against the Devils
+tt1223416,Temptation
+tt1225874,Bhagwan Shri Krishna
+tt1228987,Let Me In
+tt1230164,Return of the Ghostbusters
+tt1233253,Brighton Wok: The Legend of Ganja Boxing
+tt1235124,Dorian Gray
+tt1235552,À l'aventure
+tt1242545,Looking for Eric
+tt12432676,Scrooge
+tt1245468,Dayo
+tt1245647,22nd of May
+tt1246587,Indigo
+tt1247696,The Temptation of St. Tony
+tt1248882,The Warrior Didi and the Ninja Lili
+tt1252602,The Invisible Woman
+tt1253580,Kashf: The Lifting of the Veil
+tt1253859,Road to Hell
+tt1254272,Ghost Under the Cold Moonlight
+tt1258922,Better the Devil You Know
+tt1258935,Dreams and Shadows
+tt1259198,The Baby Formula
+tt1259571,The Twilight Saga: New Moon
+tt1262406,Fading of the Cries
+tt1262945,The Tsunami Warrior
+tt1262984,Cirque du Soleil: Delirium
+tt1264881,"Ulybka Boga, ili Chisto odesskaya istoriya"
+tt1266037,Quartier lointain
+tt1266116,Vault of Darkness
+tt1267828,Bloom
+tt1268809,Night of the Demons
+tt1270761,Don't Be Afraid of the Dark
+tt1274300,The Tempest
+tt1275521,Babine
+tt1275861,Under the Mountain
+tt1278035,El desván de la fantasía
+tt1278340,Dead Snow
+tt1278381,Je ne suis pas morte
+tt1279118,Valentino y el clan del can
+tt1282143,Noémie: Le secret
+tt1282153,The Strange Case of Angelica
+tt1283926,My Friend Ganesha 2
+tt1284485,Make-Out with Violence
+tt1285118,Kamen Rider Kiva: King of the Castle in the Demon World
+tt1285131,Pandurangadu
+tt1285313,SuperBrother
+tt1286126,A.R.O.G
+tt1286766,Fatso!
+tt1287326,The Crusaders #357: Experiment in Evil!
+tt1287876,The Echo Game
+tt1288411,You Are Here
+tt1288641,Between the Sheets
+tt1288644,Mere Khwabon Mein Jo Aaye
+tt1289802,Orz Boyz
+tt1290099,Ninjas vs. Zombies
+tt1290472,Dragon Hunter
+tt1291055,Digimon Adventure 02: Hurricane Touchdown!! The Golden Digimentals
+tt1291107,The Green Fire
+tt1293793,Kniga masterov
+tt1295059,Eep!
+tt1297389,Günesin Oglu
+tt1301303,Born of Hope
+tt1301710,Humanimal
+tt1303743,In the Drink
+tt1303814,"Turning Point, Graf Zeppelin"
+tt1303902,Someone's Knocking at the Door
+tt1305766,Bloodborn
+tt1305865,Cat Girl Kiki
+tt1308967,Limbo
+tt1309181,Lovelorn
+tt13097242,O Mundo de Anônimo Júnior
+tt1313130,The Clone Returns Home
+tt1313257,Seeking Wellness: Suffering Through Four Movements
+tt1314239,Eraser Children
+tt1314843,Shake Rattle & Roll X
+tt1315388,Machotaildrop
+tt1316088,The Way of Snow
+tt1316408,Bullet for Breakfast
+tt13168284,Memoirs of a Lady Ninja
+tt1318934,O zivot
+tt1319553,1 and 0 nly
+tt1319716,It's a Wonderful Afterlife
+tt1322938,Words & Sins
+tt1323019,Zayy el-Nahardah
+tt1323573,The Enchanted
+tt1324898,Sindrome de Pinocchio
+tt1325614,Utopia
+tt1326218,Finale
+tt1326957,Out of the Fog
+tt1326984,Heibon ponchi
+tt1328865,The Treasure Hunter
+tt1328911,Limbo Lounge
+tt1329328,The Chemical King
+tt1330053,The Adventure of Sudsakorn
+tt1331105,The Longest Night
+tt1332097,Amma Nagamma
+tt1332516,Spirit Are You There?
+tt1332675,Fantasma de Buenos Aires
+tt1336006,The Revenant
+tt1337466,The Code: Legend of the Gamers
+tt1337566,Wake-Up Callz
+tt1337599,Consuming Kids: The Commercialization of Childhood
+tt1338704,Where Seagulls Cry a Song
+tt1339065,The Chosen One
+tt1339163,Scars of Youth
+tt1339195,Welcome to Reality
+tt1339307,Hellbinders
+tt1339687,L'uomo fiammifero
+tt1340689,Very Little Time
+tt1341166,FilmeFobia
+tt1342403,Toys in the Attic
+tt1342411,It Is Hell with the Princess
+tt1344737,Mud
+tt1345782,Timetrip: The Curse of the Viking Witch
+tt1346276,Kid from Kwang Tung
+tt1347280,Pendragon: Sword of His Father
+tt1351189,Miles Away
+tt1352361,Cigarette Girl
+tt1352765,Surviving Life
+tt1355623,Bluebeard
+tt1357414,Halfway to Heaven
+tt1379057,Burn Paris Burn
+tt1382720,Fuchsia the Mini-Witch
+tt1383711,Tales of the Valley of the Wind
+tt1384961,Godkiller: Walk Among Us
+tt1385680,Warrior's End
+tt1386956,The Railway
+tt1388903,Mirch
+tt1389533,Narada Vijaya
+tt1391092,Marwencol
+tt1396221,Passion Play
+tt1399017,Friend
+tt1401126,Jai Jagannath
+tt1401143,Rare Exports
+tt1401580,Ditching
+tt1403210,Orgy of the Damned
+tt1404086,Topoi
+tt1405403,T2
+tt1406166,Legenda o Lietajúcom Cypriánovi
+tt14091016,Kindari Jogi
+tt1409139,The Young Visiters
+tt1410044,Whore Angels
+tt1410261,Symbol
+tt1410295,Beauty and the Beast
+tt1413220,R.P.G.
+tt1414840,Lyubov 2 Morkov
+tt1415283,Nanny McPhee Returns
+tt1420558,Melancholie der Engel
+tt1422674,Ju-on: Black Ghost
+tt1422675,Ju-on: White Ghost
+tt1423469,W the Movie
+tt1424366,Nymph
+tt1425933,Skeletons
+tt1432168,Adventures of Little Herbert in Mushroom Land
+tt1433189,Steel of Fire Warriors 2010 A.D.
+tt1433331,Psychotropica
+tt1433775,Garoojigi
+tt1437212,The Shadowless
+tt1438254,Charlie St. Cloud
+tt1438462,Magic Silver
+tt1439532,Gladiator Games
+tt1443564,Tarot
+tt1444331,The Incubus
+tt1444696,Nancy Barry's Big Case
+tt1447500,Magadheera
+tt1447783,Ee Pattanathil Bhootham
+tt1449216,Mani Nageswari
+tt1451620,Written By
+tt1454111,Jai Sriram
+tt1454462,Stigmata
+tt1454592,End
+tt1459055,Rusichi
+tt1462506,Identity Theft
+tt1465493,Hum Tum Aur Ghost
+tt1467065,Shakti Leelai
+tt1467299,Blade of the Phantom Master
+tt1467385,Happily Ever After
+tt1467388,Astral City: A Spiritual Journey
+tt1468387,What If...
+tt1470822,Frankenpimp
+tt1470849,Cheeta-eh: Ganda lalake?
+tt1473336,Asylum Session
+tt1475099,Antisex
+tt1475178,The Man on the Golden Horse
+tt1476252,Kamen Rider Decade: All Riders vs. Dai-Shocker
+tt1477652,A Reading of Tristan & Isolde
+tt1478875,Zapping-Alien@Mozart-Balls
+tt1481363,Naruto Shippûden: The Movie 3: Inheritors of the Will of Fire
+tt1482889,Jim
+tt1482941,The Lowborn
+tt1483748,Bloodspell
+tt1486650,Dr. Otto Dekein's Original Design
+tt1487861,Eternal Beloved
+tt1488060,Rocaterrania
+tt1488593,Shake Rattle & Roll XI
+tt1490539,Archon Defender
+tt1492850,Kamen Rider Hibiki & the Seven Fighting Demons
+tt1492988,Mayhem
+tt1493027,New Type: Tada ai no tame ni
+tt1493876,The Play-Station Killed the Puppet
+tt1494799,Mirages
+tt1494812,Strayed
+tt1499194,Abaron
+tt1499303,Raising Kayn
+tt1500906,Vampires
+tt1501652,Dead Awake
+tt1505833,Básicamente un pozo
+tt1509170,For the End of Time
+tt1510274,Lyubov v bolshom gorode 2
+tt1510929,Prototype
+tt1512119,Wishes
+tt1512322,Winterland
+tt1512735,Cabeza de buda
+tt1514051,Taste of Centuries III: Dark Legend
+tt1519313,Gelezine princese
+tt1520474,Strangers in a Strange Land: 50 Greek Mystery & Fantastic Movies
+tt1521724,City of God's Son
+tt1521846,Phobia 2
+tt1521858,A Span of Heaven
+tt1523479,Me and Marilyn
+tt1527772,The Dreadnaughts
+tt1531007,Shadow Falls Memorial
+tt1531642,Charles Beaumont: the Short Life of Twilight Zone's Magic Man
+tt1533795,The Magic Tree
+tt1534072,Something Missie in the Life of Jordan Bank
+tt1534332,Welcome Back Pinocchio
+tt1537725,Brainscan: Aku dan topi ajaib
+tt1538210,Aao Wish Karein
+tt1538404,The Museum of Wonders
+tt1538864,Moon Lake
+tt1540093,Wanderlost
+tt1542930,Our Brief Eternity
+tt1545322,Sodium Babies
+tt1545976,Angel John
+tt1546401,Ironhorse
+tt1546649,Book Girl
+tt1549779,Embargo
+tt1554970,Garo the Movie: Red Requiem
+tt1555367,The Temptations of Brother Sebastian
+tt1556175,Kamen Rider Movie War 2010: Kamen Rider vs. Kamen Rider W & Decade
+tt1561412,Coffka
+tt1567448,Yahsi Bati
+tt1568802,As Night Falls
+tt1568836,Ice
+tt1569380,Dungeon of Evil
+tt1570619,Where? Wolf?
+tt1573006,Duhai Si Pari-Pari
+tt1576412,Kwihyang
+tt1577072,The Beast of Bottomless Lake
+tt1578856,Window on Your Present
+tt1582519,Khaleja
+tt1588895,Uncle Boonmee Who Can Recall His Past Lives
+tt1589508,The Nutcracker
+tt1590796,Mutant Girls Squad
+tt1592503,Alien vs. Ninja
+tt1594970,Fox Ghost
+tt1597044,"Mirror, Mirror"
+tt1599378,Yoga Class
+tt1603923,Abbot White
+tt1606283,Mandate: Mission from the Gods
+tt1608208,"Dragon Ball: Son Goku Fights, Son Goku Wins"
+tt1609122,Het geheim
+tt1609946,Table at Luigi's
+tt1611827,Desautorizados
+tt1611845,Frozen
+tt1612045,Sri Anjaneyam
+tt1612143,Just Another Pandora's Box
+tt1612556,The Ancient Dogoo Girl: Special Movie Edition
+tt1612774,Rubber
+tt1620748,"Geeks and Goblins, Elves and Elliot"
+tt1621939,Shards of Glass
+tt1623780,The Legend of the Titanic
+tt1625077,Dead Meadow Three Kings
+tt1629737,Panchakshari
+tt1629741,Tomb Raider Ascension
+tt1630572,Fire Keeper
+tt1634510,There Is No Hope
+tt1634800,Maximum Shame
+tt1640144,Le masque de la Méduse
+tt1645849,Primordial Ties
+tt1647467,The Star of Cottonland
+tt1648095,Here Comes the Bride
+tt1649783,"Second World: Blood, Fire and Smoke"
+tt1655400,Ghost
+tt1655431,Rainbow Magic: Return to Rainspell Island
+tt1657293,Kutty Pisasu
+tt1663956,Wound
+tt1663999,Neverlost
+tt1664001,Novak
+tt1667082,Fudgy Wudgy Fudge Face
+tt1671674,Only Interstellar Pinball Lives Forever
+tt1672765,Hollywood Christ
+tt1674098,Pájaros volando
+tt1677533,Elektronnaya babushka
+tt1677561,Colorful
+tt1679332,"Ultramarines: A Warhammer 40,000 Movie"
+tt1679624,Ming jian feng liu
+tt1683878,Hitokiri II: Road to Destiny
+tt1686635,The Sword and the Rose
+tt1686680,Encounter: Omzion
+tt1688225,The Influence
+tt1688444,Edonism
+tt1690136,Hitokiri
+tt1692504,We Are the Night
+tt1699195,You Fly
+tt1700796,Eeeee Eee Eeee: The Movie
+tt1703076,Honeybee Hutch
+tt1705125,Jules Verne's Mysterious Island
+tt1706446,Don't Look Into the Mirror
+tt1706515,"Tukky, jaoying khaai gop"
+tt1709711,"My Friend, Oscar."
+tt1709714,Naufragio
+tt1712049,The Oracle
+tt1712127,Malice in Wonderland: The Dolls Movie
+tt1718957,Yest ideya!
+tt1720297,Showtime
+tt1723750,City of Darkness
+tt1725620,La isla
+tt1725807,Head Hands Heart
+tt1725895,Embers of the Sky
+tt1728655,Magika
+tt1730140,Summerland
+tt1733465,The Dunwich Horror
+tt1735942,White Whale
+tt1736026,Light
+tt1740707,Trollhunter
+tt1743708,Petrang kabayo
+tt1743914,Beheading Buddha
+tt1744833,Beyond Life
+tt1745766,Mortifera
+tt1746246,Dark World
+tt1746248,The Beast Pageant
+tt1748134,Ninjas vs. Vampires
+tt1753921,Khutorskie strasti
+tt1753939,Idol of Evil
+tt1753975,Jessicka Rabid
+tt1754215,Ferozz: The Wild Red Riding Hood
+tt1754648,The Lamp
+tt1754743,Thomas Mao
+tt1756808,The Godchild
+tt1763261,Motion Sickness
+tt1772989,Nagavalli
+tt1773715,The Aurora Monsters: The Model Craze That Gripped the World
+tt1774286,Ángel caído
+tt1774613,The Headless Family
+tt1782526,Si Agimat at si Enteng Kabisote
+tt1783339,Lotto
+tt1784421,Duyung
+tt1786430,Christmas Ape
+tt1787073,Hantu Kak Limah Balik Rumah
+tt1788390,Kamen Rider Movie War Core: Kamen Rider vs. Kamen Rider OOO & W Featuring Skull
+tt1789902,Shake Rattle and Roll 12
+tt1791524,Hunters of the Kahri
+tt1794725,When Santa Fell to Earth
+tt1794784,End of Animal
+tt1794790,Finisterrae
+tt1798110,Bel Alwan ElTabeaya
+tt1798200,Less
+tt1798204,Life of the Party: Vol. II
+tt1806816,Blood Song
+tt1806896,Eldsjälen
+tt1808324,Myra
+tt1808555,The Legend of Zelda: The Hero of Time
+tt1819752,Near the Mountains
+tt1825022,Helpless Stones
+tt1825735,Dark Metropolis
+tt1827527,Space Pirate Captain Harlock
+tt1830833,The Believer's Heaven
+tt1838495,Damnatus: The Enemy Within
+tt1846449,Life Is Peachy
+tt1853699,The Fear (El Miedo)
+tt1858396,Arai Enn 305-il Kadavul
+tt1869445,The Legend of Giagonan
+tt1869542,London Calling
+tt1872054,Entherance Online
+tt1918917,Little Boy Blue: Tiny Terrestrial
+tt1919169,Tokkaekko
+tt1948043,Huo xing ren
+tt1954244,Artifact
+tt1954372,Death's Apprentice
+tt1954491,Hanaoni
+tt1954641,Lylian True
+tt1961563,The Julian Paradox
+tt1964706,Fighting Angels: Exodus
+tt1971582,Midnight Conjure
+tt1981057,Sameer & Shaheer & Baheer
+tt19892708,Sepasang Iblis Betina
+tt1992236,The Cremaster Cycle
+tt1996455,Zhan shen
+tt2005216,Faust
+tt2006830,Midnight Ballad for Ghost Theater
+tt2010915,Beladingala Baale
+tt2012626,Postman to Heaven
+tt2016857,Ba xian de chuan shuo
+tt2020056,Kamen Rider Blade: Missing Ace
+tt2047682,Bad Girls Behind Bars
+tt2049386,Alice in Wonderland
+tt2049598,Hee Travels
+tt2063683,Isa Musa Meryem
+tt2076338,Soli al fronte
+tt2087689,Astral
+tt2088840,Kiss of the Death
+tt2094197,Xin xi you ji
+tt2111340,Teomineiteowa hyeongsa gompaeng-i
+tt2111385,Popular Unrest
+tt2139913,Kamen Rider 555: Paradise Lost
+tt2145590,Headless Hero
+tt2145821,Nothing Sacred
+tt2147844,Handle Me with Care
+tt2162828,Faust
+tt2174151,Something Wicked This Way Comes
+tt2181912,Sons of Steel - directors cut
+tt2199311,King of Snakes
+tt2205539,La raíz del mal
+tt2210425,1000 Congratulations
+tt2215562,Apollo Zero
+tt2217919,Rustam and Suhrab
+tt2229782,Monkey King with 72 Magic
+tt2234269,Mamnou Fi Laylat El-Dokhla
+tt2241674,Nu gui sheng si lian
+tt2262101,Legend of Rustam
+tt2262103,Legend of Siavush
+tt2265113,11:58
+tt2266829,The Charlatan
+tt2304691,Jala Jala
+tt2343845,Zaltvyksles
+tt2347491,Transformation
+tt2353933,"Deathbone, Third Blood Part VII: The Blood of Deathbone"
+tt2404382,Phra Rot-Meri
+tt2435106,Ceské nebe
+tt2451894,Abhay
+tt2454134,Karamati Coat
+tt2494558,Son of Dracula
+tt2523098,Leuenklinge
+tt2525718,Darken
+tt2553428,The Legend of Zelda: The Sage of Darkness
+tt2572208,The Monkey King Conquers the Demon
+tt2596914,Deadly High Heels
+tt2624346,Mr. X
+tt2637562,Naagmani
+tt2641792,Hing Ting Chot
+tt2657302,Bing feng qi xia
+tt2664456,Oh My Ghosts!
+tt2735328,Tarzan Sundari
+tt2762768,Joomoonjin
+tt2830368,Erotic Agent II
+tt2913050,Yesli eto sluchitsya s toboi
+tt2934972,Xiao Xia Long Juan Feng
+tt2954158,Cool Gel Attacks
+tt2994288,Third Stone from the Sun
+tt3021010,Shui yue shi san dao
+tt3113620,Terrorism Considered as One of the Fine Arts
+tt3126708,The Enemy
+tt3204242,Mam diaw hua liam hua laem
+tt3256288,Petals
+tt3258352,Novyye priklyucheniya Akmalya
+tt3263046,Kraithong
+tt3263056,Tah Tien
+tt3263142,Kraithong 2
+tt3305274,Devil Ivy
+tt3311734,Witchdoctor of the Livingdead
+tt3382346,Where Do You Hide the Sun?
+tt3443476,The Stealth Sex Fiend
+tt3502802,Evidence of a Haunting
+tt3514862,Street Fighter: Round One - Fight!
+tt3549250,Atrapados
+tt3590060,A Clock Work Blue
+tt3742100,Life
+tt3747600,The 1st of November Party: Through the Pages of Fairy Tales
+tt3856142,Clippings
+tt3874756,Saat Bhai Champa
+tt4097880,Siri-Ará - Cinema Figural Brasileiro
+tt4128402,"Fair, then Partly Piggy"
+tt4148300,Sin of an Angel
+tt4164598,Yi shi hao ming
+tt4172500,"2, 1, 0"
+tt4172596,The Madness of Youth
+tt4198200,Fairy Child
+tt4209956,Misery Loves Company
+tt4235406,Jednicky má papousek
+tt4318202,Lion of the Jungle
+tt4857270,"Marinka, Yanka i tayny korolevskogo zamka"
+tt4860716,Yak koval shchastia shukav
+tt4874854,The Legend of Zelda: The Triforce Prophecy
+tt4887608,Lada iz strany berendeev
+tt5116564,Afandj va Azroil
+tt5155176,The Enchanted Mountain
+tt5184692,Yu jian fu mo
+tt5301454,Jadur Bashi
+tt5472786,A Voyage to Arcturus
+tt5473992,Way Bad Stone
+tt5476510,Atlantis
+tt5784522,The Bigmoon Nights
+tt5812178,Beder Meye Josna
+tt5823524,Crocodile Fury
+tt5987124,Legend of the Doll
+tt6244888,Dominus
+tt6274010,The Hen That Laid Golden Eggs
+tt6393474,The Secret of Taran Desert
+tt6612386,Siluman Teluk Gonggo
+tt6722888,Kashem Malar Prem
+tt6755474,Mora
+tt6832032,Laily Majnu
+tt7446444,Ran Kevita
+tt7708960,Santa's Christmas Elf (Named Calvin)
+tt7763324,Amazing Stories
+tt7955976,Maklabas
+tt8350022,Fetwet El Nass El Ghalaba
+tt8465094,Thirteen Cats on the Hot Gabled Roof
+tt8595850,Pancasona
+tt8635166,Nyi Ageng Ratu Pemikat
+tt8636098,Pusaka Penyebar Maut
+tt9556198,Raiga: The Monster from the Deep Sea

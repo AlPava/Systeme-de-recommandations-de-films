@@ -1,0 +1,800 @@
+tconst,primaryTitle
+tt0063846,"Zorro, Rider of Vengeance"
+tt0064150,La sfida dei MacKenna
+tt0064273,And God Said to Cain...
+tt0064633,Awkward Hands
+tt0064649,The McMasters
+tt0065065,A Talent for Loving
+tt0065248,Zorro the Invincible
+tt0065367,Dig Your Grave Friend... Sabata's Coming
+tt0065373,"20,000 dólares por un cadáver"
+tt0065407,The Animals
+tt0065422,"Arizona Colt, Hired Gun"
+tt0065425,Sabata the Killer
+tt0065451,Barquero
+tt0065499,"Have a Nice Funeral on Me, Amigo... Sartana"
+tt0065509,Sartana's Here... Trade Your Pistol for a Coffin
+tt0065520,Cannon for Cordoba
+tt0065547,Chisum
+tt0065550,The Unholy Four
+tt0065560,The Cockeyed Cowboys of Calico County
+tt0065596,"Cry Blood, Apache"
+tt0065620,Deadlock
+tt0065630,El tunco Maclovio
+tt0065638,Stagecoach of the Condemned
+tt0065642,Dirty Dingus Magee
+tt0065646,Django Defies Sartana
+tt0065726,Flap
+tt0065784,Down with Your Hands... You Scum!
+tt0065804,Gold for the Tough Guys of the Prairie
+tt0065890,Inginocchiati straniero... I cadaveri non fanno ombra!
+tt0065943,King of the Grizzlies
+tt0065968,The Last Rebel
+tt0065991,His Name Was Holy Ghost
+tt0065992,Sartana Kills Them All
+tt0066032,Machismo: 40 Graves for 40 Guns
+tt0066033,Macho Callahan
+tt0066034,Madron
+tt0066049,A Man Called Horse
+tt0066050,A Man Called Sledge
+tt0066093,Monte Walsh
+tt0066167,Light the Fuse... Sartana Is Coming
+tt0066188,Chapaqua's Gold
+tt0066210,Coffin Full of Dollars
+tt0066230,Bullets Over Dallas
+tt0066240,Shoot the Living and Pray for the Dead
+tt0066287,Rebels of Arizona
+tt0066295,Reverend's Colt
+tt0066301,Rio Lobo
+tt0066315,Roy Colt & Winchester Jack
+tt0066331,Twenty Paces to Death
+tt0066333,Ballad of Death Valley
+tt0066346,Finders Killers
+tt0066350,"You're Jinxed, Friend You've Met Sacramento"
+tt0066364,Shango
+tt0066390,Soldier Blue
+tt0066448,There Was a Crooked Man...
+tt0066485,The Traveling Executioner
+tt0066496,Tödlicher Irrtum
+tt0066612,Compañeros
+tt0066729,He Was Called the Holy Ghost
+tt0066745,"Adiós, Sabata"
+tt0066764,Anche per Django le carogne hanno un prezzo
+tt0066809,Il lungo giorno della violenza
+tt0066831,Big Jake
+tt0066834,Black Beauty
+tt0066835,Black Killer
+tt0066844,Blindman
+tt0066865,Brothers Blue
+tt0066868,And the Crows Will Dig Your Grave
+tt0066900,Catlow
+tt0066907,Chato's Land
+tt0066928,Trinity Sees Red
+tt0066930,Four Candles for Garringo
+tt0066939,Cut-Throats Nine
+tt0066984,The Devil's Backbone
+tt0067003,'Doc'
+tt0067011,Adios Compañeros
+tt0067034,Prey of Vultures
+tt0067057,"His Name Was Sam Walbash, But They Call Him Amen"
+tt0067135,Day of Judgment
+tt0067140,"Duck, You Sucker!"
+tt0067142,They Call Him Cemetery
+tt0067168,A Gunfight
+tt0067204,The Hired Hand
+tt0067224,The Hunting Party
+tt0067246,Indio
+tt0067258,J W Coop
+tt0067325,Ein langer Ritt nach Eden
+tt0067333,Lawman
+tt0067354,His Name Was King
+tt0067355,They Call Me Trinity
+tt0067388,Man in the Wilderness
+tt0067411,McCabe & Mrs. Miller
+tt0067452,More Dollars for the MacGregors
+tt0067462,The Boldest Job in the West
+tt0067531,One More Train to Rob
+tt0067600,Pistol Packin' Preacher
+tt0067637,The Legend of Frenchie King
+tt0067643,One Damned Day at Dawn... Django Meets Sartana!
+tt0067672,Return of Sabata
+tt0067676,Brother Outlaw
+tt0067750,Shoot Out
+tt0067763,Skin Game
+tt0067769,Dead Men Ride
+tt0067770,Red Sun
+tt0067780,South of Hell Mountain
+tt0067806,His Name Was Pot... But They Called Him Allegria
+tt0067809,Support Your Local Gunfighter
+tt0067866,El Topo
+tt0067870,A Town Called Hell
+tt0067903,A Girl Is a Gun
+tt0067912,Apocalypse Joe
+tt0067921,Valdez Is Coming
+tt0067931,Vengeance Is a Dish Served Cold
+tt0067936,Vente a ligar al Oeste
+tt0067979,Whity
+tt0067989,Wild Rovers
+tt0068154,Trinity Is Still My Name
+tt0068184,Beyond the Frontiers of Hate
+tt0068194,Judge Roy Bean
+tt0068203,Ben and Charlie
+tt0068222,Stay Away from Trinity... When He Comes to Eldorado
+tt0068234,Watch Out Gringo! Sabata Will Return
+tt0068242,Red Hot Zorro
+tt0068245,Bad Company
+tt0068246,Bad Man's River
+tt0068250,God in Heaven... Arizona on Earth
+tt0068293,Bloody Trail
+tt0068323,Buck and the Preacher
+tt0068344,"Holy God, Here Comes the Passatore!"
+tt0068358,Charley-One-Eye
+tt0068393,Colt in the Hand of the Devil
+tt0068418,Therefore It Is
+tt0068421,The Cowboys
+tt0068423,Too Much Gold for One Gringo
+tt0068434,You Are a Traitor and I'll Kill You!
+tt0068435,The Culpepper Cattle Co.
+tt0068454,Deaf Smith & Johnny Ears
+tt0068487,Dirty Little Billy
+tt0068514,Two Sons of Trinity
+tt0068515,Two Brothers in Trinity
+tt0068524,Man of the East
+tt0068539,It Can Be Done Amigo
+tt0068540,Enter the Devil
+tt0068563,Fabulous Trinity
+tt0068657,The Grand Duel
+tt0068659,Greaser's Palace
+tt0068661,The Great Northfield Minnesota Raid
+tt0068675,Hannie Caulder
+tt0068699,High Plains Drifter
+tt0068723,Alleluja & Sartana Are Sons... Sons of God
+tt0068762,Jeremiah Johnson
+tt0068768,Joe Kidd
+tt0068773,Jory
+tt0068786,Junior Bonner
+tt0068789,Justin Morgan Had a Horse
+tt0068838,The Legend of Nigger Charley
+tt0068845,Now They Call Him Sacramento
+tt0068870,The Man Called Noon
+tt0068885,Deadly Trackers
+tt0068897,The Magnificent Seven Ride!
+tt0068953,Ten Killers from Afar
+tt0068954,Shanghai Joe
+tt0068962,Molly and Lawless John
+tt0068979,Creeping Death
+tt0069009,Fat Brothers of Trinity
+tt0069035,The New Land
+tt0069103,Pocket Money
+tt0069159,"A Reason to Live, a Reason to Die"
+tt0069167,"The Red, White, and Black"
+tt0069179,The Revengers
+tt0069184,A Noose Is Waiting for You Trinity
+tt0069197,The Call of the Wild
+tt0069199,"Run, Cougar, Run"
+tt0069205,Saddle Tramp Women
+tt0069221,Santo vs. the Riders of Terror
+tt0069232,Der Schrei der schwarzen Wölfe
+tt0069304,Spirito Santo e le 5 magnifiche canaglie
+tt0069352,Sting of the West
+tt0069353,Tecumseh
+tt0069366,Guns for Dollars
+tt0069403,Trap on Cougar Mountain
+tt0069409,Trinity and Sartana Are Coming
+tt0069425,The Three Musketeers of the West
+tt0069436,Ulzana's Raid
+tt0069468,"Life Is Tough, Eh Providence?"
+tt0069479,Viva! Django
+tt0069493,Return of Halleluja
+tt0069496,When the Legends Die
+tt0069515,The Wrath of God
+tt0069523,Here's Django... Pay or Die!
+tt0069536,White Fang
+tt0069547,What Am I Doing in the Middle of a Revolution?
+tt0069688,Alien Thunder
+tt0069725,Apachen
+tt0069786,Billy Two Hats
+tt0069809,Die blutigen Geier von Alaska
+tt0069825,The Brothers O'Toole
+tt0069826,"Here We Go Again, Eh Providence?"
+tt0069834,Cahill U.S. Marshal
+tt0069844,Carambola
+tt0069876,La choca
+tt0069923,Cotter
+tt0069943,Dust in the Sun
+tt0069951,The Deadly Trackers
+tt0069962,Let's Go and Kill Sartana
+tt0070053,Far West
+tt0070060,The Son of Zorro
+tt0070091,The Gatling Gun
+tt0070119,Godmonster of Indian Flats
+tt0070142,Guns of a Stranger
+tt0070174,Hex
+tt0070215,My Name Is Nobody
+tt0070267,Kid Blue
+tt0070268,Bad Kids of the West
+tt0070363,The Man Who Loved Cat Dancing
+tt0070369,Fasthand
+tt0070472,Oklahoma Crude
+tt0070478,...E il terzo giorno arrivò il corvo
+tt0070481,One Little Indian
+tt0070493,Osceola
+tt0070518,Pat Garrett & Billy the Kid
+tt0070569,The Proud and Damned
+tt0070584,Quel maledetto giorno della resa dei conti
+tt0070616,Running Wild
+tt0070630,Santee
+tt0070642,"Peg Leg, Musket & Sabre"
+tt0070687,Showdown
+tt0070721,The Soul of Nigger Charley
+tt0070781,Kill Django... Kill First
+tt0070837,"Chetan, Indian Boy"
+tt0070872,Yankee Dudler
+tt0071104,The Adventures of Frontier Fremont
+tt0071230,Blazing Saddles
+tt0071231,Blazing Stewardesses
+tt0071277,Carambola's Philosophy: In the Right Pocket
+tt0071288,The Castaway Cowboy
+tt0071417,"Di Tresette ce n'è uno, tutti gli altri son nessuno"
+tt0071558,Red Coat
+tt0071745,The Legend of Earl Durand
+tt0071766,They Called Him the Player with the Dead
+tt0071784,El karate el Colt y el impostor
+tt0071883,The Masked Thief
+tt0071976,Rebellion in Patagonia
+tt0072031,Trinity Plus the Clown and a Guitar
+tt0072084,Return of Shanghai Joe
+tt0072085,Challenge to White Fang
+tt0072155,Fuzzy the Hero
+tt0072198,The Spikes Gang
+tt0072305,Don't Touch the White Woman!
+tt0072327,"My Horse, My Gun, Your Widow"
+tt0072336,Ulzana
+tt0072435,Zandy's Bride
+tt0072436,Zanna Bianca alla riscossa
+tt0072604,Adiós Amigo
+tt0072615,Against a Crooked Sky
+tt0072651,Apache Blood
+tt0072653,The Apple Dumpling Gang
+tt0072699,"The White, the Yellow, and the Black"
+tt0072705,Bite the Bullet
+tt0072717,Blutsbrüder
+tt0072725,Boss Nigger
+tt0072735,Breakheart Pass
+tt0072754,Cacique Bandeira
+tt0072785,"Cry, Onion"
+tt0073003,Più forte sorelle
+tt0073036,"A Genius, Two Partners and a Dupe"
+tt0073059,Gone with the West
+tt0073069,The Great Adventure
+tt0073096,Hearts of the West
+tt0073140,I död mans spår
+tt0073202,Jessi's Girls
+tt0073328,Mackintosh and T.J.
+tt0073357,The Master Gunfighter
+tt0073416,Mule Feathers
+tt0073463,We Are No Angels
+tt0073519,Blood River
+tt0073559,Posse
+tt0073594,The Four of the Apocalypse...
+tt0073605,Rancho Deluxe
+tt0073636,Rooster Cogburn
+tt0073686,Seven Alone
+tt0073708,If You Shoot... You Live!
+tt0073784,Take a Hard Ride
+tt0073785,Das Tal der tanzenden Witwen
+tt0073942,La pazienza ha un limite... noi no!
+tt0074101,Who's Afraid of Zorro
+tt0074176,Baker's Hawk
+tt0074254,"Buffalo Bill and the Indians, or Sitting Bull's History Lesson"
+tt0074441,The Duchess and the Dirtwater Fox
+tt0074516,Fantasma en el Oeste
+tt0074553,From Noon Till Three
+tt0074575,God's Gun
+tt0074588,The Great Scout & Cathouse Thursday
+tt0074614,Hawmps!
+tt0074719,Joshua
+tt0074740,Keoma
+tt0074776,The Last Hard Men
+tt0074797,The Life and Times of Grizzly Adams
+tt0074906,The Missouri Breaks
+tt0074940,Mustang Country
+tt0075029,The Outlaw Josey Wales
+tt0075087,Pony Express Rider
+tt0075132,The Return of a Man Called Horse
+tt0075180,The Secret of Navajo Cave
+tt0075213,The Shootist
+tt0075305,The Wind Blows Under Your Feet
+tt0075347,Treasure of Matecumbe
+tt0075431,The Winds of Autumn
+tt0075432,Winterhawk
+tt0075461,Montana Trap
+tt0075629,Across the Great Divide
+tt0075796,California
+tt0075804,Cananea
+tt0076057,The Frozen Star
+tt0076261,Vengeance
+tt0076304,The Legend of Frank Woods
+tt0076379,"Meanwhile, Back at the Ranch"
+tt0076415,Guardian of the Wilderness
+tt0076601,Raw Deal
+tt0076842,Trini
+tt0076915,The White Buffalo
+tt0076917,Whitewater Sam
+tt0076932,Armed and Dangerous: Time and Heroes of Bret Harte
+tt0076951,Zanna Bianca e il grande Kid
+tt0077327,"China 9, Liberty 37"
+tt0077360,Comes a Horseman
+tt0077621,Goin' South
+tt0077698,Hot Lead and Cold Feet
+tt0078060,Halleluja to Vera Cruz
+tt0078119,"The Prophet, the Gold and the Transylvanians"
+tt0078224,Silver Saddle
+tt0078237,Severino
+tt0078240,The Shadow of Chikara
+tt0078420,The Trumpeter
+tt0078790,The Apple Dumpling Gang Rides Again
+tt0078799,"Artista, dolarii si Ardelenii"
+tt0078823,Rosszemberek
+tt0078919,Butch and Sundance: The Early Days
+tt0079020,Que Viva Mexico
+tt0079094,Eagle's Wing
+tt0079532,Marie Ann
+tt0079567,Mission to Glory: A True Story
+tt0079908,7 cabalgan hacia la muerte
+tt0080065,Up River
+tt0080097,The Villain
+tt0080163,Young and Free
+tt0080173,Sun Dragon
+tt0080187,Élve vagy halva
+tt0080855,Heaven's Gate
+tt0081071,The Long Riders
+tt0081187,The Mountain Men
+tt0081696,Urban Cowboy
+tt0081760,Windwalker
+tt0082145,Cattle Annie and Little Britches
+tt0082193,Comin' at Ya!
+tt0082508,Heartland
+tt0082648,The Legend of the Lone Ranger
+tt0082667,"Lo blanco, lo rojo y lo negro"
+tt0082835,Buddy Goes West
+tt0083070,Shoot the Sun Down
+tt0083602,The Avenging
+tt0083619,Barbarosa
+tt0084052,Harry Tracy: The Last of the Wild Bunch
+tt0084222,Mexico in Flames
+tt0084223,Red Bells Part II: Ten Days That Shook the World
+tt0084511,Plainsong
+tt0084826,Triumphs of a Man Called Horse
+tt0085149,Al oeste de Río Grande
+tt0085515,Eyes of Fire
+tt0086227,Sacred Ground
+tt0086260,Der Scout
+tt0086455,A Real Man
+tt0086865,Al este del oeste
+tt0087667,Mala pljacka vlaka
+tt0088427,Yellow Hair and the Fortress of Gold
+tt0088747,Astucia
+tt0089241,The Gunfighter
+tt0089382,Joshilaay
+tt0089523,Lust in the Dust
+tt0089767,Pale Rider
+tt0089945,Rustlers' Rhapsody
+tt0090054,Space Rage
+tt0090641,Angel River
+tt0090652,White Apache
+tt0090760,Bolek i Lolek na Dzikim Zachodzie
+tt0091091,Millionaires' Express
+tt0091429,Les longs manteaux
+tt0091834,Red Headed Stranger
+tt0091897,Scalps
+tt0092086,Three Amigos!
+tt0092566,Un animale chiamato uomo
+tt0092708,Bullseye
+tt0093113,Django Strikes Again
+tt0093447,Luzia
+tt0094048,Straight to Hell Returns
+tt0094630,Alias Will James
+tt0094811,Buckeye and Blue
+tt0095215,Ghost Town
+tt0095993,Return to Snowy River
+tt0096263,Gunmen
+tt0096487,Young Guns
+tt0096951,Blood Red
+tt0097168,Deadly Reactor
+tt0097720,Border Shootout
+tt0098412,Sundown: The Vampire in Retreat
+tt0099092,Bad Jim
+tt0099134,Big Bad John
+tt0099300,Convicts
+tt0099315,Crazy Horse and Custer: The Untold Story
+tt0099348,Dances with Wolves
+tt0099704,Grim Prairie Tales
+tt0100774,Thousand Pieces of Gold
+tt0100994,Young Guns II
+tt0101515,Buck ai confini del cielo
+tt0101587,City Slickers
+tt0101592,Clearcut
+tt0101951,The Giant of Thunder Mountain
+tt0102351,Lucky Luke
+tt0102442,Mi querido Tom Mix
+tt0102493,My Heroes Have Always Been Cowboys
+tt0102914,Showdown at Williams Creek
+tt0104087,Desert Kickboxer
+tt0104701,The Legend of Wolf Mountain
+tt0104787,Mad at the Moon
+tt0105046,Of Mice and Men
+tt0105695,Unforgiven
+tt0105923,The Last Harvest
+tt0106350,The Ballad of Little Jo
+tt0107004,Geronimo: An American Legend
+tt0107773,Paper Hearts
+tt0107863,Posse
+tt0108035,Samurai Cowboy
+tt0108135,Silent Tongue
+tt0108317,Texas - Doc Snyder hält die Welt in Atem
+tt0108417,"Two Brothers, a Girl and a Gun"
+tt0108445,Uninvited
+tt0109321,Troublemakers
+tt0109439,City Slickers II: The Legend of Curly's Gold
+tt0109694,Dust to Dust
+tt0109835,Frank & Jesse
+tt0110207,Jonathan degli orsi
+tt0110353,Lightning Jack
+tt0111009,Rockwell
+tt0111451,Tokyo Cowboy
+tt0111492,Trigger Fast
+tt0111653,Wagons East
+tt0112407,Atolladero
+tt0112924,East Meets West
+tt0113259,Hard Bounty
+tt0113617,Last of the Dogmen
+tt0113630,Outlaws: The Legend of O.B. Taggart
+tt0113686,Lone Justice 2
+tt0114122,Pharaoh's Army
+tt0114283,Riders in the Storm
+tt0114345,The Scarlet Letter
+tt0114676,Timemaster
+tt0114727,Trinità & Bambino... e adesso tocca a noi!
+tt0114938,Wild Bill
+tt0115563,"Aquí llega Condemor, el pecador de la pradera"
+tt0116904,Lone Justice: Showdown at Plum Creek
+tt0116905,Lone Star
+tt0117373,Precious Find
+tt0119053,Almost Heroes
+tt0119314,The Horse Whisperer
+tt0119556,Los Locos
+tt0120121,The Shooter
+tt0120699,The Hi-Lo Country
+tt0121266,Fandango
+tt0122649,Panhandle 38
+tt0123843,Paths of War
+tt0124843,Tough Guys of the Prairie
+tt0128051,Arrapaho
+tt0128239,Grey Owl
+tt0129332,Ravenous
+tt0130314,A Time to Revenge
+tt0130368,Wild Man
+tt0130524,Buck and the Magic Bracelet
+tt0130928,Painted Angels
+tt0131078,The True Story of Eskimo Nell
+tt0131396,A Fistful of Fingers
+tt0134959,Charity and the Strange Smell of Money
+tt0135707,Wind River
+tt0136478,"Pruncul, petrolul si Ardelenii"
+tt0136997,Hirttämättömät
+tt0138830,Speedy Gonzales - noin 7 veljeksen poika
+tt0144289,Wild Horses
+tt0148385,Korkusuz Kaptan Swing
+tt0148508,Il mio West
+tt0149624,All the Pretty Horses
+tt0150011,"C'era una volta questo pazzo, pazzo, pazzo West"
+tt0153342,Where the Bullets Fly
+tt0155732,Gunfighter
+tt0157361,"Bastard, Go and Kill"
+tt0158513,Bounty Hunter in Trinity
+tt0159732,"Shame, Shame on the Bixby Boys"
+tt0164749,"Manoa, the City of Gold"
+tt0166014,The Return of El Coyote
+tt0166137,God Is My Colt .45
+tt0166798,Thunder Over El Paso
+tt0167327,The Outsider
+tt0169846,Macho Killers
+tt0171726,The Seventh Bullet
+tt0177185,The Rowdy Girls
+tt0179329,Mallory Must Not Die!
+tt0179473,"South of Heaven, West of Hell"
+tt0181612,"Shoot Joe, and Shoot Again"
+tt0182293,Death Played the Flute
+tt0182294,They Called Him Veritas
+tt0182476,The Sweet Creek County War
+tt0182738,Asilacak Adam
+tt0183469,Magnificent West
+tt0183485,They Still Call Me Amen
+tt0183639,The Pavilion
+tt0184321,Caingangue
+tt0186202,Cowboy Up
+tt0187483,Santos Vega
+tt0189159,El tres de copas
+tt0190229,Alien Outlaw
+tt0194516,Wang ming tu
+tt0194950,Horses and Champions
+tt0195567,Buffalo Heart
+tt0196865,Posse from Heaven
+tt0196886,Four Gunmen of the Holy Trinity
+tt0197715,My Name Is Legend
+tt0198282,Starbird and Sweet William
+tt0198346,Buffalo Rider
+tt0198460,Escape to Grizzly Mountain
+tt0200448,O Astrapogiannos
+tt0202080,Vsadnik bez golovy
+tt0202571,Sheriff of Rock Springs
+tt0202800,Atkins
+tt0203105,Death Is Sweet from the Soldier of God
+tt0204218,Corte marziale
+tt0207499,Grizzly Adams and the Legend of Dark Mountain
+tt0210076,Wanted Ringo
+tt0210466,The Last Traitor
+tt0211042,Tiger from River Kwai
+tt0212132,The Tracker
+tt0212890,Convoy of Women
+tt0213652,The Girls of the Golden Saloon
+tt0214261,A Gunman Called Dakota
+tt0216399,Wanted Sabata
+tt0216546,Django and Sartana Are Coming... It's the End
+tt0217300,Cabalgando con la muerte
+tt0218041,Benjamín Argumedo el rebelde
+tt0218246,A Fistful of Rawhide
+tt0218378,The Claim
+tt0219651,The Two Brothers
+tt0221916,Doc Hooker's Bunch
+tt0222108,The Kid and the Killers
+tt0225865,Glory Glory
+tt0226279,Pancho Tequila
+tt0227140,Nobody's Girls: Five Women of the West
+tt0227236,El payo - un hombre contra el mundo!
+tt0228196,Death Collector
+tt0228453,Jesuit Joe
+tt0235048,Wicked Spring
+tt0235424,Ghost Riders
+tt0236266,O Grande Xerife
+tt0240414,Chumbo Quente
+tt0242913,Su precio... unos dólares
+tt0243041,Yo soy el asesino
+tt0243232,Dust
+tt0243737,At Full Gallop
+tt0243780,Bang bang al hoyo
+tt0243820,Charrito
+tt0244000,American Outlaws
+tt0246007,Kodama Simham
+tt0247133,The Meeksville Ghost
+tt0247165,Anything for a Friend
+tt0247679,Sadiyata
+tt0248408,Manitou's Shoe
+tt0248832,The Great Indian Wars 1840-1890
+tt0249875,Pistole
+tt0251412,Stageghost
+tt0258191,Song of the Loon
+tt0259972,D'Gajão Mata para Vingar
+tt0260904,A filha do padre
+tt0260939,"Gringo, o Matador Erótico"
+tt0262328,The Ticklers
+tt0265612,Rain for a Dusty Summer
+tt0266394,Çeko
+tt0267455,Durango Kids
+tt0269408,The Journeyman
+tt0269460,The Little Cowboy
+tt0271653,La mula de Cullen Baker
+tt0272566,Cuchillo
+tt0272858,Soy chicano y mexicano
+tt0273247,The Great Gundown
+tt0274189,Vampire Junction
+tt0274661,Mi Amigo
+tt0274824,Seven Nuns in Kansas City
+tt0276830,Renegade
+tt0279060,"Hey, Amigo... Rest in Peace!"
+tt0279262,Silah ve Namus
+tt0279519,Yedi belalilar
+tt0281217,Sourdough
+tt0282220,True Legends of the West
+tt0283452,The Long Ride Home
+tt0283481,"Mi caballo, el cantador"
+tt0283577,Sabor a sangre
+tt0283605,Soy el hijo del gallero
+tt0284553,Los temibles
+tt0285242,Jericho
+tt0287319,Atini seven kovboy
+tt0290330,"Volver, volver, volver"
+tt0291004,Farewell Homeland
+tt0295018,The Wackiest Wagon Train in the West
+tt0295306,Hey amigo 5 mezar
+tt0296671,O Homem do Corpo Fechado
+tt0298516,Reckoning
+tt0299641,The Captive: The Longest Drive 2
+tt0301184,The Ghosts of Edendale
+tt0301943,Touche pas à mon copain
+tt0306903,Il giustiziere di Dio
+tt0310827,El buscabullas
+tt0310875,Chico Ramos
+tt0311333,Los indomables
+tt0311958,Uno para la horca
+tt0312062,Zacazonapan
+tt0312613,Los desalmados
+tt0313588,Seytan tirnagi
+tt0314360,The Marshal of Windy Hollow
+tt0314793,Todo el horizonte para morir
+tt0315349,El Cain del bajio
+tt0317445,Eukaliptus
+tt0319852,Merupudadi
+tt0320785,Zagor vs. The Dark Manace
+tt0321337,El ausente
+tt0321594,Capulina 'Speedy' González: 'El Rápido'
+tt0322580,Un hombre llamado el diablo
+tt0324176,Te solte la rienda
+tt0324301,Traiganlos vivos o muertos
+tt0324618,La yegua colorada
+tt0325575,El hombre desnudo
+tt0326797,Carne de horca
+tt0329372,Mercenaries of Death
+tt0330187,Cutting Horse
+tt0331327,The Return of Josey Wales
+tt0332385,Six Bounty Killers for a Massacre
+tt0334983,El cara parchada
+tt0336049,Bir çuval para
+tt0337626,Ghost Rock
+tt0337972,Defiance
+tt0338188,The Missing
+tt0338280,Ned
+tt0338727,Aquel famoso Remington
+tt0339091,Gang of Roses
+tt0339436,Nate and the Colonel
+tt0340062,El gatillo de la muerte
+tt0358070,La rebelión de los colgados
+tt0359358,Guardians of the Clouds
+tt0360007,White Fang and the Gold Diggers
+tt0363672,Her kursuna bir ölü
+tt0366523,"Go West, Young Man!"
+tt0367165,El tren de la muerte
+tt0368139,The Phantom Gunslinger
+tt0368668,Lucky Luke and the Daltons
+tt0369927,Showdown at Devil's Butte
+tt0372280,La fichera mas rapida del oeste
+tt0377749,Dead Birds
+tt0378247,La leyenda del Manco
+tt0378735,Seven Devils on Horseback
+tt0382270,Rogo a Deus e Mando Bala
+tt0382910,Planetfall
+tt0383473,Lonestar Cowboy
+tt0384897,Cuore scatenato
+tt0385683,Pistoleros
+tt0388167,Kanun adami
+tt0388507,Vahsetin esirleri
+tt0388564,Ölmek var dönmek yok
+tt0388565,Ölüm fermani
+tt0388756,Beartooth
+tt0391898,Dadaloglu'nun intikami
+tt0392706,Red Kit
+tt0392933,Zagor
+tt0392934,Zagor kara korsan'in hazineleri
+tt0395584,The Devil's Rejects
+tt0395795,Truce
+tt0404082,The Grizzly & the Treasure
+tt0406733,El segundo
+tt0407214,La sombra del sahuaro
+tt0410814,Turquoise
+tt0421238,The Proposition
+tt0428925,L'ostaggio
+tt0439314,Three Bad Men
+tt0439504,Brothers in Arms
+tt0439874,Wesley Cash
+tt0445939,The Burrowers
+tt0445963,Fairplay
+tt0450329,The Tailor
+tt0457530,The Work and the Glory II: American Zion
+tt0460611,The Work and the Glory III: A House Divided
+tt0460729,Buckaroo: The Movie
+tt0463984,The Far Side of Jericho
+tt0468538,Ride or Die
+tt0473043,Hell to Pay
+tt0473191,The Devil Wears Spurs
+tt0477860,Sevimli haydut
+tt0482497,Dual
+tt0485956,Outlaw Trail: The Treasure of Butch Cassidy
+tt0486020,Summer Love
+tt0486029,Three Priests
+tt0490851,The Coldest Winter
+tt0490878,The Decoy
+tt0492050,Hombre mirando al oeste
+tt0492890,The Wild Stallion
+tt0493287,"Pizza, Pesos, and Pistoleros"
+tt0493306,Stanley's Dinosaur Round-Up
+tt0495747,The Quick and the Undead
+tt0785025,Love's Abiding Joy
+tt0791488,Saddle Up with Dick Wrangler & Injun Joe
+tt0795505,Undead or Alive: A Zombedy
+tt0798798,Venice Knights
+tt0804541,Shiloh Falls
+tt0811091,Sugar Creek
+tt0818226,Shoot First and Pray You Live (Because Luck Has Nothing to Do with It)
+tt0830593,Mexican Gold
+tt0831277,Blood Loss
+tt0840789,Río de oro
+tt0843840,The Bride Wore Blood
+tt0849441,Ghost Town: the Movie
+tt0853146,Requiem for Billy the Kid
+tt0865868,Big City
+tt0870196,Quell and Co.
+tt0903131,All Hat
+tt0906665,Sukiyaki Western Django
+tt0918645,Left for Dead
+tt0985049,Bounty
+tt0986271,Further North
+tt0996928,The Dead Sleep Easy
+tt1013651,The Man Who Came Back
+tt1032751,The Warrior's Way
+tt1043696,One-Eyed Horse
+tt1053918,Shadowheart
+tt1073221,The Legend of God's Gun
+tt1078917,The Only Good Indian
+tt10951700,The Wild West
+tt1127178,D'Wild Wild Weng
+tt1137999,Blood River
+tt1152835,Palo Pinto Gold
+tt1152843,Roswell 1847
+tt1188484,Six Gun
+tt1196595,Broken Fences
+tt1202044,Six Reasons Why
+tt1204898,Fistful of Brains
+tt1223141,The Notorious Colonel Steel
+tt1231289,Mad Mad Wagon Party
+tt1235536,Lucky Luke
+tt1236413,The Paradise Trail
+tt1243972,Samurai Avenger: The Blind Wolf
+tt1252482,Escape from Darwin
+tt1301309,A Foundling
+tt1310362,Bada alla tua pelle Spirito Santo!
+tt1316420,Little Bear and the Master
+tt1334026,O Menino da Porteira
+tt1339123,Meaner Than Hell
+tt13434134,Cine Censura: Um Pistoleiro Chamado Papaco
+tt1344659,Shadows of the Past
+tt1349486,A Vampire's Tale
+tt1349629,The Loneliest Road in America
+tt1358997,The Mustachioed Bandit Meets His End
+tt1380784,Big Money Rustlas
+tt1388390,The Best Bar in America
+tt1388402,Bad Day to Go Fishing
+tt1403865,True Grit
+tt1404677,The Gunslingers
+tt1478856,The Righteous and the Wicked
+tt1484114,Reel Injun
+tt1487257,Hungry Hills
+tt1493183,Sitting Bull: A Stone in My Heart
+tt1498567,Hell's Fury: Wanted Dead or Alive
+tt1511469,The Bastard Men of Root Flats
+tt1517252,Sweetgrass
+tt1530983,Red Hill
+tt1532296,Wild Horses and Renegades
+tt1578709,Snowblind
+tt1584747,The Magnificent Dead
+tt1586712,Brocket 99: Rockin' the Country
+tt1612069,The Academy
+tt1660345,Dragon Blood
+tt1717561,A River of Skulls
+tt1745816,Silent Anna
+tt1753916,Hoodoo Voodoo
+tt1764707,They Call Me Lucky
+tt1773677,Sheriff of Contention
+tt1929278,Welcome to Shamatown
+tt2034665,Dingetjie Is Dynamite! (My Naam Is Nog Steeds Dingetjie)
+tt2035574,My Naam is Dingetjie
+tt2159768,Vur
+tt22336544,A Fistful of Dynamite
+tt2507106,The Reaping Men
+tt3551840,The Ballad of Gregorio Cortez
+tt4386364,Umbango
+tt6568614,Kaalam Vellum
+tt7145978,The Gunslinger
+tt7148758,Covenant Rider
+tt8665056,Guns Along The Bravo
+tt9209886,Real Zombi Revolver
