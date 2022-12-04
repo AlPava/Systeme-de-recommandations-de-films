@@ -1,4 +1,4 @@
-# :movie_camera: Systeme-de-recommandations-de-fims
+# :movie_camera: Systeme de recommandations de films
 *Projet étudiant - tableau de bord et machine learning avec Python*
 
 ## :beginner: Sujet
@@ -14,7 +14,7 @@ Le client nous a donné une base de données de films basée sur la plateforme I
 Le département de la Creuse a la moyenne d'âge la plus élevée de la région.  
 Notre application propose ainsi des films adaptés à cette population : films des années 1970 à 2010.
 
-![Picture1](Pictures/) **< photo page d'accueil streamlit**
+![Photo1](https://github.com/AlPava/Systeme-de-recommandations-de-films/blob/b05f0506deb5b4732c70d4904c52e062395a5b8f/Photos/Page%20d'Accueil.png)
 
 ### :bar_chart: Page 'Admin'
 
@@ -31,15 +31,15 @@ Puis l'utilisateur choisit un film de liste : il obtient 5 recommandations de fi
 
 (Private joke :trollface:)
 
-Ses habitants ne possèdent pas systématiquement l'accès aux technologies et à internet.  
+Les creusois ne possèdent pas systématiquement l'accès aux technologies et à internet.  
 Ainsi, cette page leur propose aléatoirement 5 titres de films pour adultes diffusés par le Ciné'Creuse.  
 La page est protégée par un mot de passe stocké dans .streamlit/secrets.toml
 
-## :wrench: Tools
+## :wrench: Outils
 
-![Picture1](Pictures/WorkflowDiagram.png) **< créer un dossier Pictures, y glisser le png du workflow diagram**
+![Photo2](https://github.com/AlPava/Systeme-de-recommandations-de-films/blob/b05f0506deb5b4732c70d4904c52e062395a5b8f/Photos/Sche%CC%81ma%20de%20principe.png)
 
-## :handshake: Team
+## :handshake: Equipe
 
 <a href="https://github.com/HeEmilie" target="_blank" rel="noopener noreferrer"><img src="https://crd.so/i/HeEmilie?dark&removeLink" alt="HeEmilie’s GitHub image" width="400" height="208.5" />
 <a href="https://github.com/AlPava" target="_blank" rel="noopener noreferrer"><img src="https://crd.so/i/AlPava?dark&removeLink" alt="AlPava’s GitHub image" width="400" height="208.5" />
@@ -48,8 +48,11 @@ La page est protégée par un mot de passe stocké dans .streamlit/secrets.toml
 
 ## :clapper: Démonstration
 
-![VideoDemo](Pictures/Dashboard_head_page.png) **< ajouter une vidéo de demo !**
+![VideoDemo](https://github.com/AlPava/Systeme-de-recommandations-de-films/blob/b05f0506deb5b4732c70d4904c52e062395a5b8f/Vide%CC%81o%20De%CC%81monstration/demo-streamlit.mp4)
 
 ## :rocket: Perspectives
 
-
+1. Mettre les genres & titres de films en Français
+2. Ajouter les affiches de films (web-scrapping)
+3. Sauvegarder les entrées utilisateurs (bouton :+1:) et créer un système de sessions
+4. Créer un indice de confiance pour la recommandation
