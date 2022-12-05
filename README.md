@@ -48,7 +48,9 @@ La page est protégée par un mot de passe stocké dans .streamlit/secrets.toml
 
 ## :clapper: Démonstration
 
-![VideoDemo](https://github.com/AlPava/Systeme-de-recommandations-de-films/blob/b05f0506deb5b4732c70d4904c52e062395a5b8f/Vide%CC%81o%20De%CC%81monstration/demo-streamlit.mp4)
+Asseyez-vous confortablement et cliquez sur l'image :
+
+[<img src="https://wallpaperaccess.com/full/1773889.jpg" width="50%">](https://youtu.be/BRiID0rdESU)
 
 ## :rocket: Perspectives
 
